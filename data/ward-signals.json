@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-05-11T08:38:31.982478+00:00",
+    "version": 1,
+    "schema": "ward-signals-v1",
+    "sources": [
+      "fixmystreet",
+      "reddit",
+      "inside-croydon"
+    ],
+    "time_window_days": 30,
+    "ward_count": 28,
+    "note": "PLACEHOLDER FILE. This will be replaced by the GitHub Actions scheduled fetcher (every 6 hours)."
+  },
+  "wards": {
+    "Addiscombe East": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Addiscombe West": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Bensham Manor": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Broad Green": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Coulsdon Town": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Crystal Palace and Upper Norwood": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Fairfield": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Kenley": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "New Addington North": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "New Addington South": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Norbury Park": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Norbury and Pollards Hill": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Old Coulsdon": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Park Hill and Whitgift": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Purley Oaks and Riddlesdown": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Purley and Woodcote": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Sanderstead": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Selhurst": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Selsdon Vale and Forestdale": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Selsdon and Addington Village": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Shirley North": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Shirley South": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "South Croydon": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "South Norwood": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Thornton Heath": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Waddon": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "West Thornton": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    },
+    "Woodside": {
+      "fixmystreet": [],
+      "reddit": [],
+      "news": []
+    }
+  }
+}
