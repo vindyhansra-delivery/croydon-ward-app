@@ -1,0 +1,57 @@
+name: Refresh ward signals
+
+# Runs the public signals fetcher and commits the refreshed JSON
+# back to the repo so GitHub Pages serves the updated data.
+#
+# Cron schedule: every 6 hours.
+# Manual trigger: available via the "Run workflow" button on the
+# Actions tab of the GitHub repo.
+
+on:
+  schedule:
+    # Minute 0, every 6 hours, every day. Times in UTC.
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+# Allow the workflow to commit its results back to the main branch.
+permissions:
+  contents: write
+
+# Avoid two parallel runs; if a new run starts, cancel any in-progress one.
+concurrency:
+  group: refresh-signals
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests feedparser
+
+      - name: Run signals fetcher
+        run: python scripts/fetch_signals.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ward-signals.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Refresh ward signals [skip ci]"
+            git push
+          fi
