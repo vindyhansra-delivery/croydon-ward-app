@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-11T08:38:31.982478+00:00",
+    "generated_at": "2026-05-11T09:12:27.098382+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -10,148 +10,1320 @@
     ],
     "time_window_days": 30,
     "ward_count": 28,
-    "note": "PLACEHOLDER FILE. This will be replaced by the GitHub Actions scheduled fetcher (every 6 hours)."
+    "note": "Public signals from public sources. Metadata only — no body content. Nextdoor and private Facebook groups are not accessible. Officers should triage sensitive content before action."
   },
   "wards": {
     "Addiscombe East": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Broken raised kerbstone, 11th May",
+          "url": "https://www.fixmystreet.com/report/9432132",
+          "date": "2026-05-11T08:16:02+00:00",
+          "category": null
+        },
+        {
+          "title": "Traffic Lights Timing Issue, 11th May",
+          "url": "https://www.fixmystreet.com/report/9432059",
+          "date": "2026-05-11T08:05:29+00:00",
+          "category": null
+        },
+        {
+          "title": "There's an old mattress under the Railway Pk bridge that needs taking away., 10th May",
+          "url": "https://www.fixmystreet.com/report/9429494",
+          "date": "2026-05-10T13:55:00+00:00",
+          "category": null
+        },
+        {
+          "title": "Abandoned vehicle, 25th April",
+          "url": "https://www.fixmystreet.com/report/9352824",
+          "date": "2026-04-25T12:59:17+00:00",
+          "category": null
+        },
+        {
+          "title": "Zebra crossing markings worn, cannot see in bright light or rain, 22nd April",
+          "url": "https://www.fixmystreet.com/report/9334861",
+          "date": "2026-04-22T09:45:53+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Addiscombe West": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Dangerous parking, 1st May",
+          "url": "https://www.fixmystreet.com/report/9383296",
+          "date": "2026-05-01T07:51:37+00:00",
+          "category": null
+        },
+        {
+          "title": "Car parked inappropriately, 12th April",
+          "url": "https://www.fixmystreet.com/report/9280313",
+          "date": "2026-04-12T16:40:24+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Blues at The Oval Tavern, May and June, free entry, 6pm start",
+          "url": "https://insidecroydon.com/2026/05/09/blues-at-the-oval-tavern-may-and-june-free-entry-6pm-start-3/",
+          "date": "2026-05-09T07:46:51+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "King Size Slim at The Oval Tavern, Sun May 10, 6pm, free entry",
+          "url": "https://insidecroydon.com/2026/05/07/king-size-slim-at-the-oval-tavern-sun-may-10-6pm-free-entry/",
+          "date": "2026-05-07T08:01:21+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Blues at The Oval Tavern, May and June, free entry, 6pm start",
+          "url": "https://insidecroydon.com/2026/05/02/blues-at-the-oval-tavern-may-and-june-free-entry-6pm-start-2/",
+          "date": "2026-05-02T09:44:59+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Bensham Manor": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Branch in road, 22nd April",
+          "url": "https://www.fixmystreet.com/report/9335568",
+          "date": "2026-04-22T11:10:25+00:00",
+          "category": null
+        },
+        {
+          "title": "Flytipping, 21st April",
+          "url": "https://www.fixmystreet.com/report/9330728",
+          "date": "2026-04-21T13:42:22+00:00",
+          "category": null
+        },
+        {
+          "title": "Abandoned motorbike in Thornton Heath Recreation ground, 16th April",
+          "url": "https://www.fixmystreet.com/report/9302457",
+          "date": "2026-04-16T08:50:34+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Keir Starmer’s niece is council election candidate in safe ward",
+          "url": "https://insidecroydon.com/2026/04/30/keir-starmers-niece-is-council-election-candidate-in-safe-ward/",
+          "date": "2026-04-30T17:21:55+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Broad Green": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Hedges, 25th April",
+          "url": "https://www.fixmystreet.com/report/9353901",
+          "date": "2026-04-25T18:50:24+00:00",
+          "category": null
+        },
+        {
+          "title": "Flytipping, 14th April",
+          "url": "https://www.fixmystreet.com/report/9291703",
+          "date": "2026-04-14T12:11:29+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Coulsdon Town": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Loose Road Surface, 2nd May",
+          "url": "https://www.fixmystreet.com/report/9390504",
+          "date": "2026-05-02T18:30:03+00:00",
+          "category": null
+        },
+        {
+          "title": "Flags attached on street lighting, 30th April",
+          "url": "https://www.fixmystreet.com/report/9382044",
+          "date": "2026-04-30T20:40:22+00:00",
+          "category": null
+        },
+        {
+          "title": "Multiple large vans parking at road entrance, 23rd April",
+          "url": "https://www.fixmystreet.com/report/9339965",
+          "date": "2026-04-23T06:52:26+00:00",
+          "category": null
+        },
+        {
+          "title": "Parking over dropped kerb, 23rd April",
+          "url": "https://www.fixmystreet.com/report/9339949",
+          "date": "2026-04-23T06:47:52+00:00",
+          "category": null
+        },
+        {
+          "title": "Traffic cannot get through cars parked on both sides of the road, 21st April",
+          "url": "https://www.fixmystreet.com/report/9327711",
+          "date": "2026-04-21T08:01:31+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Crystal Palace and Upper Norwood": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Crossroads: Uneven rutted surface Pothole outside church entrance, 10th May",
+          "url": "https://www.fixmystreet.com/report/9430135",
+          "date": "2026-05-10T16:26:12+00:00",
+          "category": null
+        },
+        {
+          "title": "Loose gravel from the rutted road Particularly opposite the church, 10th May",
+          "url": "https://www.fixmystreet.com/report/9430119",
+          "date": "2026-05-10T16:19:08+00:00",
+          "category": null
+        },
+        {
+          "title": "Taking a valuable parking space, 5th May",
+          "url": "https://www.fixmystreet.com/report/9403163",
+          "date": "2026-05-05T14:12:05+00:00",
+          "category": null
+        },
+        {
+          "title": "Unlawful parking, 4th May",
+          "url": "https://www.fixmystreet.com/report/9397221",
+          "date": "2026-05-04T16:05:33+00:00",
+          "category": null
+        },
+        {
+          "title": "Missing rubbish bin, 21st April",
+          "url": "https://www.fixmystreet.com/report/9329424",
+          "date": "2026-04-21T10:54:25+00:00",
+          "category": null
+        },
+        {
+          "title": "Fly tipping, 13th April",
+          "url": "https://www.fixmystreet.com/report/9287703",
+          "date": "2026-04-13T18:50:39+00:00",
+          "category": null
+        },
+        {
+          "title": "Outside 34 Maberley Road, pavement around manhole cover sunk, posing trip hazzard, 13th April",
+          "url": "https://www.fixmystreet.com/report/9284245",
+          "date": "2026-04-13T10:52:03+00:00",
+          "category": null
+        },
+        {
+          "title": "Broken bollard, exposed rebar, padestrian saftey hazard, 13th April",
+          "url": "https://www.fixmystreet.com/report/9284224",
+          "date": "2026-04-13T10:49:19+00:00",
+          "category": null
+        },
+        {
+          "title": "Zipline is broken, 12th April",
+          "url": "https://www.fixmystreet.com/report/9278852",
+          "date": "2026-04-12T11:14:08+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "‘The vote on the left split more than the vote on the right’",
+          "url": "https://insidecroydon.com/2026/05/09/the-vote-on-the-left-split-more-than-the-vote-on-the-right/",
+          "date": "2026-05-09T09:53:46+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Fairfield": {
       "fixmystreet": [],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Vote count delays raise ‘real concerns’ over ballot security",
+          "url": "https://insidecroydon.com/2026/05/07/vote-count-delays-raise-real-concerns-over-ballot-security/",
+          "date": "2026-05-07T09:57:09+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Kenley": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Large amounts of illegal rubbish dumping / fly-tipping in countryside area., 5th May",
+          "url": "https://www.fixmystreet.com/report/9402036",
+          "date": "2026-05-05T12:06:27+00:00",
+          "category": null
+        },
+        {
+          "title": "Abandoned car - bene there for over year, 2nd May",
+          "url": "https://www.fixmystreet.com/report/9390597",
+          "date": "2026-05-02T19:22:16+00:00",
+          "category": "Abandoned car"
+        },
+        {
+          "title": "Abandoned BMW, 2nd May",
+          "url": "https://www.fixmystreet.com/report/9390591",
+          "date": "2026-05-02T19:18:41+00:00",
+          "category": null
+        },
+        {
+          "title": "Car parked on the whole foot path, 20th April",
+          "url": "https://www.fixmystreet.com/report/9323689",
+          "date": "2026-04-20T12:45:46+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Kenley locals in campaign to save their local for the future",
+          "url": "https://insidecroydon.com/2026/05/10/kenley-locals-in-campaign-to-save-their-local-for-the-future/",
+          "date": "2026-05-10T13:24:28+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "New Addington North": {
       "fixmystreet": [],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "New Addington South": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Blocking road, 21st April",
+          "url": "https://www.fixmystreet.com/report/9332451",
+          "date": "2026-04-21T20:43:33+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
     "Norbury Park": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Blocked storm drain, 26th April",
+          "url": "https://www.fixmystreet.com/report/9357668",
+          "date": "2026-04-26T19:58:38+00:00",
+          "category": null
+        },
+        {
+          "title": "Near zebra crossing, 16th April",
+          "url": "https://www.fixmystreet.com/report/9305273",
+          "date": "2026-04-16T14:39:55+00:00",
+          "category": null
+        },
+        {
+          "title": "Car 0arled blocking driveway, 13th April",
+          "url": "https://www.fixmystreet.com/report/9282559",
+          "date": "2026-04-13T08:13:35+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "The Toss-cars 2026: We name Croydon’s laziest councillors",
+          "url": "https://insidecroydon.com/2026/05/04/the-toss-cars-2026-we-name-croydons-laziest-councillors/",
+          "date": "2026-05-04T14:08:03+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Norbury and Pollards Hill": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Vehicle hasn’t moved in years., 10th May",
+          "url": "https://www.fixmystreet.com/report/9429355",
+          "date": "2026-05-10T13:21:30+00:00",
+          "category": null
+        },
+        {
+          "title": "Vehicle crashed into 2 bollards and pelican light outside 84 Norbury Crescent, 5th May",
+          "url": "https://www.fixmystreet.com/report/9404454",
+          "date": "2026-05-05T17:10:44+00:00",
+          "category": null
+        },
+        {
+          "title": "Rubbish, 27th April",
+          "url": "https://www.fixmystreet.com/report/9358465",
+          "date": "2026-04-27T07:02:24+00:00",
+          "category": null
+        },
+        {
+          "title": "Tree near train needs pollarding, 23rd April",
+          "url": "https://www.fixmystreet.com/report/9345193",
+          "date": "2026-04-23T19:58:24+00:00",
+          "category": null
+        },
+        {
+          "title": "Broken pavement over drain and around it, 23rd April",
+          "url": "https://www.fixmystreet.com/report/9344000",
+          "date": "2026-04-23T19:49:14+00:00",
+          "category": null
+        },
+        {
+          "title": "Black bag of rubbish against tree, 20th April",
+          "url": "https://www.fixmystreet.com/report/9321758",
+          "date": "2026-04-20T09:20:03+00:00",
+          "category": null
+        },
+        {
+          "title": "Sewage leaking over pavement, 19th April",
+          "url": "https://www.fixmystreet.com/report/9318264",
+          "date": "2026-04-19T13:03:19+00:00",
+          "category": null
+        },
+        {
+          "title": "Dangerous cracked pavement, 12th April",
+          "url": "https://www.fixmystreet.com/report/9281028",
+          "date": "2026-04-12T18:48:10+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
     "Old Coulsdon": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Toilet window smashed, 10th May",
+          "url": "https://www.fixmystreet.com/report/9428615",
+          "date": "2026-05-10T10:39:35+00:00",
+          "category": null
+        },
+        {
+          "title": "Large amounts of building waste / furniture dumped along road, 26th April",
+          "url": "https://www.fixmystreet.com/report/9355882",
+          "date": "2026-04-26T12:56:36+00:00",
+          "category": null
+        },
+        {
+          "title": "Low branches, 18th April",
+          "url": "https://www.fixmystreet.com/report/9313156",
+          "date": "2026-04-18T06:59:57+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Park Hill and Whitgift": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Significant amounts of flytipping along lane in Lloyd Park, 8th May",
+          "url": "https://www.fixmystreet.com/report/9422093",
+          "date": "2026-05-08T14:11:33+00:00",
+          "category": null
+        },
+        {
+          "title": "Footpath mess, 18th April",
+          "url": "https://www.fixmystreet.com/report/9314197",
+          "date": "2026-04-18T10:56:35+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Purley Oaks and Riddlesdown": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Concrete post recently erected on grass verge now on ground, 10th May",
+          "url": "https://www.fixmystreet.com/report/9430027",
+          "date": "2026-05-10T15:57:08+00:00",
+          "category": null
+        },
+        {
+          "title": "Overgrowth of private tree blocking pavement, 7th May",
+          "url": "https://www.fixmystreet.com/report/9417345",
+          "date": "2026-05-07T19:01:44+00:00",
+          "category": null
+        },
+        {
+          "title": "Pothole outside 2A Buttermere Gardens, 6th May",
+          "url": "https://www.fixmystreet.com/report/9408886",
+          "date": "2026-05-06T12:32:20+00:00",
+          "category": null
+        },
+        {
+          "title": "Hedge encroaching on road, 18th April",
+          "url": "https://www.fixmystreet.com/report/9314478",
+          "date": "2026-04-18T11:47:29+00:00",
+          "category": null
+        },
+        {
+          "title": "Street nameplate disloged by large delivery vehicle, 16th April",
+          "url": "https://www.fixmystreet.com/report/9302037",
+          "date": "2026-04-16T07:53:49+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Purley and Woodcote": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Faded Roundabout Markings, 7th May",
+          "url": "https://www.fixmystreet.com/report/9416313",
+          "date": "2026-05-07T15:35:38+00:00",
+          "category": null
+        },
+        {
+          "title": "Severely Damaged inspection cover, 29th April",
+          "url": "https://www.fixmystreet.com/report/9371402",
+          "date": "2026-04-29T08:33:52+00:00",
+          "category": null
+        },
+        {
+          "title": "Pavement blocked, 21st April",
+          "url": "https://www.fixmystreet.com/report/9327250",
+          "date": "2026-04-21T06:37:11+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
     "Sanderstead": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Several large potholes in front of 26 Kersey Drive, 10th May",
+          "url": "https://www.fixmystreet.com/report/9429444",
+          "date": "2026-05-10T13:41:53+00:00",
+          "category": null
+        },
+        {
+          "title": "Speed camera flashes randomly, on Limpsfield Road near Hilton Way near the bus stop, 6th May",
+          "url": "https://www.fixmystreet.com/report/9411361",
+          "date": "2026-05-06T19:24:44+00:00",
+          "category": null
+        },
+        {
+          "title": "Speedvisor not working, 6th May",
+          "url": "https://www.fixmystreet.com/report/9409003",
+          "date": "2026-05-06T12:54:51+00:00",
+          "category": null
+        },
+        {
+          "title": "Potholes approaching Sanderstead Roundabout from Sanderstead Hill, 6th May",
+          "url": "https://www.fixmystreet.com/report/9408909",
+          "date": "2026-05-06T12:36:44+00:00",
+          "category": null
+        },
+        {
+          "title": "Low hanging branch affecting buses, 5th May",
+          "url": "https://www.fixmystreet.com/report/9401538",
+          "date": "2026-05-05T11:10:56+00:00",
+          "category": null
+        },
+        {
+          "title": "Flytipping 103 Church Way, 2nd May",
+          "url": "https://www.fixmystreet.com/report/9390061",
+          "date": "2026-05-02T15:48:41+00:00",
+          "category": null
+        },
+        {
+          "title": "The trees for making the bus have smashed windows, 28th April",
+          "url": "https://www.fixmystreet.com/report/9368914",
+          "date": "2026-04-28T16:39:04+00:00",
+          "category": null
+        },
+        {
+          "title": "A car is blocking my driveway, 27th April",
+          "url": "https://www.fixmystreet.com/report/9359264",
+          "date": "2026-04-27T08:51:12+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Planning control has got worse under developers’ friend Perry",
+          "url": "https://insidecroydon.com/2026/05/01/planning-control-has-got-worse-under-developers-friend-perry/",
+          "date": "2026-05-01T10:26:55+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selhurst": {
       "fixmystreet": [],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Free SWLLC benefits and housing advice sessions, Selhurst",
+          "url": "https://insidecroydon.com/2026/05/10/free-housing-and-benefits-advice-sessions-south-norwood-4/",
+          "date": "2026-05-10T09:00:58+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "The Happy Bee Festival, Frylands Wood Scout Centre, Jun 28",
+          "url": "https://insidecroydon.com/2026/05/10/the-happy-bee-festival-frylands-wood-scout-centre-jun-28/",
+          "date": "2026-05-10T08:52:26+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Croydon Fire Station Open Day, Old Town, Fri July 31",
+          "url": "https://insidecroydon.com/2026/05/09/croydon-fire-station-open-day-old-town-fri-july-31/",
+          "date": "2026-05-09T08:46:33+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selsdon Vale and Forestdale": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Gate in dangerous state and could easily fall, 10th May",
+          "url": "https://www.fixmystreet.com/report/9429757",
+          "date": "2026-05-10T14:49:09+00:00",
+          "category": null
+        },
+        {
+          "title": "Hedge and trees overgrowing footpath, 26th April",
+          "url": "https://www.fixmystreet.com/report/9354977",
+          "date": "2026-04-26T09:25:36+00:00",
+          "category": null
+        },
+        {
+          "title": "Fly tipping, 20th April",
+          "url": "https://www.fixmystreet.com/report/9323698",
+          "date": "2026-04-20T12:46:52+00:00",
+          "category": null
+        },
+        {
+          "title": "Dumped mattress, 18th April",
+          "url": "https://www.fixmystreet.com/report/9313469",
+          "date": "2026-04-18T08:18:53+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selsdon and Addington Village": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "In my back garden dead fox cub, 2nd May",
+          "url": "https://www.fixmystreet.com/report/9390631",
+          "date": "2026-05-02T19:36:55+00:00",
+          "category": null
+        },
+        {
+          "title": "Broken Fence, 25th April",
+          "url": "https://www.fixmystreet.com/report/9353248",
+          "date": "2026-04-25T15:11:03+00:00",
+          "category": null
+        },
+        {
+          "title": "Riesco Drive flytipping, 12th April",
+          "url": "https://www.fixmystreet.com/report/9279822",
+          "date": "2026-04-12T14:44:31+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Shirley North": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Road block loose, 9th May",
+          "url": "https://www.fixmystreet.com/report/9425158",
+          "date": "2026-05-09T10:11:02+00:00",
+          "category": null
+        },
+        {
+          "title": "Bag filled with bottled urine, 4th May",
+          "url": "https://www.fixmystreet.com/report/9395426",
+          "date": "2026-05-04T10:15:14+00:00",
+          "category": null
+        },
+        {
+          "title": "Rubbish, 23rd April",
+          "url": "https://www.fixmystreet.com/report/9341181",
+          "date": "2026-04-23T09:31:55+00:00",
+          "category": null
+        },
+        {
+          "title": "Pothole/surface problem outside nursery - seen a bike fail to stop, 22nd April",
+          "url": "https://www.fixmystreet.com/report/9334223",
+          "date": "2026-04-22T08:29:45+00:00",
+          "category": "Pothole/surface problem outside nursery"
+        },
+        {
+          "title": "16, barnfield avenue croydon cr0 8se, 21st April",
+          "url": "https://www.fixmystreet.com/report/9331425",
+          "date": "2026-04-21T15:16:00+00:00",
+          "category": null
+        },
+        {
+          "title": "Lights not working, 18th April",
+          "url": "https://www.fixmystreet.com/report/9316058",
+          "date": "2026-04-18T18:38:36+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "The Toss-cars 2026: We name Croydon’s laziest councillors",
+          "url": "https://insidecroydon.com/2026/05/04/the-toss-cars-2026-we-name-croydons-laziest-councillors/",
+          "date": "2026-05-04T14:08:03+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Polls tighten in Town Hall race as Farage’s grifters get closer",
+          "url": "https://insidecroydon.com/2026/04/30/polls-tighten-in-town-hall-race-as-farages-grifters-get-closer/",
+          "date": "2026-04-30T15:21:53+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Shirley South": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Lots of rubbish flytipped around bin, 8th May",
+          "url": "https://www.fixmystreet.com/report/9422009",
+          "date": "2026-05-08T13:53:30+00:00",
+          "category": null
+        },
+        {
+          "title": "Graffiti on map, 8th May",
+          "url": "https://www.fixmystreet.com/report/9421970",
+          "date": "2026-05-08T13:47:58+00:00",
+          "category": null
+        },
+        {
+          "title": "URGENT Greenhouse glass dumped in woods behind new fence of 81 Bridle Road, Shirley, Croydon, 12th April",
+          "url": "https://www.fixmystreet.com/report/9278368",
+          "date": "2026-04-12T09:26:35+00:00",
+          "category": null
+        },
+        {
+          "title": "Broken panes of glass dumped in wood, 12th April",
+          "url": "https://www.fixmystreet.com/report/9278060",
+          "date": "2026-04-12T08:18:05+00:00",
+          "category": null
+        },
+        {
+          "title": "Broken glass in Spring Park Woods, 12th April",
+          "url": "https://www.fixmystreet.com/report/9277815",
+          "date": "2026-04-12T06:58:57+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "The Toss-cars 2026: We name Croydon’s laziest councillors",
+          "url": "https://insidecroydon.com/2026/05/04/the-toss-cars-2026-we-name-croydons-laziest-councillors/",
+          "date": "2026-05-04T14:08:03+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "£40m Trinity School expansion given planning green light",
+          "url": "https://insidecroydon.com/2026/05/02/40m-trinity-school-expansion-given-planning-green-light/",
+          "date": "2026-05-02T11:37:41+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "South Croydon": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Abandoned car in the road, 9th May",
+          "url": "https://www.fixmystreet.com/report/9424774",
+          "date": "2026-05-09T08:52:58+00:00",
+          "category": null
+        },
+        {
+          "title": "Continuesly blocking the public( neighbourhood parking) for his car, 22nd April",
+          "url": "https://www.fixmystreet.com/report/9335567",
+          "date": "2026-04-22T11:23:37+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "‘The vote on the left split more than the vote on the right’",
+          "url": "https://insidecroydon.com/2026/05/09/the-vote-on-the-left-split-more-than-the-vote-on-the-right/",
+          "date": "2026-05-09T09:53:46+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Croydon Bach Choir choral workshop, South Croydon, May 16",
+          "url": "https://insidecroydon.com/2026/05/03/croydon-bach-choir-choral-workshop-south-croydon-may-16-2/",
+          "date": "2026-05-03T09:35:57+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Plant sale, Pampisford Road allotments, South Croydon, May 4",
+          "url": "https://insidecroydon.com/2026/05/01/plant-sale-pampisford-road-allotments-south-croydon-may-4/",
+          "date": "2026-05-01T08:15:55+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "South Norwood": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Mirror dumped on private driveway, 29th April",
+          "url": "https://www.fixmystreet.com/report/9372802",
+          "date": "2026-04-29T11:30:05+00:00",
+          "category": null
+        },
+        {
+          "title": "Dangerously raised manhole, 27th April",
+          "url": "https://www.fixmystreet.com/report/9360234",
+          "date": "2026-04-27T10:43:46+00:00",
+          "category": null
+        },
+        {
+          "title": "Bins overflowing with dog waste, 25th April",
+          "url": "https://www.fixmystreet.com/report/9352150",
+          "date": "2026-04-25T10:17:17+00:00",
+          "category": null
+        },
+        {
+          "title": "Potholes everywhere, 24th April",
+          "url": "https://www.fixmystreet.com/report/9346077",
+          "date": "2026-04-24T14:53:59+00:00",
+          "category": null
+        },
+        {
+          "title": "Overflowing bins, 24th April",
+          "url": "https://www.fixmystreet.com/report/9346071",
+          "date": "2026-04-24T14:53:52+00:00",
+          "category": null
+        },
+        {
+          "title": "Abandoned vehicle, 14th April",
+          "url": "https://www.fixmystreet.com/report/9294578",
+          "date": "2026-04-14T19:44:06+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "‘The vote on the left split more than the vote on the right’",
+          "url": "https://insidecroydon.com/2026/05/09/the-vote-on-the-left-split-more-than-the-vote-on-the-right/",
+          "date": "2026-05-09T09:53:46+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Mayor Perry’s secret plan to privatise Croydon’s public parks",
+          "url": "https://insidecroydon.com/2026/05/06/mayor-perrys-secret-plan-to-privatise-croydons-public-parks/",
+          "date": "2026-05-06T14:43:19+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Thornton Heath": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Fly-Tipping, 7th May",
+          "url": "https://www.fixmystreet.com/report/9416365",
+          "date": "2026-05-07T15:44:12+00:00",
+          "category": null
+        },
+        {
+          "title": "Parking causing entry and exit difficult., 29th April",
+          "url": "https://www.fixmystreet.com/report/9373555",
+          "date": "2026-04-29T13:08:49+00:00",
+          "category": null
+        },
+        {
+          "title": "Pothole, 15th April",
+          "url": "https://www.fixmystreet.com/report/9300694",
+          "date": "2026-04-15T20:07:30+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Labour dumps their hard-working Thornton Heath councillor",
+          "url": "https://insidecroydon.com/2026/05/05/labour-dumps-their-hard-working-thornton-heath-councillor/",
+          "date": "2026-05-05T16:43:54+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Waddon": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Sign knocked over, 9th May",
+          "url": "https://www.fixmystreet.com/report/9424877",
+          "date": "2026-05-09T09:09:03+00:00",
+          "category": null
+        },
+        {
+          "title": "Overflowing bins, 3rd May",
+          "url": "https://www.fixmystreet.com/report/9392446",
+          "date": "2026-05-03T12:44:28+00:00",
+          "category": null
+        },
+        {
+          "title": "Union jack flags unauthorized attachment to lampposts, 2nd May",
+          "url": "https://www.fixmystreet.com/report/9388554",
+          "date": "2026-05-02T09:06:20+00:00",
+          "category": null
+        },
+        {
+          "title": "Food waste not collected, 24th April",
+          "url": "https://www.fixmystreet.com/report/9349170",
+          "date": "2026-04-24T13:58:28+00:00",
+          "category": null
+        },
+        {
+          "title": "Car parked on pavement, 15th April",
+          "url": "https://www.fixmystreet.com/report/9297441",
+          "date": "2026-04-15T11:20:57+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Croydon Fire Station Open Day, Old Town, Fri July 31",
+          "url": "https://insidecroydon.com/2026/05/09/croydon-fire-station-open-day-old-town-fri-july-31/",
+          "date": "2026-05-09T08:46:33+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "West Thornton": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Rubbish left outside 18 Cameron Road on pavement, 20th April",
+          "url": "https://www.fixmystreet.com/report/9322061",
+          "date": "2026-04-20T09:52:21+00:00",
+          "category": null
+        },
+        {
+          "title": "Insecure manhole, 18th April",
+          "url": "https://www.fixmystreet.com/report/9313216",
+          "date": "2026-04-18T07:00:03+00:00",
+          "category": null
+        },
+        {
+          "title": "Risen blob on path, 13th April",
+          "url": "https://www.fixmystreet.com/report/9282501",
+          "date": "2026-04-13T07:58:37+00:00",
+          "category": null
+        },
+        {
+          "title": "Items left at the entrance of th hospital, 13th April",
+          "url": "https://www.fixmystreet.com/report/9282459",
+          "date": "2026-04-13T07:54:16+00:00",
+          "category": null
+        },
+        {
+          "title": "Rug/box, 13th April",
+          "url": "https://www.fixmystreet.com/report/9282416",
+          "date": "2026-04-13T11:16:44+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Labour dumps their hard-working Thornton Heath councillor",
+          "url": "https://insidecroydon.com/2026/05/05/labour-dumps-their-hard-working-thornton-heath-councillor/",
+          "date": "2026-05-05T16:43:54+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Woodside": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "10 inch pothole Clifford Road, 10th May",
+          "url": "https://www.fixmystreet.com/report/9430046",
+          "date": "2026-05-10T16:01:28+00:00",
+          "category": null
+        },
+        {
+          "title": "Parked in a disabled bay without blue badge, 8th May",
+          "url": "https://www.fixmystreet.com/report/9423588",
+          "date": "2026-05-08T19:21:30+00:00",
+          "category": null
+        },
+        {
+          "title": "Camping in the country park, 7th May",
+          "url": "https://www.fixmystreet.com/report/9414064",
+          "date": "2026-05-07T10:09:01+00:00",
+          "category": null
+        },
+        {
+          "title": "Lots of rubbish on the corner of Clifford Road and opposite the station., 6th May",
+          "url": "https://www.fixmystreet.com/report/9410499",
+          "date": "2026-05-06T16:30:41+00:00",
+          "category": null
+        },
+        {
+          "title": "Fly tipping at Harrington Road, 5th May",
+          "url": "https://www.fixmystreet.com/report/9402131",
+          "date": "2026-05-05T12:16:53+00:00",
+          "category": null
+        },
+        {
+          "title": "Someone has dumped a fridge (and one rubber boot) on the sidewalk of Sonning Road, 21st April",
+          "url": "https://www.fixmystreet.com/report/9330765",
+          "date": "2026-04-21T13:49:49+00:00",
+          "category": null
+        },
+        {
+          "title": "Rubbish, 21st April",
+          "url": "https://www.fixmystreet.com/report/9327644",
+          "date": "2026-04-21T07:54:29+00:00",
+          "category": null
+        },
+        {
+          "title": "Side road 20 sign is facing the wrong way so it’s causing confusion, 17th April",
+          "url": "https://www.fixmystreet.com/report/9308926",
+          "date": "2026-04-17T09:25:55+00:00",
+          "category": null
+        },
+        {
+          "title": "Long pothole in road outside my house, 15th April",
+          "url": "https://www.fixmystreet.com/report/9300543",
+          "date": "2026-04-15T19:23:41+00:00",
+          "category": null
+        },
+        {
+          "title": "Trolley dumped, 14th April",
+          "url": "https://www.fixmystreet.com/report/9289005",
+          "date": "2026-04-14T07:06:46+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "#LocalElections2026: Live coverage from the Croydon count",
+          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
+          "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Police called after TTIP candidate disrupts police meeting",
+          "url": "https://insidecroydon.com/2026/05/02/police-called-after-ttip-candidate-disrupts-police-meeting/",
+          "date": "2026-05-02T13:46:42+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     }
   }
 }
