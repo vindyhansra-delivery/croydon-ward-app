@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-11T09:12:27.098382+00:00",
+    "generated_at": "2026-05-11T18:28:30.841856+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -145,12 +145,6 @@
           "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
           "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Keir Starmer’s niece is council election candidate in safe ward",
-          "url": "https://insidecroydon.com/2026/04/30/keir-starmers-niece-is-council-election-candidate-in-safe-ward/",
-          "date": "2026-04-30T17:21:55+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -293,6 +287,18 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Earthquake election but Croydon only felt some small tremors",
+          "url": "https://insidecroydon.com/2026/05/11/earthquake-election-but-croydon-only-felt-some-small-tremors/",
+          "date": "2026-05-11T15:04:18+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "King faces possible leadership challenge after election defeats",
+          "url": "https://insidecroydon.com/2026/05/11/king-faces-possible-leadership-challenge-after-election-defeats/",
+          "date": "2026-05-11T12:48:08+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
@@ -461,6 +467,12 @@
     },
     "Norbury and Pollards Hill": {
       "fixmystreet": [
+        {
+          "title": "Bags of rubbish dumped in street, 11th May",
+          "url": "https://www.fixmystreet.com/report/9433921",
+          "date": "2026-05-11T11:32:12+00:00",
+          "category": null
+        },
         {
           "title": "Vehicle hasn’t moved in years., 10th May",
           "url": "https://www.fixmystreet.com/report/9429355",
@@ -632,6 +644,12 @@
     },
     "Purley and Woodcote": {
       "fixmystreet": [
+        {
+          "title": "Park on clear yellow line, on purley rise, on the corner, 11th May",
+          "url": "https://www.fixmystreet.com/report/9435877",
+          "date": "2026-05-11T15:54:08+00:00",
+          "category": null
+        },
         {
           "title": "Faded Roundabout Markings, 7th May",
           "url": "https://www.fixmystreet.com/report/9416313",
@@ -901,17 +919,17 @@
           "url": "https://insidecroydon.com/2026/05/04/the-toss-cars-2026-we-name-croydons-laziest-councillors/",
           "date": "2026-05-04T14:08:03+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Polls tighten in Town Hall race as Farage’s grifters get closer",
-          "url": "https://insidecroydon.com/2026/04/30/polls-tighten-in-town-hall-race-as-farages-grifters-get-closer/",
-          "date": "2026-04-30T15:21:53+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "Small tree down, 11th May",
+          "url": "https://www.fixmystreet.com/report/9434048",
+          "date": "2026-05-11T11:41:01+00:00",
+          "category": null
+        },
         {
           "title": "Lots of rubbish flytipped around bin, 8th May",
           "url": "https://www.fixmystreet.com/report/9422009",
@@ -1011,12 +1029,6 @@
           "url": "https://insidecroydon.com/2026/05/03/croydon-bach-choir-choral-workshop-south-croydon-may-16-2/",
           "date": "2026-05-03T09:35:57+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Plant sale, Pampisford Road allotments, South Croydon, May 4",
-          "url": "https://insidecroydon.com/2026/05/01/plant-sale-pampisford-road-allotments-south-croydon-may-4/",
-          "date": "2026-05-01T08:15:55+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -1061,6 +1073,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Earthquake election but Croydon only felt some small tremors",
+          "url": "https://insidecroydon.com/2026/05/11/earthquake-election-but-croydon-only-felt-some-small-tremors/",
+          "date": "2026-05-11T15:04:18+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
@@ -1110,6 +1128,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Earthquake election but Croydon only felt some small tremors",
+          "url": "https://insidecroydon.com/2026/05/11/earthquake-election-but-croydon-only-felt-some-small-tremors/",
+          "date": "2026-05-11T15:04:18+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
