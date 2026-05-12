@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-12T10:07:29.120094+00:00",
+    "generated_at": "2026-05-12T18:30:37.000357+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -68,12 +68,6 @@
           "title": "Dangerous parking, 1st May",
           "url": "https://www.fixmystreet.com/report/9383296",
           "date": "2026-05-01T07:51:37+00:00",
-          "category": null
-        },
-        {
-          "title": "Car parked inappropriately, 12th April",
-          "url": "https://www.fixmystreet.com/report/9280313",
-          "date": "2026-04-12T16:40:24+00:00",
           "category": null
         }
       ],
@@ -276,12 +270,6 @@
           "title": "Broken bollard, exposed rebar, padestrian saftey hazard, 13th April",
           "url": "https://www.fixmystreet.com/report/9284224",
           "date": "2026-04-13T10:49:19+00:00",
-          "category": null
-        },
-        {
-          "title": "Zipline is broken, 12th April",
-          "url": "https://www.fixmystreet.com/report/9278852",
-          "date": "2026-04-12T11:14:08+00:00",
           "category": null
         }
       ],
@@ -675,6 +663,12 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Faulty speed camera, 12th May",
+          "url": "https://www.fixmystreet.com/report/9442791",
+          "date": "2026-05-12T18:07:21+00:00",
+          "category": null
+        },
+        {
           "title": "Several large potholes in front of 26 Kersey Drive, 10th May",
           "url": "https://www.fixmystreet.com/report/9429444",
           "date": "2026-05-10T13:41:53+00:00",
@@ -784,6 +778,12 @@
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
         {
+          "title": "Deep Pothole, 12th May",
+          "url": "https://www.fixmystreet.com/report/9440108",
+          "date": "2026-05-12T11:13:52+00:00",
+          "category": null
+        },
+        {
           "title": "Gate in dangerous state and could easily fall, 10th May",
           "url": "https://www.fixmystreet.com/report/9429757",
           "date": "2026-05-10T14:49:09+00:00",
@@ -836,12 +836,6 @@
           "title": "Broken Fence, 25th April",
           "url": "https://www.fixmystreet.com/report/9353248",
           "date": "2026-04-25T15:11:03+00:00",
-          "category": null
-        },
-        {
-          "title": "Riesco Drive flytipping, 12th April",
-          "url": "https://www.fixmystreet.com/report/9279822",
-          "date": "2026-04-12T14:44:31+00:00",
           "category": null
         }
       ],
