@@ -7154,6 +7154,7 @@ footer.app-footer {
           locality: ward.locality,
           seat_status: c.seat_status || 'uncertain',
           first_term_ever: c.first_term_ever,
+          democracy_uid: c.democracy_uid,
         });
       });
     });
@@ -7335,7 +7336,7 @@ footer.app-footer {
       return `<span class="cllr-avatar ${partyClass}${sizeClass}" aria-hidden="true">${initials}</span>`;
     }
     const photoUrl = photoUrlForUid(uid);
-    return `<span class="cllr-avatar ${partyClass}${sizeClass}" aria-hidden="true">${initials}<img src="${photoUrl}" alt="" loading="lazy" onerror="this.remove()"></span>`;
+    return `<span class="cllr-avatar ${partyClass}${sizeClass}" aria-hidden="true">${initials}<img src="${photoUrl}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></span>`;
   }
 
   // (photoFallback no longer needed — single deterministic URL now)
