@@ -7312,19 +7312,18 @@ footer.app-footer {
     return (fi + li) || '?';
   }
 
-  // Render a circular avatar element. If a democracy_uid is known the
-  // photo from the council portal is layered over the coloured initials.
-  // We try multiple URL patterns because moderngov instances vary; if all
-  // fail, the img is removed and initials show through.
-  // Pattern variants tried (in order):
-  //   https://democracy.croydon.gov.uk/mgUserPhotoLarge.aspx?UID=XXXX
-  //   https://democracy.croydon.gov.uk/mgUserPhoto.aspx?UID=XXXX
-  // If Croydon's moderngov uses a different pattern, update photoUrlPatterns().
-  function photoUrlPatterns(uid) {
-    return [
-      `https://democracy.croydon.gov.uk/mgUserPhotoLarge.aspx?UID=${uid}`,
-      `https://democracy.croydon.gov.uk/mgUserPhoto.aspx?UID=${uid}`,
-    ];
+  // Croydon moderngov uses a bucketed path scheme for member photos:
+  //   /UserData/{r0}/{r1}/{r2}/Info{paddedUID}/bigpic.jpg
+  // where r0,r1,r2 are the first three digits of the reversed UID
+  // (padded with zeros if the UID is shorter than 3 digits)
+  // and paddedUID is the UID zero-padded to 8 digits.
+  // Example: UID 1180 → reversed "0811" → "0/8/1" → /Info00001180/bigpic.jpg
+  function photoUrlForUid(uid) {
+    const uidStr = String(uid);
+    const reversed = uidStr.split('').reverse().join('');
+    const r = (reversed + '000').substring(0, 3);
+    const padded = String(uid).padStart(8, '0');
+    return `https://democracy.croydon.gov.uk/UserData/${r[0]}/${r[1]}/${r[2]}/Info${padded}/bigpic.jpg`;
   }
 
   function renderAvatar(c, size) {
@@ -7335,24 +7334,11 @@ footer.app-footer {
     if (!uid) {
       return `<span class="cllr-avatar ${partyClass}${sizeClass}" aria-hidden="true">${initials}</span>`;
     }
-    const urls = photoUrlPatterns(uid);
-    const primary = urls[0];
-    const fallback = urls[1] || '';
-    // Photo loads via <img> with no CORS requirements (display only).
-    // referrer-policy: keep the default so the council server gets a sensible referrer.
-    return `<span class="cllr-avatar ${partyClass}${sizeClass}" aria-hidden="true">${initials}<img src="${primary}" data-fallback="${fallback}" alt="" loading="lazy" onerror="window.__photoFallback(this)"></span>`;
+    const photoUrl = photoUrlForUid(uid);
+    return `<span class="cllr-avatar ${partyClass}${sizeClass}" aria-hidden="true">${initials}<img src="${photoUrl}" alt="" loading="lazy" onerror="this.remove()"></span>`;
   }
 
-  // Photo fallback chain (used by onerror in renderAvatar)
-  window.__photoFallback = function(img) {
-    const fb = img.getAttribute('data-fallback');
-    if (fb && img.src !== fb) {
-      img.removeAttribute('data-fallback');
-      img.src = fb;
-    } else {
-      img.remove();
-    }
-  };
+  // (photoFallback no longer needed — single deterministic URL now)
 
   // Card-style councillor display (avatar above name, optional status badge).
   // Used in officer view Section A and member view "Your ward councillors".
