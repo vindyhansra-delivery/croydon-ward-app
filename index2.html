@@ -317,6 +317,65 @@ section.detail-pane {
 .cllr-avatar.party-LD  { background: #fdbb30; color: #1f1f1f; }
 .cllr-avatar.party-REF { background: #12b6cf; }
 
+/* Photo-bearing avatars are clickable to zoom */
+.cllr-avatar.has-photo { cursor: zoom-in; }
+.cllr-avatar.has-photo:focus-visible {
+  outline: 2px solid var(--c-purple-500);
+  outline-offset: 2px;
+}
+
+/* Photo lightbox overlay */
+.photo-lightbox {
+  position: fixed; inset: 0;
+  background: rgba(0, 0, 0, 0.82);
+  z-index: 9000;
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  padding: 24px;
+  cursor: zoom-out;
+  animation: photo-lightbox-fade 0.15s ease-out;
+}
+.photo-lightbox[hidden] { display: none; }
+@keyframes photo-lightbox-fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.photo-lightbox img {
+  max-width: min(420px, 90vw);
+  max-height: 70vh;
+  width: auto; height: auto;
+  border-radius: 8px;
+  box-shadow: 0 12px 48px rgba(0,0,0,0.45);
+  display: block;
+}
+.photo-lightbox-caption {
+  margin-top: 16px;
+  color: #fff;
+  text-align: center;
+  max-width: 90vw;
+  font-size: 14px;
+  line-height: 1.4;
+}
+.photo-lightbox-name {
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+.photo-lightbox-meta {
+  opacity: 0.75;
+  font-size: 13px;
+}
+.photo-lightbox-hint {
+  margin-top: 14px;
+  opacity: 0.55;
+  font-size: 11px;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+}
+@media (max-width: 768px) {
+  .photo-lightbox img { max-width: 88vw; max-height: 60vh; }
+}
+
 /* Avatar cell in onboarding table */
 .onb-table td.cllr-cell {
   display: flex; align-items: center; gap: 10px;
@@ -1660,6 +1719,15 @@ footer.app-footer {
   <div class="modal-content" role="dialog" aria-labelledby="modal-title" aria-modal="true">
     <button id="modal-close" class="modal-close" aria-label="Close">×</button>
     <div id="modal-body"></div>
+  </div>
+</div>
+
+<div id="photo-lightbox" class="photo-lightbox" hidden role="dialog" aria-modal="true" aria-label="Councillor photo">
+  <img id="photo-lightbox-img" alt="">
+  <div class="photo-lightbox-caption">
+    <div id="photo-lightbox-name" class="photo-lightbox-name"></div>
+    <div id="photo-lightbox-meta" class="photo-lightbox-meta"></div>
+    <div class="photo-lightbox-hint">Tap or press Esc to close</div>
   </div>
 </div>
 
@@ -7060,8 +7128,57 @@ footer.app-footer {
   const modal = document.getElementById('restricted-modal');
   document.getElementById('modal-close').addEventListener('click', closeModal);
   modal.addEventListener('click', e => { if (e.target === modal) closeModal(); });
-  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
   function closeModal() { modal.hidden = true; }
+
+  // ----- Photo lightbox -----
+  const lightbox = document.getElementById('photo-lightbox');
+  const lightboxImg = document.getElementById('photo-lightbox-img');
+  const lightboxName = document.getElementById('photo-lightbox-name');
+  const lightboxMeta = document.getElementById('photo-lightbox-meta');
+  function openPhotoLightbox(avatar) {
+    const name = avatar.dataset.cllrName || '';
+    const party = avatar.dataset.cllrParty || '';
+    const ward = avatar.dataset.cllrWard || '';
+    const photo = avatar.dataset.cllrPhoto || '';
+    if (!photo) return;
+    lightboxImg.src = photo;
+    lightboxImg.alt = name ? `Photo of ${name}` : '';
+    lightboxName.textContent = name;
+    const metaBits = [];
+    if (party) metaBits.push(party);
+    if (ward) metaBits.push(ward);
+    lightboxMeta.textContent = metaBits.join(' · ');
+    lightbox.hidden = false;
+  }
+  function closePhotoLightbox() {
+    lightbox.hidden = true;
+    lightboxImg.src = '';
+  }
+  // Any click inside the lightbox closes it (including the image)
+  lightbox.addEventListener('click', closePhotoLightbox);
+  // Delegated click handler on the whole document for avatar activation
+  document.addEventListener('click', e => {
+    const avatar = e.target.closest('.cllr-avatar.has-photo');
+    if (!avatar) return;
+    // Only treat as zoom if photo still present (onerror may have removed it)
+    if (!avatar.querySelector('img')) return;
+    e.stopPropagation();
+    openPhotoLightbox(avatar);
+  }, true);  // capture phase so we beat row click handlers
+  // Keyboard activation on focused avatars
+  document.addEventListener('keydown', e => {
+    if ((e.key === 'Enter' || e.key === ' ') && e.target.matches('.cllr-avatar.has-photo')) {
+      e.preventDefault();
+      openPhotoLightbox(e.target);
+    }
+  });
+
+  // Unified Escape: close lightbox first if open, otherwise restricted modal
+  document.addEventListener('keydown', e => {
+    if (e.key !== 'Escape') return;
+    if (!lightbox.hidden) closePhotoLightbox();
+    else closeModal();
+  });
   function openRestrictedModal(ward) {
     const sens = ward.context_sensitivity || 'Low';
     document.getElementById('modal-body').innerHTML = `
@@ -7336,7 +7453,10 @@ footer.app-footer {
       return `<span class="cllr-avatar ${partyClass}${sizeClass}" aria-hidden="true">${initials}</span>`;
     }
     const photoUrl = photoUrlForUid(uid);
-    return `<span class="cllr-avatar ${partyClass}${sizeClass}" aria-hidden="true">${initials}<img src="${photoUrl}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></span>`;
+    const dataName = escapeHtml(formatName(c.name));
+    const dataParty = escapeHtml(c.party || c.party_code || '');
+    const dataWard = escapeHtml(c.ward || '');
+    return `<span class="cllr-avatar has-photo ${partyClass}${sizeClass}" data-cllr-name="${dataName}" data-cllr-party="${dataParty}" data-cllr-ward="${dataWard}" data-cllr-photo="${photoUrl}" role="button" tabindex="0" aria-label="View larger photo of ${dataName}">${initials}<img src="${photoUrl}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.cllr-avatar').classList.remove('has-photo'); this.remove()"></span>`;
   }
 
   // (photoFallback no longer needed — single deterministic URL now)
