@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-11T18:28:30.841856+00:00",
+    "generated_at": "2026-05-12T10:07:29.120094+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -726,6 +726,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Touch rugby taster day at Warlingham RFC, Sat Jun 6",
+          "url": "https://insidecroydon.com/2026/05/12/touch-rugby-taster-day-at-warlingham-rfc-sat-jun-6/",
+          "date": "2026-05-12T08:07:54+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
@@ -735,12 +741,6 @@
           "title": "#LocalElections2026: Live coverage from the Croydon count",
           "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
           "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Planning control has got worse under developers’ friend Perry",
-          "url": "https://insidecroydon.com/2026/05/01/planning-control-has-got-worse-under-developers-friend-perry/",
-          "date": "2026-05-01T10:26:55+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -768,15 +768,15 @@
           "publisher": "Inside Croydon"
         },
         {
-          "title": "Croydon Fire Station Open Day, Old Town, Fri July 31",
-          "url": "https://insidecroydon.com/2026/05/09/croydon-fire-station-open-day-old-town-fri-july-31/",
-          "date": "2026-05-09T08:46:33+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
           "title": "#LocalElections2026: Live coverage from the Croydon count",
           "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
           "date": "2026-05-08T07:00:36+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Glasner’s Palace are one game away from Leipzig final send-off",
+          "url": "https://insidecroydon.com/2026/05/06/glasners-palace-are-one-game-away-from-leipzig-final-send-off/",
+          "date": "2026-05-06T09:15:18+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -941,24 +941,6 @@
           "url": "https://www.fixmystreet.com/report/9421970",
           "date": "2026-05-08T13:47:58+00:00",
           "category": null
-        },
-        {
-          "title": "URGENT Greenhouse glass dumped in woods behind new fence of 81 Bridle Road, Shirley, Croydon, 12th April",
-          "url": "https://www.fixmystreet.com/report/9278368",
-          "date": "2026-04-12T09:26:35+00:00",
-          "category": null
-        },
-        {
-          "title": "Broken panes of glass dumped in wood, 12th April",
-          "url": "https://www.fixmystreet.com/report/9278060",
-          "date": "2026-04-12T08:18:05+00:00",
-          "category": null
-        },
-        {
-          "title": "Broken glass in Spring Park Woods, 12th April",
-          "url": "https://www.fixmystreet.com/report/9277815",
-          "date": "2026-04-12T06:58:57+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -1074,6 +1056,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Artist Emin makes big announcement for Priority Seating Week",
+          "url": "https://insidecroydon.com/2026/05/12/artist-emin-makes-big-announcement-for-priority-seating-week/",
+          "date": "2026-05-12T08:59:21+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Earthquake election but Croydon only felt some small tremors",
           "url": "https://insidecroydon.com/2026/05/11/earthquake-election-but-croydon-only-felt-some-small-tremors/",
           "date": "2026-05-11T15:04:18+00:00",
@@ -1095,12 +1083,6 @@
           "title": "#LocalElections2026: Live coverage from the Croydon count",
           "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
           "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Mayor Perry’s secret plan to privatise Croydon’s public parks",
-          "url": "https://insidecroydon.com/2026/05/06/mayor-perrys-secret-plan-to-privatise-croydons-public-parks/",
-          "date": "2026-05-06T14:43:19+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -1193,12 +1175,6 @@
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Croydon Fire Station Open Day, Old Town, Fri July 31",
-          "url": "https://insidecroydon.com/2026/05/09/croydon-fire-station-open-day-old-town-fri-july-31/",
-          "date": "2026-05-09T08:46:33+00:00",
           "publisher": "Inside Croydon"
         },
         {
