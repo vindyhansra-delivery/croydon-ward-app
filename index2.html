@@ -183,6 +183,116 @@ section.detail-pane {
 }
 .overlay-warning.visible { display: block; }
 
+/* New-member marker toggle (officer view) */
+.marker-toggle {
+  display: flex; align-items: center; gap: 6px;
+  margin-top: 8px; font-size: 12px; color: var(--c-grey-700);
+  cursor: pointer; user-select: none;
+}
+.marker-toggle input { margin: 0; cursor: pointer; }
+
+/* SVG seat markers on map */
+.seat-marker {
+  stroke: #fff; stroke-width: 0.8;
+  cursor: pointer;
+}
+.seat-marker.returning      { fill: #94a3b8; }    /* slate / neutral */
+.seat-marker.ward_switcher  { fill: #f59e0b; }    /* amber */
+.seat-marker.newly_elected  { fill: #dc2626; }    /* red */
+.seat-marker.uncertain      { fill: #9333ea; }    /* purple — verify */
+.seat-marker.first_term     { stroke: #000; stroke-width: 1.2; }   /* outline for verified first-term */
+
+/* Onboarding view layout */
+.onboarding-pane {
+  padding: 18px 24px 32px 24px;
+  max-width: 1100px;
+}
+.onboarding-pane h2 {
+  font-size: 18px; font-weight: 500; margin: 0 0 4px 0;
+  color: var(--c-grey-900);
+}
+.onboarding-pane .subtitle {
+  font-size: 13px; color: var(--c-grey-500); margin-bottom: 16px;
+}
+.onboarding-stats {
+  display: grid; gap: 12px;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  margin-bottom: 20px;
+}
+.onb-stat-card {
+  background: #fff; border: 1px solid var(--c-grey-200);
+  border-radius: 8px; padding: 12px 14px;
+}
+.onb-stat-card .num {
+  font-size: 24px; font-weight: 500; color: var(--c-purple-dark);
+  display: block; line-height: 1;
+}
+.onb-stat-card .lbl {
+  font-size: 11px; color: var(--c-grey-500);
+  text-transform: uppercase; letter-spacing: 0.05em;
+  margin-top: 6px; display: block;
+}
+.onb-legend {
+  display: flex; flex-wrap: wrap; gap: 12px;
+  margin: 14px 0 18px 0;
+  font-size: 12px; color: var(--c-grey-700);
+}
+.onb-legend-item { display: flex; align-items: center; gap: 6px; }
+.onb-legend-dot {
+  width: 11px; height: 11px; border-radius: 50%;
+  display: inline-block; border: 1px solid #fff;
+  box-shadow: 0 0 0 1px var(--c-grey-300);
+}
+.onb-table-wrap {
+  background: #fff; border: 1px solid var(--c-grey-200);
+  border-radius: 8px; overflow: hidden;
+}
+.onb-table-controls {
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--c-grey-200);
+  display: flex; gap: 8px; flex-wrap: wrap;
+  align-items: center; font-size: 12px;
+}
+.onb-table-controls button {
+  font-size: 12px; padding: 5px 10px;
+  background: #fff; border: 1px solid var(--c-grey-200);
+  border-radius: 5px; cursor: pointer;
+  color: var(--c-grey-700);
+}
+.onb-table-controls button.active {
+  background: var(--c-purple-pale); border-color: var(--c-purple);
+  color: var(--c-purple-dark);
+}
+.onb-table {
+  width: 100%; border-collapse: collapse; font-size: 13px;
+}
+.onb-table th {
+  text-align: left; padding: 10px 12px;
+  background: var(--c-grey-50);
+  border-bottom: 1px solid var(--c-grey-200);
+  font-size: 11px; text-transform: uppercase;
+  letter-spacing: 0.05em; color: var(--c-grey-500);
+  font-weight: 500;
+}
+.onb-table td {
+  padding: 10px 12px; border-bottom: 1px solid var(--c-grey-100);
+}
+.onb-table tr:last-child td { border-bottom: none; }
+.onb-table tr.clickable:hover { background: var(--c-grey-50); cursor: pointer; }
+.onb-status-pill {
+  display: inline-block; font-size: 11px; padding: 2px 8px;
+  border-radius: 10px; font-weight: 500;
+}
+.onb-status-newly_elected { background: #fee2e2; color: #991b1b; }
+.onb-status-ward_switcher { background: #fef3c7; color: #92400e; }
+.onb-status-uncertain { background: #f3e8ff; color: #6b21a8; }
+.onb-status-returning { background: #e5e7eb; color: #374151; }
+@media (max-width: 768px) {
+  .onboarding-pane { padding: 14px; }
+  .onb-table { font-size: 12px; }
+  .onb-table th, .onb-table td { padding: 8px 10px; }
+}
+
 /* Search */
 .search-box {
   width: 100%;
@@ -1435,6 +1545,7 @@ footer.app-footer {
   <div class="view-toggle" role="tablist" aria-label="View toggle">
     <button data-view="officer" class="active" role="tab" aria-selected="true">Officer</button>
     <button data-view="member" role="tab" aria-selected="false">Member</button>
+    <button data-view="onboarding" role="tab" aria-selected="false">Onboarding</button>
   </div>
   <span class="user-pill" id="user-pill" style="margin-left:auto">Restricted Experimental Use Only</span>
 </header>
@@ -1451,6 +1562,10 @@ footer.app-footer {
       <div class="overlay-warning" id="overlay-warning">
         Political result overlay active. Use only for restricted briefings — do not screenshare.
       </div>
+      <label class="marker-toggle" id="marker-toggle-label" hidden>
+        <input type="checkbox" id="show-markers-toggle">
+        <span>Show new-member markers</span>
+      </label>
     </div>
 
     <div>
@@ -1595,13 +1710,17 @@ footer.app-footer {
           "name": "Ben-Hassel, Leila",
           "party_code": "LAB",
           "party": "Labour",
-          "note": "Labour hold. Griffiths replaced by Wentworth (Co-op tag dropped)"
+          "note": "Labour hold. Griffiths replaced by Wentworth (Co-op tag dropped)",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Wentworth, John",
           "party_code": "LAB",
           "party": "Labour",
-          "note": "Labour hold. Griffiths replaced by Wentworth (Co-op tag dropped)"
+          "note": "Labour hold. Griffiths replaced by Wentworth (Co-op tag dropped)",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         }
       ]
     },
@@ -1663,13 +1782,17 @@ footer.app-footer {
           "name": "Srinivasan, Appu",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "LCP hold. Flemming replaced by Setchfield"
+          "note": "LCP hold. Flemming replaced by Setchfield",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Setchfield, Julie",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "LCP hold. Flemming replaced by Setchfield"
+          "note": "LCP hold. Flemming replaced by Setchfield",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         }
       ]
     },
@@ -1731,19 +1854,25 @@ footer.app-footer {
           "name": "Campbell, Janet",
           "party_code": "LAB",
           "party": "Labour",
-          "note": "Labour hold. Reshekaron out, Daoud in"
+          "note": "Labour hold. Reshekaron out, Daoud in",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Daoud, Rym",
           "party_code": "LAB",
           "party": "Labour",
-          "note": "Labour hold. Reshekaron out, Daoud in"
+          "note": "Labour hold. Reshekaron out, Daoud in",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         },
         {
           "name": "King, Stuart",
           "party_code": "LAB",
           "party": "Labour",
-          "note": "Labour hold. Reshekaron out, Daoud in"
+          "note": "Labour hold. Reshekaron out, Daoud in",
+          "seat_status": "returning",
+          "first_term_ever": null
         }
       ]
     },
@@ -1805,19 +1934,25 @@ footer.app-footer {
           "name": "Kabir, Humayun",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "LCP hold. two incumbents replaced"
+          "note": "LCP hold. two incumbents replaced",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Manoharan, Mohana",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "LCP hold. two incumbents replaced"
+          "note": "LCP hold. two incumbents replaced",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         },
         {
           "name": "Sandover, Ellie",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "LCP hold. two incumbents replaced"
+          "note": "LCP hold. two incumbents replaced",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         }
       ]
     },
@@ -1879,19 +2014,25 @@ footer.app-footer {
           "name": "Fernandes, Jose",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "Labour hold. full councillor turnover; Jewitt blocked from re-standing"
+          "note": "Labour hold. full councillor turnover; Jewitt blocked from re-standing",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         },
         {
           "name": "Newton, Vicky",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "Labour hold. full councillor turnover; Jewitt blocked from re-standing"
+          "note": "Labour hold. full councillor turnover; Jewitt blocked from re-standing",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         },
         {
           "name": "Taylor, Ben",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "Labour hold. full councillor turnover; Jewitt blocked from re-standing"
+          "note": "Labour hold. full councillor turnover; Jewitt blocked from re-standing",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         }
       ]
     },
@@ -1953,19 +2094,25 @@ footer.app-footer {
           "name": "Hague, Tracey",
           "party_code": "GRN",
           "party": "Green",
-          "note": "GREEN GAIN x2 from Labour. full councillor turnover"
+          "note": "GREEN GAIN x2 from Labour. full councillor turnover",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         },
         {
           "name": "Felten, Melanie",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "GREEN GAIN x2 from Labour. full councillor turnover"
+          "note": "GREEN GAIN x2 from Labour. full councillor turnover",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         },
         {
           "name": "Post, Martyn",
           "party_code": "GRN",
           "party": "Green",
-          "note": "GREEN GAIN x2 from Labour. full councillor turnover"
+          "note": "GREEN GAIN x2 from Labour. full councillor turnover",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         }
       ]
     },
@@ -2027,19 +2174,25 @@ footer.app-footer {
           "name": "Bonham, Claire",
           "party_code": "LD",
           "party": "Liberal Democrats",
-          "note": "GREEN GAIN x2 from Labour. major shift; Adderley suspended by Greens pre-poll but elected"
+          "note": "GREEN GAIN x2 from Labour. major shift; Adderley suspended by Greens pre-poll but elected",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Vesty, Natalie",
           "party_code": "GRN",
           "party": "Green",
-          "note": "GREEN GAIN x2 from Labour. major shift; Adderley suspended by Greens pre-poll but elected"
+          "note": "GREEN GAIN x2 from Labour. major shift; Adderley suspended by Greens pre-poll but elected",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         },
         {
           "name": "Adderley, Mark",
           "party_code": "GRN",
           "party": "Green",
-          "note": "GREEN GAIN x2 from Labour. major shift; Adderley suspended by Greens pre-poll but elected"
+          "note": "GREEN GAIN x2 from Labour. major shift; Adderley suspended by Greens pre-poll but elected",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         }
       ]
     },
@@ -2101,13 +2254,17 @@ footer.app-footer {
           "name": "Wilson, Catherine",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "Labour hold. both incumbents return (now under LCP tag)"
+          "note": "Labour hold. both incumbents return (now under LCP tag)",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Islam, Mohammed Amirul",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "Labour hold. both incumbents return (now under LCP tag)"
+          "note": "Labour hold. both incumbents return (now under LCP tag)",
+          "seat_status": "returning",
+          "first_term_ever": null
         }
       ]
     },
@@ -2169,19 +2326,25 @@ footer.app-footer {
           "name": "Amoah, Aba",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "Labour hold. two incumbents replaced"
+          "note": "Labour hold. two incumbents replaced",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         },
         {
           "name": "Bowell, Tom",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "Labour hold. two incumbents replaced"
+          "note": "Labour hold. two incumbents replaced",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         },
         {
           "name": "Shahul-Hameed, Manju",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "Labour hold. two incumbents replaced"
+          "note": "Labour hold. two incumbents replaced",
+          "seat_status": "returning",
+          "first_term_ever": null
         }
       ]
     },
@@ -2243,19 +2406,25 @@ footer.app-footer {
           "name": "Patel, Ria",
           "party_code": "GRN",
           "party": "Green",
-          "note": "GREEN GAIN from Labour. Greens clean sweep"
+          "note": "GREEN GAIN from Labour. Greens clean sweep",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         },
         {
           "name": "Sutton, Esther",
           "party_code": "GRN",
           "party": "Green",
-          "note": "GREEN GAIN from Labour. Greens clean sweep"
+          "note": "GREEN GAIN from Labour. Greens clean sweep",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         },
         {
           "name": "Ainscough, Paul",
           "party_code": "GRN",
           "party": "Green",
-          "note": "GREEN GAIN from Labour. Greens clean sweep"
+          "note": "GREEN GAIN from Labour. Greens clean sweep",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         }
       ]
     },
@@ -2317,19 +2486,25 @@ footer.app-footer {
           "name": "Davis, Rowenna",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "LABOUR GAIN from Conservative. Fox defeated"
+          "note": "LABOUR GAIN from Conservative. Fox defeated",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Attwater, Sam",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "LABOUR GAIN from Conservative. Fox defeated"
+          "note": "LABOUR GAIN from Conservative. Fox defeated",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         },
         {
           "name": "Ponnuthurai, Ellily",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "LABOUR GAIN from Conservative. Fox defeated"
+          "note": "LABOUR GAIN from Conservative. Fox defeated",
+          "seat_status": "returning",
+          "first_term_ever": null
         }
       ]
     },
@@ -2391,19 +2566,25 @@ footer.app-footer {
           "name": "Beall, Nick",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "LCP hold. Fraser out, Beall in"
+          "note": "LCP hold. Fraser out, Beall in",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         },
         {
           "name": "Hay-Justice, Patricia",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "LCP hold. Fraser out, Beall in"
+          "note": "LCP hold. Fraser out, Beall in",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Fitzsimons, Sean",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "LCP hold. Fraser out, Beall in"
+          "note": "LCP hold. Fraser out, Beall in",
+          "seat_status": "returning",
+          "first_term_ever": null
         }
       ]
     },
@@ -2465,13 +2646,17 @@ footer.app-footer {
           "name": "Bains, Jeet",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Split retained. both incumbents return"
+          "note": "Split retained. both incumbents return",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Henson, Maddie",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "Split retained. both incumbents return"
+          "note": "Split retained. both incumbents return",
+          "seat_status": "returning",
+          "first_term_ever": null
         }
       ]
     },
@@ -2533,19 +2718,25 @@ footer.app-footer {
           "name": "Foster, Amy",
           "party_code": "LAB",
           "party": "Labour",
-          "note": "GREEN GAIN from Labour. Rich defeated; ward had highest candidate count (18)"
+          "note": "GREEN GAIN from Labour. Rich defeated; ward had highest candidate count (18)",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Graham, Brigitte",
           "party_code": "LAB",
           "party": "Labour",
-          "note": "GREEN GAIN from Labour. Rich defeated; ward had highest candidate count (18)"
+          "note": "GREEN GAIN from Labour. Rich defeated; ward had highest candidate count (18)",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Bradnam, Laura",
           "party_code": "GRN",
           "party": "Green",
-          "note": "GREEN GAIN from Labour. Rich defeated; ward had highest candidate count (18)"
+          "note": "GREEN GAIN from Labour. Rich defeated; ward had highest candidate count (18)",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         }
       ]
     },
@@ -2607,7 +2798,9 @@ footer.app-footer {
           "name": "Price, Andrew",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. incumbent returns"
+          "note": "Conservative hold. incumbent returns",
+          "seat_status": "returning",
+          "first_term_ever": null
         }
       ]
     },
@@ -2669,19 +2862,25 @@ footer.app-footer {
           "name": "Denton, Danielle",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. Gatland out, Dormer in"
+          "note": "Conservative hold. Gatland out, Dormer in",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Neal, Michael",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. Gatland out, Dormer in"
+          "note": "Conservative hold. Gatland out, Dormer in",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Dormer, Matthew",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. Gatland out, Dormer in"
+          "note": "Conservative hold. Gatland out, Dormer in",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         }
       ]
     },
@@ -2743,19 +2942,25 @@ footer.app-footer {
           "name": "Bennett, Sue",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. same three incumbents"
+          "note": "Conservative hold. same three incumbents",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Johnson, Mark",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. same three incumbents"
+          "note": "Conservative hold. same three incumbents",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Chatterjee, Richard",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. same three incumbents"
+          "note": "Conservative hold. same three incumbents",
+          "seat_status": "returning",
+          "first_term_ever": null
         }
       ]
     },
@@ -2817,13 +3022,17 @@ footer.app-footer {
           "name": "Cummings, Jason",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. both incumbents return"
+          "note": "Conservative hold. both incumbents return",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Roche, Scott",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. both incumbents return"
+          "note": "Conservative hold. both incumbents return",
+          "seat_status": "returning",
+          "first_term_ever": null
         }
       ]
     },
@@ -2885,13 +3094,17 @@ footer.app-footer {
           "name": "Lee, Joseph",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. both incumbents return"
+          "note": "Conservative hold. both incumbents return",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Ward, Robert",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. both incumbents return"
+          "note": "Conservative hold. both incumbents return",
+          "seat_status": "returning",
+          "first_term_ever": null
         }
       ]
     },
@@ -2953,13 +3166,17 @@ footer.app-footer {
           "name": "Barwell, Jack",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. Zaman out, Barwell in"
+          "note": "Conservative hold. Zaman out, Barwell in",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         },
         {
           "name": "Stranack, Andy",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. Zaman out, Barwell in"
+          "note": "Conservative hold. Zaman out, Barwell in",
+          "seat_status": "returning",
+          "first_term_ever": null
         }
       ]
     },
@@ -3021,13 +3238,17 @@ footer.app-footer {
           "name": "Agboola, Kola",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "LABOUR GAIN from Conservative. Benson defeated"
+          "note": "LABOUR GAIN from Conservative. Benson defeated",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Ahorgah-Dorfia, Afuah",
           "party_code": "LCP",
           "party": "Labour and Co-operative",
-          "note": "LABOUR GAIN from Conservative. Benson defeated"
+          "note": "LABOUR GAIN from Conservative. Benson defeated",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         }
       ]
     },
@@ -3089,13 +3310,17 @@ footer.app-footer {
           "name": "Holman, Scott",
           "party_code": "REF",
           "party": "Reform UK",
-          "note": "REFORM UK GAIN x2 from Conservative. first Reform seats in Croydon"
+          "note": "REFORM UK GAIN x2 from Conservative. first Reform seats in Croydon",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         },
         {
           "name": "Kellett, Adam",
           "party_code": "REF",
           "party": "Reform UK",
-          "note": "REFORM UK GAIN x2 from Conservative. first Reform seats in Croydon"
+          "note": "REFORM UK GAIN x2 from Conservative. first Reform seats in Croydon",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         }
       ]
     },
@@ -3157,19 +3382,25 @@ footer.app-footer {
           "name": "Brew, Simon",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. Ramsey out, Hillam in"
+          "note": "Conservative hold. Ramsey out, Hillam in",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Dwesar, Samir",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. Ramsey out, Hillam in"
+          "note": "Conservative hold. Ramsey out, Hillam in",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Hillam, James",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. Ramsey out, Hillam in"
+          "note": "Conservative hold. Ramsey out, Hillam in",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         }
       ]
     },
@@ -3231,13 +3462,17 @@ footer.app-footer {
           "name": "Stewart, Alasdair",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. both incumbents return"
+          "note": "Conservative hold. both incumbents return",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Llabuti, Endri",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. both incumbents return"
+          "note": "Conservative hold. both incumbents return",
+          "seat_status": "returning",
+          "first_term_ever": null
         }
       ]
     },
@@ -3299,19 +3534,25 @@ footer.app-footer {
           "name": "Hale, Lynne",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. same three incumbents (safest ward in borough)"
+          "note": "Conservative hold. same three incumbents (safest ward in borough)",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Hopley, Yvette",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. same three incumbents (safest ward in borough)"
+          "note": "Conservative hold. same three incumbents (safest ward in borough)",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Redfern, Helen",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. same three incumbents (safest ward in borough)"
+          "note": "Conservative hold. same three incumbents (safest ward in borough)",
+          "seat_status": "returning",
+          "first_term_ever": null
         }
       ]
     },
@@ -3373,19 +3614,25 @@ footer.app-footer {
           "name": "Sherine Thampi, Nikhil",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. Creatura out, Sherine Thampi in (moved from Old Coulsdon)"
+          "note": "Conservative hold. Creatura out, Sherine Thampi in (moved from Old Coulsdon)",
+          "seat_status": "ward_switcher",
+          "first_term_ever": false
         },
         {
           "name": "Parker, Ian",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. Creatura out, Sherine Thampi in (moved from Old Coulsdon)"
+          "note": "Conservative hold. Creatura out, Sherine Thampi in (moved from Old Coulsdon)",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Shortland, Luke",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. Creatura out, Sherine Thampi in (moved from Old Coulsdon)"
+          "note": "Conservative hold. Creatura out, Sherine Thampi in (moved from Old Coulsdon)",
+          "seat_status": "returning",
+          "first_term_ever": null
         }
       ]
     },
@@ -3447,13 +3694,17 @@ footer.app-footer {
           "name": "Bird, Margaret",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "LIB DEM GAIN from Conservative. Thampi switched to Coulsdon Town"
+          "note": "LIB DEM GAIN from Conservative. Thampi switched to Coulsdon Town",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Hickson, Gill",
           "party_code": "LD",
           "party": "Liberal Democrats",
-          "note": "LIB DEM GAIN from Conservative. Thampi switched to Coulsdon Town"
+          "note": "LIB DEM GAIN from Conservative. Thampi switched to Coulsdon Town",
+          "seat_status": "newly_elected",
+          "first_term_ever": null
         }
       ]
     },
@@ -3515,13 +3766,17 @@ footer.app-footer {
           "name": "Gander, Gayle",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. both incumbents return"
+          "note": "Conservative hold. both incumbents return",
+          "seat_status": "returning",
+          "first_term_ever": null
         },
         {
           "name": "Kolade, Ola",
           "party_code": "CON",
           "party": "Local Conservatives",
-          "note": "Conservative hold. both incumbents return"
+          "note": "Conservative hold. both incumbents return",
+          "seat_status": "returning",
+          "first_term_ever": null
         }
       ]
     }
@@ -6252,7 +6507,7 @@ footer.app-footer {
 
   // ----- App state -----
   const state = {
-    view: (typeof sessionStorage !== 'undefined' && sessionStorage.getItem('view')) || 'officer',  // 'officer' | 'member'
+    view: (typeof sessionStorage !== 'undefined' && sessionStorage.getItem('view')) || 'officer',  // 'officer' | 'member' | 'onboarding'
     selectedWard: null,
     overlay: 'none',
     search: '',
@@ -6264,6 +6519,8 @@ footer.app-footer {
     matchedCouncillors: {},  // ward -> matched councillor name (for search visual validation)
     wardSignals: null,      // loaded from data/ward-signals.json on init
     wardSignalsError: null, // string if fetch failed
+    showMarkers: false,     // user toggle: show new-member markers on officer map
+    onboardingFilter: 'all', // onboarding view filter: 'all' | 'newly_elected' | 'ward_switcher' | 'uncertain' | 'returning'
   };
 
   // ----- Map rendering -----
@@ -6379,6 +6636,29 @@ footer.app-footer {
         html += `<text x="${cx}" y="${cy + 1}" class="ward-label">${label}</text>`;
       }
     });
+    // Third pass: seat markers (only if markers toggle is on, or in onboarding view)
+    const showMarkers = state.showMarkers || state.view === 'onboarding';
+    if (showMarkers) {
+      wardKeys.forEach(w => {
+        const ward = D.wards[w];
+        const cs = ward.councillors || [];
+        if (cs.length === 0) return;
+        // Position markers below ward label
+        const baseX = ward.cx;
+        const baseY = ward.cy + 9;
+        const dotR = 2.3;
+        const dotSpacing = 5.5;
+        const n = cs.length;
+        const totalWidth = (n - 1) * dotSpacing;
+        cs.forEach((c, i) => {
+          const x = baseX - totalWidth / 2 + i * dotSpacing;
+          const statusClass = c.seat_status || 'uncertain';
+          const firstTermClass = c.first_term_ever === true ? ' first_term' : '';
+          const title = `${c.name} (${c.party_code || '?'}) — ${statusLabel(statusClass)}`;
+          html += `<circle cx="${x}" cy="${baseY}" r="${dotR}" class="seat-marker ${statusClass}${firstTermClass}" data-ward="${w}"><title>${title}</title></circle>`;
+        });
+      });
+    }
     svg.innerHTML = html;
     svg.querySelectorAll('.ward-hex').forEach(el => {
       el.addEventListener('click', () => selectWard(el.dataset.ward));
@@ -6389,6 +6669,21 @@ footer.app-footer {
         }
       });
     });
+    // Markers are clickable too — same selection behaviour
+    svg.querySelectorAll('.seat-marker').forEach(el => {
+      el.addEventListener('click', (e) => {
+        e.stopPropagation();
+        selectWard(el.dataset.ward);
+      });
+    });
+  }
+
+  function statusLabel(s) {
+    if (s === 'returning') return 'Returning incumbent';
+    if (s === 'ward_switcher') return 'Was councillor in another ward';
+    if (s === 'newly_elected') return 'Newly elected May 2026';
+    if (s === 'uncertain') return 'Status uncertain — verify';
+    return s;
   }
 
   // Abbreviate ward names to fit inside their polygons
@@ -6528,7 +6823,18 @@ footer.app-footer {
     renderDetail();
   }
 
-  // ----- View toggle (officer / member) -----
+  // ----- View toggle (officer / member / onboarding) -----
+  function updateMarkerToggleVisibility() {
+    // Marker checkbox only visible in officer view; hidden in member and onboarding.
+    const el = document.getElementById('marker-toggle-label');
+    if (!el) return;
+    if (state.view === 'officer') {
+      el.hidden = false;
+    } else {
+      el.hidden = true;
+    }
+  }
+
   document.querySelectorAll('.view-toggle button').forEach(btn => {
     if (btn.dataset.view === state.view) {
       btn.classList.add('active');
@@ -6543,14 +6849,34 @@ footer.app-footer {
       // Clear chat history on view switch (chat is member-only)
       state.chatMessages = [];
       state.chatExpanded = false;
+      // Clear selected ward when switching to onboarding (it has its own selection model)
+      if (state.view === 'onboarding') {
+        state.selectedWard = null;
+        document.body.classList.remove('has-ward');
+      }
       document.querySelectorAll('.view-toggle button').forEach(b => {
         const active = b.dataset.view === state.view;
         b.classList.toggle('active', active);
         b.setAttribute('aria-selected', String(active));
       });
+      updateMarkerToggleVisibility();
+      renderMap();
       renderDetail();
     });
   });
+
+  // Initial visibility
+  updateMarkerToggleVisibility();
+
+  // ----- Marker toggle checkbox -----
+  const markerToggle = document.getElementById('show-markers-toggle');
+  if (markerToggle) {
+    markerToggle.checked = state.showMarkers;
+    markerToggle.addEventListener('change', () => {
+      state.showMarkers = markerToggle.checked;
+      renderMap();
+    });
+  }
 
   // ----- Floating chat: launcher / minimise / close -----
   const launcherBtn = document.getElementById('chat-launcher');
@@ -6606,6 +6932,13 @@ footer.app-footer {
   // ----- Detail pane rendering -----
   function renderDetail() {
     const pane = document.getElementById('detail-pane');
+    // Onboarding view is its own full-pane experience; ignore selectedWard
+    if (state.view === 'onboarding') {
+      pane.innerHTML = renderOnboardingView();
+      wireOnboardingHandlers();
+      updateChatVisibility();
+      return;
+    }
     if (!state.selectedWard) {
       pane.innerHTML = renderHome();
       updateChatVisibility();
@@ -6660,6 +6993,159 @@ footer.app-footer {
   }
 
   // ----- Borough overview (no ward selected) -----
+  function renderOnboardingView() {
+    // Collate all councillors from all wards into a flat list with ward attached
+    const all = [];
+    Object.keys(D.wards).forEach(w => {
+      const ward = D.wards[w];
+      (ward.councillors || []).forEach(c => {
+        all.push({
+          name: c.name,
+          party_code: c.party_code,
+          party: c.party,
+          ward: w,
+          locality: ward.locality,
+          seat_status: c.seat_status || 'uncertain',
+          first_term_ever: c.first_term_ever,
+        });
+      });
+    });
+
+    // Count by status
+    const counts = { returning: 0, newly_elected: 0, ward_switcher: 0, uncertain: 0 };
+    all.forEach(c => { counts[c.seat_status] = (counts[c.seat_status] || 0) + 1; });
+    const newCount = counts.newly_elected + counts.ward_switcher + counts.uncertain;
+
+    // Count first-term verified
+    const firstTermCount = all.filter(c => c.first_term_ever === true).length;
+
+    // Apply filter
+    const filt = state.onboardingFilter;
+    let shown = all.slice();
+    if (filt !== 'all') {
+      shown = all.filter(c => c.seat_status === filt);
+    }
+    // Sort: by status (newly_elected first, then ward_switcher, uncertain, returning), then by ward
+    const statusOrder = { newly_elected: 0, ward_switcher: 1, uncertain: 2, returning: 3 };
+    shown.sort((a, b) => {
+      const sa = statusOrder[a.seat_status] ?? 9;
+      const sb = statusOrder[b.seat_status] ?? 9;
+      if (sa !== sb) return sa - sb;
+      if (a.ward !== b.ward) return a.ward.localeCompare(b.ward);
+      return (a.name || '').localeCompare(b.name || '');
+    });
+
+    const filterBtn = (id, label, count) => {
+      const cls = state.onboardingFilter === id ? 'active' : '';
+      return `<button data-filter="${id}" class="${cls}">${escapeHtml(label)}${count !== undefined ? ' · ' + count : ''}</button>`;
+    };
+
+    const rows = shown.map(c => {
+      const sLabel = escapeHtml(statusLabel(c.seat_status));
+      const firstTermBadge = c.first_term_ever === true
+        ? '<span class="muted" style="font-size:11px; margin-left:6px">· first term verified</span>'
+        : (c.first_term_ever === false
+            ? '<span class="muted" style="font-size:11px; margin-left:6px">· prior council experience</span>'
+            : '');
+      return `<tr class="clickable" data-ward="${escapeHtml(c.ward)}">
+        <td>${escapeHtml(formatName(c.name))}${firstTermBadge}</td>
+        <td>${escapeHtml(c.ward)}</td>
+        <td>${escapeHtml(c.locality || '—')}</td>
+        <td>${escapeHtml(c.party_code || '?')}</td>
+        <td><span class="onb-status-pill onb-status-${c.seat_status}">${sLabel}</span></td>
+      </tr>`;
+    }).join('');
+
+    return `<div class="onboarding-pane">
+      <h2>Member onboarding</h2>
+      <div class="subtitle">Where new councillors took office in May 2026. Use this view to plan induction sessions, ward-relationship building, and to flag wards where officer–member relationships are forming from scratch. Click a row to open the full ward profile.</div>
+
+      <div class="onboarding-stats">
+        <div class="onb-stat-card"><span class="num">${newCount}</span><span class="lbl">New or to-verify seats</span></div>
+        <div class="onb-stat-card"><span class="num">${counts.newly_elected}</span><span class="lbl">Newly elected May 2026</span></div>
+        <div class="onb-stat-card"><span class="num">${counts.ward_switcher}</span><span class="lbl">Ward switchers</span></div>
+        <div class="onb-stat-card"><span class="num">${counts.uncertain}</span><span class="lbl">Status to verify</span></div>
+        <div class="onb-stat-card"><span class="num">${counts.returning}</span><span class="lbl">Returning incumbents</span></div>
+      </div>
+
+      <div class="onb-legend">
+        <span class="onb-legend-item"><span class="onb-legend-dot" style="background:#dc2626"></span>Newly elected (not on previous council)</span>
+        <span class="onb-legend-item"><span class="onb-legend-dot" style="background:#f59e0b"></span>Ward switcher (was councillor elsewhere)</span>
+        <span class="onb-legend-item"><span class="onb-legend-dot" style="background:#9333ea"></span>Status uncertain — verify</span>
+        <span class="onb-legend-item"><span class="onb-legend-dot" style="background:#94a3b8"></span>Returning incumbent (same ward)</span>
+        <span class="onb-legend-item"><span class="onb-legend-dot" style="background:#fff; border:1.4px solid #000"></span>First-term ever (verified)</span>
+      </div>
+
+      <div class="muted" style="font-size:12px; margin-bottom:10px">
+        <strong>First-term-ever data is not yet populated</strong> — the prototype defaults all newly-elected councillors to "unknown" for that category. Confirmed prior council experience can be entered per-councillor (e.g. Gavin Barwell ex-MP) once verified by the Member Services team.
+      </div>
+
+      <div class="onb-table-wrap">
+        <div class="onb-table-controls">
+          <span style="font-weight:500; margin-right:4px">Filter:</span>
+          ${filterBtn('all', 'All (70)')}
+          ${filterBtn('newly_elected', 'Newly elected', counts.newly_elected)}
+          ${filterBtn('ward_switcher', 'Ward switcher', counts.ward_switcher)}
+          ${filterBtn('uncertain', 'To verify', counts.uncertain)}
+          ${filterBtn('returning', 'Returning', counts.returning)}
+        </div>
+        <table class="onb-table" role="table">
+          <thead>
+            <tr>
+              <th>Councillor</th>
+              <th>Ward</th>
+              <th>Locality</th>
+              <th>Party</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+          <tbody>${rows}</tbody>
+        </table>
+      </div>
+    </div>`;
+  }
+
+  function wireOnboardingHandlers() {
+    // Filter buttons
+    document.querySelectorAll('.onb-table-controls button').forEach(b => {
+      b.addEventListener('click', () => {
+        state.onboardingFilter = b.dataset.filter;
+        renderDetail();
+      });
+    });
+    // Clicking a row opens that ward in officer view
+    document.querySelectorAll('.onb-table tr.clickable').forEach(tr => {
+      tr.addEventListener('click', () => {
+        const w = tr.dataset.ward;
+        if (!w) return;
+        state.view = 'officer';
+        try { sessionStorage.setItem('view', state.view); } catch (e) {}
+        state.selectedWard = w;
+        document.body.classList.add('has-ward');
+        // Sync view-toggle buttons
+        document.querySelectorAll('.view-toggle button').forEach(b => {
+          const active = b.dataset.view === state.view;
+          b.classList.toggle('active', active);
+          b.setAttribute('aria-selected', String(active));
+        });
+        updateMarkerToggleVisibility();
+        renderMap();
+        renderDetail();
+        if (window.innerWidth <= 768) window.scrollTo({ top: 0, behavior: 'instant' });
+      });
+    });
+  }
+
+  // Format "Surname, Firstname" → "Firstname Surname" for display
+  function formatName(n) {
+    if (!n) return '';
+    if (n.includes(',')) {
+      const parts = n.split(',');
+      return (parts[1] || '').trim() + ' ' + (parts[0] || '').trim();
+    }
+    return n;
+  }
+
   function renderHome() {
     const b = D.borough;
     const partySegments = Object.entries(b.parties)
@@ -6717,8 +7203,14 @@ footer.app-footer {
 
   // ----- Single ward detail view (replaces the three lens-specific views) -----
   function renderWard(ward) {
+    const newBadge = (s) => {
+      if (s === 'newly_elected') return ' <span class="muted" style="font-size:11px; color:#dc2626; font-weight:500">· new</span>';
+      if (s === 'ward_switcher') return ' <span class="muted" style="font-size:11px; color:#92400e; font-weight:500">· moved ward</span>';
+      if (s === 'uncertain')     return ' <span class="muted" style="font-size:11px; color:#6b21a8; font-weight:500">· verify</span>';
+      return '';
+    };
     const cllrList = ward.councillors.map(c =>
-      `<span class="tag party-${c.party_code}">${c.name} (${c.party_code})</span>`).join('');
+      `<span class="tag party-${c.party_code}">${c.name} (${c.party_code})${newBadge(c.seat_status)}</span>`).join('');
     const ucMatches = D.ward_uc_mapping[ward.name] || [];
 
     // Build UC lookup once
