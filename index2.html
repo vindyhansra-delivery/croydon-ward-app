@@ -322,6 +322,48 @@ section.detail-pane {
   display: flex; align-items: center; gap: 10px;
   min-width: 220px;
 }
+
+/* Councillor card (officer view Section A, member view) */
+.cllr-cards {
+  display: flex; flex-wrap: wrap; gap: 14px;
+  margin: 4px 0;
+}
+.cllr-card {
+  display: flex; flex-direction: column;
+  align-items: center;
+  text-align: center;
+  min-width: 90px; max-width: 130px;
+}
+.cllr-avatar.cllr-avatar-lg {
+  width: 56px; height: 56px;
+  font-size: 16px;
+}
+.cllr-card-name {
+  font-size: 12px; font-weight: 500;
+  margin-top: 6px;
+  line-height: 1.25;
+  color: var(--c-grey-900);
+}
+.cllr-card-meta {
+  display: flex; align-items: center; gap: 4px;
+  margin-top: 4px;
+  font-size: 10px;
+}
+.cllr-card-party {
+  font-weight: 500;
+  padding: 1px 6px; border-radius: 9px;
+  font-size: 10px;
+}
+.cllr-card-party.party-CON { background: #cce7f7; color: #00538a; }
+.cllr-card-party.party-LAB { background: #fcd6df; color: #a30025; }
+.cllr-card-party.party-LCP { background: #e7d2e2; color: #4d1342; }
+.cllr-card-party.party-GRN { background: #cfeedb; color: #006637; }
+.cllr-card-party.party-LD  { background: #fdf0c4; color: #8a6500; }
+.cllr-card-party.party-REF { background: #bff0f7; color: #0a7388; }
+.cllr-card-badge {
+  font-size: 10px; padding: 1px 5px; border-radius: 8px;
+  font-weight: 500;
+}
 @media (max-width: 768px) {
   .onboarding-pane { padding: 14px; }
   .onb-table { font-size: 12px; }
@@ -7271,18 +7313,67 @@ footer.app-footer {
   }
 
   // Render a circular avatar element. If a democracy_uid is known the
-  // photo from the council portal is layered over the coloured initials —
-  // if the photo fails to load (no UID, 404, network) the img is removed
-  // and initials show through. No-CORS image fetch is fine because we
-  // only need to display, not read pixel data.
-  function renderAvatar(c) {
+  // photo from the council portal is layered over the coloured initials.
+  // We try multiple URL patterns because moderngov instances vary; if all
+  // fail, the img is removed and initials show through.
+  // Pattern variants tried (in order):
+  //   https://democracy.croydon.gov.uk/mgUserPhotoLarge.aspx?UID=XXXX
+  //   https://democracy.croydon.gov.uk/mgUserPhoto.aspx?UID=XXXX
+  // If Croydon's moderngov uses a different pattern, update photoUrlPatterns().
+  function photoUrlPatterns(uid) {
+    return [
+      `https://democracy.croydon.gov.uk/mgUserPhotoLarge.aspx?UID=${uid}`,
+      `https://democracy.croydon.gov.uk/mgUserPhoto.aspx?UID=${uid}`,
+    ];
+  }
+
+  function renderAvatar(c, size) {
+    const sizeClass = size === 'lg' ? ' cllr-avatar-lg' : '';
     const initials = escapeHtml(getInitials(c.name));
     const partyClass = c.party_code ? 'party-' + c.party_code : '';
     const uid = c.democracy_uid;
-    const photoTag = uid
-      ? `<img src="https://democracy.croydon.gov.uk/mgUserPhotoLarge.aspx?UID=${uid}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`
-      : '';
-    return `<span class="cllr-avatar ${partyClass}" aria-hidden="true">${initials}${photoTag}</span>`;
+    if (!uid) {
+      return `<span class="cllr-avatar ${partyClass}${sizeClass}" aria-hidden="true">${initials}</span>`;
+    }
+    const urls = photoUrlPatterns(uid);
+    const primary = urls[0];
+    const fallback = urls[1] || '';
+    // Photo loads via <img> with no CORS requirements (display only).
+    // referrer-policy: keep the default so the council server gets a sensible referrer.
+    return `<span class="cllr-avatar ${partyClass}${sizeClass}" aria-hidden="true">${initials}<img src="${primary}" data-fallback="${fallback}" alt="" loading="lazy" onerror="window.__photoFallback(this)"></span>`;
+  }
+
+  // Photo fallback chain (used by onerror in renderAvatar)
+  window.__photoFallback = function(img) {
+    const fb = img.getAttribute('data-fallback');
+    if (fb && img.src !== fb) {
+      img.removeAttribute('data-fallback');
+      img.src = fb;
+    } else {
+      img.remove();
+    }
+  };
+
+  // Card-style councillor display (avatar above name, optional status badge).
+  // Used in officer view Section A and member view "Your ward councillors".
+  function renderCouncillorCard(c, opts) {
+    opts = opts || {};
+    const showStatus = opts.showStatus !== false;
+    const avatar = renderAvatar(c, 'lg');
+    const partyLabel = c.party_code ? `<span class="cllr-card-party party-${c.party_code}">${escapeHtml(c.party_code)}</span>` : '';
+    let statusBadge = '';
+    if (showStatus && c.seat_status) {
+      if (c.seat_status === 'newly_elected') {
+        statusBadge = '<span class="cllr-card-badge" style="background:#fee2e2; color:#991b1b">new</span>';
+      } else if (c.seat_status === 'ward_switcher') {
+        statusBadge = '<span class="cllr-card-badge" style="background:#fef3c7; color:#92400e">moved</span>';
+      }
+    }
+    return `<div class="cllr-card" title="${escapeHtml(c.name)} (${c.party_code || '?'})">
+      ${avatar}
+      <div class="cllr-card-name">${escapeHtml(formatName(c.name))}</div>
+      <div class="cllr-card-meta">${partyLabel}${statusBadge}</div>
+    </div>`;
   }
 
   function renderHome() {
@@ -7342,14 +7433,7 @@ footer.app-footer {
 
   // ----- Single ward detail view (replaces the three lens-specific views) -----
   function renderWard(ward) {
-    const newBadge = (s) => {
-      if (s === 'newly_elected') return ' <span class="muted" style="font-size:11px; color:#dc2626; font-weight:500">· new</span>';
-      if (s === 'ward_switcher') return ' <span class="muted" style="font-size:11px; color:#92400e; font-weight:500">· moved ward</span>';
-      if (s === 'uncertain')     return ' <span class="muted" style="font-size:11px; color:#6b21a8; font-weight:500">· verify</span>';
-      return '';
-    };
-    const cllrList = ward.councillors.map(c =>
-      `<span class="tag party-${c.party_code}">${c.name} (${c.party_code})${newBadge(c.seat_status)}</span>`).join('');
+    const cllrCards = ward.councillors.map(c => renderCouncillorCard(c, { showStatus: true })).join('');
     const ucMatches = D.ward_uc_mapping[ward.name] || [];
 
     // Build UC lookup once
@@ -7456,7 +7540,7 @@ footer.app-footer {
         <h3>A. Result and political context</h3>
         <div class="kv-grid">
           <dt>Winning parties</dt><dd>${ward.winning_parties || '—'}</dd>
-          <dt>Councillors</dt><dd>${cllrList || '—'}</dd>
+          <dt>Councillors</dt><dd><div class="cllr-cards">${cllrCards || '—'}</div></dd>
           <dt>Result</dt><dd>${ward.result_interpretation || '—'}</dd>
           <dt>Seat margin</dt><dd>${ward.seat_margin || '—'} (${ward.margin_band || '—'})</dd>
           <dt>Highest unelected</dt><dd>${ward.highest_unelected_candidate || '—'} · ${ward.highest_unelected_party || ''}</dd>
@@ -7514,8 +7598,7 @@ footer.app-footer {
   // MEMBER VIEW
   // ============================================================
   function renderMemberWard(ward) {
-    const cllrList = ward.councillors.map(c =>
-      `<span class="tag party-${c.party_code}">${c.name} (${c.party_code})</span>`).join('');
+    const cllrCards = ward.councillors.map(c => renderCouncillorCard(c, { showStatus: false })).join('');
     const ucMatches = D.ward_uc_mapping[ward.name] || [];
     const demo = D.ward_demographics[ward.name] || {};
 
@@ -7599,7 +7682,7 @@ footer.app-footer {
 
       <div class="detail-section" style="margin-top:18px">
         <h3>Your ward councillors</h3>
-        <div>${cllrList || '—'}</div>
+        <div class="cllr-cards">${cllrCards || '—'}</div>
       </div>
 
       <div class="detail-section">
