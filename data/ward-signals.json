@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-14T09:43:50.900657+00:00",
+    "generated_at": "2026-05-14T18:26:45.260098+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "Littering, 14th May",
+          "url": "https://www.fixmystreet.com/report/9454196",
+          "date": "2026-05-14T17:58:33+00:00",
+          "category": null
+        },
         {
           "title": "Dumped Wardrobe, 13th May",
           "url": "https://www.fixmystreet.com/report/9445374",
@@ -114,6 +120,12 @@
     "Bensham Manor": {
       "fixmystreet": [
         {
+          "title": "Rubbish & flytipping, 14th May",
+          "url": "https://www.fixmystreet.com/report/9452001",
+          "date": "2026-05-14T11:58:10+00:00",
+          "category": null
+        },
+        {
           "title": "Branch in road, 22nd April",
           "url": "https://www.fixmystreet.com/report/9335568",
           "date": "2026-04-22T11:10:25+00:00",
@@ -151,15 +163,15 @@
     "Broad Green": {
       "fixmystreet": [
         {
-          "title": "Hedges, 25th April",
-          "url": "https://www.fixmystreet.com/report/9353901",
-          "date": "2026-04-25T18:50:24+00:00",
+          "title": "Abandoned vehicle, 14th May",
+          "url": "https://www.fixmystreet.com/report/9451422",
+          "date": "2026-05-14T10:37:17+00:00",
           "category": null
         },
         {
-          "title": "Flytipping, 14th April",
-          "url": "https://www.fixmystreet.com/report/9291703",
-          "date": "2026-04-14T12:11:29+00:00",
+          "title": "Hedges, 25th April",
+          "url": "https://www.fixmystreet.com/report/9353901",
+          "date": "2026-04-25T18:50:24+00:00",
           "category": null
         }
       ],
@@ -609,6 +621,12 @@
     "Purley and Woodcote": {
       "fixmystreet": [
         {
+          "title": "Faulty speed camera, 14th May",
+          "url": "https://www.fixmystreet.com/report/9453810",
+          "date": "2026-05-14T16:35:43+00:00",
+          "category": null
+        },
+        {
           "title": "Buses hitting Trees, 13th May",
           "url": "https://www.fixmystreet.com/report/9448946",
           "date": "2026-05-13T20:47:57+00:00",
@@ -773,6 +791,12 @@
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
         {
+          "title": "Road sinking, 14th May",
+          "url": "https://www.fixmystreet.com/report/9453432",
+          "date": "2026-05-14T15:26:34+00:00",
+          "category": null
+        },
+        {
           "title": "Deep Pothole, 12th May",
           "url": "https://www.fixmystreet.com/report/9440108",
           "date": "2026-05-12T11:13:52+00:00",
@@ -852,6 +876,12 @@
     },
     "Shirley North": {
       "fixmystreet": [
+        {
+          "title": "Abandoned bicycle, 14th May",
+          "url": "https://www.fixmystreet.com/report/9454024",
+          "date": "2026-05-14T17:22:46+00:00",
+          "category": null
+        },
         {
           "title": "Road block loose, 9th May",
           "url": "https://www.fixmystreet.com/report/9425158",
@@ -988,12 +1018,6 @@
           "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
           "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Croydon Bach Choir choral workshop, South Croydon, May 16",
-          "url": "https://insidecroydon.com/2026/05/03/croydon-bach-choir-choral-workshop-south-croydon-may-16-2/",
-          "date": "2026-05-03T09:35:57+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -1121,6 +1145,30 @@
     },
     "Waddon": {
       "fixmystreet": [
+        {
+          "title": "Partially blocked drain, 14th May",
+          "url": "https://www.fixmystreet.com/report/9453562",
+          "date": "2026-05-14T15:46:18+00:00",
+          "category": null
+        },
+        {
+          "title": "Blocked drain, 14th May",
+          "url": "https://www.fixmystreet.com/report/9453532",
+          "date": "2026-05-14T15:41:19+00:00",
+          "category": null
+        },
+        {
+          "title": "Blocked Drain, 14th May",
+          "url": "https://www.fixmystreet.com/report/9453527",
+          "date": "2026-05-14T15:39:57+00:00",
+          "category": null
+        },
+        {
+          "title": "Blocked drain., 14th May",
+          "url": "https://www.fixmystreet.com/report/9453516",
+          "date": "2026-05-14T15:38:42+00:00",
+          "category": null
+        },
         {
           "title": "Unauthorized Parking, 13th May",
           "url": "https://www.fixmystreet.com/report/9448026",
