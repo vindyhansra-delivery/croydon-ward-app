@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-15T17:20:27.133898+00:00",
+    "generated_at": "2026-05-15T21:43:11.078480+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -1124,12 +1124,6 @@
           "title": "Parking causing entry and exit difficult., 29th April",
           "url": "https://www.fixmystreet.com/report/9373555",
           "date": "2026-04-29T13:08:49+00:00",
-          "category": null
-        },
-        {
-          "title": "Pothole, 15th April",
-          "url": "https://www.fixmystreet.com/report/9300694",
-          "date": "2026-04-15T20:07:30+00:00",
           "category": null
         }
       ],
