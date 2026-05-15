@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-14T18:26:45.260098+00:00",
+    "generated_at": "2026-05-15T10:05:53.950522+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -450,6 +450,12 @@
     "Norbury and Pollards Hill": {
       "fixmystreet": [
         {
+          "title": "Fly-tip Darcy Rad, 15th May",
+          "url": "https://www.fixmystreet.com/report/9456188",
+          "date": "2026-05-15T08:44:11+00:00",
+          "category": null
+        },
+        {
           "title": "Bags of rubbish dumped in street, 11th May",
           "url": "https://www.fixmystreet.com/report/9433921",
           "date": "2026-05-11T11:32:12+00:00",
@@ -503,6 +509,12 @@
     },
     "Old Coulsdon": {
       "fixmystreet": [
+        {
+          "title": "Needs road markings repainted, 14th May",
+          "url": "https://www.fixmystreet.com/report/9454468",
+          "date": "2026-05-14T18:55:50+00:00",
+          "category": null
+        },
         {
           "title": "Toilet window smashed, 10th May",
           "url": "https://www.fixmystreet.com/report/9428615",
@@ -620,6 +632,12 @@
     },
     "Purley and Woodcote": {
       "fixmystreet": [
+        {
+          "title": "Speed camera flashing purley way a23, 14th May",
+          "url": "https://www.fixmystreet.com/report/9454808",
+          "date": "2026-05-14T20:39:47+00:00",
+          "category": null
+        },
         {
           "title": "Faulty speed camera, 14th May",
           "url": "https://www.fixmystreet.com/report/9453810",
@@ -1052,12 +1070,6 @@
           "url": "https://www.fixmystreet.com/report/9346071",
           "date": "2026-04-24T14:53:52+00:00",
           "category": null
-        },
-        {
-          "title": "Abandoned vehicle, 14th April",
-          "url": "https://www.fixmystreet.com/report/9294578",
-          "date": "2026-04-14T19:44:06+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -1268,6 +1280,18 @@
     "Woodside": {
       "fixmystreet": [
         {
+          "title": "Flooding, 15th May",
+          "url": "https://www.fixmystreet.com/report/9455977",
+          "date": "2026-05-15T08:20:31+00:00",
+          "category": null
+        },
+        {
+          "title": "Overflowing bin, 15th May",
+          "url": "https://www.fixmystreet.com/report/9455625",
+          "date": "2026-05-15T07:32:03+00:00",
+          "category": null
+        },
+        {
           "title": "Abandoned Tesco Trolley, 13th May",
           "url": "https://www.fixmystreet.com/report/9448113",
           "date": "2026-05-13T17:08:32+00:00",
@@ -1313,18 +1337,6 @@
           "title": "Rubbish, 21st April",
           "url": "https://www.fixmystreet.com/report/9327644",
           "date": "2026-04-21T07:54:29+00:00",
-          "category": null
-        },
-        {
-          "title": "Side road 20 sign is facing the wrong way so it’s causing confusion, 17th April",
-          "url": "https://www.fixmystreet.com/report/9308926",
-          "date": "2026-04-17T09:25:55+00:00",
-          "category": null
-        },
-        {
-          "title": "Long pothole in road outside my house, 15th April",
-          "url": "https://www.fixmystreet.com/report/9300543",
-          "date": "2026-04-15T19:23:41+00:00",
           "category": null
         }
       ],
