@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T07:36:22.483914+00:00",
+    "generated_at": "2026-05-16T15:42:48.624704+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -135,12 +135,6 @@
           "title": "Flytipping, 21st April",
           "url": "https://www.fixmystreet.com/report/9330728",
           "date": "2026-04-21T13:42:22+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned motorbike in Thornton Heath Recreation ground, 16th April",
-          "url": "https://www.fixmystreet.com/report/9302457",
-          "date": "2026-04-16T08:50:34+00:00",
           "category": null
         }
       ],
@@ -423,12 +417,6 @@
           "url": "https://www.fixmystreet.com/report/9357668",
           "date": "2026-04-26T19:58:38+00:00",
           "category": null
-        },
-        {
-          "title": "Near zebra crossing, 16th April",
-          "url": "https://www.fixmystreet.com/report/9305273",
-          "date": "2026-04-16T14:39:55+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -443,12 +431,6 @@
           "title": "#LocalElections2026: Live coverage from the Croydon count",
           "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
           "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "The Toss-cars 2026: We name Croydon’s laziest councillors",
-          "url": "https://insidecroydon.com/2026/05/04/the-toss-cars-2026-we-name-croydons-laziest-councillors/",
-          "date": "2026-05-04T14:08:03+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -559,6 +541,12 @@
     "Park Hill and Whitgift": {
       "fixmystreet": [
         {
+          "title": "Large graffito on the wall along Fairfield Path, between Cotelands and Altyre Road, 16th May",
+          "url": "https://www.fixmystreet.com/report/9461595",
+          "date": "2026-05-16T11:36:07+00:00",
+          "category": null
+        },
+        {
           "title": "Significant amounts of flytipping along lane in Lloyd Park, 8th May",
           "url": "https://www.fixmystreet.com/report/9422093",
           "date": "2026-05-08T14:11:33+00:00",
@@ -611,12 +599,6 @@
           "title": "Hedge encroaching on road, 18th April",
           "url": "https://www.fixmystreet.com/report/9314478",
           "date": "2026-04-18T11:47:29+00:00",
-          "category": null
-        },
-        {
-          "title": "Street nameplate disloged by large delivery vehicle, 16th April",
-          "url": "https://www.fixmystreet.com/report/9302037",
-          "date": "2026-04-16T07:53:49+00:00",
           "category": null
         }
       ],
@@ -692,6 +674,12 @@
     },
     "Sanderstead": {
       "fixmystreet": [
+        {
+          "title": "Dumped sand and stones, 16th May",
+          "url": "https://www.fixmystreet.com/report/9461517",
+          "date": "2026-05-16T11:13:53+00:00",
+          "category": null
+        },
         {
           "title": "Faulty speed camera, 12th May",
           "url": "https://www.fixmystreet.com/report/9442791",
@@ -854,6 +842,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "£30m refurb is underway at century-old Selsdon Park Hotel",
+          "url": "https://insidecroydon.com/2026/05/16/30m-refurb-is-underway-at-century-old-selsdon-park-hotel/",
+          "date": "2026-05-16T10:00:48+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
@@ -956,12 +950,6 @@
           "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
           "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "The Toss-cars 2026: We name Croydon’s laziest councillors",
-          "url": "https://insidecroydon.com/2026/05/04/the-toss-cars-2026-we-name-croydons-laziest-councillors/",
-          "date": "2026-05-04T14:08:03+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -998,12 +986,6 @@
           "title": "#LocalElections2026: Live coverage from the Croydon count",
           "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
           "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "The Toss-cars 2026: We name Croydon’s laziest councillors",
-          "url": "https://insidecroydon.com/2026/05/04/the-toss-cars-2026-we-name-croydons-laziest-councillors/",
-          "date": "2026-05-04T14:08:03+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -1146,12 +1128,6 @@
           "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
           "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Labour dumps their hard-working Thornton Heath councillor",
-          "url": "https://insidecroydon.com/2026/05/05/labour-dumps-their-hard-working-thornton-heath-councillor/",
-          "date": "2026-05-05T16:43:54+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -1261,12 +1237,6 @@
           "title": "#LocalElections2026: Live coverage from the Croydon count",
           "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
           "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Labour dumps their hard-working Thornton Heath councillor",
-          "url": "https://insidecroydon.com/2026/05/05/labour-dumps-their-hard-working-thornton-heath-councillor/",
-          "date": "2026-05-05T16:43:54+00:00",
           "publisher": "Inside Croydon"
         }
       ]
