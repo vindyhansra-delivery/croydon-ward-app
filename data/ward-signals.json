@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T08:39:09.993699+00:00",
+    "generated_at": "2026-05-17T15:47:12.482930+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -107,12 +107,6 @@
           "title": "#LocalElections2026: Live coverage from the Croydon count",
           "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
           "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "King Size Slim at The Oval Tavern, Sun May 10, 6pm, free entry",
-          "url": "https://insidecroydon.com/2026/05/07/king-size-slim-at-the-oval-tavern-sun-may-10-6pm-free-entry/",
-          "date": "2026-05-07T08:01:21+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -276,6 +270,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Perry’s anti-democratic council has created constitution crisis",
+          "url": "https://insidecroydon.com/2026/05/17/perrys-anti-democratic-council-has-created-constitution-crisis/",
+          "date": "2026-05-17T15:10:05+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Earthquake election but Croydon only felt some small tremors",
           "url": "https://insidecroydon.com/2026/05/11/earthquake-election-but-croydon-only-felt-some-small-tremors/",
           "date": "2026-05-11T15:04:18+00:00",
@@ -298,12 +298,6 @@
           "url": "https://insidecroydon.com/2026/05/09/the-vote-on-the-left-split-more-than-the-vote-on-the-right/",
           "date": "2026-05-09T09:53:46+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -311,6 +305,12 @@
       "fixmystreet": [],
       "reddit": [],
       "news": [
+        {
+          "title": "Perry’s anti-democratic council has created constitution crisis",
+          "url": "https://insidecroydon.com/2026/05/17/perrys-anti-democratic-council-has-created-constitution-crisis/",
+          "date": "2026-05-17T15:10:05+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Perry’s goons abandon threats against George Street homeless",
           "url": "https://insidecroydon.com/2026/05/15/perrys-goons-abandon-threats-against-george-street-homeless/",
@@ -327,12 +327,6 @@
           "title": "#LocalElections2026: Live coverage from the Croydon count",
           "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
           "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Vote count delays raise ‘real concerns’ over ballot security",
-          "url": "https://insidecroydon.com/2026/05/07/vote-count-delays-raise-real-concerns-over-ballot-security/",
-          "date": "2026-05-07T09:57:09+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -414,7 +408,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Perry’s anti-democratic council has created constitution crisis",
+          "url": "https://insidecroydon.com/2026/05/17/perrys-anti-democratic-council-has-created-constitution-crisis/",
+          "date": "2026-05-17T15:10:05+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Norbury Park": {
       "fixmystreet": [
@@ -530,6 +531,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Perry’s anti-democratic council has created constitution crisis",
+          "url": "https://insidecroydon.com/2026/05/17/perrys-anti-democratic-council-has-created-constitution-crisis/",
+          "date": "2026-05-17T15:10:05+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
@@ -775,6 +782,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Free SWLLC benefits and housing advice sessions, Selhurst",
+          "url": "https://insidecroydon.com/2026/05/17/free-swllc-benefits-and-housing-advice-sessions-selhurst/",
+          "date": "2026-05-17T09:00:11+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "King and Ben-Hassel win Labour’s Town Hall leadership votes",
           "url": "https://insidecroydon.com/2026/05/15/king-and-ben-hassel-win-labours-town-hall-leadership-votes/",
           "date": "2026-05-15T10:48:32+00:00",
@@ -796,12 +809,6 @@
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -1019,6 +1026,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Junction Road Street Party, South Croydon, Sat June 6",
+          "url": "https://insidecroydon.com/2026/05/17/junction-road-street-party-south-croydon-sat-june-6/",
+          "date": "2026-05-17T09:39:06+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
