@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T20:37:11.722354+00:00",
+    "generated_at": "2026-05-17T08:39:09.993699+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -156,6 +156,12 @@
     },
     "Broad Green": {
       "fixmystreet": [
+        {
+          "title": "Trimming trellises, 17th May",
+          "url": "https://www.fixmystreet.com/report/9463073",
+          "date": "2026-05-16T23:19:58+00:00",
+          "category": null
+        },
         {
           "title": "Abandoned vehicle, 14th May",
           "url": "https://www.fixmystreet.com/report/9451422",
@@ -894,6 +900,12 @@
     },
     "Shirley North": {
       "fixmystreet": [
+        {
+          "title": "Chairs, 17th May",
+          "url": "https://www.fixmystreet.com/report/9463506",
+          "date": "2026-05-17T05:17:23+00:00",
+          "category": null
+        },
         {
           "title": "Abandoned bicycle, 14th May",
           "url": "https://www.fixmystreet.com/report/9454024",
