@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-18T12:56:13.605893+00:00",
+    "generated_at": "2026-05-18T21:59:30.907057+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -76,6 +76,12 @@
     },
     "Addiscombe West": {
       "fixmystreet": [
+        {
+          "title": "The whole of Rymer road has major potholes, 18th May",
+          "url": "https://www.fixmystreet.com/report/9472023",
+          "date": "2026-05-18T16:32:09+00:00",
+          "category": null
+        },
         {
           "title": "Dangerous parking, 1st May",
           "url": "https://www.fixmystreet.com/report/9383296",
@@ -676,6 +682,12 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Faulty speed camera, 18th May",
+          "url": "https://www.fixmystreet.com/report/9472990",
+          "date": "2026-05-18T20:15:38+00:00",
+          "category": null
+        },
+        {
           "title": "Dumped sand and stones, 16th May",
           "url": "https://www.fixmystreet.com/report/9461517",
           "date": "2026-05-16T11:13:53+00:00",
@@ -727,12 +739,6 @@
           "title": "The trees for making the bus have smashed windows, 28th April",
           "url": "https://www.fixmystreet.com/report/9368914",
           "date": "2026-04-28T16:39:04+00:00",
-          "category": null
-        },
-        {
-          "title": "A car is blocking my driveway, 27th April",
-          "url": "https://www.fixmystreet.com/report/9359264",
-          "date": "2026-04-27T08:51:12+00:00",
           "category": null
         }
       ],
@@ -935,12 +941,6 @@
           "title": "16, barnfield avenue croydon cr0 8se, 21st April",
           "url": "https://www.fixmystreet.com/report/9331425",
           "date": "2026-04-21T15:16:00+00:00",
-          "category": null
-        },
-        {
-          "title": "Lights not working, 18th April",
-          "url": "https://www.fixmystreet.com/report/9316058",
-          "date": "2026-04-18T18:38:36+00:00",
           "category": null
         }
       ],
