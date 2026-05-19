@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-18T21:59:30.907057+00:00",
+    "generated_at": "2026-05-19T11:47:42.019966+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "Glass, 19th May",
+          "url": "https://www.fixmystreet.com/report/9474040",
+          "date": "2026-05-19T07:56:10+00:00",
+          "category": null
+        },
         {
           "title": "Littering, 14th May",
           "url": "https://www.fixmystreet.com/report/9454196",
@@ -65,12 +71,6 @@
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -101,18 +101,6 @@
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Blues at The Oval Tavern, May and June, free entry, 6pm start",
-          "url": "https://insidecroydon.com/2026/05/09/blues-at-the-oval-tavern-may-and-june-free-entry-6pm-start-3/",
-          "date": "2026-05-09T07:46:51+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -145,12 +133,6 @@
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -178,15 +160,15 @@
       "reddit": [],
       "news": [
         {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
+          "title": "BWC Community Pop-up, Croydon Smile Hub, Sat May 23",
+          "url": "https://insidecroydon.com/2026/05/19/bwc-community-pop-up-croydon-smile-hub-sat-may-23/",
+          "date": "2026-05-19T08:30:33+00:00",
           "publisher": "Inside Croydon"
         },
         {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -230,12 +212,6 @@
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -312,6 +288,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Rubbish councillor Roche finally sacked from Mayor’s cabinet",
+          "url": "https://insidecroydon.com/2026/05/19/rubbish-councillor-roche-finally-sacked-from-mayors-cabinet/",
+          "date": "2026-05-19T11:15:15+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Perry’s anti-democratic council has created constitution crisis",
           "url": "https://insidecroydon.com/2026/05/17/perrys-anti-democratic-council-has-created-constitution-crisis/",
           "date": "2026-05-17T15:10:05+00:00",
@@ -327,12 +309,6 @@
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -377,12 +353,6 @@
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -394,12 +364,6 @@
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -438,12 +402,6 @@
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -548,12 +506,6 @@
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -578,12 +530,6 @@
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -615,12 +561,6 @@
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -755,12 +695,6 @@
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -853,12 +787,6 @@
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -880,6 +808,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Rubbish councillor Roche finally sacked from Mayor’s cabinet",
+          "url": "https://insidecroydon.com/2026/05/19/rubbish-councillor-roche-finally-sacked-from-mayors-cabinet/",
+          "date": "2026-05-19T11:15:15+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "CODA presents Cabaret, at Selsdon Hall, May 22 and 23",
           "url": "https://insidecroydon.com/2026/05/18/coda-presents-cabaret-at-selsdon-hall-may-22-and-23/",
           "date": "2026-05-18T09:58:55+00:00",
@@ -889,12 +823,6 @@
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -951,12 +879,6 @@
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -984,15 +906,15 @@
       "reddit": [],
       "news": [
         {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
+          "title": "Rubbish councillor Roche finally sacked from Mayor’s cabinet",
+          "url": "https://insidecroydon.com/2026/05/19/rubbish-councillor-roche-finally-sacked-from-mayors-cabinet/",
+          "date": "2026-05-19T11:15:15+00:00",
           "publisher": "Inside Croydon"
         },
         {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
+          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
+          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
+          "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -1030,12 +952,6 @@
           "title": "‘The vote on the left split more than the vote on the right’",
           "url": "https://insidecroydon.com/2026/05/09/the-vote-on-the-left-split-more-than-the-vote-on-the-right/",
           "date": "2026-05-09T09:53:46+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -1135,12 +1051,6 @@
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -1208,12 +1118,6 @@
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -1238,12 +1142,6 @@
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -1317,12 +1215,6 @@
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Live coverage from the Croydon count",
-          "url": "https://insidecroydon.com/2026/05/08/localelections2026-live-coverage-from-the-croydon-count/",
-          "date": "2026-05-08T07:00:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
