@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-19T11:47:42.019966+00:00",
+    "generated_at": "2026-05-19T15:35:35.129732+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -454,12 +454,6 @@
           "title": "Black bag of rubbish against tree, 20th April",
           "url": "https://www.fixmystreet.com/report/9321758",
           "date": "2026-04-20T09:20:03+00:00",
-          "category": null
-        },
-        {
-          "title": "Sewage leaking over pavement, 19th April",
-          "url": "https://www.fixmystreet.com/report/9318264",
-          "date": "2026-04-19T13:03:19+00:00",
           "category": null
         }
       ],
