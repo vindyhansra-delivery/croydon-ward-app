@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-20T09:43:46.044175+00:00",
+    "generated_at": "2026-05-20T15:32:53.700846+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -67,9 +67,9 @@
       "reddit": [],
       "news": [
         {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
+          "title": "Vote-rigging accused Bonner tried to shut down this news site",
+          "url": "https://insidecroydon.com/2026/05/20/vote-rigging-accused-bonner-tried-to-shut-down-this-news-site/",
+          "date": "2026-05-20T10:42:42+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -96,12 +96,6 @@
           "url": "https://insidecroydon.com/2026/05/13/jimmy-regal-and-the-royals-the-oval-tavern-sun-may-17/",
           "date": "2026-05-13T08:04:36+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -127,14 +121,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Broad Green": {
       "fixmystreet": [
@@ -163,12 +150,6 @@
           "title": "BWC Community Pop-up, Croydon Smile Hub, Sat May 23",
           "url": "https://insidecroydon.com/2026/05/19/bwc-community-pop-up-croydon-smile-hub-sat-may-23/",
           "date": "2026-05-19T08:30:33+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -207,14 +188,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
@@ -268,12 +242,6 @@
           "url": "https://insidecroydon.com/2026/05/11/king-faces-possible-leadership-challenge-after-election-defeats/",
           "date": "2026-05-11T12:48:08+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -298,12 +266,6 @@
           "url": "https://insidecroydon.com/2026/05/15/perrys-goons-abandon-threats-against-george-street-homeless/",
           "date": "2026-05-15T13:27:58+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -326,12 +288,6 @@
           "url": "https://www.fixmystreet.com/report/9390591",
           "date": "2026-05-02T19:18:41+00:00",
           "category": null
-        },
-        {
-          "title": "Car parked on the whole foot path, 20th April",
-          "url": "https://www.fixmystreet.com/report/9323689",
-          "date": "2026-04-20T12:45:46+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -341,26 +297,13 @@
           "url": "https://insidecroydon.com/2026/05/10/kenley-locals-in-campaign-to-save-their-local-for-the-future/",
           "date": "2026-05-10T13:24:28+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
     "New Addington North": {
       "fixmystreet": [],
       "reddit": [],
-      "news": [
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "New Addington South": {
       "fixmystreet": [
@@ -391,14 +334,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Norbury and Pollards Hill": {
       "fixmystreet": [
@@ -482,12 +418,6 @@
           "url": "https://insidecroydon.com/2026/05/17/perrys-anti-democratic-council-has-created-constitution-crisis/",
           "date": "2026-05-17T15:10:05+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -507,14 +437,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Purley Oaks and Riddlesdown": {
       "fixmystreet": [
@@ -538,14 +461,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Purley and Woodcote": {
       "fixmystreet": [
@@ -671,12 +587,6 @@
           "url": "https://insidecroydon.com/2026/05/12/touch-rugby-taster-day-at-warlingham-rfc-sat-jun-6/",
           "date": "2026-05-12T08:07:54+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -714,18 +624,6 @@
           "url": "https://insidecroydon.com/2026/05/10/free-housing-and-benefits-advice-sessions-south-norwood-4/",
           "date": "2026-05-10T09:00:58+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "The Happy Bee Festival, Frylands Wood Scout Centre, Jun 28",
-          "url": "https://insidecroydon.com/2026/05/10/the-happy-bee-festival-frylands-wood-scout-centre-jun-28/",
-          "date": "2026-05-10T08:52:26+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -754,12 +652,6 @@
           "url": "https://www.fixmystreet.com/report/9354977",
           "date": "2026-04-26T09:25:36+00:00",
           "category": null
-        },
-        {
-          "title": "Fly tipping, 20th April",
-          "url": "https://www.fixmystreet.com/report/9323698",
-          "date": "2026-04-20T12:46:52+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -768,12 +660,6 @@
           "title": "£30m refurb is underway at century-old Selsdon Park Hotel",
           "url": "https://insidecroydon.com/2026/05/16/30m-refurb-is-underway-at-century-old-selsdon-park-hotel/",
           "date": "2026-05-16T10:00:48+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -811,12 +697,6 @@
           "title": "CODA presents Cabaret, at Selsdon Hall, May 22 and 23",
           "url": "https://insidecroydon.com/2026/05/18/coda-presents-cabaret-at-selsdon-hall-may-22-and-23/",
           "date": "2026-05-18T09:58:55+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -867,14 +747,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Shirley South": {
       "fixmystreet": [
@@ -904,12 +777,6 @@
           "url": "https://insidecroydon.com/2026/05/19/rubbish-councillor-roche-finally-sacked-from-mayors-cabinet/",
           "date": "2026-05-19T11:15:15+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -934,12 +801,6 @@
           "title": "Junction Road Street Party, South Croydon, Sat June 6",
           "url": "https://insidecroydon.com/2026/05/17/junction-road-street-party-south-croydon-sat-june-6/",
           "date": "2026-05-17T09:39:06+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -996,12 +857,6 @@
           "url": "https://insidecroydon.com/2026/05/11/earthquake-election-but-croydon-only-felt-some-small-tremors/",
           "date": "2026-05-11T15:04:18+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -1026,12 +881,6 @@
           "title": "Earthquake election but Croydon only felt some small tremors",
           "url": "https://insidecroydon.com/2026/05/11/earthquake-election-but-croydon-only-felt-some-small-tremors/",
           "date": "2026-05-11T15:04:18+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -1094,14 +943,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "West Thornton": {
       "fixmystreet": [
@@ -1110,23 +952,10 @@
           "url": "https://www.fixmystreet.com/report/9448969",
           "date": "2026-05-13T20:57:55+00:00",
           "category": null
-        },
-        {
-          "title": "Rubbish left outside 18 Cameron Road on pavement, 20th April",
-          "url": "https://www.fixmystreet.com/report/9322061",
-          "date": "2026-04-20T09:52:21+00:00",
-          "category": null
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Woodside": {
       "fixmystreet": [
@@ -1192,14 +1021,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "#LocalElections2026: Greens make bigger inroads than Reform",
-          "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
-          "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     }
   }
 }
