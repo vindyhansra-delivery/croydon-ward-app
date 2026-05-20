@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-20T03:57:30.558055+00:00",
+    "generated_at": "2026-05-20T09:43:46.044175+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -274,12 +274,6 @@
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "‘The vote on the left split more than the vote on the right’",
-          "url": "https://insidecroydon.com/2026/05/09/the-vote-on-the-left-split-more-than-the-vote-on-the-right/",
-          "date": "2026-05-09T09:53:46+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -448,12 +442,6 @@
           "title": "Broken pavement over drain and around it, 23rd April",
           "url": "https://www.fixmystreet.com/report/9344000",
           "date": "2026-04-23T19:49:14+00:00",
-          "category": null
-        },
-        {
-          "title": "Black bag of rubbish against tree, 20th April",
-          "url": "https://www.fixmystreet.com/report/9321758",
-          "date": "2026-04-20T09:20:03+00:00",
           "category": null
         }
       ],
@@ -695,6 +683,12 @@
     "Selhurst": {
       "fixmystreet": [
         {
+          "title": "Pothole, 20th May",
+          "url": "https://www.fixmystreet.com/report/9479769",
+          "date": "2026-05-20T07:08:51+00:00",
+          "category": null
+        },
+        {
           "title": "Abandoned grey Vauxhall Astra, 13th May",
           "url": "https://www.fixmystreet.com/report/9449092",
           "date": "2026-05-13T21:52:14+00:00",
@@ -801,6 +795,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "CODA presents Cabaret, at Selsdon Hall, May 22 and 23",
+          "url": "https://insidecroydon.com/2026/05/20/coda-presents-cabaret-at-selsdon-hall-may-22-and-23-2/",
+          "date": "2026-05-20T08:36:19+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Rubbish councillor Roche finally sacked from Mayor’s cabinet",
           "url": "https://insidecroydon.com/2026/05/19/rubbish-councillor-roche-finally-sacked-from-mayors-cabinet/",
@@ -941,12 +941,6 @@
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "‘The vote on the left split more than the vote on the right’",
-          "url": "https://insidecroydon.com/2026/05/09/the-vote-on-the-left-split-more-than-the-vote-on-the-right/",
-          "date": "2026-05-09T09:53:46+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -1007,12 +1001,6 @@
           "title": "#LocalElections2026: Greens make bigger inroads than Reform",
           "url": "https://insidecroydon.com/2026/05/09/localelections2026-28-council-ward-results-to-be-declared/",
           "date": "2026-05-09T10:19:27+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "‘The vote on the left split more than the vote on the right’",
-          "url": "https://insidecroydon.com/2026/05/09/the-vote-on-the-left-split-more-than-the-vote-on-the-right/",
-          "date": "2026-05-09T09:53:46+00:00",
           "publisher": "Inside Croydon"
         }
       ]
