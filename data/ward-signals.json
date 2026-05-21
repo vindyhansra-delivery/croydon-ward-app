@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T09:52:54.785647+00:00",
+    "generated_at": "2026-05-21T15:39:41.275181+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -108,6 +108,12 @@
     "Bensham Manor": {
       "fixmystreet": [
         {
+          "title": "There is a deep pothole at the Sandfield Road bus stop going towards Norbury, 21st May",
+          "url": "https://www.fixmystreet.com/report/9486991",
+          "date": "2026-05-21T10:40:00+00:00",
+          "category": null
+        },
+        {
           "title": "Rubbish & flytipping, 14th May",
           "url": "https://www.fixmystreet.com/report/9452001",
           "date": "2026-05-14T11:58:10+00:00",
@@ -117,12 +123,6 @@
           "title": "Branch in road, 22nd April",
           "url": "https://www.fixmystreet.com/report/9335568",
           "date": "2026-04-22T11:10:25+00:00",
-          "category": null
-        },
-        {
-          "title": "Flytipping, 21st April",
-          "url": "https://www.fixmystreet.com/report/9330728",
-          "date": "2026-04-21T13:42:22+00:00",
           "category": null
         }
       ],
@@ -215,12 +215,6 @@
           "url": "https://www.fixmystreet.com/report/9397221",
           "date": "2026-05-04T16:05:33+00:00",
           "category": null
-        },
-        {
-          "title": "Missing rubbish bin, 21st April",
-          "url": "https://www.fixmystreet.com/report/9329424",
-          "date": "2026-04-21T10:54:25+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -229,18 +223,6 @@
           "title": "Perry’s anti-democratic council has created constitution crisis",
           "url": "https://insidecroydon.com/2026/05/17/perrys-anti-democratic-council-has-created-constitution-crisis/",
           "date": "2026-05-17T15:10:05+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Earthquake election but Croydon only felt some small tremors",
-          "url": "https://insidecroydon.com/2026/05/11/earthquake-election-but-croydon-only-felt-some-small-tremors/",
-          "date": "2026-05-11T15:04:18+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "King faces possible leadership challenge after election defeats",
-          "url": "https://insidecroydon.com/2026/05/11/king-faces-possible-leadership-challenge-after-election-defeats/",
-          "date": "2026-05-11T12:48:08+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -719,12 +701,6 @@
           "url": "https://www.fixmystreet.com/report/9334223",
           "date": "2026-04-22T08:29:45+00:00",
           "category": "Pothole/surface problem outside nursery"
-        },
-        {
-          "title": "16, barnfield avenue croydon cr0 8se, 21st April",
-          "url": "https://www.fixmystreet.com/report/9331425",
-          "date": "2026-04-21T15:16:00+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -832,12 +808,6 @@
           "url": "https://insidecroydon.com/2026/05/12/artist-emin-makes-big-announcement-for-priority-seating-week/",
           "date": "2026-05-12T08:59:21+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Earthquake election but Croydon only felt some small tremors",
-          "url": "https://insidecroydon.com/2026/05/11/earthquake-election-but-croydon-only-felt-some-small-tremors/",
-          "date": "2026-05-11T15:04:18+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -857,14 +827,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Earthquake election but Croydon only felt some small tremors",
-          "url": "https://insidecroydon.com/2026/05/11/earthquake-election-but-croydon-only-felt-some-small-tremors/",
-          "date": "2026-05-11T15:04:18+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Waddon": {
       "fixmystreet": [
@@ -992,12 +955,6 @@
           "title": "Fly tipping at Harrington Road, 5th May",
           "url": "https://www.fixmystreet.com/report/9402131",
           "date": "2026-05-05T12:16:53+00:00",
-          "category": null
-        },
-        {
-          "title": "Someone has dumped a fridge (and one rubber boot) on the sidewalk of Sonning Road, 21st April",
-          "url": "https://www.fixmystreet.com/report/9330765",
-          "date": "2026-04-21T13:49:49+00:00",
           "category": null
         }
       ],
