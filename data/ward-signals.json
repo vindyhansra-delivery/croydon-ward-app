@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T04:08:02.382458+00:00",
+    "generated_at": "2026-05-21T09:52:54.785647+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -66,6 +66,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "We Run Croydon, meeting Addiscombe, every Wednesday",
+          "url": "https://insidecroydon.com/2026/05/21/we-run-croydon-meeting-addiscombe-every-wednesday/",
+          "date": "2026-05-21T08:10:31+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Vote-rigging accused Bonner tried to shut down this news site",
           "url": "https://insidecroydon.com/2026/05/20/vote-rigging-accused-bonner-tried-to-shut-down-this-news-site/",
@@ -179,12 +185,6 @@
           "url": "https://www.fixmystreet.com/report/9339949",
           "date": "2026-04-23T06:47:52+00:00",
           "category": null
-        },
-        {
-          "title": "Traffic cannot get through cars parked on both sides of the road, 21st April",
-          "url": "https://www.fixmystreet.com/report/9327711",
-          "date": "2026-04-21T08:01:31+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -291,14 +291,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Kenley locals in campaign to save their local for the future",
-          "url": "https://insidecroydon.com/2026/05/10/kenley-locals-in-campaign-to-save-their-local-for-the-future/",
-          "date": "2026-05-10T13:24:28+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "New Addington North": {
       "fixmystreet": [],
@@ -506,12 +499,6 @@
           "url": "https://www.fixmystreet.com/report/9371402",
           "date": "2026-04-29T08:33:52+00:00",
           "category": null
-        },
-        {
-          "title": "Pavement blocked, 21st April",
-          "url": "https://www.fixmystreet.com/report/9327250",
-          "date": "2026-04-21T06:37:11+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -617,12 +604,6 @@
           "title": "King and Ben-Hassel win Labour’s Town Hall leadership votes",
           "url": "https://insidecroydon.com/2026/05/15/king-and-ben-hassel-win-labours-town-hall-leadership-votes/",
           "date": "2026-05-15T10:48:32+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Free SWLLC benefits and housing advice sessions, Selhurst",
-          "url": "https://insidecroydon.com/2026/05/10/free-housing-and-benefits-advice-sessions-south-norwood-4/",
-          "date": "2026-05-10T09:00:58+00:00",
           "publisher": "Inside Croydon"
         }
       ]
