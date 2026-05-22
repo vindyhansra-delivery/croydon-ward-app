@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-22T04:02:15.955719+00:00",
+    "generated_at": "2026-05-22T09:37:13.545921+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -162,6 +162,18 @@
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "Fly tip on Portnells Road near the junction of Hollymead Road, 22nd May",
+          "url": "https://www.fixmystreet.com/report/9490711",
+          "date": "2026-05-22T06:11:08+00:00",
+          "category": null
+        },
+        {
+          "title": "Multiple flytips along Portnells Road, 22nd May",
+          "url": "https://www.fixmystreet.com/report/9490703",
+          "date": "2026-05-22T06:06:53+00:00",
+          "category": null
+        },
         {
           "title": "Loose Road Surface, 2nd May",
           "url": "https://www.fixmystreet.com/report/9390504",
@@ -681,12 +693,6 @@
           "url": "https://www.fixmystreet.com/report/9341181",
           "date": "2026-04-23T09:31:55+00:00",
           "category": null
-        },
-        {
-          "title": "Pothole/surface problem outside nursery - seen a bike fail to stop, 22nd April",
-          "url": "https://www.fixmystreet.com/report/9334223",
-          "date": "2026-04-22T08:29:45+00:00",
-          "category": "Pothole/surface problem outside nursery"
         }
       ],
       "reddit": [],
@@ -694,6 +700,12 @@
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "Rubbish, 22nd May",
+          "url": "https://www.fixmystreet.com/report/9490785",
+          "date": "2026-05-22T06:34:42+00:00",
+          "category": null
+        },
         {
           "title": "Small tree down, 11th May",
           "url": "https://www.fixmystreet.com/report/9434048",
@@ -741,6 +753,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Sing and Stroll, St Peter’s churchyard, S Croydon, Sat May 23",
+          "url": "https://insidecroydon.com/2026/05/22/sing-and-stroll-st-peters-churchyard-s-croydon-sat-may-23/",
+          "date": "2026-05-22T07:52:05+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Junction Road Street Party, South Croydon, Sat June 6",
           "url": "https://insidecroydon.com/2026/05/17/junction-road-street-party-south-croydon-sat-june-6/",
           "date": "2026-05-17T09:39:06+00:00",
@@ -787,12 +805,6 @@
           "title": "Latest fridge fly-tip breaks barriers in Norwood Junction Station",
           "url": "https://insidecroydon.com/2026/05/13/latest-fridge-fly-tip-breaks-barriers-in-norwood-junction-station/",
           "date": "2026-05-13T09:37:48+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Artist Emin makes big announcement for Priority Seating Week",
-          "url": "https://insidecroydon.com/2026/05/12/artist-emin-makes-big-announcement-for-priority-seating-week/",
-          "date": "2026-05-12T08:59:21+00:00",
           "publisher": "Inside Croydon"
         }
       ]
