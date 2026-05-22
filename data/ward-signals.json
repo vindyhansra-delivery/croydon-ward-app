@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-22T09:37:13.545921+00:00",
+    "generated_at": "2026-05-22T14:49:35.536853+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -56,12 +56,6 @@
           "url": "https://www.fixmystreet.com/report/9352824",
           "date": "2026-04-25T12:59:17+00:00",
           "category": null
-        },
-        {
-          "title": "Zebra crossing markings worn, cannot see in bright light or rain, 22nd April",
-          "url": "https://www.fixmystreet.com/report/9334861",
-          "date": "2026-04-22T09:45:53+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -98,9 +92,15 @@
       "reddit": [],
       "news": [
         {
-          "title": "Jimmy Regal and The Royals, The Oval Tavern, Sun May 17",
-          "url": "https://insidecroydon.com/2026/05/13/jimmy-regal-and-the-royals-the-oval-tavern-sun-may-17/",
-          "date": "2026-05-13T08:04:36+00:00",
+          "title": "Leslie Arms timeline: sad 25-year decline of heritage building",
+          "url": "https://insidecroydon.com/2026/05/22/leslie-arms-timeline-sad-25-year-decline-of-heritage-building/",
+          "date": "2026-05-22T10:30:24+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Addiscombe’s listed pub building put up for auction at £1.45m",
+          "url": "https://insidecroydon.com/2026/05/22/addiscombes-listed-pub-building-put-up-for-auction-at-1-45m/",
+          "date": "2026-05-22T10:30:08+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -117,12 +117,6 @@
           "title": "Rubbish & flytipping, 14th May",
           "url": "https://www.fixmystreet.com/report/9452001",
           "date": "2026-05-14T11:58:10+00:00",
-          "category": null
-        },
-        {
-          "title": "Branch in road, 22nd April",
-          "url": "https://www.fixmystreet.com/report/9335568",
-          "date": "2026-04-22T11:10:25+00:00",
           "category": null
         }
       ],
@@ -446,6 +440,12 @@
     "Purley and Woodcote": {
       "fixmystreet": [
         {
+          "title": "Pothole to entrance of Plough Lane, 22nd May",
+          "url": "https://www.fixmystreet.com/report/9493163",
+          "date": "2026-05-22T13:13:31+00:00",
+          "category": null
+        },
+        {
           "title": "Speed camera flashing purley way a23, 14th May",
           "url": "https://www.fixmystreet.com/report/9454808",
           "date": "2026-05-14T20:39:47+00:00",
@@ -742,12 +742,6 @@
           "url": "https://www.fixmystreet.com/report/9424774",
           "date": "2026-05-09T08:52:58+00:00",
           "category": null
-        },
-        {
-          "title": "Continuesly blocking the public( neighbourhood parking) for his car, 22nd April",
-          "url": "https://www.fixmystreet.com/report/9335567",
-          "date": "2026-04-22T11:23:37+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -768,6 +762,12 @@
     },
     "South Norwood": {
       "fixmystreet": [
+        {
+          "title": "Full wheelie bin with garden waste etc, 22nd May",
+          "url": "https://www.fixmystreet.com/report/9492828",
+          "date": "2026-05-22T12:14:48+00:00",
+          "category": null
+        },
         {
           "title": "Mirror dumped on private driveway, 29th April",
           "url": "https://www.fixmystreet.com/report/9372802",
@@ -800,14 +800,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Latest fridge fly-tip breaks barriers in Norwood Junction Station",
-          "url": "https://insidecroydon.com/2026/05/13/latest-fridge-fly-tip-breaks-barriers-in-norwood-junction-station/",
-          "date": "2026-05-13T09:37:48+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Thornton Heath": {
       "fixmystreet": [
