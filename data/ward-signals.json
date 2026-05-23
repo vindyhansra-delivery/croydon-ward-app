@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T03:38:08.569886+00:00",
+    "generated_at": "2026-05-23T08:27:32.390071+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -178,18 +178,6 @@
           "title": "Flags attached on street lighting, 30th April",
           "url": "https://www.fixmystreet.com/report/9382044",
           "date": "2026-04-30T20:40:22+00:00",
-          "category": null
-        },
-        {
-          "title": "Multiple large vans parking at road entrance, 23rd April",
-          "url": "https://www.fixmystreet.com/report/9339965",
-          "date": "2026-04-23T06:52:26+00:00",
-          "category": null
-        },
-        {
-          "title": "Parking over dropped kerb, 23rd April",
-          "url": "https://www.fixmystreet.com/report/9339949",
-          "date": "2026-04-23T06:47:52+00:00",
           "category": null
         }
       ],
