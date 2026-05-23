@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T08:27:32.390071+00:00",
+    "generated_at": "2026-05-23T13:46:17.276522+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -543,7 +543,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Touch rugby taster day at Warlingham RFC, Sat Jun 6",
+          "url": "https://insidecroydon.com/2026/05/23/touch-rugby-taster-day-at-warlingham-rfc-sat-jun-6-2/",
+          "date": "2026-05-23T08:49:56+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selhurst": {
       "fixmystreet": [
@@ -675,12 +682,6 @@
           "url": "https://www.fixmystreet.com/report/9395426",
           "date": "2026-05-04T10:15:14+00:00",
           "category": null
-        },
-        {
-          "title": "Rubbish, 23rd April",
-          "url": "https://www.fixmystreet.com/report/9341181",
-          "date": "2026-04-23T09:31:55+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -794,7 +795,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Common Ground workshops, South Norwood, May 27 & Jun 3",
+          "url": "https://insidecroydon.com/2026/05/23/common-ground-workshops-south-norwood-may-27-jun-3/",
+          "date": "2026-05-23T09:53:54+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Thornton Heath": {
       "fixmystreet": [
@@ -812,7 +820,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "None hurt as Thornton Heath blaze spreads across two houses",
+          "url": "https://insidecroydon.com/2026/05/23/none-hurt-as-thornton-heath-blaze-spreads-across-two-houses/",
+          "date": "2026-05-23T10:15:21+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Waddon": {
       "fixmystreet": [
