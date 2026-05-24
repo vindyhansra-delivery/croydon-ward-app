@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T13:45:48.989502+00:00",
+    "generated_at": "2026-05-24T19:25:48.107830+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -131,6 +131,12 @@
     },
     "Broad Green": {
       "fixmystreet": [
+        {
+          "title": "Parked on pavement, 24th May",
+          "url": "https://www.fixmystreet.com/report/9500338",
+          "date": "2026-05-24T16:50:25+00:00",
+          "category": null
+        },
         {
           "title": "Trimming trellises, 17th May",
           "url": "https://www.fixmystreet.com/report/9463073",
@@ -768,18 +774,6 @@
           "url": "https://www.fixmystreet.com/report/9352150",
           "date": "2026-04-25T10:17:17+00:00",
           "category": null
-        },
-        {
-          "title": "Potholes everywhere, 24th April",
-          "url": "https://www.fixmystreet.com/report/9346077",
-          "date": "2026-04-24T14:53:59+00:00",
-          "category": null
-        },
-        {
-          "title": "Overflowing bins, 24th April",
-          "url": "https://www.fixmystreet.com/report/9346071",
-          "date": "2026-04-24T14:53:52+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -800,6 +794,18 @@
     },
     "Thornton Heath": {
       "fixmystreet": [
+        {
+          "title": "Parking, 24th May",
+          "url": "https://www.fixmystreet.com/report/9500321",
+          "date": "2026-05-24T16:41:11+00:00",
+          "category": null
+        },
+        {
+          "title": "Parking, 24th May",
+          "url": "https://www.fixmystreet.com/report/9500314",
+          "date": "2026-05-24T16:39:03+00:00",
+          "category": null
+        },
         {
           "title": "He lives across the street and parks his motorbike on the pavement outside his neighbour’s house on the opposite side of the street, 24th May",
           "url": "https://www.fixmystreet.com/report/9498354",
@@ -877,12 +883,6 @@
           "title": "Union jack flags unauthorized attachment to lampposts, 2nd May",
           "url": "https://www.fixmystreet.com/report/9388554",
           "date": "2026-05-02T09:06:20+00:00",
-          "category": null
-        },
-        {
-          "title": "Food waste not collected, 24th April",
-          "url": "https://www.fixmystreet.com/report/9349170",
-          "date": "2026-04-24T13:58:28+00:00",
           "category": null
         }
       ],
