@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T19:19:14.577981+00:00",
+    "generated_at": "2026-05-24T04:00:45.819915+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -328,18 +328,6 @@
           "title": "Rubbish, 27th April",
           "url": "https://www.fixmystreet.com/report/9358465",
           "date": "2026-04-27T07:02:24+00:00",
-          "category": null
-        },
-        {
-          "title": "Tree near train needs pollarding, 23rd April",
-          "url": "https://www.fixmystreet.com/report/9345193",
-          "date": "2026-04-23T19:58:24+00:00",
-          "category": null
-        },
-        {
-          "title": "Broken pavement over drain and around it, 23rd April",
-          "url": "https://www.fixmystreet.com/report/9344000",
-          "date": "2026-04-23T19:49:14+00:00",
           "category": null
         }
       ],
@@ -806,6 +794,12 @@
     },
     "Thornton Heath": {
       "fixmystreet": [
+        {
+          "title": "He lives across the street and parks his motorbike on the pavement outside his neighbour’s house on the opposite side of the street, 24th May",
+          "url": "https://www.fixmystreet.com/report/9498354",
+          "date": "2026-05-24T01:19:27+00:00",
+          "category": null
+        },
         {
           "title": "Fly-Tipping, 7th May",
           "url": "https://www.fixmystreet.com/report/9416365",
