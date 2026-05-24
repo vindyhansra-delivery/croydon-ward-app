@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T08:37:20.580451+00:00",
+    "generated_at": "2026-05-24T13:45:48.989502+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "Rubbish, 24th May",
+          "url": "https://www.fixmystreet.com/report/9498806",
+          "date": "2026-05-24T08:35:09+00:00",
+          "category": null
+        },
         {
           "title": "Glass, 19th May",
           "url": "https://www.fixmystreet.com/report/9474040",
@@ -236,12 +242,6 @@
           "url": "https://insidecroydon.com/2026/05/17/perrys-anti-democratic-council-has-created-constitution-crisis/",
           "date": "2026-05-17T15:10:05+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Perry’s goons abandon threats against George Street homeless",
-          "url": "https://insidecroydon.com/2026/05/15/perrys-goons-abandon-threats-against-george-street-homeless/",
-          "date": "2026-05-15T13:27:58+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -363,6 +363,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Old Coulsdon Village Fair, Grange Park, Sat July 4 from noon",
+          "url": "https://insidecroydon.com/2026/05/24/old-coulsdon-village-fair-grange-park-sat-july-4-from-noon/",
+          "date": "2026-05-24T09:25:43+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Perry’s anti-democratic council has created constitution crisis",
           "url": "https://insidecroydon.com/2026/05/17/perrys-anti-democratic-council-has-created-constitution-crisis/",
@@ -561,12 +567,6 @@
           "title": "Free SWLLC benefits and housing advice sessions, Selhurst",
           "url": "https://insidecroydon.com/2026/05/17/free-swllc-benefits-and-housing-advice-sessions-selhurst/",
           "date": "2026-05-17T09:00:11+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "King and Ben-Hassel win Labour’s Town Hall leadership votes",
-          "url": "https://insidecroydon.com/2026/05/15/king-and-ben-hassel-win-labours-town-hall-leadership-votes/",
-          "date": "2026-05-15T10:48:32+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -784,6 +784,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Trams unveil ex-Eagles winger Sean Scannell as new director",
+          "url": "https://insidecroydon.com/2026/05/24/trams-unveil-ex-eagles-winger-sean-scannell-as-new-director/",
+          "date": "2026-05-24T10:47:52+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Common Ground workshops, South Norwood, May 27 & Jun 3",
           "url": "https://insidecroydon.com/2026/05/23/common-ground-workshops-south-norwood-may-27-jun-3/",
