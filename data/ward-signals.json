@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T19:25:48.107830+00:00",
+    "generated_at": "2026-05-25T04:11:19.608494+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -683,6 +683,12 @@
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "Flytip in carpark, 24th May",
+          "url": "https://www.fixmystreet.com/report/9500945",
+          "date": "2026-05-24T20:42:18+00:00",
+          "category": null
+        },
         {
           "title": "Rubbish, 22nd May",
           "url": "https://www.fixmystreet.com/report/9490785",
