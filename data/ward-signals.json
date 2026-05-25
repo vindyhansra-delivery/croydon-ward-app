@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T04:11:19.608494+00:00",
+    "generated_at": "2026-05-25T10:18:59.560749+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -98,6 +98,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Cinatra’s Summer Reunion, Coulsdon Manor Hotel, June 19",
+          "url": "https://insidecroydon.com/2026/05/25/cinatras-summer-reunion-coulsdon-manor-hotel-june-19/",
+          "date": "2026-05-25T09:50:07+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Leslie Arms timeline: sad 25-year decline of heritage building",
           "url": "https://insidecroydon.com/2026/05/22/leslie-arms-timeline-sad-25-year-decline-of-heritage-building/",
           "date": "2026-05-22T10:30:24+00:00",
@@ -169,6 +175,18 @@
     "Coulsdon Town": {
       "fixmystreet": [
         {
+          "title": "Sunk manhole, 25th May",
+          "url": "https://www.fixmystreet.com/report/9501366",
+          "date": "2026-05-25T06:27:11+00:00",
+          "category": null
+        },
+        {
+          "title": "Flutipping, 25th May",
+          "url": "https://www.fixmystreet.com/report/9501349",
+          "date": "2026-05-25T06:19:39+00:00",
+          "category": null
+        },
+        {
           "title": "Fly tip on Portnells Road near the junction of Hollymead Road, 22nd May",
           "url": "https://www.fixmystreet.com/report/9490711",
           "date": "2026-05-22T06:11:08+00:00",
@@ -198,6 +216,12 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "1m long pothole getting deeper, 25th May",
+          "url": "https://www.fixmystreet.com/report/9501332",
+          "date": "2026-05-25T06:09:50+00:00",
+          "category": null
+        },
         {
           "title": "Crossroads: Uneven rutted surface Pothole outside church entrance, 10th May",
           "url": "https://www.fixmystreet.com/report/9430135",
@@ -784,6 +808,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Common Ground workshops, South Norwood, May 27 & Jun 3",
+          "url": "https://insidecroydon.com/2026/05/25/common-ground-workshops-south-norwood-may-27-jun-3-2/",
+          "date": "2026-05-25T08:41:08+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Trams unveil ex-Eagles winger Sean Scannell as new director",
           "url": "https://insidecroydon.com/2026/05/24/trams-unveil-ex-eagles-winger-sean-scannell-as-new-director/",
