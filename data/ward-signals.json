@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T15:18:34.634325+00:00",
+    "generated_at": "2026-05-25T19:49:14.105657+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -148,12 +148,6 @@
           "url": "https://www.fixmystreet.com/report/9451422",
           "date": "2026-05-14T10:37:17+00:00",
           "category": null
-        },
-        {
-          "title": "Hedges, 25th April",
-          "url": "https://www.fixmystreet.com/report/9353901",
-          "date": "2026-04-25T18:50:24+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -210,6 +204,12 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "A line of about five potholes getting larger every day, 25th May",
+          "url": "https://www.fixmystreet.com/report/9504208",
+          "date": "2026-05-25T19:11:24+00:00",
+          "category": null
+        },
         {
           "title": "1m long pothole getting deeper, 25th May",
           "url": "https://www.fixmystreet.com/report/9501332",
