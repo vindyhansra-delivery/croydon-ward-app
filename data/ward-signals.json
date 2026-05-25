@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T10:18:59.560749+00:00",
+    "generated_at": "2026-05-25T15:18:34.634325+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -55,12 +55,6 @@
           "title": "There's an old mattress under the Railway Pk bridge that needs taking away., 10th May",
           "url": "https://www.fixmystreet.com/report/9429494",
           "date": "2026-05-10T13:55:00+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned vehicle, 25th April",
-          "url": "https://www.fixmystreet.com/report/9352824",
-          "date": "2026-04-25T12:59:17+00:00",
           "category": null
         }
       ],
@@ -604,6 +598,12 @@
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
         {
+          "title": "Discarded/broken traffic cones, 25th May",
+          "url": "https://www.fixmystreet.com/report/9502511",
+          "date": "2026-05-25T11:25:40+00:00",
+          "category": null
+        },
+        {
           "title": "Road sinking, 14th May",
           "url": "https://www.fixmystreet.com/report/9453432",
           "date": "2026-05-14T15:26:34+00:00",
@@ -644,12 +644,6 @@
           "title": "In my back garden dead fox cub, 2nd May",
           "url": "https://www.fixmystreet.com/report/9390631",
           "date": "2026-05-02T19:36:55+00:00",
-          "category": null
-        },
-        {
-          "title": "Broken Fence, 25th April",
-          "url": "https://www.fixmystreet.com/report/9353248",
-          "date": "2026-04-25T15:11:03+00:00",
           "category": null
         }
       ],
@@ -797,12 +791,6 @@
           "title": "Dangerously raised manhole, 27th April",
           "url": "https://www.fixmystreet.com/report/9360234",
           "date": "2026-04-27T10:43:46+00:00",
-          "category": null
-        },
-        {
-          "title": "Bins overflowing with dog waste, 25th April",
-          "url": "https://www.fixmystreet.com/report/9352150",
-          "date": "2026-04-25T10:17:17+00:00",
           "category": null
         }
       ],
