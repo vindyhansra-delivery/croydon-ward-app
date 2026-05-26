@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T03:57:14.804979+00:00",
+    "generated_at": "2026-05-26T10:06:03.317933+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -626,23 +626,10 @@
           "url": "https://www.fixmystreet.com/report/9429757",
           "date": "2026-05-10T14:49:09+00:00",
           "category": null
-        },
-        {
-          "title": "Hedge and trees overgrowing footpath, 26th April",
-          "url": "https://www.fixmystreet.com/report/9354977",
-          "date": "2026-04-26T09:25:36+00:00",
-          "category": null
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "£30m refurb is underway at century-old Selsdon Park Hotel",
-          "url": "https://insidecroydon.com/2026/05/16/30m-refurb-is-underway-at-century-old-selsdon-park-hotel/",
-          "date": "2026-05-16T10:00:48+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
@@ -808,6 +795,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Tram network disrupted by repairs to power lines at Arena",
+          "url": "https://insidecroydon.com/2026/05/26/tram-network-disrupted-by-repairs-to-power-lines-at-arena/",
+          "date": "2026-05-26T07:47:55+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Common Ground workshops, South Norwood, May 27 & Jun 3",
           "url": "https://insidecroydon.com/2026/05/25/common-ground-workshops-south-norwood-may-27-jun-3-2/",
