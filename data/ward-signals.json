@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T10:06:03.317933+00:00",
+    "generated_at": "2026-05-26T15:46:07.492292+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -132,6 +132,12 @@
     "Broad Green": {
       "fixmystreet": [
         {
+          "title": "Missing \"dead end\" sign on Martin Crescent, 26th May",
+          "url": "https://www.fixmystreet.com/report/9507581",
+          "date": "2026-05-26T11:26:59+00:00",
+          "category": null
+        },
+        {
           "title": "Tyre left outside house, 25th May",
           "url": "https://www.fixmystreet.com/report/9504432",
           "date": "2026-05-25T20:25:26+00:00",
@@ -210,6 +216,12 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "Building waste on road, 26th May",
+          "url": "https://www.fixmystreet.com/report/9508402",
+          "date": "2026-05-26T13:17:38+00:00",
+          "category": null
+        },
         {
           "title": "A line of about five potholes getting larger every day, 25th May",
           "url": "https://www.fixmystreet.com/report/9504208",
@@ -382,12 +394,6 @@
           "title": "Toilet window smashed, 10th May",
           "url": "https://www.fixmystreet.com/report/9428615",
           "date": "2026-05-10T10:39:35+00:00",
-          "category": null
-        },
-        {
-          "title": "Large amounts of building waste / furniture dumped along road, 26th April",
-          "url": "https://www.fixmystreet.com/report/9355882",
-          "date": "2026-04-26T12:56:36+00:00",
           "category": null
         }
       ],
@@ -592,14 +598,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Free SWLLC benefits and housing advice sessions, Selhurst",
-          "url": "https://insidecroydon.com/2026/05/17/free-swllc-benefits-and-housing-advice-sessions-selhurst/",
-          "date": "2026-05-17T09:00:11+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
@@ -753,15 +752,21 @@
       "reddit": [],
       "news": [
         {
-          "title": "Sing and Stroll, St Peter’s churchyard, S Croydon, Sat May 23",
-          "url": "https://insidecroydon.com/2026/05/22/sing-and-stroll-st-peters-churchyard-s-croydon-sat-may-23/",
-          "date": "2026-05-22T07:52:05+00:00",
+          "title": "Whitgift Foundation makes 41 ‘life-changing’ bursary awards",
+          "url": "https://insidecroydon.com/2026/05/26/whitgift-foundation-makes-41-life-changing-bursary-awards/",
+          "date": "2026-05-26T12:29:45+00:00",
           "publisher": "Inside Croydon"
         },
         {
-          "title": "Junction Road Street Party, South Croydon, Sat June 6",
-          "url": "https://insidecroydon.com/2026/05/17/junction-road-street-party-south-croydon-sat-june-6/",
-          "date": "2026-05-17T09:39:06+00:00",
+          "title": "Week of events to re-connect Londoners to our waterways",
+          "url": "https://insidecroydon.com/2026/05/26/week-of-events-to-re-connect-londoners-to-our-waterways/",
+          "date": "2026-05-26T10:52:51+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Sing and Stroll, St Peter’s churchyard, S Croydon, Sat May 23",
+          "url": "https://insidecroydon.com/2026/05/22/sing-and-stroll-st-peters-churchyard-s-croydon-sat-may-23/",
+          "date": "2026-05-22T07:52:05+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -856,6 +861,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Step-mum Nix found guilty of killing five-year-old in 1978",
+          "url": "https://insidecroydon.com/2026/05/26/step-mum-nix-found-guilty-of-killing-five-year-old-in-1978/",
+          "date": "2026-05-26T15:38:16+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "None hurt as Thornton Heath blaze spreads across two houses",
           "url": "https://insidecroydon.com/2026/05/23/none-hurt-as-thornton-heath-blaze-spreads-across-two-houses/",
