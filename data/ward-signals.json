@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-26T15:46:07.492292+00:00",
+    "generated_at": "2026-05-26T20:16:58.884356+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -329,14 +329,7 @@
       ]
     },
     "Norbury Park": {
-      "fixmystreet": [
-        {
-          "title": "Blocked storm drain, 26th April",
-          "url": "https://www.fixmystreet.com/report/9357668",
-          "date": "2026-04-26T19:58:38+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
@@ -512,6 +505,18 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Noisy manhole cover outside no 5 Rectory Park, 26th May",
+          "url": "https://www.fixmystreet.com/report/9510540",
+          "date": "2026-05-26T19:26:45+00:00",
+          "category": null
+        },
+        {
+          "title": "Noisy manhole cover outside no 1 Rectory Park, 26th May",
+          "url": "https://www.fixmystreet.com/report/9510519",
+          "date": "2026-05-26T19:23:21+00:00",
+          "category": null
+        },
+        {
           "title": "Faulty speed camera, 18th May",
           "url": "https://www.fixmystreet.com/report/9472990",
           "date": "2026-05-18T20:15:38+00:00",
@@ -557,18 +562,6 @@
           "title": "Low hanging branch affecting buses, 5th May",
           "url": "https://www.fixmystreet.com/report/9401538",
           "date": "2026-05-05T11:10:56+00:00",
-          "category": null
-        },
-        {
-          "title": "Flytipping 103 Church Way, 2nd May",
-          "url": "https://www.fixmystreet.com/report/9390061",
-          "date": "2026-05-02T15:48:41+00:00",
-          "category": null
-        },
-        {
-          "title": "The trees for making the bus have smashed windows, 28th April",
-          "url": "https://www.fixmystreet.com/report/9368914",
-          "date": "2026-04-28T16:39:04+00:00",
           "category": null
         }
       ],
