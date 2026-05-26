@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T19:49:14.105657+00:00",
+    "generated_at": "2026-05-26T03:57:14.804979+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -131,6 +131,12 @@
     },
     "Broad Green": {
       "fixmystreet": [
+        {
+          "title": "Tyre left outside house, 25th May",
+          "url": "https://www.fixmystreet.com/report/9504432",
+          "date": "2026-05-25T20:25:26+00:00",
+          "category": null
+        },
         {
           "title": "Parked on pavement, 24th May",
           "url": "https://www.fixmystreet.com/report/9500338",
@@ -640,6 +646,12 @@
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
+        {
+          "title": "Speed camera malfunction, 25th May",
+          "url": "https://www.fixmystreet.com/report/9504460",
+          "date": "2026-05-25T20:35:22+00:00",
+          "category": null
+        },
         {
           "title": "In my back garden dead fox cub, 2nd May",
           "url": "https://www.fixmystreet.com/report/9390631",
