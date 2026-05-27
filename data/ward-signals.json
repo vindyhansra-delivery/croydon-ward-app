@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-27T04:11:33.917140+00:00",
+    "generated_at": "2026-05-27T10:04:02.038814+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -358,12 +358,6 @@
           "url": "https://www.fixmystreet.com/report/9404454",
           "date": "2026-05-05T17:10:44+00:00",
           "category": null
-        },
-        {
-          "title": "Rubbish, 27th April",
-          "url": "https://www.fixmystreet.com/report/9358465",
-          "date": "2026-04-27T07:02:24+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -663,6 +657,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Dumped item, 27th May",
+          "url": "https://www.fixmystreet.com/report/9511363",
+          "date": "2026-05-27T04:48:25+00:00",
+          "category": null
+        },
+        {
           "title": "Chairs, 17th May",
           "url": "https://www.fixmystreet.com/report/9463506",
           "date": "2026-05-17T05:17:23+00:00",
@@ -794,6 +794,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Beckenham tram lines disrupted for second day of repairs",
+          "url": "https://insidecroydon.com/2026/05/27/beckenham-tram-lines-disrupted-for-second-day-of-repairs/",
+          "date": "2026-05-27T08:36:34+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Tram network disrupted by repairs to power lines at Arena",
           "url": "https://insidecroydon.com/2026/05/26/tram-network-disrupted-by-repairs-to-power-lines-at-arena/",
           "date": "2026-05-26T07:47:55+00:00",
@@ -924,6 +930,12 @@
     },
     "West Thornton": {
       "fixmystreet": [
+        {
+          "title": "Mouldy stink, 27th May",
+          "url": "https://www.fixmystreet.com/report/9512763",
+          "date": "2026-05-27T09:06:29+00:00",
+          "category": null
+        },
         {
           "title": "Holding spaces using bins, 13th May",
           "url": "https://www.fixmystreet.com/report/9448969",
