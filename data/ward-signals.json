@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-27T10:04:02.038814+00:00",
+    "generated_at": "2026-05-27T15:56:23.306003+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -260,29 +260,22 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Perry’s anti-democratic council has created constitution crisis",
-          "url": "https://insidecroydon.com/2026/05/17/perrys-anti-democratic-council-has-created-constitution-crisis/",
-          "date": "2026-05-17T15:10:05+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Fairfield": {
       "fixmystreet": [],
       "reddit": [],
       "news": [
         {
-          "title": "Rubbish councillor Roche finally sacked from Mayor’s cabinet",
-          "url": "https://insidecroydon.com/2026/05/19/rubbish-councillor-roche-finally-sacked-from-mayors-cabinet/",
-          "date": "2026-05-19T11:15:15+00:00",
+          "title": "50% off tickets for world premiere of Hitoshi Sakimoto music",
+          "url": "https://insidecroydon.com/2026/05/27/50-off-tickets-for-world-premiere-of-hitoshi-sakimoto-music/",
+          "date": "2026-05-27T12:26:58+00:00",
           "publisher": "Inside Croydon"
         },
         {
-          "title": "Perry’s anti-democratic council has created constitution crisis",
-          "url": "https://insidecroydon.com/2026/05/17/perrys-anti-democratic-council-has-created-constitution-crisis/",
-          "date": "2026-05-17T15:10:05+00:00",
+          "title": "Rubbish councillor Roche finally sacked from Mayor’s cabinet",
+          "url": "https://insidecroydon.com/2026/05/19/rubbish-councillor-roche-finally-sacked-from-mayors-cabinet/",
+          "date": "2026-05-19T11:15:15+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -319,14 +312,7 @@
     "New Addington South": {
       "fixmystreet": [],
       "reddit": [],
-      "news": [
-        {
-          "title": "Perry’s anti-democratic council has created constitution crisis",
-          "url": "https://insidecroydon.com/2026/05/17/perrys-anti-democratic-council-has-created-constitution-crisis/",
-          "date": "2026-05-17T15:10:05+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Norbury Park": {
       "fixmystreet": [],
@@ -390,12 +376,6 @@
           "title": "Old Coulsdon Village Fair, Grange Park, Sat July 4 from noon",
           "url": "https://insidecroydon.com/2026/05/24/old-coulsdon-village-fair-grange-park-sat-july-4-from-noon/",
           "date": "2026-05-24T09:25:43+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Perry’s anti-democratic council has created constitution crisis",
-          "url": "https://insidecroydon.com/2026/05/17/perrys-anti-democratic-council-has-created-constitution-crisis/",
-          "date": "2026-05-17T15:10:05+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -767,6 +747,12 @@
     "South Norwood": {
       "fixmystreet": [
         {
+          "title": "Pothole outside of petrol station, 27th May",
+          "url": "https://www.fixmystreet.com/report/9514628",
+          "date": "2026-05-27T13:03:29+00:00",
+          "category": null
+        },
+        {
           "title": "Drain blocked with fat. Rat borrows found entering the sewage system. Area infested with rats entering our homes and damaging residents cars. Greenery overgrown, 22nd May",
           "url": "https://www.fixmystreet.com/report/9494863",
           "date": "2026-05-22T19:47:18+00:00",
@@ -782,12 +768,6 @@
           "title": "Mirror dumped on private driveway, 29th April",
           "url": "https://www.fixmystreet.com/report/9372802",
           "date": "2026-04-29T11:30:05+00:00",
-          "category": null
-        },
-        {
-          "title": "Dangerously raised manhole, 27th April",
-          "url": "https://www.fixmystreet.com/report/9360234",
-          "date": "2026-04-27T10:43:46+00:00",
           "category": null
         }
       ],
