@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T10:12:43.033089+00:00",
+    "generated_at": "2026-05-28T16:10:13.633728+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -174,12 +174,6 @@
           "title": "Boy survived SEND system to become Broad Green councillor",
           "url": "https://insidecroydon.com/2026/05/27/boy-survived-send-system-to-become-broad-green-councillor/",
           "date": "2026-05-27T16:24:48+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "BWC Community Pop-up, Croydon Smile Hub, Sat May 23",
-          "url": "https://insidecroydon.com/2026/05/19/bwc-community-pop-up-croydon-smile-hub-sat-may-23/",
-          "date": "2026-05-19T08:30:33+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -846,6 +840,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Three arrested after woman dies at Furze Road, Thornton Heath",
+          "url": "https://insidecroydon.com/2026/05/28/three-arrested-after-woman-dies-at-furze-road-thornton-heath/",
+          "date": "2026-05-28T14:29:06+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Step-mum Nix found guilty of killing five-year-old in 1978",
           "url": "https://insidecroydon.com/2026/05/26/step-mum-nix-found-guilty-of-killing-five-year-old-in-1978/",
