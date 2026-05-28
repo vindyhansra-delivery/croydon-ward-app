@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T03:59:37.247666+00:00",
+    "generated_at": "2026-05-28T10:12:43.033089+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -91,6 +91,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Dexter Shaw and The Wolftones, The Oval Tavern, Sun May 31",
+          "url": "https://insidecroydon.com/2026/05/28/dexter-shaw-and-the-wolftones-the-oval-tavern-sun-may-31/",
+          "date": "2026-05-28T07:52:14+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Cinatra’s Summer Reunion, Coulsdon Manor Hotel, June 19",
           "url": "https://insidecroydon.com/2026/05/25/cinatras-summer-reunion-coulsdon-manor-hotel-june-19/",
@@ -630,12 +636,6 @@
           "title": "Rubbish councillor Roche finally sacked from Mayor’s cabinet",
           "url": "https://insidecroydon.com/2026/05/19/rubbish-councillor-roche-finally-sacked-from-mayors-cabinet/",
           "date": "2026-05-19T11:15:15+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "CODA presents Cabaret, at Selsdon Hall, May 22 and 23",
-          "url": "https://insidecroydon.com/2026/05/18/coda-presents-cabaret-at-selsdon-hall-may-22-and-23/",
-          "date": "2026-05-18T09:58:55+00:00",
           "publisher": "Inside Croydon"
         }
       ]
