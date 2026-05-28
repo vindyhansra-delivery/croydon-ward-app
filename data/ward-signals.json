@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T16:10:13.633728+00:00",
+    "generated_at": "2026-05-28T20:31:40.964425+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -266,7 +266,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Desperate Perry is denied his victory parade for a second year",
+          "url": "https://insidecroydon.com/2026/05/28/desperate-perry-is-denied-his-victory-parade-for-a-second-year/",
+          "date": "2026-05-28T16:34:37+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Fairfield": {
       "fixmystreet": [],
@@ -276,12 +283,6 @@
           "title": "50% off tickets for world premiere of Hitoshi Sakimoto music",
           "url": "https://insidecroydon.com/2026/05/27/50-off-tickets-for-world-premiere-of-hitoshi-sakimoto-music/",
           "date": "2026-05-27T12:26:58+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Rubbish councillor Roche finally sacked from Mayor’s cabinet",
-          "url": "https://insidecroydon.com/2026/05/19/rubbish-councillor-roche-finally-sacked-from-mayors-cabinet/",
-          "date": "2026-05-19T11:15:15+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -485,6 +486,12 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Temporary traffic lights stuck on red, 28th May",
+          "url": "https://www.fixmystreet.com/report/9522299",
+          "date": "2026-05-28T17:28:31+00:00",
+          "category": null
+        },
+        {
           "title": "Noisy manhole cover outside no 5 Rectory Park, 26th May",
           "url": "https://www.fixmystreet.com/report/9510540",
           "date": "2026-05-26T19:26:45+00:00",
@@ -537,12 +544,6 @@
           "url": "https://www.fixmystreet.com/report/9408909",
           "date": "2026-05-06T12:36:44+00:00",
           "category": null
-        },
-        {
-          "title": "Low hanging branch affecting buses, 5th May",
-          "url": "https://www.fixmystreet.com/report/9401538",
-          "date": "2026-05-05T11:10:56+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -571,7 +572,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Desperate Perry is denied his victory parade for a second year",
+          "url": "https://insidecroydon.com/2026/05/28/desperate-perry-is-denied-his-victory-parade-for-a-second-year/",
+          "date": "2026-05-28T16:34:37+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
@@ -625,12 +633,6 @@
           "url": "https://insidecroydon.com/2026/05/20/coda-presents-cabaret-at-selsdon-hall-may-22-and-23-2/",
           "date": "2026-05-20T08:36:19+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Rubbish councillor Roche finally sacked from Mayor’s cabinet",
-          "url": "https://insidecroydon.com/2026/05/19/rubbish-councillor-roche-finally-sacked-from-mayors-cabinet/",
-          "date": "2026-05-19T11:15:15+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -673,6 +675,12 @@
     "Shirley South": {
       "fixmystreet": [
         {
+          "title": "Strong unpleasant coming from the Foxes Wood, 28th May",
+          "url": "https://www.fixmystreet.com/report/9521912",
+          "date": "2026-05-28T16:13:00+00:00",
+          "category": null
+        },
+        {
           "title": "Flytip in carpark, 24th May",
           "url": "https://www.fixmystreet.com/report/9500945",
           "date": "2026-05-24T20:42:18+00:00",
@@ -704,14 +712,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Rubbish councillor Roche finally sacked from Mayor’s cabinet",
-          "url": "https://insidecroydon.com/2026/05/19/rubbish-councillor-roche-finally-sacked-from-mayors-cabinet/",
-          "date": "2026-05-19T11:15:15+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "South Croydon": {
       "fixmystreet": [
@@ -774,6 +775,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Desperate Perry is denied his victory parade for a second year",
+          "url": "https://insidecroydon.com/2026/05/28/desperate-perry-is-denied-his-victory-parade-for-a-second-year/",
+          "date": "2026-05-28T16:34:37+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Beckenham tram lines disrupted for second day of repairs",
           "url": "https://insidecroydon.com/2026/05/27/beckenham-tram-lines-disrupted-for-second-day-of-repairs/",
           "date": "2026-05-27T08:36:34+00:00",
@@ -795,12 +802,6 @@
           "title": "Trams unveil ex-Eagles winger Sean Scannell as new director",
           "url": "https://insidecroydon.com/2026/05/24/trams-unveil-ex-eagles-winger-sean-scannell-as-new-director/",
           "date": "2026-05-24T10:47:52+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Common Ground workshops, South Norwood, May 27 & Jun 3",
-          "url": "https://insidecroydon.com/2026/05/23/common-ground-workshops-south-norwood-may-27-jun-3/",
-          "date": "2026-05-23T09:53:54+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -862,6 +863,12 @@
     },
     "Waddon": {
       "fixmystreet": [
+        {
+          "title": "Veolia street sweepers dumping rubbish on the street, 28th May",
+          "url": "https://www.fixmystreet.com/report/9522596",
+          "date": "2026-05-28T18:28:26+00:00",
+          "category": null
+        },
         {
           "title": "Partially blocked drain, 14th May",
           "url": "https://www.fixmystreet.com/report/9453562",
