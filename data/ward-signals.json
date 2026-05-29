@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T10:03:30.405297+00:00",
+    "generated_at": "2026-05-29T15:48:00.352642+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "Bins are full, 29th May",
+          "url": "https://www.fixmystreet.com/report/9526859",
+          "date": "2026-05-29T14:46:07+00:00",
+          "category": null
+        },
         {
           "title": "Rubbish, 24th May",
           "url": "https://www.fixmystreet.com/report/9498806",
@@ -549,6 +555,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "After 73 years, Sanderstead’s sign is removed for a paint job",
+          "url": "https://insidecroydon.com/2026/05/29/after-73-years-sandersteads-sign-is-removed-for-a-paint-job/",
+          "date": "2026-05-29T11:10:45+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Touch rugby taster day at Warlingham RFC, Sat Jun 6",
           "url": "https://insidecroydon.com/2026/05/23/touch-rugby-taster-day-at-warlingham-rfc-sat-jun-6-2/",
           "date": "2026-05-23T08:49:56+00:00",
@@ -631,6 +643,12 @@
     },
     "Shirley North": {
       "fixmystreet": [
+        {
+          "title": "Continuous parking along road prevents traffic flow, 29th May",
+          "url": "https://www.fixmystreet.com/report/9527377",
+          "date": "2026-05-29T13:29:40+00:00",
+          "category": null
+        },
         {
           "title": "Dumped item, 27th May",
           "url": "https://www.fixmystreet.com/report/9511363",
@@ -757,12 +775,6 @@
           "url": "https://www.fixmystreet.com/report/9492828",
           "date": "2026-05-22T12:14:48+00:00",
           "category": null
-        },
-        {
-          "title": "Mirror dumped on private driveway, 29th April",
-          "url": "https://www.fixmystreet.com/report/9372802",
-          "date": "2026-04-29T11:30:05+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -823,12 +835,6 @@
           "title": "Fly-Tipping, 7th May",
           "url": "https://www.fixmystreet.com/report/9416365",
           "date": "2026-05-07T15:44:12+00:00",
-          "category": null
-        },
-        {
-          "title": "Parking causing entry and exit difficult., 29th April",
-          "url": "https://www.fixmystreet.com/report/9373555",
-          "date": "2026-04-29T13:08:49+00:00",
           "category": null
         }
       ],
