@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T15:48:00.352642+00:00",
+    "generated_at": "2026-05-29T20:34:11.802040+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -65,14 +65,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "We Run Croydon, meeting Addiscombe, every Wednesday",
-          "url": "https://insidecroydon.com/2026/05/21/we-run-croydon-meeting-addiscombe-every-wednesday/",
-          "date": "2026-05-21T08:10:31+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Addiscombe West": {
       "fixmystreet": [
@@ -331,7 +324,14 @@
     "New Addington South": {
       "fixmystreet": [],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Add poor time management to Mayor’s long list of failings",
+          "url": "https://insidecroydon.com/2026/05/29/add-poor-time-management-to-mayors-long-list-of-failings/",
+          "date": "2026-05-29T16:51:18+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Norbury Park": {
       "fixmystreet": [],
@@ -492,6 +492,12 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Overgrown hedge blocking path, 29th May",
+          "url": "https://www.fixmystreet.com/report/9528994",
+          "date": "2026-05-29T19:12:00+00:00",
+          "category": null
+        },
+        {
           "title": "Temporary traffic lights stuck on red, 28th May",
           "url": "https://www.fixmystreet.com/report/9522299",
           "date": "2026-05-28T17:28:31+00:00",
@@ -543,12 +549,6 @@
           "title": "Speedvisor not working, 6th May",
           "url": "https://www.fixmystreet.com/report/9409003",
           "date": "2026-05-06T12:54:51+00:00",
-          "category": null
-        },
-        {
-          "title": "Potholes approaching Sanderstead Roundabout from Sanderstead Hill, 6th May",
-          "url": "https://www.fixmystreet.com/report/9408909",
-          "date": "2026-05-06T12:36:44+00:00",
           "category": null
         }
       ],
@@ -643,6 +643,18 @@
     },
     "Shirley North": {
       "fixmystreet": [
+        {
+          "title": "Dumped Bags, 29th May",
+          "url": "https://www.fixmystreet.com/report/9528694",
+          "date": "2026-05-29T17:41:40+00:00",
+          "category": null
+        },
+        {
+          "title": "Chairs, 29th May",
+          "url": "https://www.fixmystreet.com/report/9528682",
+          "date": "2026-05-29T17:38:20+00:00",
+          "category": null
+        },
         {
           "title": "Continuous parking along road prevents traffic flow, 29th May",
           "url": "https://www.fixmystreet.com/report/9527377",
