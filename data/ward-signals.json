@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T04:01:42.545704+00:00",
+    "generated_at": "2026-05-29T10:03:30.405297+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -64,12 +64,6 @@
           "title": "We Run Croydon, meeting Addiscombe, every Wednesday",
           "url": "https://insidecroydon.com/2026/05/21/we-run-croydon-meeting-addiscombe-every-wednesday/",
           "date": "2026-05-21T08:10:31+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Vote-rigging accused Bonner tried to shut down this news site",
-          "url": "https://insidecroydon.com/2026/05/20/vote-rigging-accused-bonner-tried-to-shut-down-this-news-site/",
-          "date": "2026-05-20T10:42:42+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -222,6 +216,12 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "Wall colapsing, 29th May",
+          "url": "https://www.fixmystreet.com/report/9524826",
+          "date": "2026-05-29T07:53:16+00:00",
+          "category": null
+        },
         {
           "title": "Dead squirrel on pavement, 29th May",
           "url": "https://www.fixmystreet.com/report/9524036",
@@ -478,12 +478,6 @@
           "url": "https://www.fixmystreet.com/report/9416313",
           "date": "2026-05-07T15:35:38+00:00",
           "category": null
-        },
-        {
-          "title": "Severely Damaged inspection cover, 29th April",
-          "url": "https://www.fixmystreet.com/report/9371402",
-          "date": "2026-04-29T08:33:52+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -633,14 +627,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "CODA presents Cabaret, at Selsdon Hall, May 22 and 23",
-          "url": "https://insidecroydon.com/2026/05/20/coda-presents-cabaret-at-selsdon-hall-may-22-and-23-2/",
-          "date": "2026-05-20T08:36:19+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Shirley North": {
       "fixmystreet": [
