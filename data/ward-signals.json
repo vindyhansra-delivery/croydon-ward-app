@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T08:35:43.904621+00:00",
+    "generated_at": "2026-05-30T13:49:45.318552+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -627,7 +627,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Volunteer Open Day, Selsdon Clubhouse, Tue June 2",
+          "url": "https://insidecroydon.com/2026/05/30/volunteer-open-day-selsdon-clubhouse-tue-june-2/",
+          "date": "2026-05-30T09:20:54+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
@@ -645,7 +652,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Volunteer Open Day, Selsdon Clubhouse, Tue June 2",
+          "url": "https://insidecroydon.com/2026/05/30/volunteer-open-day-selsdon-clubhouse-tue-june-2/",
+          "date": "2026-05-30T09:20:54+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Shirley North": {
       "fixmystreet": [
