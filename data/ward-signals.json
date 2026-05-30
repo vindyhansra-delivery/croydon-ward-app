@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T13:49:45.318552+00:00",
+    "generated_at": "2026-05-30T19:25:26.555570+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -136,6 +136,12 @@
     },
     "Broad Green": {
       "fixmystreet": [
+        {
+          "title": "Rubbish dump, 30th May",
+          "url": "https://www.fixmystreet.com/report/9532671",
+          "date": "2026-05-30T19:20:49+00:00",
+          "category": null
+        },
         {
           "title": "Missing \"dead end\" sign on Martin Crescent, 26th May",
           "url": "https://www.fixmystreet.com/report/9507581",
@@ -894,6 +900,12 @@
     },
     "Waddon": {
       "fixmystreet": [
+        {
+          "title": "Food waste not collected, 30th May",
+          "url": "https://www.fixmystreet.com/report/9532022",
+          "date": "2026-05-30T15:51:41+00:00",
+          "category": null
+        },
         {
           "title": "Veolia street sweepers dumping rubbish on the street, 28th May",
           "url": "https://www.fixmystreet.com/report/9522596",
