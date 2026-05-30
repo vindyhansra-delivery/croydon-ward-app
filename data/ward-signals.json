@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T03:45:57.582144+00:00",
+    "generated_at": "2026-05-30T08:35:43.904621+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -84,6 +84,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Songbird Showcase Night, The Oval Tavern, Fri June 5, 8pm",
+          "url": "https://insidecroydon.com/2026/05/30/songbird-showcase-night-the-oval-tavern-fri-june-5-8pm/",
+          "date": "2026-05-30T08:30:24+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Dexter Shaw and The Wolftones, The Oval Tavern, Sun May 31",
           "url": "https://insidecroydon.com/2026/05/28/dexter-shaw-and-the-wolftones-the-oval-tavern-sun-may-31/",
