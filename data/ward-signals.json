@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T04:12:42.538385+00:00",
+    "generated_at": "2026-05-31T08:54:37.424352+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -73,12 +73,6 @@
           "title": "The whole of Rymer road has major potholes, 18th May",
           "url": "https://www.fixmystreet.com/report/9472023",
           "date": "2026-05-18T16:32:09+00:00",
-          "category": null
-        },
-        {
-          "title": "Dangerous parking, 1st May",
-          "url": "https://www.fixmystreet.com/report/9383296",
-          "date": "2026-05-01T07:51:37+00:00",
           "category": null
         }
       ],
@@ -769,6 +763,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Junction Road Street Party, South Croydon, Sat June 6",
+          "url": "https://insidecroydon.com/2026/05/31/junction-road-street-party-south-croydon-sat-june-6-2/",
+          "date": "2026-05-31T08:30:28+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Whitgift Foundation makes 41 ‘life-changing’ bursary awards",
           "url": "https://insidecroydon.com/2026/05/26/whitgift-foundation-makes-41-life-changing-bursary-awards/",
           "date": "2026-05-26T12:29:45+00:00",
@@ -778,12 +778,6 @@
           "title": "Week of events to re-connect Londoners to our waterways",
           "url": "https://insidecroydon.com/2026/05/26/week-of-events-to-re-connect-londoners-to-our-waterways/",
           "date": "2026-05-26T10:52:51+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Sing and Stroll, St Peter’s churchyard, S Croydon, Sat May 23",
-          "url": "https://insidecroydon.com/2026/05/22/sing-and-stroll-st-peters-churchyard-s-croydon-sat-may-23/",
-          "date": "2026-05-22T07:52:05+00:00",
           "publisher": "Inside Croydon"
         }
       ]
