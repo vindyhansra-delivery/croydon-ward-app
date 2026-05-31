@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T19:25:26.555570+00:00",
+    "generated_at": "2026-05-31T04:12:42.538385+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -213,12 +213,6 @@
           "title": "Loose Road Surface, 2nd May",
           "url": "https://www.fixmystreet.com/report/9390504",
           "date": "2026-05-02T18:30:03+00:00",
-          "category": null
-        },
-        {
-          "title": "Flags attached on street lighting, 30th April",
-          "url": "https://www.fixmystreet.com/report/9382044",
-          "date": "2026-04-30T20:40:22+00:00",
           "category": null
         }
       ],
