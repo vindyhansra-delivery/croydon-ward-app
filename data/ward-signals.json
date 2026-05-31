@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T08:54:37.424352+00:00",
+    "generated_at": "2026-05-31T13:55:08.719636+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -94,18 +94,6 @@
           "title": "Cinatra’s Summer Reunion, Coulsdon Manor Hotel, June 19",
           "url": "https://insidecroydon.com/2026/05/25/cinatras-summer-reunion-coulsdon-manor-hotel-june-19/",
           "date": "2026-05-25T09:50:07+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Leslie Arms timeline: sad 25-year decline of heritage building",
-          "url": "https://insidecroydon.com/2026/05/22/leslie-arms-timeline-sad-25-year-decline-of-heritage-building/",
-          "date": "2026-05-22T10:30:24+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Addiscombe’s listed pub building put up for auction at £1.45m",
-          "url": "https://insidecroydon.com/2026/05/22/addiscombes-listed-pub-building-put-up-for-auction-at-1-45m/",
-          "date": "2026-05-22T10:30:08+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -285,6 +273,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Strike up the band! CSB is ready for its Fairfield concert date",
+          "url": "https://insidecroydon.com/2026/05/31/strike-up-the-band-csb-is-ready-for-its-fairfield-concert-date/",
+          "date": "2026-05-31T10:00:34+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "50% off tickets for world premiere of Hitoshi Sakimoto music",
           "url": "https://insidecroydon.com/2026/05/27/50-off-tickets-for-world-premiere-of-hitoshi-sakimoto-music/",
           "date": "2026-05-27T12:26:58+00:00",
@@ -371,6 +365,12 @@
     "Old Coulsdon": {
       "fixmystreet": [
         {
+          "title": "2 x Yellow metal KEEP LEFT signs smashed to the ground, 31st May",
+          "url": "https://www.fixmystreet.com/report/9535153",
+          "date": "2026-05-31T13:31:45+00:00",
+          "category": null
+        },
+        {
           "title": "Overgrown at base of tree,, 17th May",
           "url": "https://www.fixmystreet.com/report/9465915",
           "date": "2026-05-17T16:10:58+00:00",
@@ -415,7 +415,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Happy Circus, Park Hill School, Stanhope Road, June 10",
+          "url": "https://insidecroydon.com/2026/05/31/happy-circus-park-hill-school-stanhope-road-june-10/",
+          "date": "2026-05-31T09:15:29+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Purley Oaks and Riddlesdown": {
       "fixmystreet": [
@@ -866,6 +873,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Biggles and the curious case of the curate from Croydon",
+          "url": "https://insidecroydon.com/2026/05/31/biggles-and-the-curious-case-of-the-curate-from-croydon/",
+          "date": "2026-05-31T12:32:08+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Three arrested after woman dies at Furze Road, Thornton Heath",
           "url": "https://insidecroydon.com/2026/05/28/three-arrested-after-woman-dies-at-furze-road-thornton-heath/",
