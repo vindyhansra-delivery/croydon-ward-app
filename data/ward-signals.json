@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T13:55:08.719636+00:00",
+    "generated_at": "2026-05-31T19:25:21.438036+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -118,6 +118,12 @@
     },
     "Broad Green": {
       "fixmystreet": [
+        {
+          "title": "Fly tipping, 31st May",
+          "url": "https://www.fixmystreet.com/report/9536593",
+          "date": "2026-05-31T18:41:08+00:00",
+          "category": null
+        },
         {
           "title": "Rubbish dump, 30th May",
           "url": "https://www.fixmystreet.com/report/9532671",
@@ -902,6 +908,12 @@
     "Waddon": {
       "fixmystreet": [
         {
+          "title": "Large and deep pothole, 31st May",
+          "url": "https://www.fixmystreet.com/report/9536656",
+          "date": "2026-05-31T18:56:11+00:00",
+          "category": null
+        },
+        {
           "title": "Food waste not collected, 30th May",
           "url": "https://www.fixmystreet.com/report/9532022",
           "date": "2026-05-30T15:51:41+00:00",
@@ -953,12 +965,6 @@
           "title": "Overflowing bins, 3rd May",
           "url": "https://www.fixmystreet.com/report/9392446",
           "date": "2026-05-03T12:44:28+00:00",
-          "category": null
-        },
-        {
-          "title": "Union jack flags unauthorized attachment to lampposts, 2nd May",
-          "url": "https://www.fixmystreet.com/report/9388554",
-          "date": "2026-05-02T09:06:20+00:00",
           "category": null
         }
       ],
