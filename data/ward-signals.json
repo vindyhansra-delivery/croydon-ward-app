@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-01T04:27:19.771954+00:00",
+    "generated_at": "2026-06-01T11:45:36.327631+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -65,7 +65,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "We Run Croydon, meeting Addiscombe, every Wednesday",
+          "url": "https://insidecroydon.com/2026/06/01/we-run-croydon-meeting-addiscombe-every-wednesday-2/",
+          "date": "2026-06-01T08:32:22+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Addiscombe West": {
       "fixmystreet": [
@@ -908,6 +915,12 @@
     "Waddon": {
       "fixmystreet": [
         {
+          "title": "Alleyway between 44 and 43 Theobald Road CR0 3RN, 1st June",
+          "url": "https://www.fixmystreet.com/report/9539356",
+          "date": "2026-06-01T09:56:57+00:00",
+          "category": null
+        },
+        {
           "title": "Large and deep pothole, 31st May",
           "url": "https://www.fixmystreet.com/report/9536656",
           "date": "2026-05-31T18:56:11+00:00",
@@ -959,12 +972,6 @@
           "title": "Sign knocked over, 9th May",
           "url": "https://www.fixmystreet.com/report/9424877",
           "date": "2026-05-09T09:09:03+00:00",
-          "category": null
-        },
-        {
-          "title": "Overflowing bins, 3rd May",
-          "url": "https://www.fixmystreet.com/report/9392446",
-          "date": "2026-05-03T12:44:28+00:00",
           "category": null
         }
       ],
