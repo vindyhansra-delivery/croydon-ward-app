@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T04:20:37.277710+00:00",
+    "generated_at": "2026-06-02T10:48:44.803373+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -217,6 +217,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "More fly tipping, 2nd June",
+          "url": "https://www.fixmystreet.com/report/9545176",
+          "date": "2026-06-02T07:42:28+00:00",
+          "category": null
+        },
+        {
           "title": "Wall colapsing, 29th May",
           "url": "https://www.fixmystreet.com/report/9524826",
           "date": "2026-05-29T07:53:16+00:00",
@@ -332,12 +338,25 @@
     "New Addington North": {
       "fixmystreet": [],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "New Addington Carnival 2026, Milne Park,  June 13 and 14",
+          "url": "https://insidecroydon.com/2026/06/02/new-addington-carnival-2026-milne-park-june-13-and-14/",
+          "date": "2026-06-02T09:37:41+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "New Addington South": {
       "fixmystreet": [],
       "reddit": [],
       "news": [
+        {
+          "title": "New Addington Carnival 2026, Milne Park,  June 13 and 14",
+          "url": "https://insidecroydon.com/2026/06/02/new-addington-carnival-2026-milne-park-june-13-and-14/",
+          "date": "2026-06-02T09:37:41+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Add poor time management to Mayor’s long list of failings",
           "url": "https://insidecroydon.com/2026/05/29/add-poor-time-management-to-mayors-long-list-of-failings/",
@@ -428,6 +447,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Old Coulsdon Village Fair, Grange Park, Sat July 4 from noon",
+          "url": "https://insidecroydon.com/2026/06/02/old-coulsdon-village-fair-grange-park-sat-july-4-from-noon-2/",
+          "date": "2026-06-02T08:41:07+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Old Coulsdon Village Fair, Grange Park, Sat July 4 from noon",
           "url": "https://insidecroydon.com/2026/05/24/old-coulsdon-village-fair-grange-park-sat-july-4-from-noon/",
@@ -669,14 +694,7 @@
       ]
     },
     "Selsdon and Addington Village": {
-      "fixmystreet": [
-        {
-          "title": "Speed camera malfunction, 25th May",
-          "url": "https://www.fixmystreet.com/report/9504460",
-          "date": "2026-05-25T20:35:22+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": [
         {
@@ -794,6 +812,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "New Addington Carnival 2026, Milne Park,  June 13 and 14",
+          "url": "https://insidecroydon.com/2026/06/02/new-addington-carnival-2026-milne-park-june-13-and-14/",
+          "date": "2026-06-02T09:37:41+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Junction Road Street Party, South Croydon, Sat June 6",
           "url": "https://insidecroydon.com/2026/05/31/junction-road-street-party-south-croydon-sat-june-6-2/",
@@ -920,12 +944,6 @@
           "title": "Step-mum Nix found guilty of killing five-year-old in 1978",
           "url": "https://insidecroydon.com/2026/05/26/step-mum-nix-found-guilty-of-killing-five-year-old-in-1978/",
           "date": "2026-05-26T15:38:16+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "None hurt as Thornton Heath blaze spreads across two houses",
-          "url": "https://insidecroydon.com/2026/05/23/none-hurt-as-thornton-heath-blaze-spreads-across-two-houses/",
-          "date": "2026-05-23T10:15:21+00:00",
           "publisher": "Inside Croydon"
         }
       ]
