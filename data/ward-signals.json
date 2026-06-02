@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T10:48:44.803373+00:00",
+    "generated_at": "2026-06-02T16:43:18.271104+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -76,6 +76,12 @@
     },
     "Addiscombe West": {
       "fixmystreet": [
+        {
+          "title": "Mattress and bags of rubbish left, 2nd June",
+          "url": "https://www.fixmystreet.com/report/9548218",
+          "date": "2026-06-02T13:23:38+00:00",
+          "category": null
+        },
         {
           "title": "Pothole, 1st June",
           "url": "https://www.fixmystreet.com/report/9544050",
@@ -452,12 +458,6 @@
           "url": "https://insidecroydon.com/2026/06/02/old-coulsdon-village-fair-grange-park-sat-july-4-from-noon-2/",
           "date": "2026-06-02T08:41:07+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Old Coulsdon Village Fair, Grange Park, Sat July 4 from noon",
-          "url": "https://insidecroydon.com/2026/05/24/old-coulsdon-village-fair-grange-park-sat-july-4-from-noon/",
-          "date": "2026-05-24T09:25:43+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -694,7 +694,14 @@
       ]
     },
     "Selsdon and Addington Village": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Speed camera malfunction, 25th May",
+          "url": "https://www.fixmystreet.com/report/9504460",
+          "date": "2026-05-25T20:35:22+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": [
         {
@@ -803,6 +810,12 @@
     },
     "South Croydon": {
       "fixmystreet": [
+        {
+          "title": "Abandoned mop d in children's playground, 2nd June",
+          "url": "https://www.fixmystreet.com/report/9549489",
+          "date": "2026-06-02T16:03:46+00:00",
+          "category": null
+        },
         {
           "title": "Abandoned car in the road, 9th May",
           "url": "https://www.fixmystreet.com/report/9424774",
@@ -951,6 +964,12 @@
     "Waddon": {
       "fixmystreet": [
         {
+          "title": "Blocked drain causing flooding of the road and pavement, 2nd June",
+          "url": "https://www.fixmystreet.com/report/9547960",
+          "date": "2026-06-02T12:53:57+00:00",
+          "category": null
+        },
+        {
           "title": "Alleyway between 44 and 43 Theobald Road CR0 3RN, 1st June",
           "url": "https://www.fixmystreet.com/report/9539356",
           "date": "2026-06-01T09:56:57+00:00",
@@ -1002,12 +1021,6 @@
           "title": "Unauthorized Parking, 13th May",
           "url": "https://www.fixmystreet.com/report/9448026",
           "date": "2026-05-13T16:51:57+00:00",
-          "category": null
-        },
-        {
-          "title": "Sign knocked over, 9th May",
-          "url": "https://www.fixmystreet.com/report/9424877",
-          "date": "2026-05-09T09:09:03+00:00",
           "category": null
         }
       ],
