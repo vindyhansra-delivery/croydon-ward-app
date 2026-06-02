@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T16:43:18.271104+00:00",
+    "generated_at": "2026-06-02T20:57:32.119048+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -1029,6 +1029,12 @@
     },
     "West Thornton": {
       "fixmystreet": [
+        {
+          "title": "Flooding, 2nd June",
+          "url": "https://www.fixmystreet.com/report/9550360",
+          "date": "2026-06-02T18:35:42+00:00",
+          "category": null
+        },
         {
           "title": "Mouldy stink, 27th May",
           "url": "https://www.fixmystreet.com/report/9512763",
