@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-03T04:30:12.826469+00:00",
+    "generated_at": "2026-06-03T11:10:19.453573+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -108,12 +108,6 @@
           "url": "https://insidecroydon.com/2026/05/28/dexter-shaw-and-the-wolftones-the-oval-tavern-sun-may-31/",
           "date": "2026-05-28T07:52:14+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Cinatra’s Summer Reunion, Coulsdon Manor Hotel, June 19",
-          "url": "https://insidecroydon.com/2026/05/25/cinatras-summer-reunion-coulsdon-manor-hotel-june-19/",
-          "date": "2026-05-25T09:50:07+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -137,6 +131,12 @@
     },
     "Broad Green": {
       "fixmystreet": [
+        {
+          "title": "Ampere way alley way, 3rd June",
+          "url": "https://www.fixmystreet.com/report/9550978",
+          "date": "2026-06-03T06:23:06+00:00",
+          "category": null
+        },
         {
           "title": "Fly tipping, 31st May",
           "url": "https://www.fixmystreet.com/report/9536593",
@@ -624,6 +624,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Purley Scouts’ Gruffy Fayre, by Sanderstead Pond, Sat June 13",
+          "url": "https://insidecroydon.com/2026/06/03/purley-scouts-gruffy-fayre-by-sanderstead-pond-sat-june-13/",
+          "date": "2026-06-03T08:44:09+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "After 73 years, Sanderstead’s sign is removed for a paint job",
           "url": "https://insidecroydon.com/2026/05/29/after-73-years-sandersteads-sign-is-removed-for-a-paint-job/",
           "date": "2026-05-29T11:10:45+00:00",
@@ -761,12 +767,6 @@
           "url": "https://www.fixmystreet.com/report/9425158",
           "date": "2026-05-09T10:11:02+00:00",
           "category": null
-        },
-        {
-          "title": "Bag filled with bottled urine, 4th May",
-          "url": "https://www.fixmystreet.com/report/9395426",
-          "date": "2026-05-04T10:15:14+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -860,6 +860,12 @@
     "South Norwood": {
       "fixmystreet": [
         {
+          "title": "Litter and fly tipping, 3rd June",
+          "url": "https://www.fixmystreet.com/report/9542890",
+          "date": "2026-06-03T05:45:10+00:00",
+          "category": null
+        },
+        {
           "title": "Large planters blocking road, 1st June",
           "url": "https://www.fixmystreet.com/report/9541871",
           "date": "2026-06-01T14:29:05+00:00",
@@ -902,18 +908,6 @@
           "title": "Tram network disrupted by repairs to power lines at Arena",
           "url": "https://insidecroydon.com/2026/05/26/tram-network-disrupted-by-repairs-to-power-lines-at-arena/",
           "date": "2026-05-26T07:47:55+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Common Ground workshops, South Norwood, May 27 & Jun 3",
-          "url": "https://insidecroydon.com/2026/05/25/common-ground-workshops-south-norwood-may-27-jun-3-2/",
-          "date": "2026-05-25T08:41:08+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Trams unveil ex-Eagles winger Sean Scannell as new director",
-          "url": "https://insidecroydon.com/2026/05/24/trams-unveil-ex-eagles-winger-sean-scannell-as-new-director/",
-          "date": "2026-05-24T10:47:52+00:00",
           "publisher": "Inside Croydon"
         }
       ]
