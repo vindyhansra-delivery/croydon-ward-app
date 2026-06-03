@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T20:57:32.119048+00:00",
+    "generated_at": "2026-06-03T04:30:12.826469+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -658,6 +658,12 @@
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
+        {
+          "title": "20 MPH sign, 2nd June",
+          "url": "https://www.fixmystreet.com/report/9550930",
+          "date": "2026-06-02T21:15:17+00:00",
+          "category": null
+        },
         {
           "title": "Discarded/broken traffic cones, 25th May",
           "url": "https://www.fixmystreet.com/report/9502511",
