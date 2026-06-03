@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-03T11:10:19.453573+00:00",
+    "generated_at": "2026-06-03T16:59:25.255530+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -183,6 +183,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "‘Sickening’: EA allows even more waste to burn in Beddington",
+          "url": "https://insidecroydon.com/2026/06/03/sickening-ea-allows-even-more-waste-to-burn-in-beddington/",
+          "date": "2026-06-03T16:38:53+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Boy survived SEND system to become Broad Green councillor",
           "url": "https://insidecroydon.com/2026/05/27/boy-survived-send-system-to-become-broad-green-councillor/",
           "date": "2026-05-27T16:24:48+00:00",
@@ -275,12 +281,6 @@
           "url": "https://www.fixmystreet.com/report/9403163",
           "date": "2026-05-05T14:12:05+00:00",
           "category": null
-        },
-        {
-          "title": "Unlawful parking, 4th May",
-          "url": "https://www.fixmystreet.com/report/9397221",
-          "date": "2026-05-04T16:05:33+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -346,6 +346,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Off the RAAC: New Addington primaries get building grants",
+          "url": "https://insidecroydon.com/2026/06/03/off-the-raac-new-addington-primaries-get-building-grants/",
+          "date": "2026-06-03T11:22:59+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "New Addington Carnival 2026, Milne Park,  June 13 and 14",
           "url": "https://insidecroydon.com/2026/06/02/new-addington-carnival-2026-milne-park-june-13-and-14/",
           "date": "2026-06-02T09:37:41+00:00",
@@ -357,6 +363,12 @@
       "fixmystreet": [],
       "reddit": [],
       "news": [
+        {
+          "title": "Off the RAAC: New Addington primaries get building grants",
+          "url": "https://insidecroydon.com/2026/06/03/off-the-raac-new-addington-primaries-get-building-grants/",
+          "date": "2026-06-03T11:22:59+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "New Addington Carnival 2026, Milne Park,  June 13 and 14",
           "url": "https://insidecroydon.com/2026/06/02/new-addington-carnival-2026-milne-park-june-13-and-14/",
@@ -372,7 +384,14 @@
       ]
     },
     "Norbury Park": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Unknown car, 3rd June",
+          "url": "https://www.fixmystreet.com/report/9555404",
+          "date": "2026-06-03T14:41:07+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
@@ -655,6 +674,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "‘Sickening’: EA allows even more waste to burn in Beddington",
+          "url": "https://insidecroydon.com/2026/06/03/sickening-ea-allows-even-more-waste-to-burn-in-beddington/",
+          "date": "2026-06-03T16:38:53+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Desperate Perry is denied his victory parade for a second year",
           "url": "https://insidecroydon.com/2026/05/28/desperate-perry-is-denied-his-victory-parade-for-a-second-year/",
           "date": "2026-05-28T16:34:37+00:00",
@@ -903,12 +928,6 @@
           "url": "https://insidecroydon.com/2026/05/27/beckenham-tram-lines-disrupted-for-second-day-of-repairs/",
           "date": "2026-05-27T08:36:34+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Tram network disrupted by repairs to power lines at Arena",
-          "url": "https://insidecroydon.com/2026/05/26/tram-network-disrupted-by-repairs-to-power-lines-at-arena/",
-          "date": "2026-05-26T07:47:55+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -1025,7 +1044,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "‘Sickening’: EA allows even more waste to burn in Beddington",
+          "url": "https://insidecroydon.com/2026/06/03/sickening-ea-allows-even-more-waste-to-burn-in-beddington/",
+          "date": "2026-06-03T16:38:53+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "West Thornton": {
       "fixmystreet": [
