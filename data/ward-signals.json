@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T15:30:46.937403+00:00",
+    "generated_at": "2026-06-04T20:13:14.688473+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "Vehicle parking Blackhorse Lane, 4th June",
+          "url": "https://www.fixmystreet.com/report/9562573",
+          "date": "2026-06-04T15:37:15+00:00",
+          "category": null
+        },
         {
           "title": "Bins are full, 29th May",
           "url": "https://www.fixmystreet.com/report/9526859",
@@ -76,6 +82,12 @@
     },
     "Addiscombe West": {
       "fixmystreet": [
+        {
+          "title": "Fly tipping, 4th June",
+          "url": "https://www.fixmystreet.com/report/9563112",
+          "date": "2026-06-04T17:08:02+00:00",
+          "category": null
+        },
         {
           "title": "Mattress and bags of rubbish left, 2nd June",
           "url": "https://www.fixmystreet.com/report/9548218",
@@ -189,15 +201,15 @@
       "reddit": [],
       "news": [
         {
-          "title": "‘Sickening’: EA allows even more waste to burn in Beddington",
-          "url": "https://insidecroydon.com/2026/06/03/sickening-ea-allows-even-more-waste-to-burn-in-beddington/",
-          "date": "2026-06-03T16:38:53+00:00",
+          "title": "Viridor is using PR firm with links to Labour Together scandal",
+          "url": "https://insidecroydon.com/2026/06/04/viridor-is-using-pr-firm-with-links-to-labour-together-scandal/",
+          "date": "2026-06-04T15:59:08+00:00",
           "publisher": "Inside Croydon"
         },
         {
-          "title": "Boy survived SEND system to become Broad Green councillor",
-          "url": "https://insidecroydon.com/2026/05/27/boy-survived-send-system-to-become-broad-green-councillor/",
-          "date": "2026-05-27T16:24:48+00:00",
+          "title": "‘Sickening’: EA allows even more waste to burn in Beddington",
+          "url": "https://insidecroydon.com/2026/06/03/sickening-ea-allows-even-more-waste-to-burn-in-beddington/",
+          "date": "2026-06-03T16:38:53+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -234,6 +246,12 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "Broken yellow turn-signal, 4th June",
+          "url": "https://www.fixmystreet.com/report/9563876",
+          "date": "2026-06-04T19:47:24+00:00",
+          "category": null
+        },
         {
           "title": "More fly tipping, 2nd June",
           "url": "https://www.fixmystreet.com/report/9545176",
@@ -419,12 +437,6 @@
           "url": "https://www.fixmystreet.com/report/9429355",
           "date": "2026-05-10T13:21:30+00:00",
           "category": null
-        },
-        {
-          "title": "Vehicle crashed into 2 bollards and pelican light outside 84 Norbury Crescent, 5th May",
-          "url": "https://www.fixmystreet.com/report/9404454",
-          "date": "2026-05-05T17:10:44+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -432,6 +444,12 @@
     },
     "Old Coulsdon": {
       "fixmystreet": [
+        {
+          "title": "Broken fence - barbed wire on road, 4th June",
+          "url": "https://www.fixmystreet.com/report/9562669",
+          "date": "2026-06-04T15:50:14+00:00",
+          "category": "Broken fence"
+        },
         {
           "title": "2 x Yellow metal KEEP LEFT signs smashed to the ground, 31st May",
           "url": "https://www.fixmystreet.com/report/9535153",
@@ -667,6 +685,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Viridor is using PR firm with links to Labour Together scandal",
+          "url": "https://insidecroydon.com/2026/06/04/viridor-is-using-pr-firm-with-links-to-labour-together-scandal/",
+          "date": "2026-06-04T15:59:08+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "‘Sickening’: EA allows even more waste to burn in Beddington",
           "url": "https://insidecroydon.com/2026/06/03/sickening-ea-allows-even-more-waste-to-burn-in-beddington/",
           "date": "2026-06-03T16:38:53+00:00",
@@ -792,6 +816,12 @@
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "This Toulet has been dumped at the end of Farm Drive , in the Roadand is blocking an End of Road sign, 4th June",
+          "url": "https://www.fixmystreet.com/report/9563763",
+          "date": "2026-06-04T19:22:10+00:00",
+          "category": null
+        },
         {
           "title": "Strong unpleasant coming from the Foxes Wood, 28th May",
           "url": "https://www.fixmystreet.com/report/9521912",
@@ -1014,6 +1044,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Viridor is using PR firm with links to Labour Together scandal",
+          "url": "https://insidecroydon.com/2026/06/04/viridor-is-using-pr-firm-with-links-to-labour-together-scandal/",
+          "date": "2026-06-04T15:59:08+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "‘Sickening’: EA allows even more waste to burn in Beddington",
           "url": "https://insidecroydon.com/2026/06/03/sickening-ea-allows-even-more-waste-to-burn-in-beddington/",
