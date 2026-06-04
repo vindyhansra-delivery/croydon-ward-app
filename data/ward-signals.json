@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T10:04:59.642870+00:00",
+    "generated_at": "2026-06-04T15:30:46.937403+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -281,12 +281,6 @@
           "url": "https://www.fixmystreet.com/report/9430119",
           "date": "2026-05-10T16:19:08+00:00",
           "category": null
-        },
-        {
-          "title": "Taking a valuable parking space, 5th May",
-          "url": "https://www.fixmystreet.com/report/9403163",
-          "date": "2026-05-05T14:12:05+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -326,24 +320,11 @@
           "url": "https://insidecroydon.com/2026/05/31/strike-up-the-band-csb-is-ready-for-its-fairfield-concert-date/",
           "date": "2026-05-31T10:00:34+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "50% off tickets for world premiere of Hitoshi Sakimoto music",
-          "url": "https://insidecroydon.com/2026/05/27/50-off-tickets-for-world-premiere-of-hitoshi-sakimoto-music/",
-          "date": "2026-05-27T12:26:58+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
     "Kenley": {
-      "fixmystreet": [
-        {
-          "title": "Large amounts of illegal rubbish dumping / fly-tipping in countryside area., 5th May",
-          "url": "https://www.fixmystreet.com/report/9402036",
-          "date": "2026-05-05T12:06:27+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
@@ -479,6 +460,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Coulsdon Sixth Form College to stage open evening, June 24",
+          "url": "https://insidecroydon.com/2026/06/04/coulsdon-sixth-form-college-to-stage-open-evening-june-24/",
+          "date": "2026-06-04T11:35:18+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Old Coulsdon Village Fair, Grange Park, Sat July 4 from noon",
           "url": "https://insidecroydon.com/2026/06/02/old-coulsdon-village-fair-grange-park-sat-july-4-from-noon-2/",
           "date": "2026-06-02T08:41:07+00:00",
@@ -586,6 +573,12 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Temp light, 4th June",
+          "url": "https://www.fixmystreet.com/report/9560190",
+          "date": "2026-06-04T10:31:25+00:00",
+          "category": null
+        },
+        {
           "title": "Overgrown hedge blocking path, 29th May",
           "url": "https://www.fixmystreet.com/report/9528994",
           "date": "2026-05-29T19:12:00+00:00",
@@ -637,12 +630,6 @@
           "title": "Speed camera flashes randomly, on Limpsfield Road near Hilton Way near the bus stop, 6th May",
           "url": "https://www.fixmystreet.com/report/9411361",
           "date": "2026-05-06T19:24:44+00:00",
-          "category": null
-        },
-        {
-          "title": "Speedvisor not working, 6th May",
-          "url": "https://www.fixmystreet.com/report/9409003",
-          "date": "2026-05-06T12:54:51+00:00",
           "category": null
         }
       ],
@@ -873,12 +860,6 @@
           "url": "https://insidecroydon.com/2026/05/31/junction-road-street-party-south-croydon-sat-june-6-2/",
           "date": "2026-05-31T08:30:28+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Whitgift Foundation makes 41 ‘life-changing’ bursary awards",
-          "url": "https://insidecroydon.com/2026/05/26/whitgift-foundation-makes-41-life-changing-bursary-awards/",
-          "date": "2026-05-26T12:29:45+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -922,12 +903,6 @@
           "url": "https://insidecroydon.com/2026/05/28/desperate-perry-is-denied-his-victory-parade-for-a-second-year/",
           "date": "2026-05-28T16:34:37+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Beckenham tram lines disrupted for second day of repairs",
-          "url": "https://insidecroydon.com/2026/05/27/beckenham-tram-lines-disrupted-for-second-day-of-repairs/",
-          "date": "2026-05-27T08:36:34+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -970,12 +945,6 @@
           "title": "Three arrested after woman dies at Furze Road, Thornton Heath",
           "url": "https://insidecroydon.com/2026/05/28/three-arrested-after-woman-dies-at-furze-road-thornton-heath/",
           "date": "2026-05-28T14:29:06+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Step-mum Nix found guilty of killing five-year-old in 1978",
-          "url": "https://insidecroydon.com/2026/05/26/step-mum-nix-found-guilty-of-killing-five-year-old-in-1978/",
-          "date": "2026-05-26T15:38:16+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -1125,12 +1094,6 @@
           "title": "Lots of rubbish on the corner of Clifford Road and opposite the station., 6th May",
           "url": "https://www.fixmystreet.com/report/9410499",
           "date": "2026-05-06T16:30:41+00:00",
-          "category": null
-        },
-        {
-          "title": "Fly tipping at Harrington Road, 5th May",
-          "url": "https://www.fixmystreet.com/report/9402131",
-          "date": "2026-05-05T12:16:53+00:00",
           "category": null
         }
       ],
