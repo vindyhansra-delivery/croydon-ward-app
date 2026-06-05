@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T10:01:14.622267+00:00",
+    "generated_at": "2026-06-05T15:01:15.556061+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -149,6 +149,12 @@
     },
     "Broad Green": {
       "fixmystreet": [
+        {
+          "title": "Hi thier is ford silver parked with out parking permits and with out number plate for nealy month now i believe., 5th June",
+          "url": "https://www.fixmystreet.com/report/9567477",
+          "date": "2026-06-05T12:43:40+00:00",
+          "category": null
+        },
         {
           "title": "Ampere way alley way, 3rd June",
           "url": "https://www.fixmystreet.com/report/9550978",
@@ -350,7 +356,14 @@
     "Kenley": {
       "fixmystreet": [],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Riddlesdown residents file complaints after downpour flooding",
+          "url": "https://insidecroydon.com/2026/06/05/riddlesdown-residents-file-complaints-after-downpour-flooding/",
+          "date": "2026-06-05T10:23:56+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "New Addington North": {
       "fixmystreet": [],
@@ -541,16 +554,17 @@
           "url": "https://www.fixmystreet.com/report/9417345",
           "date": "2026-05-07T19:01:44+00:00",
           "category": null
-        },
-        {
-          "title": "Pothole outside 2A Buttermere Gardens, 6th May",
-          "url": "https://www.fixmystreet.com/report/9408886",
-          "date": "2026-05-06T12:32:20+00:00",
-          "category": null
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Riddlesdown residents file complaints after downpour flooding",
+          "url": "https://insidecroydon.com/2026/06/05/riddlesdown-residents-file-complaints-after-downpour-flooding/",
+          "date": "2026-06-05T10:23:56+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Purley and Woodcote": {
       "fixmystreet": [
@@ -603,6 +617,12 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Road sign hidden, 5th June",
+          "url": "https://www.fixmystreet.com/report/9567921",
+          "date": "2026-06-05T13:34:26+00:00",
+          "category": null
+        },
+        {
           "title": "Temp light, 4th June",
           "url": "https://www.fixmystreet.com/report/9560190",
           "date": "2026-06-04T10:31:25+00:00",
@@ -654,12 +674,6 @@
           "title": "Several large potholes in front of 26 Kersey Drive, 10th May",
           "url": "https://www.fixmystreet.com/report/9429444",
           "date": "2026-05-10T13:41:53+00:00",
-          "category": null
-        },
-        {
-          "title": "Speed camera flashes randomly, on Limpsfield Road near Hilton Way near the bus stop, 6th May",
-          "url": "https://www.fixmystreet.com/report/9411361",
-          "date": "2026-05-06T19:24:44+00:00",
           "category": null
         }
       ],
@@ -780,6 +794,12 @@
     },
     "Shirley North": {
       "fixmystreet": [
+        {
+          "title": "Tree has fallen outside No 11 Gladeside, 5th June",
+          "url": "https://www.fixmystreet.com/report/9567662",
+          "date": "2026-06-05T13:05:48+00:00",
+          "category": null
+        },
         {
           "title": "Dumped Bags, 29th May",
           "url": "https://www.fixmystreet.com/report/9528694",
