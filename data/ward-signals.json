@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T15:01:15.556061+00:00",
+    "generated_at": "2026-06-05T20:03:10.897370+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -731,38 +731,7 @@
       ]
     },
     "Selsdon Vale and Forestdale": {
-      "fixmystreet": [
-        {
-          "title": "20 MPH sign, 2nd June",
-          "url": "https://www.fixmystreet.com/report/9550930",
-          "date": "2026-06-02T21:15:17+00:00",
-          "category": null
-        },
-        {
-          "title": "Discarded/broken traffic cones, 25th May",
-          "url": "https://www.fixmystreet.com/report/9502511",
-          "date": "2026-05-25T11:25:40+00:00",
-          "category": null
-        },
-        {
-          "title": "Road sinking, 14th May",
-          "url": "https://www.fixmystreet.com/report/9453432",
-          "date": "2026-05-14T15:26:34+00:00",
-          "category": null
-        },
-        {
-          "title": "Deep Pothole, 12th May",
-          "url": "https://www.fixmystreet.com/report/9440108",
-          "date": "2026-05-12T11:13:52+00:00",
-          "category": null
-        },
-        {
-          "title": "Gate in dangerous state and could easily fall, 10th May",
-          "url": "https://www.fixmystreet.com/report/9429757",
-          "date": "2026-05-10T14:49:09+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": [
         {
@@ -1002,12 +971,6 @@
           "url": "https://insidecroydon.com/2026/05/31/biggles-and-the-curious-case-of-the-curate-from-croydon/",
           "date": "2026-05-31T12:32:08+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Three arrested after woman dies at Furze Road, Thornton Heath",
-          "url": "https://insidecroydon.com/2026/05/28/three-arrested-after-woman-dies-at-furze-road-thornton-heath/",
-          "date": "2026-05-28T14:29:06+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -1162,12 +1125,6 @@
           "title": "Camping in the country park, 7th May",
           "url": "https://www.fixmystreet.com/report/9414064",
           "date": "2026-05-07T10:09:01+00:00",
-          "category": null
-        },
-        {
-          "title": "Lots of rubbish on the corner of Clifford Road and opposite the station., 6th May",
-          "url": "https://www.fixmystreet.com/report/9410499",
-          "date": "2026-05-06T16:30:41+00:00",
           "category": null
         }
       ],
