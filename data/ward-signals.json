@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T08:41:35.151210+00:00",
+    "generated_at": "2026-06-06T13:53:54.779739+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -326,12 +326,6 @@
           "url": "https://insidecroydon.com/2026/06/01/were-glad-all-over-the-croydon-insider-looks-back-on-leipzig/",
           "date": "2026-06-01T13:41:03+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Desperate Perry is denied his victory parade for a second year",
-          "url": "https://insidecroydon.com/2026/05/28/desperate-perry-is-denied-his-victory-parade-for-a-second-year/",
-          "date": "2026-05-28T16:34:37+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -339,6 +333,18 @@
       "fixmystreet": [],
       "reddit": [],
       "news": [
+        {
+          "title": "How Labour-Tory marriage of convenience is failing Croydon",
+          "url": "https://insidecroydon.com/2026/06/06/how-labour-tory-marriage-of-convenience-is-failing-croydon/",
+          "date": "2026-06-06T11:50:40+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Croydon Primary Showcase concert, Fairfield Halls, July 6",
+          "url": "https://insidecroydon.com/2026/06/06/croydon-primary-showcase-concert-fairfield-halls-july-6/",
+          "date": "2026-06-06T09:38:47+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "At Croydon’s Fairfield Halls, Abba becomes a five-piece band",
           "url": "https://insidecroydon.com/2026/06/01/at-croydons-fairfield-halls-abba-becomes-a-five-piece-band/",
@@ -684,12 +690,6 @@
           "url": "https://insidecroydon.com/2026/06/03/purley-scouts-gruffy-fayre-by-sanderstead-pond-sat-june-13/",
           "date": "2026-06-03T08:44:09+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "After 73 years, Sanderstead’s sign is removed for a paint job",
-          "url": "https://insidecroydon.com/2026/05/29/after-73-years-sandersteads-sign-is-removed-for-a-paint-job/",
-          "date": "2026-05-29T11:10:45+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -720,12 +720,6 @@
           "title": "‘Sickening’: EA allows even more waste to burn in Beddington",
           "url": "https://insidecroydon.com/2026/06/03/sickening-ea-allows-even-more-waste-to-burn-in-beddington/",
           "date": "2026-06-03T16:38:53+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Desperate Perry is denied his victory parade for a second year",
-          "url": "https://insidecroydon.com/2026/05/28/desperate-perry-is-denied-his-victory-parade-for-a-second-year/",
-          "date": "2026-05-28T16:34:37+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -959,14 +953,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Desperate Perry is denied his victory parade for a second year",
-          "url": "https://insidecroydon.com/2026/05/28/desperate-perry-is-denied-his-victory-parade-for-a-second-year/",
-          "date": "2026-05-28T16:34:37+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Thornton Heath": {
       "fixmystreet": [
@@ -1150,12 +1137,6 @@
           "title": "Parked in a disabled bay without blue badge, 8th May",
           "url": "https://www.fixmystreet.com/report/9423588",
           "date": "2026-05-08T19:21:30+00:00",
-          "category": null
-        },
-        {
-          "title": "Camping in the country park, 7th May",
-          "url": "https://www.fixmystreet.com/report/9414064",
-          "date": "2026-05-07T10:09:01+00:00",
           "category": null
         }
       ],
