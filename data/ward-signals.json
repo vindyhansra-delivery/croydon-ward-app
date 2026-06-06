@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T13:53:54.779739+00:00",
+    "generated_at": "2026-06-06T19:31:42.492492+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -207,6 +207,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Perry’s council failed to respond to incinerator consultation",
+          "url": "https://insidecroydon.com/2026/06/06/perrys-council-failed-to-respond-to-incinerator-consultation/",
+          "date": "2026-06-06T14:24:01+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Viridor is using PR firm with links to Labour Together scandal",
           "url": "https://insidecroydon.com/2026/06/04/viridor-is-using-pr-firm-with-links-to-labour-together-scandal/",
           "date": "2026-06-04T15:59:08+00:00",
@@ -404,12 +410,6 @@
           "url": "https://insidecroydon.com/2026/06/02/new-addington-carnival-2026-milne-park-june-13-and-14/",
           "date": "2026-06-02T09:37:41+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Add poor time management to Mayor’s long list of failings",
-          "url": "https://insidecroydon.com/2026/05/29/add-poor-time-management-to-mayors-long-list-of-failings/",
-          "date": "2026-05-29T16:51:18+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -554,12 +554,6 @@
           "url": "https://www.fixmystreet.com/report/9430027",
           "date": "2026-05-10T15:57:08+00:00",
           "category": null
-        },
-        {
-          "title": "Overgrowth of private tree blocking pavement, 7th May",
-          "url": "https://www.fixmystreet.com/report/9417345",
-          "date": "2026-05-07T19:01:44+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -608,12 +602,6 @@
           "title": "Park on clear yellow line, on purley rise, on the corner, 11th May",
           "url": "https://www.fixmystreet.com/report/9435877",
           "date": "2026-05-11T15:54:08+00:00",
-          "category": null
-        },
-        {
-          "title": "Faded Roundabout Markings, 7th May",
-          "url": "https://www.fixmystreet.com/report/9416313",
-          "date": "2026-05-07T15:35:38+00:00",
           "category": null
         }
       ],
@@ -710,6 +698,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Perry’s council failed to respond to incinerator consultation",
+          "url": "https://insidecroydon.com/2026/06/06/perrys-council-failed-to-respond-to-incinerator-consultation/",
+          "date": "2026-06-06T14:24:01+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Viridor is using PR firm with links to Labour Together scandal",
           "url": "https://insidecroydon.com/2026/06/04/viridor-is-using-pr-firm-with-links-to-labour-together-scandal/",
@@ -974,12 +968,6 @@
           "url": "https://www.fixmystreet.com/report/9498354",
           "date": "2026-05-24T01:19:27+00:00",
           "category": null
-        },
-        {
-          "title": "Fly-Tipping, 7th May",
-          "url": "https://www.fixmystreet.com/report/9416365",
-          "date": "2026-05-07T15:44:12+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -994,6 +982,12 @@
     },
     "Waddon": {
       "fixmystreet": [
+        {
+          "title": "Damaged road bollard, 6th June",
+          "url": "https://www.fixmystreet.com/report/9572335",
+          "date": "2026-06-06T14:29:49+00:00",
+          "category": null
+        },
         {
           "title": "Blocked drain causing flooding of the road and pavement, 2nd June",
           "url": "https://www.fixmystreet.com/report/9547960",
@@ -1047,16 +1041,16 @@
           "url": "https://www.fixmystreet.com/report/9453516",
           "date": "2026-05-14T15:38:42+00:00",
           "category": null
-        },
-        {
-          "title": "Unauthorized Parking, 13th May",
-          "url": "https://www.fixmystreet.com/report/9448026",
-          "date": "2026-05-13T16:51:57+00:00",
-          "category": null
         }
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Perry’s council failed to respond to incinerator consultation",
+          "url": "https://insidecroydon.com/2026/06/06/perrys-council-failed-to-respond-to-incinerator-consultation/",
+          "date": "2026-06-06T14:24:01+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Viridor is using PR firm with links to Labour Together scandal",
           "url": "https://insidecroydon.com/2026/06/04/viridor-is-using-pr-firm-with-links-to-labour-together-scandal/",
