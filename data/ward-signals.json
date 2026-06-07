@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T09:22:11.419212+00:00",
+    "generated_at": "2026-06-07T14:04:00.861700+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -575,6 +575,12 @@
     "Purley and Woodcote": {
       "fixmystreet": [
         {
+          "title": "Sunken drain cover on pavement - Hazard, 7th June",
+          "url": "https://www.fixmystreet.com/report/9575291",
+          "date": "2026-06-07T12:33:26+00:00",
+          "category": "Sunken drain cover on pavement"
+        },
+        {
           "title": "Pothole to entrance of Plough Lane, 22nd May",
           "url": "https://www.fixmystreet.com/report/9493163",
           "date": "2026-05-22T13:13:31+00:00",
@@ -758,14 +764,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Volunteer Open Day, Selsdon Clubhouse, Tue June 2",
-          "url": "https://insidecroydon.com/2026/05/30/volunteer-open-day-selsdon-clubhouse-tue-june-2/",
-          "date": "2026-05-30T09:20:54+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
@@ -777,14 +776,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Volunteer Open Day, Selsdon Clubhouse, Tue June 2",
-          "url": "https://insidecroydon.com/2026/05/30/volunteer-open-day-selsdon-clubhouse-tue-june-2/",
-          "date": "2026-05-30T09:20:54+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Shirley North": {
       "fixmystreet": [
@@ -871,18 +863,6 @@
           "url": "https://www.fixmystreet.com/report/9434048",
           "date": "2026-05-11T11:41:01+00:00",
           "category": null
-        },
-        {
-          "title": "Lots of rubbish flytipped around bin, 8th May",
-          "url": "https://www.fixmystreet.com/report/9422009",
-          "date": "2026-05-08T13:53:30+00:00",
-          "category": null
-        },
-        {
-          "title": "Graffiti on map, 8th May",
-          "url": "https://www.fixmystreet.com/report/9421970",
-          "date": "2026-05-08T13:47:58+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -957,6 +937,12 @@
     },
     "Thornton Heath": {
       "fixmystreet": [
+        {
+          "title": "Car blocking 2 driveways, 7th June",
+          "url": "https://www.fixmystreet.com/report/9574506",
+          "date": "2026-06-07T10:06:06+00:00",
+          "category": null
+        },
         {
           "title": "Parking, 24th May",
           "url": "https://www.fixmystreet.com/report/9500321",
