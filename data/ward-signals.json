@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T14:04:00.861700+00:00",
+    "generated_at": "2026-06-07T19:31:39.141090+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -402,7 +402,14 @@
       ]
     },
     "New Addington South": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Big pot hole on bend turning into road, 7th June",
+          "url": "https://www.fixmystreet.com/report/9576681",
+          "date": "2026-06-07T17:16:14+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": [
         {
@@ -534,12 +541,6 @@
           "title": "Large graffito on the wall along Fairfield Path, between Cotelands and Altyre Road, 16th May",
           "url": "https://www.fixmystreet.com/report/9461595",
           "date": "2026-05-16T11:36:07+00:00",
-          "category": null
-        },
-        {
-          "title": "Significant amounts of flytipping along lane in Lloyd Park, 8th May",
-          "url": "https://www.fixmystreet.com/report/9422093",
-          "date": "2026-05-08T14:11:33+00:00",
           "category": null
         }
       ],
@@ -1117,12 +1118,6 @@
           "title": "10 inch pothole Clifford Road, 10th May",
           "url": "https://www.fixmystreet.com/report/9430046",
           "date": "2026-05-10T16:01:28+00:00",
-          "category": null
-        },
-        {
-          "title": "Parked in a disabled bay without blue badge, 8th May",
-          "url": "https://www.fixmystreet.com/report/9423588",
-          "date": "2026-05-08T19:21:30+00:00",
           "category": null
         }
       ],
