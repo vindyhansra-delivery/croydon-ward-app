@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T04:22:59.312636+00:00",
+    "generated_at": "2026-06-08T11:06:06.789478+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -624,6 +624,12 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Overgrown tree on public footpath, 8th June",
+          "url": "https://www.fixmystreet.com/report/9578171",
+          "date": "2026-06-08T07:03:59+00:00",
+          "category": null
+        },
+        {
           "title": "Road sign hidden, 5th June",
           "url": "https://www.fixmystreet.com/report/9567921",
           "date": "2026-06-05T13:34:26+00:00",
@@ -675,12 +681,6 @@
           "title": "Faulty speed camera, 12th May",
           "url": "https://www.fixmystreet.com/report/9442791",
           "date": "2026-05-12T18:07:21+00:00",
-          "category": null
-        },
-        {
-          "title": "Several large potholes in front of 26 Kersey Drive, 10th May",
-          "url": "https://www.fixmystreet.com/report/9429444",
-          "date": "2026-05-10T13:41:53+00:00",
           "category": null
         }
       ],
@@ -822,12 +822,6 @@
           "url": "https://www.fixmystreet.com/report/9454024",
           "date": "2026-05-14T17:22:46+00:00",
           "category": null
-        },
-        {
-          "title": "Road block loose, 9th May",
-          "url": "https://www.fixmystreet.com/report/9425158",
-          "date": "2026-05-09T10:11:02+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -872,15 +866,15 @@
     "South Croydon": {
       "fixmystreet": [
         {
-          "title": "Abandoned mop d in children's playground, 2nd June",
-          "url": "https://www.fixmystreet.com/report/9549489",
-          "date": "2026-06-02T16:03:46+00:00",
+          "title": "Pot hol on Hurst Way, middle of road outside no 16, 8th June",
+          "url": "https://www.fixmystreet.com/report/9580113",
+          "date": "2026-06-08T10:37:38+00:00",
           "category": null
         },
         {
-          "title": "Abandoned car in the road, 9th May",
-          "url": "https://www.fixmystreet.com/report/9424774",
-          "date": "2026-05-09T08:52:58+00:00",
+          "title": "Abandoned mop d in children's playground, 2nd June",
+          "url": "https://www.fixmystreet.com/report/9549489",
+          "date": "2026-06-02T16:03:46+00:00",
           "category": null
         }
       ],
