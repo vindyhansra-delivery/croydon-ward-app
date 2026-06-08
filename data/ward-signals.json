@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T11:06:06.789478+00:00",
+    "generated_at": "2026-06-08T16:02:03.056202+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -545,14 +545,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Happy Circus, Park Hill School, Stanhope Road, June 10",
-          "url": "https://insidecroydon.com/2026/05/31/happy-circus-park-hill-school-stanhope-road-june-10/",
-          "date": "2026-05-31T09:15:29+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Purley Oaks and Riddlesdown": {
       "fixmystreet": [
@@ -884,12 +877,6 @@
           "title": "New Addington Carnival 2026, Milne Park,  June 13 and 14",
           "url": "https://insidecroydon.com/2026/06/02/new-addington-carnival-2026-milne-park-june-13-and-14/",
           "date": "2026-06-02T09:37:41+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Junction Road Street Party, South Croydon, Sat June 6",
-          "url": "https://insidecroydon.com/2026/05/31/junction-road-street-party-south-croydon-sat-june-6-2/",
-          "date": "2026-05-31T08:30:28+00:00",
           "publisher": "Inside Croydon"
         }
       ]
