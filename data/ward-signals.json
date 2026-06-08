@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T16:02:03.056202+00:00",
+    "generated_at": "2026-06-08T20:26:13.468817+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -362,12 +362,6 @@
           "url": "https://insidecroydon.com/2026/06/01/at-croydons-fairfield-halls-abba-becomes-a-five-piece-band/",
           "date": "2026-06-01T12:44:49+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Strike up the band! CSB is ready for its Fairfield concert date",
-          "url": "https://insidecroydon.com/2026/05/31/strike-up-the-band-csb-is-ready-for-its-fairfield-concert-date/",
-          "date": "2026-05-31T10:00:34+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -617,6 +611,12 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Broken manhole cover, 8th June",
+          "url": "https://www.fixmystreet.com/report/9584206",
+          "date": "2026-06-08T19:47:03+00:00",
+          "category": null
+        },
+        {
           "title": "Overgrown tree on public footpath, 8th June",
           "url": "https://www.fixmystreet.com/report/9578171",
           "date": "2026-06-08T07:03:59+00:00",
@@ -668,12 +668,6 @@
           "title": "Dumped sand and stones, 16th May",
           "url": "https://www.fixmystreet.com/report/9461517",
           "date": "2026-05-16T11:13:53+00:00",
-          "category": null
-        },
-        {
-          "title": "Faulty speed camera, 12th May",
-          "url": "https://www.fixmystreet.com/report/9442791",
-          "date": "2026-05-12T18:07:21+00:00",
           "category": null
         }
       ],
