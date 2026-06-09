@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T15:01:56.099023+00:00",
+    "generated_at": "2026-06-09T20:13:53.053577+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -304,18 +304,6 @@
           "url": "https://www.fixmystreet.com/report/9501332",
           "date": "2026-05-25T06:09:50+00:00",
           "category": null
-        },
-        {
-          "title": "Crossroads: Uneven rutted surface Pothole outside church entrance, 10th May",
-          "url": "https://www.fixmystreet.com/report/9430135",
-          "date": "2026-05-10T16:26:12+00:00",
-          "category": null
-        },
-        {
-          "title": "Loose gravel from the rutted road Particularly opposite the church, 10th May",
-          "url": "https://www.fixmystreet.com/report/9430119",
-          "date": "2026-05-10T16:19:08+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -530,14 +518,7 @@
       "news": []
     },
     "Purley Oaks and Riddlesdown": {
-      "fixmystreet": [
-        {
-          "title": "Concrete post recently erected on grass verge now on ground, 10th May",
-          "url": "https://www.fixmystreet.com/report/9430027",
-          "date": "2026-05-10T15:57:08+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": [
         {
@@ -1080,12 +1061,6 @@
           "title": "Abandoned Tesco Trolley, 13th May",
           "url": "https://www.fixmystreet.com/report/9448113",
           "date": "2026-05-13T17:08:32+00:00",
-          "category": null
-        },
-        {
-          "title": "10 inch pothole Clifford Road, 10th May",
-          "url": "https://www.fixmystreet.com/report/9430046",
-          "date": "2026-05-10T16:01:28+00:00",
           "category": null
         }
       ],
