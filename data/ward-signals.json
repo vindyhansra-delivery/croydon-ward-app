@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T09:55:59.209945+00:00",
+    "generated_at": "2026-06-09T15:01:56.099023+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -68,12 +68,6 @@
           "url": "https://www.fixmystreet.com/report/9432059",
           "date": "2026-05-11T08:05:29+00:00",
           "category": null
-        },
-        {
-          "title": "There's an old mattress under the Railway Pk bridge that needs taking away., 10th May",
-          "url": "https://www.fixmystreet.com/report/9429494",
-          "date": "2026-05-10T13:55:00+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -114,6 +108,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "£1.45m Addiscombe landmark building withdrawn from auction",
+          "url": "https://insidecroydon.com/2026/06/09/1-45m-addiscombe-landmark-building-withdrawn-from-auction/",
+          "date": "2026-06-09T13:03:35+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Songbird Showcase Night, The Oval Tavern, Sat July 18, 8pm",
           "url": "https://insidecroydon.com/2026/06/07/songbird-showcase-night-the-oval-tavern-sat-july-18-8pm/",
@@ -331,12 +331,6 @@
           "url": "https://insidecroydon.com/2026/06/01/labours-secret-deal-with-tories-to-block-greens-on-planning/",
           "date": "2026-06-01T17:26:17+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "We’re glad all over! The Croydon Insider looks back on Leipzig",
-          "url": "https://insidecroydon.com/2026/06/01/were-glad-all-over-the-croydon-insider-looks-back-on-leipzig/",
-          "date": "2026-06-01T13:41:03+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -361,12 +355,6 @@
           "title": "Croydon Primary Showcase concert, Fairfield Halls, July 6",
           "url": "https://insidecroydon.com/2026/06/06/croydon-primary-showcase-concert-fairfield-halls-july-6/",
           "date": "2026-06-06T09:38:47+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "At Croydon’s Fairfield Halls, Abba becomes a five-piece band",
-          "url": "https://insidecroydon.com/2026/06/01/at-croydons-fairfield-halls-abba-becomes-a-five-piece-band/",
-          "date": "2026-06-01T12:44:49+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -469,12 +457,6 @@
           "url": "https://www.fixmystreet.com/report/9433921",
           "date": "2026-05-11T11:32:12+00:00",
           "category": null
-        },
-        {
-          "title": "Vehicle hasn’t moved in years., 10th May",
-          "url": "https://www.fixmystreet.com/report/9429355",
-          "date": "2026-05-10T13:21:30+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -505,16 +487,16 @@
           "url": "https://www.fixmystreet.com/report/9454468",
           "date": "2026-05-14T18:55:50+00:00",
           "category": null
-        },
-        {
-          "title": "Toilet window smashed, 10th May",
-          "url": "https://www.fixmystreet.com/report/9428615",
-          "date": "2026-05-10T10:39:35+00:00",
-          "category": null
         }
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Sea Cadets recreate HMS Belfast crew for The Big Help Out",
+          "url": "https://insidecroydon.com/2026/06/09/sea-cadets-recreate-hms-belfast-crew-for-the-big-help-out/",
+          "date": "2026-06-09T10:53:00+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Downland Chorale Madrigals & Partsongs, Old Coulsdon, Jul 18",
           "url": "https://insidecroydon.com/2026/06/05/downland-chorale-madrigals-partsongs-old-coulsdon-jul-18/",
@@ -755,12 +737,6 @@
           "url": "https://www.fixmystreet.com/report/9440108",
           "date": "2026-05-12T11:13:52+00:00",
           "category": null
-        },
-        {
-          "title": "Gate in dangerous state and could easily fall, 10th May",
-          "url": "https://www.fixmystreet.com/report/9429757",
-          "date": "2026-05-10T14:49:09+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -828,6 +804,12 @@
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "Dead badger on pavement, 9th June",
+          "url": "https://www.fixmystreet.com/report/9588926",
+          "date": "2026-06-09T13:52:58+00:00",
+          "category": null
+        },
         {
           "title": "This Toulet has been dumped at the end of Farm Drive , in the Roadand is blocking an End of Road sign, 4th June",
           "url": "https://www.fixmystreet.com/report/9563763",
