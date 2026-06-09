@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T03:54:06.795927+00:00",
+    "generated_at": "2026-06-09T09:55:59.209945+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -77,14 +77,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "We Run Croydon, meeting Addiscombe, every Wednesday",
-          "url": "https://insidecroydon.com/2026/06/01/we-run-croydon-meeting-addiscombe-every-wednesday-2/",
-          "date": "2026-06-01T08:32:22+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Addiscombe West": {
       "fixmystreet": [
@@ -155,6 +148,12 @@
     },
     "Broad Green": {
       "fixmystreet": [
+        {
+          "title": "Fallen branches on grass triangle, 9th June",
+          "url": "https://www.fixmystreet.com/report/9583665",
+          "date": "2026-06-09T09:44:44+00:00",
+          "category": null
+        },
         {
           "title": "Hi thier is ford silver parked with out parking permits and with out number plate for nealy month now i believe., 5th June",
           "url": "https://www.fixmystreet.com/report/9567477",
@@ -342,7 +341,14 @@
       ]
     },
     "Fairfield": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Flooding in the underpass, 9th June",
+          "url": "https://www.fixmystreet.com/report/9585340",
+          "date": "2026-06-09T07:14:25+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": [
         {
@@ -563,6 +569,12 @@
     "Purley and Woodcote": {
       "fixmystreet": [
         {
+          "title": "Large Pothole in middle of road, 9th June",
+          "url": "https://www.fixmystreet.com/report/9583714",
+          "date": "2026-06-09T09:44:54+00:00",
+          "category": null
+        },
+        {
           "title": "Sunken drain cover on pavement - Hazard, 7th June",
           "url": "https://www.fixmystreet.com/report/9575291",
           "date": "2026-06-07T12:33:26+00:00",
@@ -611,9 +623,21 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Overhanging, overgrown trees, 9th June",
+          "url": "https://www.fixmystreet.com/report/9585334",
+          "date": "2026-06-09T07:12:57+00:00",
+          "category": null
+        },
+        {
           "title": "Broken manhole cover, 8th June",
           "url": "https://www.fixmystreet.com/report/9584206",
           "date": "2026-06-08T19:47:03+00:00",
+          "category": null
+        },
+        {
+          "title": "Used tyres dumped on pavement, 9th June",
+          "url": "https://www.fixmystreet.com/report/9583639",
+          "date": "2026-06-09T09:44:35+00:00",
           "category": null
         },
         {
@@ -656,18 +680,6 @@
           "title": "Noisy manhole cover outside no 1 Rectory Park, 26th May",
           "url": "https://www.fixmystreet.com/report/9510519",
           "date": "2026-05-26T19:23:21+00:00",
-          "category": null
-        },
-        {
-          "title": "Faulty speed camera, 18th May",
-          "url": "https://www.fixmystreet.com/report/9472990",
-          "date": "2026-05-18T20:15:38+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped sand and stones, 16th May",
-          "url": "https://www.fixmystreet.com/report/9461517",
-          "date": "2026-05-16T11:13:53+00:00",
           "category": null
         }
       ],
@@ -868,6 +880,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "100 free pizzas today at Pizza Hut Norbury and South Croydon",
+          "url": "https://insidecroydon.com/2026/06/09/100-free-pizzas-today-at-pizza-hut-norbury-and-south-croydon/",
+          "date": "2026-06-09T08:00:31+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "New Addington Carnival 2026, Milne Park,  June 13 and 14",
           "url": "https://insidecroydon.com/2026/06/02/new-addington-carnival-2026-milne-park-june-13-and-14/",
           "date": "2026-06-02T09:37:41+00:00",
@@ -939,17 +957,16 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Biggles and the curious case of the curate from Croydon",
-          "url": "https://insidecroydon.com/2026/05/31/biggles-and-the-curious-case-of-the-curate-from-croydon/",
-          "date": "2026-05-31T12:32:08+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Waddon": {
       "fixmystreet": [
+        {
+          "title": "Dangerous driving at zebra crossing / roundabout, 9th June",
+          "url": "https://www.fixmystreet.com/report/9585872",
+          "date": "2026-06-09T08:31:14+00:00",
+          "category": null
+        },
         {
           "title": "Damaged road bollard, 6th June",
           "url": "https://www.fixmystreet.com/report/9572335",
@@ -1002,12 +1019,6 @@
           "title": "Blocked Drain, 14th May",
           "url": "https://www.fixmystreet.com/report/9453527",
           "date": "2026-05-14T15:39:57+00:00",
-          "category": null
-        },
-        {
-          "title": "Blocked drain., 14th May",
-          "url": "https://www.fixmystreet.com/report/9453516",
-          "date": "2026-05-14T15:38:42+00:00",
           "category": null
         }
       ],
