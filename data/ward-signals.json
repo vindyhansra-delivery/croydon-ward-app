@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T20:13:53.053577+00:00",
+    "generated_at": "2026-06-10T04:06:42.841314+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -324,6 +324,12 @@
     },
     "Fairfield": {
       "fixmystreet": [
+        {
+          "title": "Vomit and Bird waste, 9th June",
+          "url": "https://www.fixmystreet.com/report/9591790",
+          "date": "2026-06-09T22:25:04+00:00",
+          "category": null
+        },
         {
           "title": "Flooding in the underpass, 9th June",
           "url": "https://www.fixmystreet.com/report/9585340",
@@ -925,6 +931,12 @@
     "Waddon": {
       "fixmystreet": [
         {
+          "title": "Foliage overgrown covering Traffic signal equipment, 9th June",
+          "url": "https://www.fixmystreet.com/report/9591817",
+          "date": "2026-06-09T22:44:42+00:00",
+          "category": null
+        },
+        {
           "title": "Dangerous driving at zebra crossing / roundabout, 9th June",
           "url": "https://www.fixmystreet.com/report/9585872",
           "date": "2026-06-09T08:31:14+00:00",
@@ -976,12 +988,6 @@
           "title": "Blocked drain, 14th May",
           "url": "https://www.fixmystreet.com/report/9453532",
           "date": "2026-05-14T15:41:19+00:00",
-          "category": null
-        },
-        {
-          "title": "Blocked Drain, 14th May",
-          "url": "https://www.fixmystreet.com/report/9453527",
-          "date": "2026-05-14T15:39:57+00:00",
           "category": null
         }
       ],
