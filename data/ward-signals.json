@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T04:06:42.841314+00:00",
+    "generated_at": "2026-06-10T10:11:50.841314+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -55,18 +55,6 @@
           "title": "Dumped Wardrobe, 13th May",
           "url": "https://www.fixmystreet.com/report/9445374",
           "date": "2026-05-13T10:59:55+00:00",
-          "category": null
-        },
-        {
-          "title": "Broken raised kerbstone, 11th May",
-          "url": "https://www.fixmystreet.com/report/9432132",
-          "date": "2026-05-11T08:16:02+00:00",
-          "category": null
-        },
-        {
-          "title": "Traffic Lights Timing Issue, 11th May",
-          "url": "https://www.fixmystreet.com/report/9432059",
-          "date": "2026-05-11T08:05:29+00:00",
           "category": null
         }
       ],
@@ -313,12 +301,6 @@
           "url": "https://insidecroydon.com/2026/06/05/paxton-is-given-a-new-perspective-across-the-park-he-designed/",
           "date": "2026-06-05T09:37:36+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Labour’s secret deal with Tories to block Greens on planning",
-          "url": "https://insidecroydon.com/2026/06/01/labours-secret-deal-with-tories-to-block-greens-on-planning/",
-          "date": "2026-06-01T17:26:17+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -411,6 +393,12 @@
     "Norbury Park": {
       "fixmystreet": [
         {
+          "title": "Black van. Fines on it, 10th June",
+          "url": "https://www.fixmystreet.com/report/9593749",
+          "date": "2026-06-10T09:25:11+00:00",
+          "category": null
+        },
+        {
           "title": "Unknown car, 3rd June",
           "url": "https://www.fixmystreet.com/report/9555404",
           "date": "2026-06-03T14:41:07+00:00",
@@ -502,12 +490,6 @@
           "url": "https://insidecroydon.com/2026/06/04/coulsdon-sixth-form-college-to-stage-open-evening-june-24/",
           "date": "2026-06-04T11:35:18+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Old Coulsdon Village Fair, Grange Park, Sat July 4 from noon",
-          "url": "https://insidecroydon.com/2026/06/02/old-coulsdon-village-fair-grange-park-sat-july-4-from-noon-2/",
-          "date": "2026-06-02T08:41:07+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -537,6 +519,12 @@
     },
     "Purley and Woodcote": {
       "fixmystreet": [
+        {
+          "title": "Large pothole, 10th June",
+          "url": "https://www.fixmystreet.com/report/9592760",
+          "date": "2026-06-10T07:39:01+00:00",
+          "category": null
+        },
         {
           "title": "Large Pothole in middle of road, 9th June",
           "url": "https://www.fixmystreet.com/report/9583714",
