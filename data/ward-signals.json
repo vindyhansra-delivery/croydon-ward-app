@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T10:11:50.841314+00:00",
+    "generated_at": "2026-06-10T15:46:32.492338+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -340,6 +340,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Residents secure community asset status for Kenley Hotel",
+          "url": "https://insidecroydon.com/2026/06/10/residents-secure-community-asset-status-for-kenley-hotel/",
+          "date": "2026-06-10T15:39:36+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Riddlesdown residents file complaints after downpour flooding",
           "url": "https://insidecroydon.com/2026/06/05/riddlesdown-residents-file-complaints-after-downpour-flooding/",
           "date": "2026-06-05T10:23:56+00:00",
@@ -355,12 +361,6 @@
           "title": "Off the RAAC: New Addington primaries get building grants",
           "url": "https://insidecroydon.com/2026/06/03/off-the-raac-new-addington-primaries-get-building-grants/",
           "date": "2026-06-03T11:22:59+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "New Addington Carnival 2026, Milne Park,  June 13 and 14",
-          "url": "https://insidecroydon.com/2026/06/02/new-addington-carnival-2026-milne-park-june-13-and-14/",
-          "date": "2026-06-02T09:37:41+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -380,12 +380,6 @@
           "title": "Off the RAAC: New Addington primaries get building grants",
           "url": "https://insidecroydon.com/2026/06/03/off-the-raac-new-addington-primaries-get-building-grants/",
           "date": "2026-06-03T11:22:59+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "New Addington Carnival 2026, Milne Park,  June 13 and 14",
-          "url": "https://insidecroydon.com/2026/06/02/new-addington-carnival-2026-milne-park-june-13-and-14/",
-          "date": "2026-06-02T09:37:41+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -432,12 +426,6 @@
           "title": "Fly-tip Darcy Rad, 15th May",
           "url": "https://www.fixmystreet.com/report/9456188",
           "date": "2026-05-15T08:44:11+00:00",
-          "category": null
-        },
-        {
-          "title": "Bags of rubbish dumped in street, 11th May",
-          "url": "https://www.fixmystreet.com/report/9433921",
-          "date": "2026-05-11T11:32:12+00:00",
           "category": null
         }
       ],
@@ -519,6 +507,12 @@
     },
     "Purley and Woodcote": {
       "fixmystreet": [
+        {
+          "title": "Car parked near junction blocking view, 10th June",
+          "url": "https://www.fixmystreet.com/report/9595919",
+          "date": "2026-06-10T13:24:19+00:00",
+          "category": null
+        },
         {
           "title": "Large pothole, 10th June",
           "url": "https://www.fixmystreet.com/report/9592760",
@@ -732,6 +726,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Dead bird, 10th June",
+          "url": "https://www.fixmystreet.com/report/9596149",
+          "date": "2026-06-10T13:49:51+00:00",
+          "category": null
+        },
+        {
           "title": "Tree has fallen outside No 11 Gladeside, 5th June",
           "url": "https://www.fixmystreet.com/report/9567662",
           "date": "2026-06-05T13:05:48+00:00",
@@ -780,6 +780,12 @@
     "Shirley South": {
       "fixmystreet": [
         {
+          "title": "A pothole in the carriageway, 10th June",
+          "url": "https://www.fixmystreet.com/report/9594345",
+          "date": "2026-06-10T10:21:10+00:00",
+          "category": null
+        },
+        {
           "title": "Dead badger on pavement, 9th June",
           "url": "https://www.fixmystreet.com/report/9588926",
           "date": "2026-06-09T13:52:58+00:00",
@@ -808,12 +814,6 @@
           "url": "https://www.fixmystreet.com/report/9490785",
           "date": "2026-05-22T06:34:42+00:00",
           "category": null
-        },
-        {
-          "title": "Small tree down, 11th May",
-          "url": "https://www.fixmystreet.com/report/9434048",
-          "date": "2026-05-11T11:41:01+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -840,12 +840,6 @@
           "title": "100 free pizzas today at Pizza Hut Norbury and South Croydon",
           "url": "https://insidecroydon.com/2026/06/09/100-free-pizzas-today-at-pizza-hut-norbury-and-south-croydon/",
           "date": "2026-06-09T08:00:31+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "New Addington Carnival 2026, Milne Park,  June 13 and 14",
-          "url": "https://insidecroydon.com/2026/06/02/new-addington-carnival-2026-milne-park-june-13-and-14/",
-          "date": "2026-06-02T09:37:41+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -981,6 +975,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Purley pair make BAFTA games design finals for second time",
+          "url": "https://insidecroydon.com/2026/06/10/purley-pair-make-bafta-games-design-finals-for-second-time/",
+          "date": "2026-06-10T14:43:10+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Perry’s council failed to respond to incinerator consultation",
           "url": "https://insidecroydon.com/2026/06/06/perrys-council-failed-to-respond-to-incinerator-consultation/",
