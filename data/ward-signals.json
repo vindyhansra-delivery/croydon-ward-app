@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T15:46:32.492338+00:00",
+    "generated_at": "2026-06-10T20:38:15.876909+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -559,12 +559,6 @@
           "title": "Faulty speed camera, 13th May",
           "url": "https://www.fixmystreet.com/report/9444071",
           "date": "2026-05-13T13:38:46+00:00",
-          "category": null
-        },
-        {
-          "title": "Park on clear yellow line, on purley rise, on the corner, 11th May",
-          "url": "https://www.fixmystreet.com/report/9435877",
-          "date": "2026-05-11T15:54:08+00:00",
           "category": null
         }
       ],
