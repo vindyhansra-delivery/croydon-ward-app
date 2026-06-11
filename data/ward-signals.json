@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T04:19:23.885079+00:00",
+    "generated_at": "2026-06-11T10:45:36.144188+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -568,6 +568,12 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Clearly parked in the middle of a two space parking bay, 11th June",
+          "url": "https://www.fixmystreet.com/report/9600592",
+          "date": "2026-06-11T08:10:59+00:00",
+          "category": null
+        },
+        {
           "title": "Overhanging, overgrown trees, 9th June",
           "url": "https://www.fixmystreet.com/report/9585334",
           "date": "2026-06-09T07:12:57+00:00",
@@ -620,23 +626,10 @@
           "url": "https://www.fixmystreet.com/report/9510540",
           "date": "2026-05-26T19:26:45+00:00",
           "category": null
-        },
-        {
-          "title": "Noisy manhole cover outside no 1 Rectory Park, 26th May",
-          "url": "https://www.fixmystreet.com/report/9510519",
-          "date": "2026-05-26T19:23:21+00:00",
-          "category": null
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Purley Scouts’ Gruffy Fayre, by Sanderstead Pond, Sat June 13",
-          "url": "https://insidecroydon.com/2026/06/03/purley-scouts-gruffy-fayre-by-sanderstead-pond-sat-june-13/",
-          "date": "2026-06-03T08:44:09+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Selhurst": {
       "fixmystreet": [
@@ -815,6 +808,12 @@
     },
     "South Croydon": {
       "fixmystreet": [
+        {
+          "title": "Illegal parking and trip hazard, 11th June",
+          "url": "https://www.fixmystreet.com/report/9599891",
+          "date": "2026-06-11T06:23:11+00:00",
+          "category": null
+        },
         {
           "title": "Pot hol on Hurst Way, middle of road outside no 16, 8th June",
           "url": "https://www.fixmystreet.com/report/9580113",
@@ -997,6 +996,12 @@
     },
     "West Thornton": {
       "fixmystreet": [
+        {
+          "title": "Fly tipping, 11th June",
+          "url": "https://www.fixmystreet.com/report/9600615",
+          "date": "2026-06-11T08:13:23+00:00",
+          "category": null
+        },
         {
           "title": "Flooding, 2nd June",
           "url": "https://www.fixmystreet.com/report/9550360",
