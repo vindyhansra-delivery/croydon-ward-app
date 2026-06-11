@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T10:45:36.144188+00:00",
+    "generated_at": "2026-06-11T16:11:57.024571+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -634,6 +634,12 @@
     "Selhurst": {
       "fixmystreet": [
         {
+          "title": "Deceased fox, 11th June",
+          "url": "https://www.fixmystreet.com/report/9602557",
+          "date": "2026-06-11T11:32:57+00:00",
+          "category": null
+        },
+        {
           "title": "Pothole, 20th May",
           "url": "https://www.fixmystreet.com/report/9479769",
           "date": "2026-05-20T07:08:51+00:00",
@@ -686,12 +692,6 @@
           "title": "Road sinking, 14th May",
           "url": "https://www.fixmystreet.com/report/9453432",
           "date": "2026-05-14T15:26:34+00:00",
-          "category": null
-        },
-        {
-          "title": "Deep Pothole, 12th May",
-          "url": "https://www.fixmystreet.com/report/9440108",
-          "date": "2026-05-12T11:13:52+00:00",
           "category": null
         }
       ],
@@ -871,7 +871,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Croydonites pull back the curtains on five days of Fringe",
+          "url": "https://insidecroydon.com/2026/06/11/croydonites-pull-back-the-curtains-on-five-days-of-fringe/",
+          "date": "2026-06-11T11:31:23+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Thornton Heath": {
       "fixmystreet": [
