@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T04:21:16.909297+00:00",
+    "generated_at": "2026-06-12T10:22:51.050165+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -356,14 +356,7 @@
     "New Addington North": {
       "fixmystreet": [],
       "reddit": [],
-      "news": [
-        {
-          "title": "Off the RAAC: New Addington primaries get building grants",
-          "url": "https://insidecroydon.com/2026/06/03/off-the-raac-new-addington-primaries-get-building-grants/",
-          "date": "2026-06-03T11:22:59+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "New Addington South": {
       "fixmystreet": [
@@ -375,17 +368,16 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Off the RAAC: New Addington primaries get building grants",
-          "url": "https://insidecroydon.com/2026/06/03/off-the-raac-new-addington-primaries-get-building-grants/",
-          "date": "2026-06-03T11:22:59+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Norbury Park": {
       "fixmystreet": [
+        {
+          "title": "Pavement cracked and water holding, 12th June",
+          "url": "https://www.fixmystreet.com/report/9606884",
+          "date": "2026-06-12T07:18:14+00:00",
+          "category": null
+        },
         {
           "title": "Black van. Fines on it, 10th June",
           "url": "https://www.fixmystreet.com/report/9593749",
