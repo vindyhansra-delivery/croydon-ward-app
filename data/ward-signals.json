@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T04:10:06.398605+00:00",
+    "generated_at": "2026-06-13T09:24:49.837730+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -100,12 +100,6 @@
           "title": "Songbird Showcase Night, The Oval Tavern, Sat July 18, 8pm",
           "url": "https://insidecroydon.com/2026/06/07/songbird-showcase-night-the-oval-tavern-sat-july-18-8pm/",
           "date": "2026-06-07T09:00:17+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Blues at The Oval Tavern, May and June, free entry, 6pm start",
-          "url": "https://insidecroydon.com/2026/06/04/blues-at-the-oval-tavern-may-and-june-free-entry-6pm-start-4/",
-          "date": "2026-06-04T08:46:30+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -344,7 +338,14 @@
     "New Addington North": {
       "fixmystreet": [],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Good Food Matters Open Day, New Addington, Fri June 19",
+          "url": "https://insidecroydon.com/2026/06/13/good-food-matters-open-day-new-addington-fri-june-19/",
+          "date": "2026-06-13T07:52:24+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "New Addington South": {
       "fixmystreet": [
@@ -362,7 +363,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Good Food Matters Open Day, New Addington, Fri June 19",
+          "url": "https://insidecroydon.com/2026/06/13/good-food-matters-open-day-new-addington-fri-june-19/",
+          "date": "2026-06-13T07:52:24+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Norbury Park": {
       "fixmystreet": [
@@ -899,6 +907,12 @@
     "Waddon": {
       "fixmystreet": [
         {
+          "title": "Major pothole in roadway just before turning/bend, 13th June",
+          "url": "https://www.fixmystreet.com/report/9612435",
+          "date": "2026-06-13T08:52:02+00:00",
+          "category": null
+        },
+        {
           "title": "Foliage overgrown covering Traffic signal equipment, 9th June",
           "url": "https://www.fixmystreet.com/report/9591817",
           "date": "2026-06-09T22:44:42+00:00",
@@ -950,12 +964,6 @@
           "title": "Partially blocked drain, 14th May",
           "url": "https://www.fixmystreet.com/report/9453562",
           "date": "2026-05-14T15:46:18+00:00",
-          "category": null
-        },
-        {
-          "title": "Blocked drain, 14th May",
-          "url": "https://www.fixmystreet.com/report/9453532",
-          "date": "2026-05-14T15:41:19+00:00",
           "category": null
         }
       ],
