@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T09:24:49.837730+00:00",
+    "generated_at": "2026-06-13T14:10:06.596039+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -111,12 +111,6 @@
           "url": "https://www.fixmystreet.com/report/9486991",
           "date": "2026-05-21T10:40:00+00:00",
           "category": null
-        },
-        {
-          "title": "Rubbish & flytipping, 14th May",
-          "url": "https://www.fixmystreet.com/report/9452001",
-          "date": "2026-05-14T11:58:10+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -176,12 +170,6 @@
           "title": "Trimming trellises, 17th May",
           "url": "https://www.fixmystreet.com/report/9463073",
           "date": "2026-05-16T23:19:58+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned vehicle, 14th May",
-          "url": "https://www.fixmystreet.com/report/9451422",
-          "date": "2026-05-14T10:37:17+00:00",
           "category": null
         }
       ],
@@ -375,6 +363,12 @@
     "Norbury Park": {
       "fixmystreet": [
         {
+          "title": "Croydon refuse bin left on street. Does not belong to any homes nesrby, 13th June",
+          "url": "https://www.fixmystreet.com/report/9614285",
+          "date": "2026-06-13T13:11:10+00:00",
+          "category": null
+        },
+        {
           "title": "Pavement cracked and water holding, 12th June",
           "url": "https://www.fixmystreet.com/report/9606884",
           "date": "2026-06-12T07:18:14+00:00",
@@ -472,12 +466,6 @@
           "url": "https://insidecroydon.com/2026/06/05/downland-chorale-madrigals-partsongs-old-coulsdon-jul-18/",
           "date": "2026-06-05T08:30:33+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Coulsdon Sixth Form College to stage open evening, June 24",
-          "url": "https://insidecroydon.com/2026/06/04/coulsdon-sixth-form-college-to-stage-open-evening-june-24/",
-          "date": "2026-06-04T11:35:18+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -556,6 +544,12 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Deceased badger, 13th June",
+          "url": "https://www.fixmystreet.com/report/9613944",
+          "date": "2026-06-13T11:49:43+00:00",
+          "category": null
+        },
+        {
           "title": "Clearly parked in the middle of a two space parking bay, 11th June",
           "url": "https://www.fixmystreet.com/report/9600592",
           "date": "2026-06-11T08:10:59+00:00",
@@ -607,12 +601,6 @@
           "title": "Temporary traffic lights stuck on red, 28th May",
           "url": "https://www.fixmystreet.com/report/9522299",
           "date": "2026-05-28T17:28:31+00:00",
-          "category": null
-        },
-        {
-          "title": "Noisy manhole cover outside no 5 Rectory Park, 26th May",
-          "url": "https://www.fixmystreet.com/report/9510540",
-          "date": "2026-05-26T19:26:45+00:00",
           "category": null
         }
       ],
