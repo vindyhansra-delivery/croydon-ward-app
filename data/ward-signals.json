@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T14:10:06.596039+00:00",
+    "generated_at": "2026-06-13T19:44:54.476212+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -43,12 +43,6 @@
           "title": "Glass, 19th May",
           "url": "https://www.fixmystreet.com/report/9474040",
           "date": "2026-05-19T07:56:10+00:00",
-          "category": null
-        },
-        {
-          "title": "Littering, 14th May",
-          "url": "https://www.fixmystreet.com/report/9454196",
-          "date": "2026-05-14T17:58:33+00:00",
           "category": null
         }
       ],
@@ -445,12 +439,6 @@
           "url": "https://www.fixmystreet.com/report/9465915",
           "date": "2026-05-17T16:10:58+00:00",
           "category": null
-        },
-        {
-          "title": "Needs road markings repainted, 14th May",
-          "url": "https://www.fixmystreet.com/report/9454468",
-          "date": "2026-05-14T18:55:50+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -529,12 +517,6 @@
           "title": "Speed camera flashing purley way a23, 14th May",
           "url": "https://www.fixmystreet.com/report/9454808",
           "date": "2026-05-14T20:39:47+00:00",
-          "category": null
-        },
-        {
-          "title": "Faulty speed camera, 14th May",
-          "url": "https://www.fixmystreet.com/report/9453810",
-          "date": "2026-05-14T16:35:43+00:00",
           "category": null
         }
       ],
@@ -651,12 +633,6 @@
           "url": "https://www.fixmystreet.com/report/9502511",
           "date": "2026-05-25T11:25:40+00:00",
           "category": null
-        },
-        {
-          "title": "Road sinking, 14th May",
-          "url": "https://www.fixmystreet.com/report/9453432",
-          "date": "2026-05-14T15:26:34+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -716,12 +692,6 @@
           "title": "Chairs, 17th May",
           "url": "https://www.fixmystreet.com/report/9463506",
           "date": "2026-05-17T05:17:23+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned bicycle, 14th May",
-          "url": "https://www.fixmystreet.com/report/9454024",
-          "date": "2026-05-14T17:22:46+00:00",
           "category": null
         }
       ],
@@ -946,12 +916,6 @@
           "title": "Veolia street sweepers dumping rubbish on the street, 28th May",
           "url": "https://www.fixmystreet.com/report/9522596",
           "date": "2026-05-28T18:28:26+00:00",
-          "category": null
-        },
-        {
-          "title": "Partially blocked drain, 14th May",
-          "url": "https://www.fixmystreet.com/report/9453562",
-          "date": "2026-05-14T15:46:18+00:00",
           "category": null
         }
       ],
