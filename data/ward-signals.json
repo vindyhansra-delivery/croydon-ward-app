@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T20:18:24.295870+00:00",
+    "generated_at": "2026-06-13T04:10:06.398605+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -540,12 +540,6 @@
           "url": "https://www.fixmystreet.com/report/9453810",
           "date": "2026-05-14T16:35:43+00:00",
           "category": null
-        },
-        {
-          "title": "Buses hitting Trees, 13th May",
-          "url": "https://www.fixmystreet.com/report/9448946",
-          "date": "2026-05-13T20:47:57+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -629,12 +623,6 @@
           "title": "Pothole, 20th May",
           "url": "https://www.fixmystreet.com/report/9479769",
           "date": "2026-05-20T07:08:51+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned grey Vauxhall Astra, 13th May",
-          "url": "https://www.fixmystreet.com/report/9449092",
-          "date": "2026-05-13T21:52:14+00:00",
           "category": null
         }
       ],
@@ -1011,12 +999,6 @@
           "title": "Mouldy stink, 27th May",
           "url": "https://www.fixmystreet.com/report/9512763",
           "date": "2026-05-27T09:06:29+00:00",
-          "category": null
-        },
-        {
-          "title": "Holding spaces using bins, 13th May",
-          "url": "https://www.fixmystreet.com/report/9448969",
-          "date": "2026-05-13T20:57:55+00:00",
           "category": null
         }
       ],
