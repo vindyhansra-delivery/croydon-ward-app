@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T19:44:54.476212+00:00",
+    "generated_at": "2026-06-14T04:27:09.707636+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -511,12 +511,6 @@
           "title": "Pothole to entrance of Plough Lane, 22nd May",
           "url": "https://www.fixmystreet.com/report/9493163",
           "date": "2026-05-22T13:13:31+00:00",
-          "category": null
-        },
-        {
-          "title": "Speed camera flashing purley way a23, 14th May",
-          "url": "https://www.fixmystreet.com/report/9454808",
-          "date": "2026-05-14T20:39:47+00:00",
           "category": null
         }
       ],
