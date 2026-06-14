@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T14:13:49.887258+00:00",
+    "generated_at": "2026-06-14T19:44:37.338949+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -935,12 +935,6 @@
           "title": "Bin not in use, 5th June",
           "url": "https://www.fixmystreet.com/report/9565388",
           "date": "2026-06-05T08:23:20+00:00",
-          "category": null
-        },
-        {
-          "title": "Overgrown trees, 15th May",
-          "url": "https://www.fixmystreet.com/report/9459331",
-          "date": "2026-05-15T17:10:48+00:00",
           "category": null
         }
       ],
