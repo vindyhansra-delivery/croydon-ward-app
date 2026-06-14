@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T09:43:49.069767+00:00",
+    "generated_at": "2026-06-14T14:13:49.887258+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -173,12 +173,6 @@
           "title": "Perry’s council failed to respond to incinerator consultation",
           "url": "https://insidecroydon.com/2026/06/06/perrys-council-failed-to-respond-to-incinerator-consultation/",
           "date": "2026-06-06T14:24:01+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Viridor is using PR firm with links to Labour Together scandal",
-          "url": "https://insidecroydon.com/2026/06/04/viridor-is-using-pr-firm-with-links-to-labour-together-scandal/",
-          "date": "2026-06-04T15:59:08+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -442,12 +436,6 @@
           "url": "https://insidecroydon.com/2026/06/09/sea-cadets-recreate-hms-belfast-crew-for-the-big-help-out/",
           "date": "2026-06-09T10:53:00+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Downland Chorale Madrigals & Partsongs, Old Coulsdon, Jul 18",
-          "url": "https://insidecroydon.com/2026/06/05/downland-chorale-madrigals-partsongs-old-coulsdon-jul-18/",
-          "date": "2026-06-05T08:30:33+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -514,6 +502,18 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Fly tipping, 14th June",
+          "url": "https://www.fixmystreet.com/report/9618113",
+          "date": "2026-06-14T14:09:41+00:00",
+          "category": null
+        },
+        {
+          "title": "Fly tipping, 14th June",
+          "url": "https://www.fixmystreet.com/report/9618097",
+          "date": "2026-06-14T14:03:50+00:00",
+          "category": null
+        },
+        {
           "title": "Deceased badger, 13th June",
           "url": "https://www.fixmystreet.com/report/9613944",
           "date": "2026-06-13T11:49:43+00:00",
@@ -560,18 +560,6 @@
           "url": "https://www.fixmystreet.com/report/9560190",
           "date": "2026-06-04T10:31:25+00:00",
           "category": null
-        },
-        {
-          "title": "Overgrown hedge blocking path, 29th May",
-          "url": "https://www.fixmystreet.com/report/9528994",
-          "date": "2026-05-29T19:12:00+00:00",
-          "category": null
-        },
-        {
-          "title": "Temporary traffic lights stuck on red, 28th May",
-          "url": "https://www.fixmystreet.com/report/9522299",
-          "date": "2026-05-28T17:28:31+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -598,12 +586,6 @@
           "title": "Perry’s council failed to respond to incinerator consultation",
           "url": "https://insidecroydon.com/2026/06/06/perrys-council-failed-to-respond-to-incinerator-consultation/",
           "date": "2026-06-06T14:24:01+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Viridor is using PR firm with links to Labour Together scandal",
-          "url": "https://insidecroydon.com/2026/06/04/viridor-is-using-pr-firm-with-links-to-labour-together-scandal/",
-          "date": "2026-06-04T15:59:08+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -919,12 +901,6 @@
           "title": "Perry’s council failed to respond to incinerator consultation",
           "url": "https://insidecroydon.com/2026/06/06/perrys-council-failed-to-respond-to-incinerator-consultation/",
           "date": "2026-06-06T14:24:01+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Viridor is using PR firm with links to Labour Together scandal",
-          "url": "https://insidecroydon.com/2026/06/04/viridor-is-using-pr-firm-with-links-to-labour-together-scandal/",
-          "date": "2026-06-04T15:59:08+00:00",
           "publisher": "Inside Croydon"
         }
       ]
