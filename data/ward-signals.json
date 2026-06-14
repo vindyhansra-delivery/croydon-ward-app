@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T04:27:09.707636+00:00",
+    "generated_at": "2026-06-14T09:43:49.069767+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -408,12 +408,6 @@
           "title": "Car Permanently Parked on Red Route, 1st June",
           "url": "https://www.fixmystreet.com/report/9542132",
           "date": "2026-06-01T15:04:50+00:00",
-          "category": null
-        },
-        {
-          "title": "Fly-tip Darcy Rad, 15th May",
-          "url": "https://www.fixmystreet.com/report/9456188",
-          "date": "2026-05-15T08:44:11+00:00",
           "category": null
         }
       ],
@@ -971,18 +965,6 @@
           "title": "Overgrown trees, 15th May",
           "url": "https://www.fixmystreet.com/report/9459331",
           "date": "2026-05-15T17:10:48+00:00",
-          "category": null
-        },
-        {
-          "title": "Flooding, 15th May",
-          "url": "https://www.fixmystreet.com/report/9455977",
-          "date": "2026-05-15T08:20:31+00:00",
-          "category": null
-        },
-        {
-          "title": "Overflowing bin, 15th May",
-          "url": "https://www.fixmystreet.com/report/9455625",
-          "date": "2026-05-15T07:32:03+00:00",
           "category": null
         }
       ],
