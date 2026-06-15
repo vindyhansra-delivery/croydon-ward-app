@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-15T04:50:23.491181+00:00",
+    "generated_at": "2026-06-15T12:26:23.255490+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -47,7 +47,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "We Run Croydon, meeting Addiscombe, every Wednesday",
+          "url": "https://insidecroydon.com/2026/06/15/we-run-croydon-meeting-addiscombe-every-wednesday-3/",
+          "date": "2026-06-15T08:33:12+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Addiscombe West": {
       "fixmystreet": [
@@ -180,6 +187,12 @@
     "Coulsdon Town": {
       "fixmystreet": [
         {
+          "title": "Dangerous road surface, 15th June",
+          "url": "https://www.fixmystreet.com/report/9622207",
+          "date": "2026-06-15T09:58:34+00:00",
+          "category": null
+        },
+        {
           "title": "Sunk manhole, 25th May",
           "url": "https://www.fixmystreet.com/report/9501366",
           "date": "2026-05-25T06:27:11+00:00",
@@ -253,14 +266,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Paxton is given a new perspective across the park he designed",
-          "url": "https://insidecroydon.com/2026/06/05/paxton-is-given-a-new-perspective-across-the-park-he-designed/",
-          "date": "2026-06-05T09:37:36+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Fairfield": {
       "fixmystreet": [
@@ -301,12 +307,6 @@
           "title": "Residents secure community asset status for Kenley Hotel",
           "url": "https://insidecroydon.com/2026/06/10/residents-secure-community-asset-status-for-kenley-hotel/",
           "date": "2026-06-10T15:39:36+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Riddlesdown residents file complaints after downpour flooding",
-          "url": "https://insidecroydon.com/2026/06/05/riddlesdown-residents-file-complaints-after-downpour-flooding/",
-          "date": "2026-06-05T10:23:56+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -440,28 +440,14 @@
       ]
     },
     "Park Hill and Whitgift": {
-      "fixmystreet": [
-        {
-          "title": "Large graffito on the wall along Fairfield Path, between Cotelands and Altyre Road, 16th May",
-          "url": "https://www.fixmystreet.com/report/9461595",
-          "date": "2026-05-16T11:36:07+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
     "Purley Oaks and Riddlesdown": {
       "fixmystreet": [],
       "reddit": [],
-      "news": [
-        {
-          "title": "Riddlesdown residents file complaints after downpour flooding",
-          "url": "https://insidecroydon.com/2026/06/05/riddlesdown-residents-file-complaints-after-downpour-flooding/",
-          "date": "2026-06-05T10:23:56+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Purley and Woodcote": {
       "fixmystreet": [
@@ -670,6 +656,12 @@
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "The curb stone outside 149 Devonshire WAY CR0 8BY, 15th June",
+          "url": "https://www.fixmystreet.com/report/9623557",
+          "date": "2026-06-15T12:14:03+00:00",
+          "category": null
+        },
         {
           "title": "A pothole in the carriageway, 10th June",
           "url": "https://www.fixmystreet.com/report/9594345",
