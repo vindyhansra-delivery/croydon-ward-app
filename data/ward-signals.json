@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-15T21:02:01.285015+00:00",
+    "generated_at": "2026-06-16T04:47:43.394019+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -165,12 +165,6 @@
           "title": "Parked on pavement, 24th May",
           "url": "https://www.fixmystreet.com/report/9500338",
           "date": "2026-05-24T16:50:25+00:00",
-          "category": null
-        },
-        {
-          "title": "Trimming trellises, 17th May",
-          "url": "https://www.fixmystreet.com/report/9463073",
-          "date": "2026-05-16T23:19:58+00:00",
           "category": null
         }
       ],
@@ -410,6 +404,12 @@
     },
     "Old Coulsdon": {
       "fixmystreet": [
+        {
+          "title": "Obergruwn bushes, 15th June",
+          "url": "https://www.fixmystreet.com/report/9627687",
+          "date": "2026-06-15T22:46:53+00:00",
+          "category": null
+        },
         {
           "title": "Broken fence - barbed wire on road, 4th June",
           "url": "https://www.fixmystreet.com/report/9562669",
