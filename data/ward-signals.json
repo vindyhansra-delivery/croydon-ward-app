@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-16T04:47:43.394019+00:00",
+    "generated_at": "2026-06-16T11:21:36.254167+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -49,6 +49,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Three accused in Croydon vote-rigging case to face trial in 2029",
+          "url": "https://insidecroydon.com/2026/06/16/three-accused-in-croydon-vote-rigging-case-to-face-trial-in-2029/",
+          "date": "2026-06-16T11:03:52+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "We Run Croydon, meeting Addiscombe, every Wednesday",
           "url": "https://insidecroydon.com/2026/06/15/we-run-croydon-meeting-addiscombe-every-wednesday-3/",
           "date": "2026-06-15T08:33:12+00:00",
@@ -95,12 +101,6 @@
           "title": "£1.45m Addiscombe landmark building withdrawn from auction",
           "url": "https://insidecroydon.com/2026/06/09/1-45m-addiscombe-landmark-building-withdrawn-from-auction/",
           "date": "2026-06-09T13:03:35+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Songbird Showcase Night, The Oval Tavern, Sat July 18, 8pm",
-          "url": "https://insidecroydon.com/2026/06/07/songbird-showcase-night-the-oval-tavern-sat-july-18-8pm/",
-          "date": "2026-06-07T09:00:17+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -169,14 +169,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Perry’s council failed to respond to incinerator consultation",
-          "url": "https://insidecroydon.com/2026/06/06/perrys-council-failed-to-respond-to-incinerator-consultation/",
-          "date": "2026-06-06T14:24:01+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Coulsdon Town": {
       "fixmystreet": [
@@ -265,6 +258,12 @@
     "Fairfield": {
       "fixmystreet": [
         {
+          "title": "Several large defects in road surface on the bend which are hard to avoid, 16th June",
+          "url": "https://www.fixmystreet.com/report/9628227",
+          "date": "2026-06-16T06:43:28+00:00",
+          "category": null
+        },
+        {
           "title": "Vomit and Bird waste, 9th June",
           "url": "https://www.fixmystreet.com/report/9591790",
           "date": "2026-06-09T22:25:04+00:00",
@@ -280,15 +279,9 @@
       "reddit": [],
       "news": [
         {
-          "title": "How Labour-Tory marriage of convenience is failing Croydon",
-          "url": "https://insidecroydon.com/2026/06/06/how-labour-tory-marriage-of-convenience-is-failing-croydon/",
-          "date": "2026-06-06T11:50:40+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Croydon Primary Showcase concert, Fairfield Halls, July 6",
-          "url": "https://insidecroydon.com/2026/06/06/croydon-primary-showcase-concert-fairfield-halls-july-6/",
-          "date": "2026-06-06T09:38:47+00:00",
+          "title": "What south London’s live music revival means for performers",
+          "url": "https://insidecroydon.com/2026/06/16/south-londons-live-music-revival-and-what-it-means-for-performers/",
+          "date": "2026-06-16T08:45:38+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -569,9 +562,9 @@
       "reddit": [],
       "news": [
         {
-          "title": "Perry’s council failed to respond to incinerator consultation",
-          "url": "https://insidecroydon.com/2026/06/06/perrys-council-failed-to-respond-to-incinerator-consultation/",
-          "date": "2026-06-06T14:24:01+00:00",
+          "title": "New Palace boss Sage imparts his wisdom as he starts job",
+          "url": "https://insidecroydon.com/2026/06/16/new-palace-boss-sage-imparts-his-wisdom-as-he-starts-job/",
+          "date": "2026-06-16T09:09:49+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -609,6 +602,24 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Dumped bag, 16th June",
+          "url": "https://www.fixmystreet.com/report/9628362",
+          "date": "2026-06-16T07:03:31+00:00",
+          "category": null
+        },
+        {
+          "title": "Dumped bags, 16th June",
+          "url": "https://www.fixmystreet.com/report/9628349",
+          "date": "2026-06-16T07:01:19+00:00",
+          "category": null
+        },
+        {
+          "title": "Dumped light, 16th June",
+          "url": "https://www.fixmystreet.com/report/9628319",
+          "date": "2026-06-16T06:59:38+00:00",
+          "category": null
+        },
+        {
           "title": "Dead bird, 10th June",
           "url": "https://www.fixmystreet.com/report/9596149",
           "date": "2026-06-10T13:49:51+00:00",
@@ -642,12 +653,6 @@
           "title": "Dumped item, 27th May",
           "url": "https://www.fixmystreet.com/report/9511363",
           "date": "2026-05-27T04:48:25+00:00",
-          "category": null
-        },
-        {
-          "title": "Chairs, 17th May",
-          "url": "https://www.fixmystreet.com/report/9463506",
-          "date": "2026-05-17T05:17:23+00:00",
           "category": null
         }
       ],
@@ -887,12 +892,6 @@
           "title": "Purley pair make BAFTA games design finals for second time",
           "url": "https://insidecroydon.com/2026/06/10/purley-pair-make-bafta-games-design-finals-for-second-time/",
           "date": "2026-06-10T14:43:10+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Perry’s council failed to respond to incinerator consultation",
-          "url": "https://insidecroydon.com/2026/06/06/perrys-council-failed-to-respond-to-incinerator-consultation/",
-          "date": "2026-06-06T14:24:01+00:00",
           "publisher": "Inside Croydon"
         }
       ]
