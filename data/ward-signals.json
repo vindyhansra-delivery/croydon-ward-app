@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-17T15:44:46.743014+00:00",
+    "generated_at": "2026-06-17T20:20:46.939019+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -87,12 +87,6 @@
           "url": "https://www.fixmystreet.com/report/9544050",
           "date": "2026-06-01T21:18:05+00:00",
           "category": null
-        },
-        {
-          "title": "The whole of Rymer road has major potholes, 18th May",
-          "url": "https://www.fixmystreet.com/report/9472023",
-          "date": "2026-05-18T16:32:09+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -125,6 +119,18 @@
     },
     "Broad Green": {
       "fixmystreet": [
+        {
+          "title": "Litter picking volunteer, 17th June",
+          "url": "https://www.fixmystreet.com/report/9640300",
+          "date": "2026-06-17T19:46:43+00:00",
+          "category": null
+        },
+        {
+          "title": "Litter picking volunteer, 17th June",
+          "url": "https://www.fixmystreet.com/report/9639830",
+          "date": "2026-06-17T17:56:49+00:00",
+          "category": null
+        },
         {
           "title": "Fallen branches on grass triangle, 9th June",
           "url": "https://www.fixmystreet.com/report/9583665",
