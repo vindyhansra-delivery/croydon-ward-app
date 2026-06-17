@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-17T11:06:17.247002+00:00",
+    "generated_at": "2026-06-17T15:44:46.743014+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -97,6 +97,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Croydon Park to reopen in 2027 as ‘The Canopy’ apart-hotel",
+          "url": "https://insidecroydon.com/2026/06/17/croydon-park-to-reopen-in-2027-as-the-canopy-apart-hotel/",
+          "date": "2026-06-17T11:51:42+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "£1.45m Addiscombe landmark building withdrawn from auction",
           "url": "https://insidecroydon.com/2026/06/09/1-45m-addiscombe-landmark-building-withdrawn-from-auction/",
@@ -727,6 +733,18 @@
     },
     "South Croydon": {
       "fixmystreet": [
+        {
+          "title": "Very large series of potholes before and after the speed camera, 17th June",
+          "url": "https://www.fixmystreet.com/report/9638779",
+          "date": "2026-06-17T14:55:29+00:00",
+          "category": null
+        },
+        {
+          "title": "Water meter leaking, 17th June",
+          "url": "https://www.fixmystreet.com/report/9638606",
+          "date": "2026-06-17T14:29:44+00:00",
+          "category": null
+        },
         {
           "title": "Illegal parking and trip hazard, 11th June",
           "url": "https://www.fixmystreet.com/report/9599891",
