@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-17T04:28:01.615599+00:00",
+    "generated_at": "2026-06-17T11:06:17.247002+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -210,6 +210,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Very Large Plastic Container Dumped on Grass Verge, 17th June",
+          "url": "https://www.fixmystreet.com/report/9636852",
+          "date": "2026-06-17T10:40:28+00:00",
+          "category": null
+        },
+        {
           "title": "Broken yellow turn-signal, 4th June",
           "url": "https://www.fixmystreet.com/report/9563876",
           "date": "2026-06-04T19:47:24+00:00",
@@ -304,6 +310,12 @@
       "news": [
         {
           "title": "Good Food Matters Open Day, New Addington, Fri June 19",
+          "url": "https://insidecroydon.com/2026/06/17/good-food-matters-open-day-new-addington-fri-june-19-2/",
+          "date": "2026-06-17T10:00:05+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Good Food Matters Open Day, New Addington, Fri June 19",
           "url": "https://insidecroydon.com/2026/06/13/good-food-matters-open-day-new-addington-fri-june-19/",
           "date": "2026-06-13T07:52:24+00:00",
           "publisher": "Inside Croydon"
@@ -327,6 +339,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Good Food Matters Open Day, New Addington, Fri June 19",
+          "url": "https://insidecroydon.com/2026/06/17/good-food-matters-open-day-new-addington-fri-june-19-2/",
+          "date": "2026-06-17T10:00:05+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Good Food Matters Open Day, New Addington, Fri June 19",
           "url": "https://insidecroydon.com/2026/06/13/good-food-matters-open-day-new-addington-fri-june-19/",
@@ -556,6 +574,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Free SWLLC benefits and housing advice sessions, Selhurst",
+          "url": "https://insidecroydon.com/2026/06/17/free-swllc-benefits-and-housing-advice-sessions-selhurst-2/",
+          "date": "2026-06-17T09:01:25+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "New Palace boss Sage imparts his wisdom as he starts job",
           "url": "https://insidecroydon.com/2026/06/16/new-palace-boss-sage-imparts-his-wisdom-as-he-starts-job/",
           "date": "2026-06-16T09:09:49+00:00",
@@ -779,6 +803,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "It’s really time to go when they throw ‘Mix’ into gesture politics",
+          "url": "https://insidecroydon.com/2026/06/17/its-really-time-to-go-when-they-throw-mix-into-gesture-politics/",
+          "date": "2026-06-17T11:00:49+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Sherlock Holmes and the mystery of the 24 unaffordable flats",
           "url": "https://insidecroydon.com/2026/06/12/sherlock-holmes-and-the-mystery-of-the-24-unaffordable-flats/",
