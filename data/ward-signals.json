@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-18T04:20:39.541801+00:00",
+    "generated_at": "2026-06-18T10:28:47.570394+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -37,12 +37,6 @@
           "title": "Rubbish, 24th May",
           "url": "https://www.fixmystreet.com/report/9498806",
           "date": "2026-05-24T08:35:09+00:00",
-          "category": null
-        },
-        {
-          "title": "Glass, 19th May",
-          "url": "https://www.fixmystreet.com/report/9474040",
-          "date": "2026-05-19T07:56:10+00:00",
           "category": null
         }
       ],
@@ -221,6 +215,12 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "Collapsed utility/maintence cover, 18th June",
+          "url": "https://www.fixmystreet.com/report/9642509",
+          "date": "2026-06-18T08:53:08+00:00",
+          "category": null
+        },
         {
           "title": "Very Large Plastic Container Dumped on Grass Verge, 17th June",
           "url": "https://www.fixmystreet.com/report/9636852",
@@ -687,7 +687,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
+          "url": "https://insidecroydon.com/2026/06/18/gardening-bargains-mha-the-wilderness-shirley-mon-fri/",
+          "date": "2026-06-18T08:34:12+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Shirley South": {
       "fixmystreet": [
@@ -735,7 +742,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
+          "url": "https://insidecroydon.com/2026/06/18/gardening-bargains-mha-the-wilderness-shirley-mon-fri/",
+          "date": "2026-06-18T08:34:12+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "South Croydon": {
       "fixmystreet": [
