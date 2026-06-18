@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-18T10:28:47.570394+00:00",
+    "generated_at": "2026-06-18T15:36:27.452518+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -689,6 +689,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Take a turn around Shirley Windmill for a history masterclass",
+          "url": "https://insidecroydon.com/2026/06/18/take-a-turn-around-shirley-windmill-for-a-history-masterclass/",
+          "date": "2026-06-18T10:48:27+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
           "url": "https://insidecroydon.com/2026/06/18/gardening-bargains-mha-the-wilderness-shirley-mon-fri/",
           "date": "2026-06-18T08:34:12+00:00",
@@ -743,6 +749,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Take a turn around Shirley Windmill for a history masterclass",
+          "url": "https://insidecroydon.com/2026/06/18/take-a-turn-around-shirley-windmill-for-a-history-masterclass/",
+          "date": "2026-06-18T10:48:27+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
           "url": "https://insidecroydon.com/2026/06/18/gardening-bargains-mha-the-wilderness-shirley-mon-fri/",
