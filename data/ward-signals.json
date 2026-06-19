@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T04:48:45.871141+00:00",
+    "generated_at": "2026-06-19T10:45:50.780502+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -58,6 +58,12 @@
     },
     "Addiscombe West": {
       "fixmystreet": [
+        {
+          "title": "Abandoned fridge freezer left leaning on tree, 19th June",
+          "url": "https://www.fixmystreet.com/report/9648223",
+          "date": "2026-06-19T08:09:20+00:00",
+          "category": null
+        },
         {
           "title": "Kelly Communications van (HJ66 ETX) blocking driveway access, 135–137 Oval Road, CR0 6BR, 7th June",
           "url": "https://www.fixmystreet.com/report/9573962",
@@ -574,12 +580,6 @@
           "title": "Deceased fox, 11th June",
           "url": "https://www.fixmystreet.com/report/9602557",
           "date": "2026-06-11T11:32:57+00:00",
-          "category": null
-        },
-        {
-          "title": "Pothole, 20th May",
-          "url": "https://www.fixmystreet.com/report/9479769",
-          "date": "2026-05-20T07:08:51+00:00",
           "category": null
         }
       ],
