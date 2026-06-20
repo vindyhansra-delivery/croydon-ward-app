@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T09:24:56.311738+00:00",
+    "generated_at": "2026-06-20T14:14:13.117000+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -100,14 +100,7 @@
       ]
     },
     "Bensham Manor": {
-      "fixmystreet": [
-        {
-          "title": "There is a deep pothole at the Sandfield Road bus stop going towards Norbury, 21st May",
-          "url": "https://www.fixmystreet.com/report/9486991",
-          "date": "2026-05-21T10:40:00+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
@@ -216,6 +209,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Bin overflowing, 20th June",
+          "url": "https://www.fixmystreet.com/report/9654442",
+          "date": "2026-06-20T11:50:43+00:00",
+          "category": null
+        },
+        {
           "title": "Collapsed utility/maintence cover, 18th June",
           "url": "https://www.fixmystreet.com/report/9642509",
           "date": "2026-06-18T08:53:08+00:00",
@@ -297,6 +296,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Croydon Primary Showcase concert, Fairfield Halls, July 6",
+          "url": "https://insidecroydon.com/2026/06/20/croydon-primary-showcase-concert-fairfield-halls-july-6-2/",
+          "date": "2026-06-20T09:40:30+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "What south London’s live music revival means for performers",
           "url": "https://insidecroydon.com/2026/06/16/south-londons-live-music-revival-and-what-it-means-for-performers/",
           "date": "2026-06-16T08:45:38+00:00",
@@ -367,6 +372,12 @@
     },
     "Norbury Park": {
       "fixmystreet": [
+        {
+          "title": "Pedal on exercise bike broken, 20th June",
+          "url": "https://www.fixmystreet.com/report/9654838",
+          "date": "2026-06-20T13:44:05+00:00",
+          "category": null
+        },
         {
           "title": "Croydon refuse bin left on street. Does not belong to any homes nesrby, 13th June",
           "url": "https://www.fixmystreet.com/report/9614285",
@@ -847,6 +858,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Youth theatre is raising funds to make an impact in the long run",
+          "url": "https://insidecroydon.com/2026/06/20/youth-theatre-is-raising-funds-to-make-an-impact-in-the-long-run/",
+          "date": "2026-06-20T10:10:22+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "It’s really time to go when they throw ‘Mix’ into gesture politics",
           "url": "https://insidecroydon.com/2026/06/17/its-really-time-to-go-when-they-throw-mix-into-gesture-politics/",
           "date": "2026-06-17T11:00:49+00:00",
@@ -868,6 +885,12 @@
     },
     "Thornton Heath": {
       "fixmystreet": [
+        {
+          "title": "Dumped shopping trolley and household rubbish, 20th June",
+          "url": "https://www.fixmystreet.com/report/9653834",
+          "date": "2026-06-20T09:42:59+00:00",
+          "category": null
+        },
         {
           "title": "Car blocking 2 driveways, 7th June",
           "url": "https://www.fixmystreet.com/report/9574506",
