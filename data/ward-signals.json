@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T04:45:03.492543+00:00",
+    "generated_at": "2026-06-21T09:58:18.454606+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -189,18 +189,6 @@
           "url": "https://www.fixmystreet.com/report/9501349",
           "date": "2026-05-25T06:19:39+00:00",
           "category": null
-        },
-        {
-          "title": "Fly tip on Portnells Road near the junction of Hollymead Road, 22nd May",
-          "url": "https://www.fixmystreet.com/report/9490711",
-          "date": "2026-05-22T06:11:08+00:00",
-          "category": null
-        },
-        {
-          "title": "Multiple flytips along Portnells Road, 22nd May",
-          "url": "https://www.fixmystreet.com/report/9490703",
-          "date": "2026-05-22T06:06:53+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -312,14 +300,7 @@
     "Kenley": {
       "fixmystreet": [],
       "reddit": [],
-      "news": [
-        {
-          "title": "Residents secure community asset status for Kenley Hotel",
-          "url": "https://insidecroydon.com/2026/06/10/residents-secure-community-asset-status-for-kenley-hotel/",
-          "date": "2026-06-10T15:39:36+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "New Addington North": {
       "fixmystreet": [],
@@ -642,6 +623,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Broken swing, 21st June",
+          "url": "https://www.fixmystreet.com/report/9657033",
+          "date": "2026-06-21T08:48:02+00:00",
+          "category": null
+        },
+        {
           "title": "Dumped bag, 16th June",
           "url": "https://www.fixmystreet.com/report/9628362",
           "date": "2026-06-16T07:03:31+00:00",
@@ -749,12 +736,6 @@
           "url": "https://www.fixmystreet.com/report/9500945",
           "date": "2026-05-24T20:42:18+00:00",
           "category": null
-        },
-        {
-          "title": "Rubbish, 22nd May",
-          "url": "https://www.fixmystreet.com/report/9490785",
-          "date": "2026-05-22T06:34:42+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -858,6 +839,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "South Norwood Community Festival, free entry, Sun July 5",
+          "url": "https://insidecroydon.com/2026/06/21/south-norwood-community-festival-free-entry-sun-july-5/",
+          "date": "2026-06-21T09:40:56+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Youth theatre is raising funds to make an impact in the long run",
           "url": "https://insidecroydon.com/2026/06/20/youth-theatre-is-raising-funds-to-make-an-impact-in-the-long-run/",
           "date": "2026-06-20T10:10:22+00:00",
@@ -885,6 +872,12 @@
     },
     "Thornton Heath": {
       "fixmystreet": [
+        {
+          "title": "Dangerous payment Beauchamp road, 21st June",
+          "url": "https://www.fixmystreet.com/report/9656583",
+          "date": "2026-06-21T06:15:38+00:00",
+          "category": null
+        },
         {
           "title": "Dumped shopping trolley and household rubbish, 20th June",
           "url": "https://www.fixmystreet.com/report/9653834",
@@ -918,6 +911,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Norbury Brook River Revive clean-up, Thornton Heath, July 4",
+          "url": "https://insidecroydon.com/2026/06/21/norbury-brook-river-revive-clean-up-thornton-heath-july-4/",
+          "date": "2026-06-21T08:48:56+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Step-mother who scalded 5-year-old is sentenced to 12 years",
           "url": "https://insidecroydon.com/2026/06/19/step-mother-who-scalded-5-year-old-is-sentenced-to-12-years/",
@@ -984,14 +983,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Purley pair make BAFTA games design finals for second time",
-          "url": "https://insidecroydon.com/2026/06/10/purley-pair-make-bafta-games-design-finals-for-second-time/",
-          "date": "2026-06-10T14:43:10+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "West Thornton": {
       "fixmystreet": [
