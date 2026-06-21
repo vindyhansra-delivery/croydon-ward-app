@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T14:21:48.676933+00:00",
+    "generated_at": "2026-06-21T19:51:01.357745+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -197,6 +197,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Oil disposed on pavement/verge of road, 21st June",
+          "url": "https://www.fixmystreet.com/report/9659455",
+          "date": "2026-06-21T19:18:38+00:00",
+          "category": null
+        },
+        {
           "title": "Bin overflowing, 20th June",
           "url": "https://www.fixmystreet.com/report/9654442",
           "date": "2026-06-20T11:50:43+00:00",
@@ -248,12 +254,6 @@
           "title": "A line of about five potholes getting larger every day, 25th May",
           "url": "https://www.fixmystreet.com/report/9504208",
           "date": "2026-05-25T19:11:24+00:00",
-          "category": null
-        },
-        {
-          "title": "1m long pothole getting deeper, 25th May",
-          "url": "https://www.fixmystreet.com/report/9501332",
-          "date": "2026-05-25T06:09:50+00:00",
           "category": null
         }
       ],
