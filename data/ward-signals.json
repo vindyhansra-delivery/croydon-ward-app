@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T09:58:18.454606+00:00",
+    "generated_at": "2026-06-21T14:21:48.676933+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -263,6 +263,12 @@
     "Fairfield": {
       "fixmystreet": [
         {
+          "title": "Overflowing wheelie bins, 21st June",
+          "url": "https://www.fixmystreet.com/report/9657608",
+          "date": "2026-06-21T11:45:47+00:00",
+          "category": null
+        },
+        {
           "title": "Several large defects in road surface on the bend which are hard to avoid, 16th June",
           "url": "https://www.fixmystreet.com/report/9628227",
           "date": "2026-06-16T06:43:28+00:00",
@@ -420,6 +426,12 @@
     "Old Coulsdon": {
       "fixmystreet": [
         {
+          "title": "Back woods, 21st June",
+          "url": "https://www.fixmystreet.com/report/9657821",
+          "date": "2026-06-21T11:46:10+00:00",
+          "category": null
+        },
+        {
           "title": "Obergruwn bushes, 15th June",
           "url": "https://www.fixmystreet.com/report/9627687",
           "date": "2026-06-15T22:46:53+00:00",
@@ -476,12 +488,6 @@
           "url": "https://www.fixmystreet.com/report/9575291",
           "date": "2026-06-07T12:33:26+00:00",
           "category": "Sunken drain cover on pavement"
-        },
-        {
-          "title": "Pothole to entrance of Plough Lane, 22nd May",
-          "url": "https://www.fixmystreet.com/report/9493163",
-          "date": "2026-05-22T13:13:31+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -623,6 +629,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Overgrown tree branch strike in buses, 21st June",
+          "url": "https://www.fixmystreet.com/report/9657985",
+          "date": "2026-06-21T12:26:27+00:00",
+          "category": null
+        },
+        {
           "title": "Broken swing, 21st June",
           "url": "https://www.fixmystreet.com/report/9657033",
           "date": "2026-06-21T08:48:02+00:00",
@@ -674,12 +686,6 @@
           "title": "Continuous parking along road prevents traffic flow, 29th May",
           "url": "https://www.fixmystreet.com/report/9527377",
           "date": "2026-05-29T13:29:40+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped item, 27th May",
-          "url": "https://www.fixmystreet.com/report/9511363",
-          "date": "2026-05-27T04:48:25+00:00",
           "category": null
         }
       ],
@@ -827,12 +833,6 @@
           "title": "Drain blocked with fat. Rat borrows found entering the sewage system. Area infested with rats entering our homes and damaging residents cars. Greenery overgrown, 22nd May",
           "url": "https://www.fixmystreet.com/report/9494863",
           "date": "2026-05-22T19:47:18+00:00",
-          "category": null
-        },
-        {
-          "title": "Full wheelie bin with garden waste etc, 22nd May",
-          "url": "https://www.fixmystreet.com/report/9492828",
-          "date": "2026-05-22T12:14:48+00:00",
           "category": null
         }
       ],
@@ -1011,6 +1011,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Wood, 21st June",
+          "url": "https://www.fixmystreet.com/report/9657891",
+          "date": "2026-06-21T12:00:27+00:00",
+          "category": null
+        },
         {
           "title": "Bin not in use, 5th June",
           "url": "https://www.fixmystreet.com/report/9565388",
