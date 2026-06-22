@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T19:51:01.357745+00:00",
+    "generated_at": "2026-06-22T04:49:49.095176+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -827,12 +827,6 @@
           "title": "Pothole outside of petrol station, 27th May",
           "url": "https://www.fixmystreet.com/report/9514628",
           "date": "2026-05-27T13:03:29+00:00",
-          "category": null
-        },
-        {
-          "title": "Drain blocked with fat. Rat borrows found entering the sewage system. Area infested with rats entering our homes and damaging residents cars. Greenery overgrown, 22nd May",
-          "url": "https://www.fixmystreet.com/report/9494863",
-          "date": "2026-05-22T19:47:18+00:00",
           "category": null
         }
       ],
