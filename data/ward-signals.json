@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T04:49:49.095176+00:00",
+    "generated_at": "2026-06-22T12:14:19.880125+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "Fly tipping, 22nd June",
+          "url": "https://www.fixmystreet.com/report/9660341",
+          "date": "2026-06-22T06:00:44+00:00",
+          "category": null
+        },
         {
           "title": "Too high for a wheelchair user, 5th June",
           "url": "https://www.fixmystreet.com/report/9565362",
@@ -854,12 +860,6 @@
           "title": "Sherlock Holmes and the mystery of the 24 unaffordable flats",
           "url": "https://insidecroydon.com/2026/06/12/sherlock-holmes-and-the-mystery-of-the-24-unaffordable-flats/",
           "date": "2026-06-12T15:23:24+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Croydonites pull back the curtains on five days of Fringe",
-          "url": "https://insidecroydon.com/2026/06/11/croydonites-pull-back-the-curtains-on-five-days-of-fringe/",
-          "date": "2026-06-11T11:31:23+00:00",
           "publisher": "Inside Croydon"
         }
       ]
