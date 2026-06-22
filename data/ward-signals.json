@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T12:14:19.880125+00:00",
+    "generated_at": "2026-06-22T20:56:03.785097+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -179,6 +179,12 @@
     "Coulsdon Town": {
       "fixmystreet": [
         {
+          "title": "Trees leaning heavily presenting risk and damage, 22nd June",
+          "url": "https://www.fixmystreet.com/report/9666069",
+          "date": "2026-06-22T19:51:47+00:00",
+          "category": null
+        },
+        {
           "title": "Dangerous road surface, 15th June",
           "url": "https://www.fixmystreet.com/report/9622207",
           "date": "2026-06-15T09:58:34+00:00",
@@ -264,7 +270,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Man arrested on suspicion of murder after Westow stabbing",
+          "url": "https://insidecroydon.com/2026/06/22/man-arrested-on-suspicion-of-murder-after-westow-stabbing/",
+          "date": "2026-06-22T15:35:48+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Fairfield": {
       "fixmystreet": [
@@ -323,12 +336,6 @@
           "url": "https://insidecroydon.com/2026/06/17/good-food-matters-open-day-new-addington-fri-june-19-2/",
           "date": "2026-06-17T10:00:05+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Good Food Matters Open Day, New Addington, Fri June 19",
-          "url": "https://insidecroydon.com/2026/06/13/good-food-matters-open-day-new-addington-fri-june-19/",
-          "date": "2026-06-13T07:52:24+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -353,12 +360,6 @@
           "title": "Good Food Matters Open Day, New Addington, Fri June 19",
           "url": "https://insidecroydon.com/2026/06/17/good-food-matters-open-day-new-addington-fri-june-19-2/",
           "date": "2026-06-17T10:00:05+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Good Food Matters Open Day, New Addington, Fri June 19",
-          "url": "https://insidecroydon.com/2026/06/13/good-food-matters-open-day-new-addington-fri-june-19/",
-          "date": "2026-06-13T07:52:24+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -583,6 +584,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "£400,000 raised for BRIT School at Palladium all-star concert",
+          "url": "https://insidecroydon.com/2026/06/22/400000-raised-for-brit-school-at-palladium-all-star-concert/",
+          "date": "2026-06-22T12:42:57+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "115 Thameslink trains given £3.6m makeover and clean-up",
           "url": "https://insidecroydon.com/2026/06/19/115-thameslink-trains-given-3-6m-makeover-and-clean-up/",
           "date": "2026-06-19T12:47:24+00:00",
@@ -800,14 +807,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Delivery rider badly hurt after hit-and-run in South Croydon",
-          "url": "https://insidecroydon.com/2026/06/12/delivery-rider-badly-hurt-after-hit-and-run-in-south-croydon/",
-          "date": "2026-06-12T10:55:34+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "South Norwood": {
       "fixmystreet": [
@@ -855,12 +855,6 @@
           "url": "https://insidecroydon.com/2026/06/17/its-really-time-to-go-when-they-throw-mix-into-gesture-politics/",
           "date": "2026-06-17T11:00:49+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Sherlock Holmes and the mystery of the 24 unaffordable flats",
-          "url": "https://insidecroydon.com/2026/06/12/sherlock-holmes-and-the-mystery-of-the-24-unaffordable-flats/",
-          "date": "2026-06-12T15:23:24+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -905,6 +899,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Five escape fryer blaze unhurt at Brigstock Road takeaway",
+          "url": "https://insidecroydon.com/2026/06/22/five-escape-fryer-blaze-unhurt-at-brigstock-road-takeaway/",
+          "date": "2026-06-22T14:48:57+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Norbury Brook River Revive clean-up, Thornton Heath, July 4",
           "url": "https://insidecroydon.com/2026/06/21/norbury-brook-river-revive-clean-up-thornton-heath-july-4/",
