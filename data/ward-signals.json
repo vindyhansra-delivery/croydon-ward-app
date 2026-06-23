@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T20:56:03.785097+00:00",
+    "generated_at": "2026-06-23T03:55:25.916931+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -473,6 +473,12 @@
     "Purley and Woodcote": {
       "fixmystreet": [
         {
+          "title": "Boundary hedge obstructing footpath, 22nd June",
+          "url": "https://www.fixmystreet.com/report/9666683",
+          "date": "2026-06-22T22:54:24+00:00",
+          "category": null
+        },
+        {
           "title": "Car parked near junction blocking view, 10th June",
           "url": "https://www.fixmystreet.com/report/9595919",
           "date": "2026-06-10T13:24:19+00:00",
@@ -888,12 +894,6 @@
           "title": "Parking, 24th May",
           "url": "https://www.fixmystreet.com/report/9500314",
           "date": "2026-05-24T16:39:03+00:00",
-          "category": null
-        },
-        {
-          "title": "He lives across the street and parks his motorbike on the pavement outside his neighbour’s house on the opposite side of the street, 24th May",
-          "url": "https://www.fixmystreet.com/report/9498354",
-          "date": "2026-05-24T01:19:27+00:00",
           "category": null
         }
       ],
