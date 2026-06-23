@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T14:59:15.372597+00:00",
+    "generated_at": "2026-06-23T20:13:36.113156+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -170,12 +170,6 @@
           "title": "Tyre left outside house, 25th May",
           "url": "https://www.fixmystreet.com/report/9504432",
           "date": "2026-05-25T20:25:26+00:00",
-          "category": null
-        },
-        {
-          "title": "Parked on pavement, 24th May",
-          "url": "https://www.fixmystreet.com/report/9500338",
-          "date": "2026-05-24T16:50:25+00:00",
           "category": null
         }
       ],
@@ -894,18 +888,6 @@
           "title": "Car blocking 2 driveways, 7th June",
           "url": "https://www.fixmystreet.com/report/9574506",
           "date": "2026-06-07T10:06:06+00:00",
-          "category": null
-        },
-        {
-          "title": "Parking, 24th May",
-          "url": "https://www.fixmystreet.com/report/9500321",
-          "date": "2026-05-24T16:41:11+00:00",
-          "category": null
-        },
-        {
-          "title": "Parking, 24th May",
-          "url": "https://www.fixmystreet.com/report/9500314",
-          "date": "2026-05-24T16:39:03+00:00",
           "category": null
         }
       ],
