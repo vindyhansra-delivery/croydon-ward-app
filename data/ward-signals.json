@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T09:50:47.505541+00:00",
+    "generated_at": "2026-06-23T14:59:15.372597+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -42,6 +42,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Brigade answers 400 calls as thunderstorm hits south London",
+          "url": "https://insidecroydon.com/2026/06/23/brigade-answers-400-calls-as-thunderstorm-hits-south-london/",
+          "date": "2026-06-23T10:25:13+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Three accused in Croydon vote-rigging case to face trial in 2029",
           "url": "https://insidecroydon.com/2026/06/16/three-accused-in-croydon-vote-rigging-case-to-face-trial-in-2029/",
@@ -91,6 +97,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Brigade answers 400 calls as thunderstorm hits south London",
+          "url": "https://insidecroydon.com/2026/06/23/brigade-answers-400-calls-as-thunderstorm-hits-south-london/",
+          "date": "2026-06-23T10:25:13+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Croydon Park to reopen in 2027 as ‘The Canopy’ apart-hotel",
           "url": "https://insidecroydon.com/2026/06/17/croydon-park-to-reopen-in-2027-as-the-canopy-apart-hotel/",
