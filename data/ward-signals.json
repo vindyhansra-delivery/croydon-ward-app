@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T14:41:48.583814+00:00",
+    "generated_at": "2026-06-24T19:54:13.287543+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -175,7 +175,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Perry’s go-slow council could take 5 years to pay LTN refunds",
+          "url": "https://insidecroydon.com/2026/06/24/perrys-go-slow-council-could-take-5-years-to-pay-ltn-refunds/",
+          "date": "2026-06-24T16:46:53+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Coulsdon Town": {
       "fixmystreet": [
@@ -197,6 +204,18 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "Bin overflowing, 24th June",
+          "url": "https://www.fixmystreet.com/report/9677603",
+          "date": "2026-06-24T16:12:38+00:00",
+          "category": null
+        },
+        {
+          "title": "Curb edging, 24th June",
+          "url": "https://www.fixmystreet.com/report/9677100",
+          "date": "2026-06-24T14:40:39+00:00",
+          "category": null
+        },
         {
           "title": "Oil disposed on pavement/verge of road, 21st June",
           "url": "https://www.fixmystreet.com/report/9659455",
@@ -244,22 +263,16 @@
           "url": "https://www.fixmystreet.com/report/9524036",
           "date": "2026-05-28T23:23:22+00:00",
           "category": null
-        },
-        {
-          "title": "Building waste on road, 26th May",
-          "url": "https://www.fixmystreet.com/report/9508402",
-          "date": "2026-05-26T13:17:38+00:00",
-          "category": null
-        },
-        {
-          "title": "A line of about five potholes getting larger every day, 25th May",
-          "url": "https://www.fixmystreet.com/report/9504208",
-          "date": "2026-05-25T19:11:24+00:00",
-          "category": null
         }
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Perry’s go-slow council could take 5 years to pay LTN refunds",
+          "url": "https://insidecroydon.com/2026/06/24/perrys-go-slow-council-could-take-5-years-to-pay-ltn-refunds/",
+          "date": "2026-06-24T16:46:53+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Six arrested on suspicion of murder over Westow Hill stabbing",
           "url": "https://insidecroydon.com/2026/06/24/six-arrested-on-suspicion-of-murder-over-westow-hill-stabbing/",
@@ -434,6 +447,12 @@
     "Old Coulsdon": {
       "fixmystreet": [
         {
+          "title": "Multiple potholes, 24th June",
+          "url": "https://www.fixmystreet.com/report/9677808",
+          "date": "2026-06-24T17:03:19+00:00",
+          "category": null
+        },
+        {
           "title": "Back woods, 21st June",
           "url": "https://www.fixmystreet.com/report/9657821",
           "date": "2026-06-21T11:46:10+00:00",
@@ -473,6 +492,18 @@
     },
     "Purley and Woodcote": {
       "fixmystreet": [
+        {
+          "title": "X4 Potholes, 24th June",
+          "url": "https://www.fixmystreet.com/report/9677880",
+          "date": "2026-06-24T17:22:21+00:00",
+          "category": null
+        },
+        {
+          "title": "Potholes, 24th June",
+          "url": "https://www.fixmystreet.com/report/9677874",
+          "date": "2026-06-24T17:22:16+00:00",
+          "category": null
+        },
         {
           "title": "Previously repaved tarmac has risen since June 2026 storm, 24th June",
           "url": "https://www.fixmystreet.com/report/9675290",
@@ -845,6 +876,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Perry’s go-slow council could take 5 years to pay LTN refunds",
+          "url": "https://insidecroydon.com/2026/06/24/perrys-go-slow-council-could-take-5-years-to-pay-ltn-refunds/",
+          "date": "2026-06-24T16:46:53+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "South Norwood Community Festival, free entry, Sun July 5",
           "url": "https://insidecroydon.com/2026/06/21/south-norwood-community-festival-free-entry-sun-july-5/",
