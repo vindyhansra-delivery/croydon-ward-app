@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T09:40:13.806027+00:00",
+    "generated_at": "2026-06-24T14:41:48.583814+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -52,12 +52,6 @@
           "title": "Three accused in Croydon vote-rigging case to face trial in 2029",
           "url": "https://insidecroydon.com/2026/06/16/three-accused-in-croydon-vote-rigging-case-to-face-trial-in-2029/",
           "date": "2026-06-16T11:03:52+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "We Run Croydon, meeting Addiscombe, every Wednesday",
-          "url": "https://insidecroydon.com/2026/06/15/we-run-croydon-meeting-addiscombe-every-wednesday-3/",
-          "date": "2026-06-15T08:33:12+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -114,7 +108,14 @@
     "Bensham Manor": {
       "fixmystreet": [],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Schools opt for part-day closures to cope with Red heatwave",
+          "url": "https://insidecroydon.com/2026/06/24/schools-opt-for-part-day-closures-to-cope-with-red-heatwave/",
+          "date": "2026-06-24T11:49:54+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Broad Green": {
       "fixmystreet": [
@@ -259,6 +260,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Six arrested on suspicion of murder over Westow Hill stabbing",
+          "url": "https://insidecroydon.com/2026/06/24/six-arrested-on-suspicion-of-murder-over-westow-hill-stabbing/",
+          "date": "2026-06-24T10:45:14+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Man arrested on suspicion of murder after Westow stabbing",
           "url": "https://insidecroydon.com/2026/06/22/man-arrested-on-suspicion-of-murder-after-westow-stabbing/",
@@ -467,6 +474,12 @@
     "Purley and Woodcote": {
       "fixmystreet": [
         {
+          "title": "Previously repaved tarmac has risen since June 2026 storm, 24th June",
+          "url": "https://www.fixmystreet.com/report/9675290",
+          "date": "2026-06-24T10:12:05+00:00",
+          "category": null
+        },
+        {
           "title": "Boundary hedge obstructing footpath, 22nd June",
           "url": "https://www.fixmystreet.com/report/9666683",
           "date": "2026-06-22T22:54:24+00:00",
@@ -612,15 +625,15 @@
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
         {
-          "title": "20 MPH sign, 2nd June",
-          "url": "https://www.fixmystreet.com/report/9550930",
-          "date": "2026-06-02T21:15:17+00:00",
+          "title": "Abandoned Amazon Van, 24th June",
+          "url": "https://www.fixmystreet.com/report/9676658",
+          "date": "2026-06-24T13:22:15+00:00",
           "category": null
         },
         {
-          "title": "Discarded/broken traffic cones, 25th May",
-          "url": "https://www.fixmystreet.com/report/9502511",
-          "date": "2026-05-25T11:25:40+00:00",
+          "title": "20 MPH sign, 2nd June",
+          "url": "https://www.fixmystreet.com/report/9550930",
+          "date": "2026-06-02T21:15:17+00:00",
           "category": null
         }
       ],
