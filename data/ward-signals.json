@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T20:13:36.113156+00:00",
+    "generated_at": "2026-06-24T03:56:37.640180+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -760,12 +760,6 @@
           "title": "Strong unpleasant coming from the Foxes Wood, 28th May",
           "url": "https://www.fixmystreet.com/report/9521912",
           "date": "2026-05-28T16:13:00+00:00",
-          "category": null
-        },
-        {
-          "title": "Flytip in carpark, 24th May",
-          "url": "https://www.fixmystreet.com/report/9500945",
-          "date": "2026-05-24T20:42:18+00:00",
           "category": null
         }
       ],
