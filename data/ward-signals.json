@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T09:31:39.472879+00:00",
+    "generated_at": "2026-06-25T14:42:47.375120+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -160,12 +160,6 @@
           "url": "https://www.fixmystreet.com/report/9532671",
           "date": "2026-05-30T19:20:49+00:00",
           "category": null
-        },
-        {
-          "title": "Missing \"dead end\" sign on Martin Crescent, 26th May",
-          "url": "https://www.fixmystreet.com/report/9507581",
-          "date": "2026-05-26T11:26:59+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -262,6 +256,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Three men appear in court charged with Westow Hill murder",
+          "url": "https://insidecroydon.com/2026/06/25/three-men-appear-in-court-charged-with-westow-hill-murder/",
+          "date": "2026-06-25T13:48:31+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Perry’s go-slow council could take 5 years to pay LTN refunds",
           "url": "https://insidecroydon.com/2026/06/24/perrys-go-slow-council-could-take-5-years-to-pay-ltn-refunds/",
           "date": "2026-06-24T16:46:53+00:00",
@@ -314,12 +314,6 @@
           "title": "Croydon Primary Showcase concert, Fairfield Halls, July 6",
           "url": "https://insidecroydon.com/2026/06/20/croydon-primary-showcase-concert-fairfield-halls-july-6-2/",
           "date": "2026-06-20T09:40:30+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "What south London’s live music revival means for performers",
-          "url": "https://insidecroydon.com/2026/06/16/south-londons-live-music-revival-and-what-it-means-for-performers/",
-          "date": "2026-06-16T08:45:38+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -374,6 +368,12 @@
     },
     "Norbury Park": {
       "fixmystreet": [
+        {
+          "title": "Car has been parked for over a month appears to have been dumped, 25th June",
+          "url": "https://www.fixmystreet.com/report/9681547",
+          "date": "2026-06-25T10:41:39+00:00",
+          "category": null
+        },
         {
           "title": "Pedal on exercise bike broken, 20th June",
           "url": "https://www.fixmystreet.com/report/9654838",
