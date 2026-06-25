@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T19:54:13.287543+00:00",
+    "generated_at": "2026-06-25T03:57:49.836489+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -165,12 +165,6 @@
           "title": "Missing \"dead end\" sign on Martin Crescent, 26th May",
           "url": "https://www.fixmystreet.com/report/9507581",
           "date": "2026-05-26T11:26:59+00:00",
-          "category": null
-        },
-        {
-          "title": "Tyre left outside house, 25th May",
-          "url": "https://www.fixmystreet.com/report/9504432",
-          "date": "2026-05-25T20:25:26+00:00",
           "category": null
         }
       ],
@@ -672,14 +666,7 @@
       "news": []
     },
     "Selsdon and Addington Village": {
-      "fixmystreet": [
-        {
-          "title": "Speed camera malfunction, 25th May",
-          "url": "https://www.fixmystreet.com/report/9504460",
-          "date": "2026-05-25T20:35:22+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
