@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T14:42:47.375120+00:00",
+    "generated_at": "2026-06-25T20:08:37.361315+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -338,6 +338,12 @@
     "New Addington South": {
       "fixmystreet": [
         {
+          "title": "Dumped rubbish and gas cylinder, 25th June",
+          "url": "https://www.fixmystreet.com/report/9683843",
+          "date": "2026-06-25T16:25:02+00:00",
+          "category": null
+        },
+        {
           "title": "Road floofs when rains, 23rd June",
           "url": "https://www.fixmystreet.com/report/9666832",
           "date": "2026-06-23T04:00:27+00:00",
@@ -637,12 +643,6 @@
           "title": "Free SWLLC benefits and housing advice sessions, Selhurst",
           "url": "https://insidecroydon.com/2026/06/17/free-swllc-benefits-and-housing-advice-sessions-selhurst-2/",
           "date": "2026-06-17T09:01:25+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "New Palace boss Sage imparts his wisdom as he starts job",
-          "url": "https://insidecroydon.com/2026/06/16/new-palace-boss-sage-imparts-his-wisdom-as-he-starts-job/",
-          "date": "2026-06-16T09:09:49+00:00",
           "publisher": "Inside Croydon"
         }
       ]
