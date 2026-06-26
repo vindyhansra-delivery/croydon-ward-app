@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T09:36:41.974358+00:00",
+    "generated_at": "2026-06-26T14:35:10.792341+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -46,12 +46,6 @@
           "title": "Brigade answers 400 calls as thunderstorm hits south London",
           "url": "https://insidecroydon.com/2026/06/23/brigade-answers-400-calls-as-thunderstorm-hits-south-london/",
           "date": "2026-06-23T10:25:13+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Three accused in Croydon vote-rigging case to face trial in 2029",
-          "url": "https://insidecroydon.com/2026/06/16/three-accused-in-croydon-vote-rigging-case-to-face-trial-in-2029/",
-          "date": "2026-06-16T11:03:52+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -859,12 +853,6 @@
           "url": "https://www.fixmystreet.com/report/9541871",
           "date": "2026-06-01T14:29:05+00:00",
           "category": null
-        },
-        {
-          "title": "Pothole outside of petrol station, 27th May",
-          "url": "https://www.fixmystreet.com/report/9514628",
-          "date": "2026-05-27T13:03:29+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -918,6 +906,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Mayday A&E rated ‘Requires improvement’ for fourth time",
+          "url": "https://insidecroydon.com/2026/06/26/mayday-ae-rated-requires-improvement-for-fourth-time/",
+          "date": "2026-06-26T11:59:45+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Five escape fryer blaze unhurt at Brigstock Road takeaway",
           "url": "https://insidecroydon.com/2026/06/22/five-escape-fryer-blaze-unhurt-at-brigstock-road-takeaway/",
