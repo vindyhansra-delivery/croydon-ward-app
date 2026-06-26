@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T14:35:10.792341+00:00",
+    "generated_at": "2026-06-26T19:56:54.864792+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -320,14 +320,7 @@
     "New Addington North": {
       "fixmystreet": [],
       "reddit": [],
-      "news": [
-        {
-          "title": "Good Food Matters Open Day, New Addington, Fri June 19",
-          "url": "https://insidecroydon.com/2026/06/17/good-food-matters-open-day-new-addington-fri-june-19-2/",
-          "date": "2026-06-17T10:00:05+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "New Addington South": {
       "fixmystreet": [
@@ -357,14 +350,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Good Food Matters Open Day, New Addington, Fri June 19",
-          "url": "https://insidecroydon.com/2026/06/17/good-food-matters-open-day-new-addington-fri-june-19-2/",
-          "date": "2026-06-17T10:00:05+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Norbury Park": {
       "fixmystreet": [
@@ -631,12 +617,6 @@
           "title": "115 Thameslink trains given £3.6m makeover and clean-up",
           "url": "https://insidecroydon.com/2026/06/19/115-thameslink-trains-given-3-6m-makeover-and-clean-up/",
           "date": "2026-06-19T12:47:24+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Free SWLLC benefits and housing advice sessions, Selhurst",
-          "url": "https://insidecroydon.com/2026/06/17/free-swllc-benefits-and-housing-advice-sessions-selhurst-2/",
-          "date": "2026-06-17T09:01:25+00:00",
           "publisher": "Inside Croydon"
         }
       ]
