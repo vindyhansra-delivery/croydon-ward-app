@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T04:06:08.374015+00:00",
+    "generated_at": "2026-06-26T09:36:41.974358+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -752,6 +752,12 @@
     "Shirley South": {
       "fixmystreet": [
         {
+          "title": "Street Light, 26th June",
+          "url": "https://www.fixmystreet.com/report/9686351",
+          "date": "2026-06-26T08:27:23+00:00",
+          "category": null
+        },
+        {
           "title": "The curb stone outside 149 Devonshire WAY CR0 8BY, 15th June",
           "url": "https://www.fixmystreet.com/report/9623557",
           "date": "2026-06-15T12:14:03+00:00",
@@ -1010,12 +1016,6 @@
           "title": "Flooding, 2nd June",
           "url": "https://www.fixmystreet.com/report/9550360",
           "date": "2026-06-02T18:35:42+00:00",
-          "category": null
-        },
-        {
-          "title": "Mouldy stink, 27th May",
-          "url": "https://www.fixmystreet.com/report/9512763",
-          "date": "2026-05-27T09:06:29+00:00",
           "category": null
         }
       ],
