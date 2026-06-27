@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T19:56:54.864792+00:00",
+    "generated_at": "2026-06-27T03:46:39.939597+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -187,6 +187,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Water leak, 26th June",
+          "url": "https://www.fixmystreet.com/report/9690303",
+          "date": "2026-06-26T22:41:30+00:00",
+          "category": null
+        },
+        {
           "title": "Bin overflowing, 24th June",
           "url": "https://www.fixmystreet.com/report/9677603",
           "date": "2026-06-24T16:12:38+00:00",
@@ -238,12 +244,6 @@
           "title": "Wall colapsing, 29th May",
           "url": "https://www.fixmystreet.com/report/9524826",
           "date": "2026-05-29T07:53:16+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead squirrel on pavement, 29th May",
-          "url": "https://www.fixmystreet.com/report/9524036",
-          "date": "2026-05-28T23:23:22+00:00",
           "category": null
         }
       ],
