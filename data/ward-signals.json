@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T13:52:44.840879+00:00",
+    "generated_at": "2026-06-27T19:28:55.177314+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -107,6 +107,12 @@
     },
     "Broad Green": {
       "fixmystreet": [
+        {
+          "title": "Fly tipping, 27th June",
+          "url": "https://www.fixmystreet.com/report/9693275",
+          "date": "2026-06-27T19:15:41+00:00",
+          "category": null
+        },
         {
           "title": "Litter picking volunteer, 17th June",
           "url": "https://www.fixmystreet.com/report/9640300",
@@ -467,7 +473,14 @@
       "news": []
     },
     "Purley Oaks and Riddlesdown": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Car park for over a week on pavement., 27th June",
+          "url": "https://www.fixmystreet.com/report/9692344",
+          "date": "2026-06-27T14:03:16+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
@@ -749,12 +762,6 @@
           "url": "https://www.fixmystreet.com/report/9563763",
           "date": "2026-06-04T19:22:10+00:00",
           "category": null
-        },
-        {
-          "title": "Strong unpleasant coming from the Foxes Wood, 28th May",
-          "url": "https://www.fixmystreet.com/report/9521912",
-          "date": "2026-05-28T16:13:00+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -955,12 +962,6 @@
           "title": "Food waste not collected, 30th May",
           "url": "https://www.fixmystreet.com/report/9532022",
           "date": "2026-05-30T15:51:41+00:00",
-          "category": null
-        },
-        {
-          "title": "Veolia street sweepers dumping rubbish on the street, 28th May",
-          "url": "https://www.fixmystreet.com/report/9522596",
-          "date": "2026-05-28T18:28:26+00:00",
           "category": null
         }
       ],
