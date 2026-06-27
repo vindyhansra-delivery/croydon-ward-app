@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T08:43:50.659854+00:00",
+    "generated_at": "2026-06-27T13:52:44.840879+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -89,12 +89,6 @@
           "title": "Brigade answers 400 calls as thunderstorm hits south London",
           "url": "https://insidecroydon.com/2026/06/23/brigade-answers-400-calls-as-thunderstorm-hits-south-london/",
           "date": "2026-06-23T10:25:13+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Croydon Park to reopen in 2027 as ‘The Canopy’ apart-hotel",
-          "url": "https://insidecroydon.com/2026/06/17/croydon-park-to-reopen-in-2027-as-the-canopy-apart-hotel/",
-          "date": "2026-06-17T11:51:42+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -458,7 +452,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "‘We couldn’t be prouder’: college teacher clinches silver prize",
+          "url": "https://insidecroydon.com/2026/06/27/we-couldnt-be-prouder-college-teacher-clinches-silver-prize/",
+          "date": "2026-06-27T11:16:03+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Park Hill and Whitgift": {
       "fixmystreet": [],
@@ -714,12 +715,6 @@
           "url": "https://insidecroydon.com/2026/06/18/take-a-turn-around-shirley-windmill-for-a-history-masterclass/",
           "date": "2026-06-18T10:48:27+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
-          "url": "https://insidecroydon.com/2026/06/18/gardening-bargains-mha-the-wilderness-shirley-mon-fri/",
-          "date": "2026-06-18T08:34:12+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -768,12 +763,6 @@
           "title": "Take a turn around Shirley Windmill for a history masterclass",
           "url": "https://insidecroydon.com/2026/06/18/take-a-turn-around-shirley-windmill-for-a-history-masterclass/",
           "date": "2026-06-18T10:48:27+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
-          "url": "https://insidecroydon.com/2026/06/18/gardening-bargains-mha-the-wilderness-shirley-mon-fri/",
-          "date": "2026-06-18T08:34:12+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -854,12 +843,6 @@
           "url": "https://insidecroydon.com/2026/06/20/youth-theatre-is-raising-funds-to-make-an-impact-in-the-long-run/",
           "date": "2026-06-20T10:10:22+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "It’s really time to go when they throw ‘Mix’ into gesture politics",
-          "url": "https://insidecroydon.com/2026/06/17/its-really-time-to-go-when-they-throw-mix-into-gesture-politics/",
-          "date": "2026-06-17T11:00:49+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -886,6 +869,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Norbury Brook River Revive clean-up, Thornton Heath, July 4",
+          "url": "https://insidecroydon.com/2026/06/27/norbury-brook-river-revive-clean-up-thornton-heath-july-4-2/",
+          "date": "2026-06-27T08:46:40+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Mayday A&E rated ‘Requires improvement’ for fourth time",
           "url": "https://insidecroydon.com/2026/06/26/mayday-ae-rated-requires-improvement-for-fourth-time/",
