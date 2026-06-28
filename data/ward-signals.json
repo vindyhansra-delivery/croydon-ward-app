@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T04:11:00.276248+00:00",
+    "generated_at": "2026-06-28T09:00:48.498703+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -238,12 +238,6 @@
           "title": "More fly tipping, 2nd June",
           "url": "https://www.fixmystreet.com/report/9545176",
           "date": "2026-06-02T07:42:28+00:00",
-          "category": null
-        },
-        {
-          "title": "Wall colapsing, 29th May",
-          "url": "https://www.fixmystreet.com/report/9524826",
-          "date": "2026-05-29T07:53:16+00:00",
           "category": null
         }
       ],
@@ -722,14 +716,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Take a turn around Shirley Windmill for a history masterclass",
-          "url": "https://insidecroydon.com/2026/06/18/take-a-turn-around-shirley-windmill-for-a-history-masterclass/",
-          "date": "2026-06-18T10:48:27+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Shirley South": {
       "fixmystreet": [
@@ -765,14 +752,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Take a turn around Shirley Windmill for a history masterclass",
-          "url": "https://insidecroydon.com/2026/06/18/take-a-turn-around-shirley-windmill-for-a-history-masterclass/",
-          "date": "2026-06-18T10:48:27+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "South Croydon": {
       "fixmystreet": [
@@ -833,6 +813,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "South Norwood Community Festival, free entry, Sun July 5",
+          "url": "https://insidecroydon.com/2026/06/28/south-norwood-community-festival-free-entry-sun-july-5-2/",
+          "date": "2026-06-28T08:45:55+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Perry’s go-slow council could take 5 years to pay LTN refunds",
           "url": "https://insidecroydon.com/2026/06/24/perrys-go-slow-council-could-take-5-years-to-pay-ltn-refunds/",
