@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T13:57:04.685351+00:00",
+    "generated_at": "2026-06-28T19:29:08.689523+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -31,12 +31,6 @@
           "title": "Vehicle parking Blackhorse Lane, 4th June",
           "url": "https://www.fixmystreet.com/report/9562573",
           "date": "2026-06-04T15:37:15+00:00",
-          "category": null
-        },
-        {
-          "title": "Bins are full, 29th May",
-          "url": "https://www.fixmystreet.com/report/9526859",
-          "date": "2026-05-29T14:46:07+00:00",
           "category": null
         }
       ],
@@ -192,6 +186,12 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "Pot hole that is causing a water mains leak, 28th June",
+          "url": "https://www.fixmystreet.com/report/9696655",
+          "date": "2026-06-28T17:23:47+00:00",
+          "category": null
+        },
         {
           "title": "Water leak, 26th June",
           "url": "https://www.fixmystreet.com/report/9690303",
@@ -475,6 +475,12 @@
     "Purley Oaks and Riddlesdown": {
       "fixmystreet": [
         {
+          "title": "Signals not working, 28th June",
+          "url": "https://www.fixmystreet.com/report/9695942",
+          "date": "2026-06-28T14:57:59+00:00",
+          "category": null
+        },
+        {
           "title": "Car park for over a week on pavement., 27th June",
           "url": "https://www.fixmystreet.com/report/9692344",
           "date": "2026-06-27T14:03:16+00:00",
@@ -700,18 +706,6 @@
           "title": "Tree has fallen outside No 11 Gladeside, 5th June",
           "url": "https://www.fixmystreet.com/report/9567662",
           "date": "2026-06-05T13:05:48+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped Bags, 29th May",
-          "url": "https://www.fixmystreet.com/report/9528694",
-          "date": "2026-05-29T17:41:40+00:00",
-          "category": null
-        },
-        {
-          "title": "Chairs, 29th May",
-          "url": "https://www.fixmystreet.com/report/9528682",
-          "date": "2026-05-29T17:38:20+00:00",
           "category": null
         }
       ],
