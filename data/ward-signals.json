@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T09:00:48.498703+00:00",
+    "generated_at": "2026-06-28T13:57:04.685351+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -168,6 +168,12 @@
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "2 medium potholes, 28th June",
+          "url": "https://www.fixmystreet.com/report/9695084",
+          "date": "2026-06-28T11:44:39+00:00",
+          "category": null
+        },
         {
           "title": "Trees leaning heavily presenting risk and damage, 22nd June",
           "url": "https://www.fixmystreet.com/report/9666069",
@@ -707,19 +713,26 @@
           "url": "https://www.fixmystreet.com/report/9528682",
           "date": "2026-05-29T17:38:20+00:00",
           "category": null
-        },
-        {
-          "title": "Continuous parking along road prevents traffic flow, 29th May",
-          "url": "https://www.fixmystreet.com/report/9527377",
-          "date": "2026-05-29T13:29:40+00:00",
-          "category": null
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
+          "url": "https://insidecroydon.com/2026/06/28/gardening-bargains-mha-the-wilderness-shirley-mon-fri-2/",
+          "date": "2026-06-28T09:29:41+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "Pothole, 28th June",
+          "url": "https://www.fixmystreet.com/report/9695037",
+          "date": "2026-06-28T11:30:20+00:00",
+          "category": null
+        },
         {
           "title": "Street Light, 26th June",
           "url": "https://www.fixmystreet.com/report/9686351",
@@ -752,10 +765,23 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
+          "url": "https://insidecroydon.com/2026/06/28/gardening-bargains-mha-the-wilderness-shirley-mon-fri-2/",
+          "date": "2026-06-28T09:29:41+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "South Croydon": {
       "fixmystreet": [
+        {
+          "title": "2 bags of children's toys, 28th June",
+          "url": "https://www.fixmystreet.com/report/9695093",
+          "date": "2026-06-28T11:46:16+00:00",
+          "category": null
+        },
         {
           "title": "Very large series of potholes before and after the speed camera, 17th June",
           "url": "https://www.fixmystreet.com/report/9638779",
@@ -813,6 +839,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "The weather warnings from history: thunderbolts and lightning",
+          "url": "https://insidecroydon.com/2026/06/28/231417/",
+          "date": "2026-06-28T11:03:39+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "South Norwood Community Festival, free entry, Sun July 5",
           "url": "https://insidecroydon.com/2026/06/28/south-norwood-community-festival-free-entry-sun-july-5-2/",
@@ -884,12 +916,6 @@
           "title": "Norbury Brook River Revive clean-up, Thornton Heath, July 4",
           "url": "https://insidecroydon.com/2026/06/21/norbury-brook-river-revive-clean-up-thornton-heath-july-4/",
           "date": "2026-06-21T08:48:56+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Step-mother who scalded 5-year-old is sentenced to 12 years",
-          "url": "https://insidecroydon.com/2026/06/19/step-mother-who-scalded-5-year-old-is-sentenced-to-12-years/",
-          "date": "2026-06-19T12:12:23+00:00",
           "publisher": "Inside Croydon"
         }
       ]
