@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T04:17:57.533812+00:00",
+    "generated_at": "2026-06-29T11:09:53.344720+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -88,7 +88,14 @@
       ]
     },
     "Bensham Manor": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Good Afternoon, One of your contractors came to clear the overgrown vegetation, which was causing damage to my garage at the back of my garden. They came in the Autumn of last year. Further to this, they said they will come back in the Summer to fully complete the works and spray some permanent weed killer. Please can this done at the earliest possible convenience. Mr. K. Sheikh, 66, Bensham Manor Road, Thornton Heath, Surrey, Cr7 7ab. Kindest Regards., 29th June",
+          "url": "https://www.fixmystreet.com/report/9700006",
+          "date": "2026-06-29T10:03:38+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": [
         {
@@ -396,6 +403,12 @@
     },
     "Norbury and Pollards Hill": {
       "fixmystreet": [
+        {
+          "title": "Road bollard knocked down, 29th June",
+          "url": "https://www.fixmystreet.com/report/9698499",
+          "date": "2026-06-29T07:34:38+00:00",
+          "category": null
+        },
         {
           "title": "Extremely dangerous pothole - 15” wide / 4” deep, 12th June",
           "url": "https://www.fixmystreet.com/report/9610738",
