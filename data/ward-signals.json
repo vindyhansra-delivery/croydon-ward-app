@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T20:05:53.862024+00:00",
+    "generated_at": "2026-06-30T03:59:39.359232+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -316,14 +316,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Croydon Primary Showcase concert, Fairfield Halls, July 6",
-          "url": "https://insidecroydon.com/2026/06/20/croydon-primary-showcase-concert-fairfield-halls-july-6-2/",
-          "date": "2026-06-20T09:40:30+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Kenley": {
       "fixmystreet": [],
@@ -961,6 +954,12 @@
     },
     "Waddon": {
       "fixmystreet": [
+        {
+          "title": "Vans parked outside driveways blocking entry and exit to the house, 30th June",
+          "url": "https://www.fixmystreet.com/report/9705315",
+          "date": "2026-06-29T23:24:33+00:00",
+          "category": null
+        },
         {
           "title": "A232 Road Disintegrated, 23rd June",
           "url": "https://www.fixmystreet.com/report/9668740",
