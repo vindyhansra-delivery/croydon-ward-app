@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T09:46:15.016018+00:00",
+    "generated_at": "2026-06-30T14:30:18.612483+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -319,7 +319,14 @@
       "news": []
     },
     "Kenley": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Street light not working, 30th June",
+          "url": "https://www.fixmystreet.com/report/9709021",
+          "date": "2026-06-30T13:00:23+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
@@ -487,12 +494,6 @@
           "url": "https://www.fixmystreet.com/report/9562669",
           "date": "2026-06-04T15:50:14+00:00",
           "category": "Broken fence"
-        },
-        {
-          "title": "2 x Yellow metal KEEP LEFT signs smashed to the ground, 31st May",
-          "url": "https://www.fixmystreet.com/report/9535153",
-          "date": "2026-05-31T13:31:45+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -936,12 +937,6 @@
           "title": "Five escape fryer blaze unhurt at Brigstock Road takeaway",
           "url": "https://insidecroydon.com/2026/06/22/five-escape-fryer-blaze-unhurt-at-brigstock-road-takeaway/",
           "date": "2026-06-22T14:48:57+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Norbury Brook River Revive clean-up, Thornton Heath, July 4",
-          "url": "https://insidecroydon.com/2026/06/21/norbury-brook-river-revive-clean-up-thornton-heath-july-4/",
-          "date": "2026-06-21T08:48:56+00:00",
           "publisher": "Inside Croydon"
         }
       ]
