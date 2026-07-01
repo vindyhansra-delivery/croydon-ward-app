@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T09:57:52.682359+00:00",
+    "generated_at": "2026-07-01T14:46:49.065760+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "Sofa, 1st July",
+          "url": "https://www.fixmystreet.com/report/9715515",
+          "date": "2026-07-01T12:14:59+00:00",
+          "category": null
+        },
         {
           "title": "Fly tipping, 22nd June",
           "url": "https://www.fixmystreet.com/report/9660341",
@@ -85,6 +91,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Emergency services on call after worker falls from site lift",
+          "url": "https://insidecroydon.com/2026/07/01/emergency-services-on-call-after-worker-falls-from-site-lift/",
+          "date": "2026-07-01T14:01:23+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Brigade answers 400 calls as thunderstorm hits south London",
           "url": "https://insidecroydon.com/2026/06/23/brigade-answers-400-calls-as-thunderstorm-hits-south-london/",
@@ -893,16 +905,16 @@
           "url": "https://www.fixmystreet.com/report/9542890",
           "date": "2026-06-03T05:45:10+00:00",
           "category": null
-        },
-        {
-          "title": "Large planters blocking road, 1st June",
-          "url": "https://www.fixmystreet.com/report/9541871",
-          "date": "2026-06-01T14:29:05+00:00",
-          "category": null
         }
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Perry’s council facing High Court threat over Access Croydon",
+          "url": "https://insidecroydon.com/2026/07/01/perrys-council-facing-high-court-threat-over-access-croydon/",
+          "date": "2026-07-01T12:22:10+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "The weather warnings from history: thunderbolts and lightning",
           "url": "https://insidecroydon.com/2026/06/28/231417/",
@@ -1021,12 +1033,6 @@
           "url": "https://www.fixmystreet.com/report/9547960",
           "date": "2026-06-02T12:53:57+00:00",
           "category": null
-        },
-        {
-          "title": "Alleyway between 44 and 43 Theobald Road CR0 3RN, 1st June",
-          "url": "https://www.fixmystreet.com/report/9539356",
-          "date": "2026-06-01T09:56:57+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -1058,6 +1064,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Metal thing, 1st July",
+          "url": "https://www.fixmystreet.com/report/9715537",
+          "date": "2026-07-01T12:17:18+00:00",
+          "category": null
+        },
         {
           "title": "Mattress frame dumped, 29th June",
           "url": "https://www.fixmystreet.com/report/9704079",
