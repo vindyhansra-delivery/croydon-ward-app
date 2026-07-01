@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T04:14:45.703616+00:00",
+    "generated_at": "2026-07-01T09:57:52.682359+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -505,6 +505,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Croydon bakers firm Coughlan’s closes blaming Labour NI hike",
+          "url": "https://insidecroydon.com/2026/07/01/croydon-bakers-firm-coughlans-closes-blaming-labour-ni-hike/",
+          "date": "2026-07-01T07:57:13+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "‘We couldn’t be prouder’: college teacher clinches silver prize",
           "url": "https://insidecroydon.com/2026/06/27/we-couldnt-be-prouder-college-teacher-clinches-silver-prize/",
           "date": "2026-06-27T11:16:03+00:00",
@@ -865,7 +871,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Croydon bakers firm Coughlan’s closes blaming Labour NI hike",
+          "url": "https://insidecroydon.com/2026/07/01/croydon-bakers-firm-coughlans-closes-blaming-labour-ni-hike/",
+          "date": "2026-07-01T07:57:13+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "South Norwood": {
       "fixmystreet": [
@@ -939,6 +952,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Croydon bakers firm Coughlan’s closes blaming Labour NI hike",
+          "url": "https://insidecroydon.com/2026/07/01/croydon-bakers-firm-coughlans-closes-blaming-labour-ni-hike/",
+          "date": "2026-07-01T07:57:13+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Norbury Brook River Revive clean-up, Thornton Heath, July 4",
           "url": "https://insidecroydon.com/2026/06/27/norbury-brook-river-revive-clean-up-thornton-heath-july-4-2/",
