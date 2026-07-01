@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T14:46:49.065760+00:00",
+    "generated_at": "2026-07-01T20:04:16.853307+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -464,24 +464,6 @@
           "url": "https://www.fixmystreet.com/report/9610738",
           "date": "2026-06-12T15:07:38+00:00",
           "category": "Extremely dangerous pothole"
-        },
-        {
-          "title": "Scooter permanently parked in short term bay, 1st June",
-          "url": "https://www.fixmystreet.com/report/9542395",
-          "date": "2026-06-01T15:38:49+00:00",
-          "category": null
-        },
-        {
-          "title": "Vehicle permanently parked in short term bay, 1st June",
-          "url": "https://www.fixmystreet.com/report/9542172",
-          "date": "2026-06-01T15:10:03+00:00",
-          "category": null
-        },
-        {
-          "title": "Car Permanently Parked on Red Route, 1st June",
-          "url": "https://www.fixmystreet.com/report/9542132",
-          "date": "2026-06-01T15:04:50+00:00",
-          "category": null
         }
       ],
       "reddit": [],
