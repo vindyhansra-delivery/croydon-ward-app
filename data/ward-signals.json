@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T03:55:33.243642+00:00",
+    "generated_at": "2026-07-02T09:21:11.873993+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -257,12 +257,6 @@
           "title": "Broken yellow turn-signal, 4th June",
           "url": "https://www.fixmystreet.com/report/9563876",
           "date": "2026-06-04T19:47:24+00:00",
-          "category": null
-        },
-        {
-          "title": "More fly tipping, 2nd June",
-          "url": "https://www.fixmystreet.com/report/9545176",
-          "date": "2026-06-02T07:42:28+00:00",
           "category": null
         }
       ],
