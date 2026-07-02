@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T09:21:11.873993+00:00",
+    "generated_at": "2026-07-02T14:12:36.288918+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -74,12 +74,6 @@
           "title": "Fly tipping, 4th June",
           "url": "https://www.fixmystreet.com/report/9563112",
           "date": "2026-06-04T17:08:02+00:00",
-          "category": null
-        },
-        {
-          "title": "Mattress and bags of rubbish left, 2nd June",
-          "url": "https://www.fixmystreet.com/report/9548218",
-          "date": "2026-06-02T13:23:38+00:00",
           "category": null
         }
       ],
@@ -460,6 +454,12 @@
     "Old Coulsdon": {
       "fixmystreet": [
         {
+          "title": "Parking causing problems for bus getting through, 2nd July",
+          "url": "https://www.fixmystreet.com/report/9721033",
+          "date": "2026-07-02T10:00:10+00:00",
+          "category": null
+        },
+        {
           "title": "Multiple potholes, 24th June",
           "url": "https://www.fixmystreet.com/report/9677808",
           "date": "2026-06-24T17:03:19+00:00",
@@ -664,12 +664,6 @@
           "title": "Demolition works get underway for Selhurst £200m main stand",
           "url": "https://insidecroydon.com/2026/06/30/demolition-works-get-underway-for-selhurst-200m-main-stand/",
           "date": "2026-06-30T16:36:56+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "£400,000 raised for BRIT School at Palladium all-star concert",
-          "url": "https://insidecroydon.com/2026/06/22/400000-raised-for-brit-school-at-palladium-all-star-concert/",
-          "date": "2026-06-22T12:42:57+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -996,12 +990,6 @@
           "title": "Damaged road bollard, 6th June",
           "url": "https://www.fixmystreet.com/report/9572335",
           "date": "2026-06-06T14:29:49+00:00",
-          "category": null
-        },
-        {
-          "title": "Blocked drain causing flooding of the road and pavement, 2nd June",
-          "url": "https://www.fixmystreet.com/report/9547960",
-          "date": "2026-06-02T12:53:57+00:00",
           "category": null
         }
       ],
