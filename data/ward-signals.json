@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T14:12:36.288918+00:00",
+    "generated_at": "2026-07-02T19:38:52.969697+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -290,6 +290,12 @@
     },
     "Fairfield": {
       "fixmystreet": [
+        {
+          "title": "Collapsed manhole cover, 2nd July",
+          "url": "https://www.fixmystreet.com/report/9723971",
+          "date": "2026-07-02T17:58:21+00:00",
+          "category": null
+        },
         {
           "title": "Overflowing wheelie bins, 21st June",
           "url": "https://www.fixmystreet.com/report/9657608",
@@ -838,16 +844,16 @@
           "url": "https://www.fixmystreet.com/report/9580113",
           "date": "2026-06-08T10:37:38+00:00",
           "category": null
-        },
-        {
-          "title": "Abandoned mop d in children's playground, 2nd June",
-          "url": "https://www.fixmystreet.com/report/9549489",
-          "date": "2026-06-02T16:03:46+00:00",
-          "category": null
         }
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Mayor Perry’s ‘Motorists’ Charter’ to deliver more accidents, higher car insurance and even put children’s safety at risk",
+          "url": "https://insidecroydon.com/2026/07/02/mayor-perrys-motorists-charter-to-deliver-more-accidents-higher-car-insurance-and-even-put-childrens-safety-at-risk/",
+          "date": "2026-07-02T16:24:39+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Croydon bakers firm Coughlan’s closes blaming Labour NI hike",
           "url": "https://insidecroydon.com/2026/07/01/croydon-bakers-firm-coughlans-closes-blaming-labour-ni-hike/",
@@ -945,12 +951,6 @@
           "url": "https://insidecroydon.com/2026/06/26/mayday-ae-rated-requires-improvement-for-fourth-time/",
           "date": "2026-06-26T11:59:45+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Five escape fryer blaze unhurt at Brigstock Road takeaway",
-          "url": "https://insidecroydon.com/2026/06/22/five-escape-fryer-blaze-unhurt-at-brigstock-road-takeaway/",
-          "date": "2026-06-22T14:48:57+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -1008,12 +1008,6 @@
           "title": "Fly tipping, 11th June",
           "url": "https://www.fixmystreet.com/report/9600615",
           "date": "2026-06-11T08:13:23+00:00",
-          "category": null
-        },
-        {
-          "title": "Flooding, 2nd June",
-          "url": "https://www.fixmystreet.com/report/9550360",
-          "date": "2026-06-02T18:35:42+00:00",
           "category": null
         }
       ],
