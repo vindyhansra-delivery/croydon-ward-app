@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T20:04:16.853307+00:00",
+    "generated_at": "2026-07-02T03:55:33.243642+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -80,12 +80,6 @@
           "title": "Mattress and bags of rubbish left, 2nd June",
           "url": "https://www.fixmystreet.com/report/9548218",
           "date": "2026-06-02T13:23:38+00:00",
-          "category": null
-        },
-        {
-          "title": "Pothole, 1st June",
-          "url": "https://www.fixmystreet.com/report/9544050",
-          "date": "2026-06-01T21:18:05+00:00",
           "category": null
         }
       ],
