@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T09:27:10.038493+00:00",
+    "generated_at": "2026-07-03T14:16:39.215524+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -43,6 +43,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Gibson is handing over the baton after 27 harmonious years",
+          "url": "https://insidecroydon.com/2026/07/03/gibson-is-handing-over-the-baton-after-27-harmonious-years/",
+          "date": "2026-07-03T10:46:47+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Brigade answers 400 calls as thunderstorm hits south London",
           "url": "https://insidecroydon.com/2026/06/23/brigade-answers-400-calls-as-thunderstorm-hits-south-london/",
           "date": "2026-06-23T10:25:13+00:00",
@@ -79,6 +85,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Gibson is handing over the baton after 27 harmonious years",
+          "url": "https://insidecroydon.com/2026/07/03/gibson-is-handing-over-the-baton-after-27-harmonious-years/",
+          "date": "2026-07-03T10:46:47+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Emergency services on call after worker falls from site lift",
           "url": "https://insidecroydon.com/2026/07/01/emergency-services-on-call-after-worker-falls-from-site-lift/",
@@ -316,10 +328,23 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Gibson is handing over the baton after 27 harmonious years",
+          "url": "https://insidecroydon.com/2026/07/03/gibson-is-handing-over-the-baton-after-27-harmonious-years/",
+          "date": "2026-07-03T10:46:47+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Kenley": {
       "fixmystreet": [
+        {
+          "title": "Overgrown hedge, 3rd July",
+          "url": "https://www.fixmystreet.com/report/9727422",
+          "date": "2026-07-03T11:24:15+00:00",
+          "category": null
+        },
         {
           "title": "Street light not working, 30th June",
           "url": "https://www.fixmystreet.com/report/9709021",
