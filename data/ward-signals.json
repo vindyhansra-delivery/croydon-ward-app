@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T19:38:52.969697+00:00",
+    "generated_at": "2026-07-03T03:37:29.075060+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -680,12 +680,6 @@
           "title": "Abandoned Amazon Van, 24th June",
           "url": "https://www.fixmystreet.com/report/9676658",
           "date": "2026-06-24T13:22:15+00:00",
-          "category": null
-        },
-        {
-          "title": "20 MPH sign, 2nd June",
-          "url": "https://www.fixmystreet.com/report/9550930",
-          "date": "2026-06-02T21:15:17+00:00",
           "category": null
         }
       ],
