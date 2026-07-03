@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T03:37:29.075060+00:00",
+    "generated_at": "2026-07-03T09:27:10.038493+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -148,12 +148,6 @@
           "title": "Hi thier is ford silver parked with out parking permits and with out number plate for nealy month now i believe., 5th June",
           "url": "https://www.fixmystreet.com/report/9567477",
           "date": "2026-06-05T12:43:40+00:00",
-          "category": null
-        },
-        {
-          "title": "Ampere way alley way, 3rd June",
-          "url": "https://www.fixmystreet.com/report/9550978",
-          "date": "2026-06-03T06:23:06+00:00",
           "category": null
         }
       ],
@@ -862,12 +856,6 @@
           "title": "Temp lights just not needed. Causing traffic chaos, 11th June",
           "url": "https://www.fixmystreet.com/report/9605001",
           "date": "2026-06-11T17:18:46+00:00",
-          "category": null
-        },
-        {
-          "title": "Litter and fly tipping, 3rd June",
-          "url": "https://www.fixmystreet.com/report/9542890",
-          "date": "2026-06-03T05:45:10+00:00",
           "category": null
         }
       ],
