@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-03T14:16:39.215524+00:00",
+    "generated_at": "2026-07-03T19:30:40.950426+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -47,12 +47,6 @@
           "url": "https://insidecroydon.com/2026/07/03/gibson-is-handing-over-the-baton-after-27-harmonious-years/",
           "date": "2026-07-03T10:46:47+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Brigade answers 400 calls as thunderstorm hits south London",
-          "url": "https://insidecroydon.com/2026/06/23/brigade-answers-400-calls-as-thunderstorm-hits-south-london/",
-          "date": "2026-06-23T10:25:13+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -95,12 +89,6 @@
           "title": "Emergency services on call after worker falls from site lift",
           "url": "https://insidecroydon.com/2026/07/01/emergency-services-on-call-after-worker-falls-from-site-lift/",
           "date": "2026-07-01T14:01:23+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Brigade answers 400 calls as thunderstorm hits south London",
-          "url": "https://insidecroydon.com/2026/06/23/brigade-answers-400-calls-as-thunderstorm-hits-south-london/",
-          "date": "2026-06-23T10:25:13+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -165,6 +153,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Trauma at Lanfranc as boy waits 2 hours with knife in his head",
+          "url": "https://insidecroydon.com/2026/07/03/trauma-at-lanfranc-as-boy-waits-2-hours-with-knife-in-his-head/",
+          "date": "2026-07-03T16:33:26+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Perry’s go-slow council could take 5 years to pay LTN refunds",
           "url": "https://insidecroydon.com/2026/06/24/perrys-go-slow-council-could-take-5-years-to-pay-ltn-refunds/",
@@ -447,12 +441,6 @@
           "url": "https://www.fixmystreet.com/report/9593749",
           "date": "2026-06-10T09:25:11+00:00",
           "category": null
-        },
-        {
-          "title": "Unknown car, 3rd June",
-          "url": "https://www.fixmystreet.com/report/9555404",
-          "date": "2026-06-03T14:41:07+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -511,6 +499,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Coughlan’s directors moved £9m out of bakery firm since 2023",
+          "url": "https://insidecroydon.com/2026/07/03/coughlans-directors-moved-9m-out-of-bakery-firm-since-2024/",
+          "date": "2026-07-03T14:31:49+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Croydon bakers firm Coughlan’s closes blaming Labour NI hike",
           "url": "https://insidecroydon.com/2026/07/01/croydon-bakers-firm-coughlans-closes-blaming-labour-ni-hike/",
@@ -862,6 +856,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Coughlan’s directors moved £9m out of bakery firm since 2023",
+          "url": "https://insidecroydon.com/2026/07/03/coughlans-directors-moved-9m-out-of-bakery-firm-since-2024/",
+          "date": "2026-07-03T14:31:49+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Mayor Perry’s ‘Motorists’ Charter’ to deliver more accidents, higher car insurance and even put children’s safety at risk",
           "url": "https://insidecroydon.com/2026/07/02/mayor-perrys-motorists-charter-to-deliver-more-accidents-higher-car-insurance-and-even-put-childrens-safety-at-risk/",
           "date": "2026-07-02T16:24:39+00:00",
@@ -942,6 +942,18 @@
       "reddit": [],
       "news": [
         {
+          "title": "Trauma at Lanfranc as boy waits 2 hours with knife in his head",
+          "url": "https://insidecroydon.com/2026/07/03/trauma-at-lanfranc-as-boy-waits-2-hours-with-knife-in-his-head/",
+          "date": "2026-07-03T16:33:26+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Coughlan’s directors moved £9m out of bakery firm since 2023",
+          "url": "https://insidecroydon.com/2026/07/03/coughlans-directors-moved-9m-out-of-bakery-firm-since-2024/",
+          "date": "2026-07-03T14:31:49+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Croydon bakers firm Coughlan’s closes blaming Labour NI hike",
           "url": "https://insidecroydon.com/2026/07/01/croydon-bakers-firm-coughlans-closes-blaming-labour-ni-hike/",
           "date": "2026-07-01T07:57:13+00:00",
@@ -1019,7 +1031,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Trauma at Lanfranc as boy waits 2 hours with knife in his head",
+          "url": "https://insidecroydon.com/2026/07/03/trauma-at-lanfranc-as-boy-waits-2-hours-with-knife-in-his-head/",
+          "date": "2026-07-03T16:33:26+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Woodside": {
       "fixmystreet": [
