@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T13:43:15.038447+00:00",
+    "generated_at": "2026-07-04T19:22:02.028372+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -32,12 +32,6 @@
           "url": "https://www.fixmystreet.com/report/9565362",
           "date": "2026-06-05T08:18:03+00:00",
           "category": null
-        },
-        {
-          "title": "Vehicle parking Blackhorse Lane, 4th June",
-          "url": "https://www.fixmystreet.com/report/9562573",
-          "date": "2026-06-04T15:37:15+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -68,12 +62,6 @@
           "title": "Kelly Communications van (HJ66 ETX) blocking driveway access, 135–137 Oval Road, CR0 6BR, 7th June",
           "url": "https://www.fixmystreet.com/report/9573962",
           "date": "2026-06-07T08:19:45+00:00",
-          "category": null
-        },
-        {
-          "title": "Fly tipping, 4th June",
-          "url": "https://www.fixmystreet.com/report/9563112",
-          "date": "2026-06-04T17:08:02+00:00",
           "category": null
         }
       ],
@@ -478,6 +466,12 @@
     "Old Coulsdon": {
       "fixmystreet": [
         {
+          "title": "Manhole on the pavement., 4th July",
+          "url": "https://www.fixmystreet.com/report/9732784",
+          "date": "2026-07-04T14:45:05+00:00",
+          "category": null
+        },
+        {
           "title": "Parking causing problems for bus getting through, 2nd July",
           "url": "https://www.fixmystreet.com/report/9721033",
           "date": "2026-07-02T10:00:10+00:00",
@@ -500,12 +494,6 @@
           "url": "https://www.fixmystreet.com/report/9627687",
           "date": "2026-06-15T22:46:53+00:00",
           "category": null
-        },
-        {
-          "title": "Broken fence - barbed wire on road, 4th June",
-          "url": "https://www.fixmystreet.com/report/9562669",
-          "date": "2026-06-04T15:50:14+00:00",
-          "category": "Broken fence"
         }
       ],
       "reddit": [],
