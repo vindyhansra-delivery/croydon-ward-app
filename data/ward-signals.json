@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T19:22:02.028372+00:00",
+    "generated_at": "2026-07-05T03:45:55.410920+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -238,12 +238,6 @@
           "title": "Very Large Plastic Container Dumped on Grass Verge, 17th June",
           "url": "https://www.fixmystreet.com/report/9636852",
           "date": "2026-06-17T10:40:28+00:00",
-          "category": null
-        },
-        {
-          "title": "Broken yellow turn-signal, 4th June",
-          "url": "https://www.fixmystreet.com/report/9563876",
-          "date": "2026-06-04T19:47:24+00:00",
           "category": null
         }
       ],
@@ -794,12 +788,6 @@
           "title": "Dead badger on pavement, 9th June",
           "url": "https://www.fixmystreet.com/report/9588926",
           "date": "2026-06-09T13:52:58+00:00",
-          "category": null
-        },
-        {
-          "title": "This Toulet has been dumped at the end of Farm Drive , in the Roadand is blocking an End of Road sign, 4th June",
-          "url": "https://www.fixmystreet.com/report/9563763",
-          "date": "2026-06-04T19:22:10+00:00",
           "category": null
         }
       ],
