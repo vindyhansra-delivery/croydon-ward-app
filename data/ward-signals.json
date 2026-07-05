@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T13:50:06.356727+00:00",
+    "generated_at": "2026-07-05T19:26:12.017557+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -175,6 +175,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Constant ongoing fly tipping!, 5th July",
+          "url": "https://www.fixmystreet.com/report/9736589",
+          "date": "2026-07-05T16:26:50+00:00",
+          "category": null
+        },
+        {
           "title": "Pothole in road O/s 82 Moore Road, 5th July",
           "url": "https://www.fixmystreet.com/report/9735936",
           "date": "2026-07-05T13:40:29+00:00",
@@ -226,12 +232,6 @@
           "title": "Oil disposed on pavement/verge of road, 21st June",
           "url": "https://www.fixmystreet.com/report/9659455",
           "date": "2026-06-21T19:18:38+00:00",
-          "category": null
-        },
-        {
-          "title": "Bin overflowing, 20th June",
-          "url": "https://www.fixmystreet.com/report/9654442",
-          "date": "2026-06-20T11:50:43+00:00",
           "category": null
         }
       ],
@@ -840,6 +840,12 @@
     },
     "South Norwood": {
       "fixmystreet": [
+        {
+          "title": "Illegal driving on footpath, 5th July",
+          "url": "https://www.fixmystreet.com/report/9737219",
+          "date": "2026-07-05T18:52:23+00:00",
+          "category": null
+        },
         {
           "title": "Temp lights just not needed. Causing traffic chaos, 11th June",
           "url": "https://www.fixmystreet.com/report/9605001",
