@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T03:45:55.410920+00:00",
+    "generated_at": "2026-07-05T09:00:18.607069+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -25,12 +25,6 @@
           "title": "Fly tipping, 22nd June",
           "url": "https://www.fixmystreet.com/report/9660341",
           "date": "2026-06-22T06:00:44+00:00",
-          "category": null
-        },
-        {
-          "title": "Too high for a wheelchair user, 5th June",
-          "url": "https://www.fixmystreet.com/report/9565362",
-          "date": "2026-06-05T08:18:03+00:00",
           "category": null
         }
       ],
@@ -151,12 +145,6 @@
           "url": "https://insidecroydon.com/2026/07/03/trauma-at-lanfranc-as-boy-waits-2-hours-with-knife-in-his-head/",
           "date": "2026-07-03T16:33:26+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Perry’s go-slow council could take 5 years to pay LTN refunds",
-          "url": "https://insidecroydon.com/2026/06/24/perrys-go-slow-council-could-take-5-years-to-pay-ltn-refunds/",
-          "date": "2026-06-24T16:46:53+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -192,6 +180,12 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "Water leak in street. Has been goong on for 2 weeks, 5th July",
+          "url": "https://www.fixmystreet.com/report/9734362",
+          "date": "2026-07-05T07:51:29+00:00",
+          "category": null
+        },
         {
           "title": "Pot hole that is causing a water mains leak, 28th June",
           "url": "https://www.fixmystreet.com/report/9696655",
@@ -259,12 +253,6 @@
           "title": "Three men appear in court charged with Westow Hill murder",
           "url": "https://insidecroydon.com/2026/06/25/three-men-appear-in-court-charged-with-westow-hill-murder/",
           "date": "2026-06-25T13:48:31+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Perry’s go-slow council could take 5 years to pay LTN refunds",
-          "url": "https://insidecroydon.com/2026/06/24/perrys-go-slow-council-could-take-5-years-to-pay-ltn-refunds/",
-          "date": "2026-06-24T16:46:53+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -890,12 +878,6 @@
           "url": "https://insidecroydon.com/2026/06/28/south-norwood-community-festival-free-entry-sun-july-5-2/",
           "date": "2026-06-28T08:45:55+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Perry’s go-slow council could take 5 years to pay LTN refunds",
-          "url": "https://insidecroydon.com/2026/06/24/perrys-go-slow-council-could-take-5-years-to-pay-ltn-refunds/",
-          "date": "2026-06-24T16:46:53+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -1045,12 +1027,6 @@
           "title": "Wood, 21st June",
           "url": "https://www.fixmystreet.com/report/9657891",
           "date": "2026-06-21T12:00:27+00:00",
-          "category": null
-        },
-        {
-          "title": "Bin not in use, 5th June",
-          "url": "https://www.fixmystreet.com/report/9565388",
-          "date": "2026-06-05T08:23:20+00:00",
           "category": null
         }
       ],
