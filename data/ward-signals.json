@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T03:55:05.559939+00:00",
+    "generated_at": "2026-07-06T10:46:16.939364+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -525,6 +525,12 @@
     },
     "Purley and Woodcote": {
       "fixmystreet": [
+        {
+          "title": "Overgrown hedges and high traffic speed, 6th July",
+          "url": "https://www.fixmystreet.com/report/9740063",
+          "date": "2026-07-06T10:16:07+00:00",
+          "category": null
+        },
         {
           "title": "X4 Potholes, 24th June",
           "url": "https://www.fixmystreet.com/report/9677880",
