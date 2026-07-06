@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T10:46:16.939364+00:00",
+    "generated_at": "2026-07-06T15:42:59.563769+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -144,6 +144,12 @@
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "Collapsing drain cover in road, 6th July",
+          "url": "https://www.fixmystreet.com/report/9741950",
+          "date": "2026-07-06T14:01:29+00:00",
+          "category": null
+        },
         {
           "title": "Hedge at corner is overgrown, obstructing the pathway, 29th June",
           "url": "https://www.fixmystreet.com/report/9702172",
@@ -972,12 +978,6 @@
           "title": "Dangerous driving at zebra crossing / roundabout, 9th June",
           "url": "https://www.fixmystreet.com/report/9585872",
           "date": "2026-06-09T08:31:14+00:00",
-          "category": null
-        },
-        {
-          "title": "Damaged road bollard, 6th June",
-          "url": "https://www.fixmystreet.com/report/9572335",
-          "date": "2026-06-06T14:29:49+00:00",
           "category": null
         }
       ],
