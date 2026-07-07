@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T14:46:15.474956+00:00",
+    "generated_at": "2026-07-07T20:03:17.009059+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -303,6 +303,12 @@
     "Kenley": {
       "fixmystreet": [
         {
+          "title": "Dead fox was in garden. Triple bagged up to collect please, 7th July",
+          "url": "https://www.fixmystreet.com/report/9749607",
+          "date": "2026-07-07T16:33:47+00:00",
+          "category": null
+        },
+        {
           "title": "Overgrown hedge, 3rd July",
           "url": "https://www.fixmystreet.com/report/9727422",
           "date": "2026-07-03T11:24:15+00:00",
@@ -360,12 +366,6 @@
           "title": "Overgrown footpath, 12th June",
           "url": "https://www.fixmystreet.com/report/9610182",
           "date": "2026-06-12T13:54:58+00:00",
-          "category": null
-        },
-        {
-          "title": "Big pot hole on bend turning into road, 7th June",
-          "url": "https://www.fixmystreet.com/report/9576681",
-          "date": "2026-06-07T17:16:14+00:00",
           "category": null
         }
       ],
