@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T09:51:19.808637+00:00",
+    "generated_at": "2026-07-07T14:46:15.474956+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -430,6 +430,12 @@
     "Norbury and Pollards Hill": {
       "fixmystreet": [
         {
+          "title": "Leaning concrete retaining wall and separating fence posing public safety risk, 7th July",
+          "url": "https://www.fixmystreet.com/report/9746853",
+          "date": "2026-07-07T10:18:04+00:00",
+          "category": null
+        },
+        {
           "title": "Road bollard knocked down, 29th June",
           "url": "https://www.fixmystreet.com/report/9698499",
           "date": "2026-06-29T07:34:38+00:00",
@@ -572,12 +578,6 @@
           "url": "https://www.fixmystreet.com/report/9583714",
           "date": "2026-06-09T09:44:54+00:00",
           "category": null
-        },
-        {
-          "title": "Sunken drain cover on pavement - Hazard, 7th June",
-          "url": "https://www.fixmystreet.com/report/9575291",
-          "date": "2026-06-07T12:33:26+00:00",
-          "category": "Sunken drain cover on pavement"
         }
       ],
       "reddit": [],
@@ -868,6 +868,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Perry tries to hide homelessness service with South End move",
+          "url": "https://insidecroydon.com/2026/07/07/perry-tries-to-hide-homelessness-service-with-south-end-move/",
+          "date": "2026-07-07T10:40:13+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Green-eyed monster prowls the stage in South Norwood",
           "url": "https://insidecroydon.com/2026/07/07/green-eyed-monster-prowls-the-stage-in-south-norwood/",
           "date": "2026-07-07T09:20:06+00:00",
@@ -896,6 +902,12 @@
     "Thornton Heath": {
       "fixmystreet": [
         {
+          "title": "Driveway access, 7th July",
+          "url": "https://www.fixmystreet.com/report/9748381",
+          "date": "2026-07-07T13:21:11+00:00",
+          "category": null
+        },
+        {
           "title": "Collapsed pavement on corner of Moffat & Westbrook, 30th June",
           "url": "https://www.fixmystreet.com/report/9710850",
           "date": "2026-06-30T17:21:33+00:00",
@@ -911,12 +923,6 @@
           "title": "Dumped shopping trolley and household rubbish, 20th June",
           "url": "https://www.fixmystreet.com/report/9653834",
           "date": "2026-06-20T09:42:59+00:00",
-          "category": null
-        },
-        {
-          "title": "Car blocking 2 driveways, 7th June",
-          "url": "https://www.fixmystreet.com/report/9574506",
-          "date": "2026-06-07T10:06:06+00:00",
           "category": null
         }
       ],
