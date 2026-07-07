@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T20:05:32.019395+00:00",
+    "generated_at": "2026-07-07T03:44:57.252424+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -95,6 +95,12 @@
     },
     "Broad Green": {
       "fixmystreet": [
+        {
+          "title": "Flytipping., 6th July",
+          "url": "https://www.fixmystreet.com/report/9744314",
+          "date": "2026-07-06T20:52:05+00:00",
+          "category": null
+        },
         {
           "title": "Parked vechile at the footpath and obstructing the view, 30th June",
           "url": "https://www.fixmystreet.com/report/9710295",
