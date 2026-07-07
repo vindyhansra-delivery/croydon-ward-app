@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T03:44:57.252424+00:00",
+    "generated_at": "2026-07-07T09:51:19.808637+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -50,12 +50,6 @@
           "title": "Abandoned fridge freezer left leaning on tree, 19th June",
           "url": "https://www.fixmystreet.com/report/9648223",
           "date": "2026-06-19T08:09:20+00:00",
-          "category": null
-        },
-        {
-          "title": "Kelly Communications van (HJ66 ETX) blocking driveway access, 135–137 Oval Road, CR0 6BR, 7th June",
-          "url": "https://www.fixmystreet.com/report/9573962",
-          "date": "2026-06-07T08:19:45+00:00",
           "category": null
         }
       ],
@@ -749,6 +743,12 @@
     "Shirley South": {
       "fixmystreet": [
         {
+          "title": "Man made bike ramps & rubbish, 7th July",
+          "url": "https://www.fixmystreet.com/report/9745559",
+          "date": "2026-07-07T07:55:06+00:00",
+          "category": null
+        },
+        {
           "title": "Pothole, 28th June",
           "url": "https://www.fixmystreet.com/report/9695037",
           "date": "2026-06-28T11:30:20+00:00",
@@ -867,6 +867,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Green-eyed monster prowls the stage in South Norwood",
+          "url": "https://insidecroydon.com/2026/07/07/green-eyed-monster-prowls-the-stage-in-south-norwood/",
+          "date": "2026-07-07T09:20:06+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Perry’s council facing High Court threat over Access Croydon",
           "url": "https://insidecroydon.com/2026/07/01/perrys-council-facing-high-court-threat-over-access-croydon/",
