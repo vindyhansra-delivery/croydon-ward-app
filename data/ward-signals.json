@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T08:37:29.041026+00:00",
+    "generated_at": "2026-07-08T14:23:53.617399+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -814,12 +814,6 @@
           "url": "https://www.fixmystreet.com/report/9599891",
           "date": "2026-06-11T06:23:11+00:00",
           "category": null
-        },
-        {
-          "title": "Pot hol on Hurst Way, middle of road outside no 16, 8th June",
-          "url": "https://www.fixmystreet.com/report/9580113",
-          "date": "2026-06-08T10:37:38+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -846,6 +840,18 @@
     },
     "South Norwood": {
       "fixmystreet": [
+        {
+          "title": "Open & overflowing bins, 8th July",
+          "url": "https://www.fixmystreet.com/report/9754199",
+          "date": "2026-07-08T12:29:15+00:00",
+          "category": null
+        },
+        {
+          "title": "40 to 50 cm diameter & very deep, 8th July",
+          "url": "https://www.fixmystreet.com/report/9754177",
+          "date": "2026-07-08T12:23:39+00:00",
+          "category": null
+        },
         {
           "title": "Overflowing bins again, 8th July",
           "url": "https://www.fixmystreet.com/report/9751402",
@@ -902,6 +908,18 @@
     "Thornton Heath": {
       "fixmystreet": [
         {
+          "title": "Tree knocked down, 8th July",
+          "url": "https://www.fixmystreet.com/report/9753555",
+          "date": "2026-07-08T10:56:25+00:00",
+          "category": null
+        },
+        {
+          "title": "Bedding Dumped, 8th July",
+          "url": "https://www.fixmystreet.com/report/9752499",
+          "date": "2026-07-08T08:49:49+00:00",
+          "category": null
+        },
+        {
           "title": "Driveway access, 7th July",
           "url": "https://www.fixmystreet.com/report/9748381",
           "date": "2026-07-07T13:21:11+00:00",
@@ -950,12 +968,6 @@
           "title": "Croydon bakers firm Coughlan’s closes blaming Labour NI hike",
           "url": "https://insidecroydon.com/2026/07/01/croydon-bakers-firm-coughlans-closes-blaming-labour-ni-hike/",
           "date": "2026-07-01T07:57:13+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Norbury Brook River Revive clean-up, Thornton Heath, July 4",
-          "url": "https://insidecroydon.com/2026/06/27/norbury-brook-river-revive-clean-up-thornton-heath-july-4-2/",
-          "date": "2026-06-27T08:46:40+00:00",
           "publisher": "Inside Croydon"
         }
       ]
