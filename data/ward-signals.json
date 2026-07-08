@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T14:23:53.617399+00:00",
+    "generated_at": "2026-07-08T19:39:56.301611+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -77,6 +77,12 @@
     },
     "Bensham Manor": {
       "fixmystreet": [
+        {
+          "title": "Unsafe neighbourhood road due to double roadworks and drivers using this as a cut through, 8th July",
+          "url": "https://www.fixmystreet.com/report/9755310",
+          "date": "2026-07-08T15:14:35+00:00",
+          "category": null
+        },
         {
           "title": "Good Afternoon, One of your contractors came to clear the overgrown vegetation, which was causing damage to my garage at the back of my garden. They came in the Autumn of last year. Further to this, they said they will come back in the Summer to fully complete the works and spray some permanent weed killer. Please can this done at the earliest possible convenience. Mr. K. Sheikh, 66, Bensham Manor Road, Thornton Heath, Surrey, Cr7 7ab. Kindest Regards., 29th June",
           "url": "https://www.fixmystreet.com/report/9700006",
@@ -181,6 +187,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Loose manhole cover, 8th July",
+          "url": "https://www.fixmystreet.com/report/9756330",
+          "date": "2026-07-08T18:47:50+00:00",
+          "category": null
+        },
+        {
           "title": "The road surface is bumpy and causes our listed house to shake, 8th July",
           "url": "https://www.fixmystreet.com/report/9752094",
           "date": "2026-07-08T08:06:41+00:00",
@@ -232,12 +244,6 @@
           "title": "Bin overflowing, 24th June",
           "url": "https://www.fixmystreet.com/report/9677603",
           "date": "2026-06-24T16:12:38+00:00",
-          "category": null
-        },
-        {
-          "title": "Curb edging, 24th June",
-          "url": "https://www.fixmystreet.com/report/9677100",
-          "date": "2026-06-24T14:40:39+00:00",
           "category": null
         }
       ],
@@ -302,6 +308,12 @@
     },
     "Kenley": {
       "fixmystreet": [
+        {
+          "title": "Flytipped furniture, 8th July",
+          "url": "https://www.fixmystreet.com/report/9755910",
+          "date": "2026-07-08T17:13:31+00:00",
+          "category": null
+        },
         {
           "title": "Dead fox was in garden. Triple bagged up to collect please, 7th July",
           "url": "https://www.fixmystreet.com/report/9749607",
@@ -496,12 +508,6 @@
           "title": "Croydon bakers firm Coughlan’s closes blaming Labour NI hike",
           "url": "https://insidecroydon.com/2026/07/01/croydon-bakers-firm-coughlans-closes-blaming-labour-ni-hike/",
           "date": "2026-07-01T07:57:13+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "‘We couldn’t be prouder’: college teacher clinches silver prize",
-          "url": "https://insidecroydon.com/2026/06/27/we-couldnt-be-prouder-college-teacher-clinches-silver-prize/",
-          "date": "2026-06-27T11:16:03+00:00",
           "publisher": "Inside Croydon"
         }
       ]
