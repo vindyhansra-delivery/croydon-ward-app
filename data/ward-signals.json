@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T02:59:35.428958+00:00",
+    "generated_at": "2026-07-08T08:37:29.041026+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -181,6 +181,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "The road surface is bumpy and causes our listed house to shake, 8th July",
+          "url": "https://www.fixmystreet.com/report/9752094",
+          "date": "2026-07-08T08:06:41+00:00",
+          "category": null
+        },
+        {
           "title": "Constant ongoing fly tipping!, 5th July",
           "url": "https://www.fixmystreet.com/report/9736589",
           "date": "2026-07-05T16:26:50+00:00",
@@ -232,12 +238,6 @@
           "title": "Curb edging, 24th June",
           "url": "https://www.fixmystreet.com/report/9677100",
           "date": "2026-06-24T14:40:39+00:00",
-          "category": null
-        },
-        {
-          "title": "Oil disposed on pavement/verge of road, 21st June",
-          "url": "https://www.fixmystreet.com/report/9659455",
-          "date": "2026-06-21T19:18:38+00:00",
           "category": null
         }
       ],
@@ -626,12 +626,6 @@
           "url": "https://www.fixmystreet.com/report/9583639",
           "date": "2026-06-09T09:44:35+00:00",
           "category": null
-        },
-        {
-          "title": "Overgrown tree on public footpath, 8th June",
-          "url": "https://www.fixmystreet.com/report/9578171",
-          "date": "2026-06-08T07:03:59+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -852,6 +846,12 @@
     },
     "South Norwood": {
       "fixmystreet": [
+        {
+          "title": "Overflowing bins again, 8th July",
+          "url": "https://www.fixmystreet.com/report/9751402",
+          "date": "2026-07-08T06:08:48+00:00",
+          "category": null
+        },
         {
           "title": "Illegal driving on footpath, 5th July",
           "url": "https://www.fixmystreet.com/report/9737219",
