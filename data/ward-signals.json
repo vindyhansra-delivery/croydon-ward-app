@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-09T15:19:44.260429+00:00",
+    "generated_at": "2026-07-09T19:53:18.382242+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -187,6 +187,24 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Car abandoned outside no 24/26 Moore Road, 9th July",
+          "url": "https://www.fixmystreet.com/report/9762231",
+          "date": "2026-07-09T18:51:26+00:00",
+          "category": null
+        },
+        {
+          "title": "Illegal Parking, 9th July",
+          "url": "https://www.fixmystreet.com/report/9761160",
+          "date": "2026-07-09T15:42:19+00:00",
+          "category": null
+        },
+        {
+          "title": "Illegal parked vehicle, 9th July",
+          "url": "https://www.fixmystreet.com/report/9761097",
+          "date": "2026-07-09T15:41:16+00:00",
+          "category": null
+        },
+        {
           "title": "Loose manhole cover, 8th July",
           "url": "https://www.fixmystreet.com/report/9756330",
           "date": "2026-07-08T18:47:50+00:00",
@@ -226,24 +244,6 @@
           "title": "Water leak in street. Has been goong on for 2 weeks, 5th July",
           "url": "https://www.fixmystreet.com/report/9734362",
           "date": "2026-07-05T07:51:29+00:00",
-          "category": null
-        },
-        {
-          "title": "Pot hole that is causing a water mains leak, 28th June",
-          "url": "https://www.fixmystreet.com/report/9696655",
-          "date": "2026-06-28T17:23:47+00:00",
-          "category": null
-        },
-        {
-          "title": "Water leak, 26th June",
-          "url": "https://www.fixmystreet.com/report/9690303",
-          "date": "2026-06-26T22:41:30+00:00",
-          "category": null
-        },
-        {
-          "title": "Bin overflowing, 24th June",
-          "url": "https://www.fixmystreet.com/report/9677603",
-          "date": "2026-06-24T16:12:38+00:00",
           "category": null
         }
       ],
@@ -657,6 +657,12 @@
     },
     "Shirley North": {
       "fixmystreet": [
+        {
+          "title": "Speeding and over use, 9th July",
+          "url": "https://www.fixmystreet.com/report/9761291",
+          "date": "2026-07-09T15:24:18+00:00",
+          "category": null
+        },
         {
           "title": "Long-standing unmanaged vegetation and neglected land adjacent to Croydon Road / Longheath Gardens, 30th June",
           "url": "https://www.fixmystreet.com/report/9712027",
