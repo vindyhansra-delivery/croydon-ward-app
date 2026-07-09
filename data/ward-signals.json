@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T19:39:56.301611+00:00",
+    "generated_at": "2026-07-09T03:38:42.140405+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -619,12 +619,6 @@
           "title": "Overhanging, overgrown trees, 9th June",
           "url": "https://www.fixmystreet.com/report/9585334",
           "date": "2026-06-09T07:12:57+00:00",
-          "category": null
-        },
-        {
-          "title": "Broken manhole cover, 8th June",
-          "url": "https://www.fixmystreet.com/report/9584206",
-          "date": "2026-06-08T19:47:03+00:00",
           "category": null
         },
         {
