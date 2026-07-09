@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-09T03:38:42.140405+00:00",
+    "generated_at": "2026-07-09T09:53:24.588512+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -123,12 +123,6 @@
           "title": "Litter picking volunteer, 17th June",
           "url": "https://www.fixmystreet.com/report/9639830",
           "date": "2026-06-17T17:56:49+00:00",
-          "category": null
-        },
-        {
-          "title": "Fallen branches on grass triangle, 9th June",
-          "url": "https://www.fixmystreet.com/report/9583665",
-          "date": "2026-06-09T09:44:44+00:00",
           "category": null
         }
       ],
@@ -287,12 +281,6 @@
           "title": "Vomit and Bird waste, 9th June",
           "url": "https://www.fixmystreet.com/report/9591790",
           "date": "2026-06-09T22:25:04+00:00",
-          "category": null
-        },
-        {
-          "title": "Flooding in the underpass, 9th June",
-          "url": "https://www.fixmystreet.com/report/9585340",
-          "date": "2026-06-09T07:14:25+00:00",
           "category": null
         }
       ],
@@ -578,12 +566,6 @@
           "url": "https://www.fixmystreet.com/report/9592760",
           "date": "2026-06-10T07:39:01+00:00",
           "category": null
-        },
-        {
-          "title": "Large Pothole in middle of road, 9th June",
-          "url": "https://www.fixmystreet.com/report/9583714",
-          "date": "2026-06-09T09:44:54+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -613,18 +595,6 @@
           "title": "Clearly parked in the middle of a two space parking bay, 11th June",
           "url": "https://www.fixmystreet.com/report/9600592",
           "date": "2026-06-11T08:10:59+00:00",
-          "category": null
-        },
-        {
-          "title": "Overhanging, overgrown trees, 9th June",
-          "url": "https://www.fixmystreet.com/report/9585334",
-          "date": "2026-06-09T07:12:57+00:00",
-          "category": null
-        },
-        {
-          "title": "Used tyres dumped on pavement, 9th June",
-          "url": "https://www.fixmystreet.com/report/9583639",
-          "date": "2026-06-09T09:44:35+00:00",
           "category": null
         }
       ],
@@ -874,6 +844,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Eco Living Fest, Holy Innocents South Norwood, Sat July 18",
+          "url": "https://insidecroydon.com/2026/07/09/eco-living-fest-holy-innocents-south-norwood-sat-july-18/",
+          "date": "2026-07-09T08:45:12+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Perry tries to hide homelessness service with South End move",
           "url": "https://insidecroydon.com/2026/07/07/perry-tries-to-hide-homelessness-service-with-south-end-move/",
           "date": "2026-07-07T10:40:13+00:00",
@@ -895,12 +871,6 @@
           "title": "The weather warnings from history: thunderbolts and lightning",
           "url": "https://insidecroydon.com/2026/06/28/231417/",
           "date": "2026-06-28T11:03:39+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "South Norwood Community Festival, free entry, Sun July 5",
-          "url": "https://insidecroydon.com/2026/06/28/south-norwood-community-festival-free-entry-sun-july-5-2/",
-          "date": "2026-06-28T08:45:55+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -946,6 +916,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Eco Living Fest, Holy Innocents South Norwood, Sat July 18",
+          "url": "https://insidecroydon.com/2026/07/09/eco-living-fest-holy-innocents-south-norwood-sat-july-18/",
+          "date": "2026-07-09T08:45:12+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Fire at Hindu temple took Brigade three hours to subdue",
           "url": "https://insidecroydon.com/2026/07/04/fire-at-hindu-temple-took-brigade-three-hours-to-subdue/",
@@ -996,12 +972,6 @@
           "title": "Foliage overgrown covering Traffic signal equipment, 9th June",
           "url": "https://www.fixmystreet.com/report/9591817",
           "date": "2026-06-09T22:44:42+00:00",
-          "category": null
-        },
-        {
-          "title": "Dangerous driving at zebra crossing / roundabout, 9th June",
-          "url": "https://www.fixmystreet.com/report/9585872",
-          "date": "2026-06-09T08:31:14+00:00",
           "category": null
         }
       ],
