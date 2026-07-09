@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-09T09:53:24.588512+00:00",
+    "generated_at": "2026-07-09T15:19:44.260429+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -144,6 +144,12 @@
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "Road surface ripped up by manoeuvring lorries and trailers, 9th July",
+          "url": "https://www.fixmystreet.com/report/9760891",
+          "date": "2026-07-09T14:04:55+00:00",
+          "category": null
+        },
         {
           "title": "Collapsing drain cover in road, 6th July",
           "url": "https://www.fixmystreet.com/report/9741950",
@@ -695,14 +701,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
-          "url": "https://insidecroydon.com/2026/06/28/gardening-bargains-mha-the-wilderness-shirley-mon-fri-2/",
-          "date": "2026-06-28T09:29:41+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Shirley South": {
       "fixmystreet": [
@@ -735,23 +734,10 @@
           "url": "https://www.fixmystreet.com/report/9594345",
           "date": "2026-06-10T10:21:10+00:00",
           "category": null
-        },
-        {
-          "title": "Dead badger on pavement, 9th June",
-          "url": "https://www.fixmystreet.com/report/9588926",
-          "date": "2026-06-09T13:52:58+00:00",
-          "category": null
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
-          "url": "https://insidecroydon.com/2026/06/28/gardening-bargains-mha-the-wilderness-shirley-mon-fri-2/",
-          "date": "2026-06-28T09:29:41+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "South Croydon": {
       "fixmystreet": [
