@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T14:36:59.948800+00:00",
+    "generated_at": "2026-07-10T19:40:25.857088+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -55,6 +55,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Perry promises – again – Bridge to Nowhere to open ‘next year’",
+          "url": "https://insidecroydon.com/2026/07/10/perry-promises-again-bridge-to-nowhere-to-open-next-year/",
+          "date": "2026-07-10T18:07:40+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Blues at the Oval, Sunday nights in July from 6pm, entry free",
           "url": "https://insidecroydon.com/2026/07/04/blues-at-the-oval-sunday-nights-in-july-from-6pm-entry-free/",
@@ -267,12 +273,6 @@
           "url": "https://insidecroydon.com/2026/06/30/demolition-works-get-underway-for-selhurst-200m-main-stand/",
           "date": "2026-06-30T16:36:56+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Westow Hill stab victim had criminal record for GBH and drugs",
-          "url": "https://insidecroydon.com/2026/06/29/westow-hill-stab-victim-had-criminal-record-for-gbh-and-drugs/",
-          "date": "2026-06-29T15:19:34+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -346,14 +346,7 @@
     "New Addington North": {
       "fixmystreet": [],
       "reddit": [],
-      "news": [
-        {
-          "title": "New Addington’s first World Cup player about to face England",
-          "url": "https://insidecroydon.com/2026/06/29/new-addingtons-first-world-cup-player-about-to-face-england/",
-          "date": "2026-06-29T13:18:48+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "New Addington South": {
       "fixmystreet": [
@@ -389,14 +382,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "New Addington’s first World Cup player about to face England",
-          "url": "https://insidecroydon.com/2026/06/29/new-addingtons-first-world-cup-player-about-to-face-england/",
-          "date": "2026-06-29T13:18:48+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Norbury Park": {
       "fixmystreet": [
