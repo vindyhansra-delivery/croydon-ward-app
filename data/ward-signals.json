@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T03:39:40.731753+00:00",
+    "generated_at": "2026-07-10T09:43:38.740211+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -345,6 +345,12 @@
     "New Addington South": {
       "fixmystreet": [
         {
+          "title": "Dead fox on grass, 10th July",
+          "url": "https://www.fixmystreet.com/report/9763326",
+          "date": "2026-07-10T05:59:06+00:00",
+          "category": null
+        },
+        {
           "title": "Hedge needs cutting, 4th July",
           "url": "https://www.fixmystreet.com/report/9731548",
           "date": "2026-07-04T10:03:31+00:00",
@@ -415,12 +421,6 @@
           "title": "Pavement cracked and water holding, 12th June",
           "url": "https://www.fixmystreet.com/report/9606884",
           "date": "2026-06-12T07:18:14+00:00",
-          "category": null
-        },
-        {
-          "title": "Black van. Fines on it, 10th June",
-          "url": "https://www.fixmystreet.com/report/9593749",
-          "date": "2026-06-10T09:25:11+00:00",
           "category": null
         }
       ],
@@ -559,12 +559,6 @@
           "title": "Car parked near junction blocking view, 10th June",
           "url": "https://www.fixmystreet.com/report/9595919",
           "date": "2026-06-10T13:24:19+00:00",
-          "category": null
-        },
-        {
-          "title": "Large pothole, 10th June",
-          "url": "https://www.fixmystreet.com/report/9592760",
-          "date": "2026-06-10T07:39:01+00:00",
           "category": null
         }
       ],
