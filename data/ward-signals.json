@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-09T19:53:18.382242+00:00",
+    "generated_at": "2026-07-10T03:39:40.731753+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -281,12 +281,6 @@
           "title": "Several large defects in road surface on the bend which are hard to avoid, 16th June",
           "url": "https://www.fixmystreet.com/report/9628227",
           "date": "2026-06-16T06:43:28+00:00",
-          "category": null
-        },
-        {
-          "title": "Vomit and Bird waste, 9th June",
-          "url": "https://www.fixmystreet.com/report/9591790",
-          "date": "2026-06-09T22:25:04+00:00",
           "category": null
         }
       ],
@@ -958,12 +952,6 @@
           "title": "Major pothole in roadway just before turning/bend, 13th June",
           "url": "https://www.fixmystreet.com/report/9612435",
           "date": "2026-06-13T08:52:02+00:00",
-          "category": null
-        },
-        {
-          "title": "Foliage overgrown covering Traffic signal equipment, 9th June",
-          "url": "https://www.fixmystreet.com/report/9591817",
-          "date": "2026-06-09T22:44:42+00:00",
           "category": null
         }
       ],
