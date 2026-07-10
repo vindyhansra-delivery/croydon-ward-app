@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T09:43:38.740211+00:00",
+    "generated_at": "2026-07-10T14:36:59.948800+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -91,7 +91,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Flook’s off! Reform candidate quits job at Wallington grammar",
+          "url": "https://insidecroydon.com/2026/07/10/flooks-off-reform-candidate-quits-job-at-wallington-grammar/",
+          "date": "2026-07-10T13:01:28+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Broad Green": {
       "fixmystreet": [
@@ -250,6 +257,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "LibDems win in Streatham as Greens retain Lambeth control",
+          "url": "https://insidecroydon.com/2026/07/10/libdems-win-in-streatham-as-greens-retain-lambeth-control/",
+          "date": "2026-07-10T11:40:18+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Demolition works get underway for Selhurst £200m main stand",
           "url": "https://insidecroydon.com/2026/06/30/demolition-works-get-underway-for-selhurst-200m-main-stand/",
           "date": "2026-06-30T16:36:56+00:00",
@@ -297,6 +310,12 @@
     "Kenley": {
       "fixmystreet": [
         {
+          "title": "Over grown trees and bushes, 10th July",
+          "url": "https://www.fixmystreet.com/report/9766510",
+          "date": "2026-07-10T13:57:13+00:00",
+          "category": null
+        },
+        {
           "title": "Flytipped furniture, 8th July",
           "url": "https://www.fixmystreet.com/report/9755910",
           "date": "2026-07-08T17:13:31+00:00",
@@ -332,12 +351,6 @@
           "title": "New Addington’s first World Cup player about to face England",
           "url": "https://insidecroydon.com/2026/06/29/new-addingtons-first-world-cup-player-about-to-face-england/",
           "date": "2026-06-29T13:18:48+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Meridian High scoops national award for ‘making a difference’",
-          "url": "https://insidecroydon.com/2026/06/29/meridian-high-scoops-national-award-for-making-a-difference/",
-          "date": "2026-06-29T11:47:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -381,12 +394,6 @@
           "title": "New Addington’s first World Cup player about to face England",
           "url": "https://insidecroydon.com/2026/06/29/new-addingtons-first-world-cup-player-about-to-face-england/",
           "date": "2026-06-29T13:18:48+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Meridian High scoops national award for ‘making a difference’",
-          "url": "https://insidecroydon.com/2026/06/29/meridian-high-scoops-national-award-for-making-a-difference/",
-          "date": "2026-06-29T11:47:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -554,12 +561,6 @@
           "url": "https://www.fixmystreet.com/report/9666683",
           "date": "2026-06-22T22:54:24+00:00",
           "category": null
-        },
-        {
-          "title": "Car parked near junction blocking view, 10th June",
-          "url": "https://www.fixmystreet.com/report/9595919",
-          "date": "2026-06-10T13:24:19+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -686,12 +687,6 @@
           "url": "https://www.fixmystreet.com/report/9628319",
           "date": "2026-06-16T06:59:38+00:00",
           "category": null
-        },
-        {
-          "title": "Dead bird, 10th June",
-          "url": "https://www.fixmystreet.com/report/9596149",
-          "date": "2026-06-10T13:49:51+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -721,12 +716,6 @@
           "title": "The curb stone outside 149 Devonshire WAY CR0 8BY, 15th June",
           "url": "https://www.fixmystreet.com/report/9623557",
           "date": "2026-06-15T12:14:03+00:00",
-          "category": null
-        },
-        {
-          "title": "A pothole in the carriageway, 10th June",
-          "url": "https://www.fixmystreet.com/report/9594345",
-          "date": "2026-06-10T10:21:10+00:00",
           "category": null
         }
       ],
@@ -846,12 +835,6 @@
           "url": "https://insidecroydon.com/2026/07/01/perrys-council-facing-high-court-threat-over-access-croydon/",
           "date": "2026-07-01T12:22:10+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "The weather warnings from history: thunderbolts and lightning",
-          "url": "https://insidecroydon.com/2026/06/28/231417/",
-          "date": "2026-06-28T11:03:39+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -930,6 +913,12 @@
     },
     "Waddon": {
       "fixmystreet": [
+        {
+          "title": "Low hanging branches, 10th July",
+          "url": "https://www.fixmystreet.com/report/9764911",
+          "date": "2026-07-10T10:03:50+00:00",
+          "category": null
+        },
         {
           "title": "Vans parked outside driveways blocking entry and exit to the house, 30th June",
           "url": "https://www.fixmystreet.com/report/9705315",
