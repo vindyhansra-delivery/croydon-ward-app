@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T02:54:50.206587+00:00",
+    "generated_at": "2026-07-11T08:03:59.317423+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -732,12 +732,6 @@
           "title": "Water meter leaking, 17th June",
           "url": "https://www.fixmystreet.com/report/9638606",
           "date": "2026-06-17T14:29:44+00:00",
-          "category": null
-        },
-        {
-          "title": "Illegal parking and trip hazard, 11th June",
-          "url": "https://www.fixmystreet.com/report/9599891",
-          "date": "2026-06-11T06:23:11+00:00",
           "category": null
         }
       ],
