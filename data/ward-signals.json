@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T13:29:07.594114+00:00",
+    "generated_at": "2026-07-11T19:11:40.643856+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -212,6 +212,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Damaged curb with lose stones, 11th July",
+          "url": "https://www.fixmystreet.com/report/9770146",
+          "date": "2026-07-11T13:40:08+00:00",
+          "category": null
+        },
+        {
           "title": "Car abandoned outside no 24/26 Moore Road, 9th July",
           "url": "https://www.fixmystreet.com/report/9762231",
           "date": "2026-07-09T18:51:26+00:00",
@@ -263,12 +269,6 @@
           "title": "Flytipping, 5th July",
           "url": "https://www.fixmystreet.com/report/9734747",
           "date": "2026-07-05T09:21:30+00:00",
-          "category": null
-        },
-        {
-          "title": "Water leak in street. Has been goong on for 2 weeks, 5th July",
-          "url": "https://www.fixmystreet.com/report/9734362",
-          "date": "2026-07-05T07:51:29+00:00",
           "category": null
         }
       ],
@@ -459,6 +459,12 @@
     "Old Coulsdon": {
       "fixmystreet": [
         {
+          "title": "Multiple pot holes, 11th July",
+          "url": "https://www.fixmystreet.com/report/9770211",
+          "date": "2026-07-11T14:03:11+00:00",
+          "category": null
+        },
+        {
           "title": "Manhole on the pavement., 4th July",
           "url": "https://www.fixmystreet.com/report/9732784",
           "date": "2026-07-04T14:45:05+00:00",
@@ -495,12 +501,6 @@
           "title": "Coughlan’s directors moved £9m out of bakery firm since 2023",
           "url": "https://insidecroydon.com/2026/07/03/coughlans-directors-moved-9m-out-of-bakery-firm-since-2024/",
           "date": "2026-07-03T14:31:49+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Croydon bakers firm Coughlan’s closes blaming Labour NI hike",
-          "url": "https://insidecroydon.com/2026/07/01/croydon-bakers-firm-coughlans-closes-blaming-labour-ni-hike/",
-          "date": "2026-07-01T07:57:13+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -755,12 +755,6 @@
           "url": "https://insidecroydon.com/2026/07/02/mayor-perrys-motorists-charter-to-deliver-more-accidents-higher-car-insurance-and-even-put-childrens-safety-at-risk/",
           "date": "2026-07-02T16:24:39+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Croydon bakers firm Coughlan’s closes blaming Labour NI hike",
-          "url": "https://insidecroydon.com/2026/07/01/croydon-bakers-firm-coughlans-closes-blaming-labour-ni-hike/",
-          "date": "2026-07-01T07:57:13+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -788,12 +782,6 @@
           "title": "Illegal driving on footpath, 5th July",
           "url": "https://www.fixmystreet.com/report/9737219",
           "date": "2026-07-05T18:52:23+00:00",
-          "category": null
-        },
-        {
-          "title": "Temp lights just not needed. Causing traffic chaos, 11th June",
-          "url": "https://www.fixmystreet.com/report/9605001",
-          "date": "2026-06-11T17:18:46+00:00",
           "category": null
         }
       ],
