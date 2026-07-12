@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T08:25:14.481575+00:00",
+    "generated_at": "2026-07-12T13:29:38.656598+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -628,6 +628,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Rubbish, 12th July",
+          "url": "https://www.fixmystreet.com/report/9772886",
+          "date": "2026-07-12T12:54:11+00:00",
+          "category": null
+        },
+        {
           "title": "Speeding and over use, 9th July",
           "url": "https://www.fixmystreet.com/report/9761291",
           "date": "2026-07-09T15:24:18+00:00",
@@ -671,7 +677,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
+          "url": "https://insidecroydon.com/2026/07/12/gardening-bargains-mha-the-wilderness-shirley-mon-fri-3/",
+          "date": "2026-07-12T09:14:17+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Shirley South": {
       "fixmystreet": [
@@ -707,7 +720,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
+          "url": "https://insidecroydon.com/2026/07/12/gardening-bargains-mha-the-wilderness-shirley-mon-fri-3/",
+          "date": "2026-07-12T09:14:17+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "South Croydon": {
       "fixmystreet": [
@@ -738,6 +758,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Pioneer of sociology whose book called for an evolution",
+          "url": "https://insidecroydon.com/2026/07/12/pioneer-of-sociology-whose-book-called-for-an-evolution/",
+          "date": "2026-07-12T10:40:25+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Coughlan’s directors moved £9m out of bakery firm since 2023",
           "url": "https://insidecroydon.com/2026/07/03/coughlans-directors-moved-9m-out-of-bakery-firm-since-2024/",
@@ -781,6 +807,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Eco Living Fest, Holy Innocents South Norwood, Sat July 18",
+          "url": "https://insidecroydon.com/2026/07/12/eco-living-fest-holy-innocents-south-norwood-sat-july-18-2/",
+          "date": "2026-07-12T10:00:47+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Three men in court charged over Livingstone Road murder",
           "url": "https://insidecroydon.com/2026/07/11/three-men-in-court-charged-over-livingstone-road-murder/",
@@ -855,6 +887,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Eco Living Fest, Holy Innocents South Norwood, Sat July 18",
+          "url": "https://insidecroydon.com/2026/07/12/eco-living-fest-holy-innocents-south-norwood-sat-july-18-2/",
+          "date": "2026-07-12T10:00:47+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Three men in court charged over Livingstone Road murder",
           "url": "https://insidecroydon.com/2026/07/11/three-men-in-court-charged-over-livingstone-road-murder/",
           "date": "2026-07-11T09:25:40+00:00",
@@ -876,12 +914,6 @@
           "title": "Trauma at Lanfranc as boy waits 2 hours with knife in his head",
           "url": "https://insidecroydon.com/2026/07/03/trauma-at-lanfranc-as-boy-waits-2-hours-with-knife-in-his-head/",
           "date": "2026-07-03T16:33:26+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Coughlan’s directors moved £9m out of bakery firm since 2023",
-          "url": "https://insidecroydon.com/2026/07/03/coughlans-directors-moved-9m-out-of-bakery-firm-since-2024/",
-          "date": "2026-07-03T14:31:49+00:00",
           "publisher": "Inside Croydon"
         }
       ]
