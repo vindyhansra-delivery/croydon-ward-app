@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T03:19:41.873681+00:00",
+    "generated_at": "2026-07-12T08:25:14.481575+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -62,6 +62,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Songbird Showcase Night, The Oval Tavern, Sat July 18, 8pm",
+          "url": "https://insidecroydon.com/2026/07/12/songbird-showcase-night-the-oval-tavern-sat-july-18-8pm-2/",
+          "date": "2026-07-12T08:10:40+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Blues at the Oval, Sunday nights in July from 6pm, entry free",
           "url": "https://insidecroydon.com/2026/07/11/blues-at-the-oval-sunday-nights-in-july-from-6pm-entry-free-2/",
           "date": "2026-07-11T08:40:43+00:00",
@@ -83,12 +89,6 @@
           "title": "Gibson is handing over the baton after 27 harmonious years",
           "url": "https://insidecroydon.com/2026/07/03/gibson-is-handing-over-the-baton-after-27-harmonious-years/",
           "date": "2026-07-03T10:46:47+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Emergency services on call after worker falls from site lift",
-          "url": "https://insidecroydon.com/2026/07/01/emergency-services-on-call-after-worker-falls-from-site-lift/",
-          "date": "2026-07-01T14:01:23+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -420,12 +420,6 @@
           "title": "Croydon refuse bin left on street. Does not belong to any homes nesrby, 13th June",
           "url": "https://www.fixmystreet.com/report/9614285",
           "date": "2026-06-13T13:11:10+00:00",
-          "category": null
-        },
-        {
-          "title": "Pavement cracked and water holding, 12th June",
-          "url": "https://www.fixmystreet.com/report/9606884",
-          "date": "2026-06-12T07:18:14+00:00",
           "category": null
         }
       ],
@@ -809,12 +803,6 @@
           "title": "Green-eyed monster prowls the stage in South Norwood",
           "url": "https://insidecroydon.com/2026/07/07/green-eyed-monster-prowls-the-stage-in-south-norwood/",
           "date": "2026-07-07T09:20:06+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Perry’s council facing High Court threat over Access Croydon",
-          "url": "https://insidecroydon.com/2026/07/01/perrys-council-facing-high-court-threat-over-access-croydon/",
-          "date": "2026-07-01T12:22:10+00:00",
           "publisher": "Inside Croydon"
         }
       ]
