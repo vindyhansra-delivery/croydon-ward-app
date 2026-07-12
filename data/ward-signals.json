@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T13:29:38.656598+00:00",
+    "generated_at": "2026-07-12T19:12:31.641967+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -385,12 +385,6 @@
           "url": "https://www.fixmystreet.com/report/9666832",
           "date": "2026-06-23T04:00:27+00:00",
           "category": null
-        },
-        {
-          "title": "Overgrown footpath, 12th June",
-          "url": "https://www.fixmystreet.com/report/9610182",
-          "date": "2026-06-12T13:54:58+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -439,12 +433,6 @@
           "url": "https://www.fixmystreet.com/report/9698499",
           "date": "2026-06-29T07:34:38+00:00",
           "category": null
-        },
-        {
-          "title": "Extremely dangerous pothole - 15” wide / 4” deep, 12th June",
-          "url": "https://www.fixmystreet.com/report/9610738",
-          "date": "2026-06-12T15:07:38+00:00",
-          "category": "Extremely dangerous pothole"
         }
       ],
       "reddit": [],
