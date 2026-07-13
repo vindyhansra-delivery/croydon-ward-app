@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T19:12:31.641967+00:00",
+    "generated_at": "2026-07-13T03:22:08.497833+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -169,6 +169,12 @@
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "Roads dirty & unkept, 12th July",
+          "url": "https://www.fixmystreet.com/report/9774894",
+          "date": "2026-07-12T22:54:17+00:00",
+          "category": null
+        },
         {
           "title": "Road surface ripped up by manoeuvring lorries and trailers, 9th July",
           "url": "https://www.fixmystreet.com/report/9760891",
