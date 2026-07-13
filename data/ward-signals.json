@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T03:22:08.497833+00:00",
+    "generated_at": "2026-07-13T09:36:14.327232+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -763,12 +763,6 @@
           "url": "https://insidecroydon.com/2026/07/03/coughlans-directors-moved-9m-out-of-bakery-firm-since-2024/",
           "date": "2026-07-03T14:31:49+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Mayor Perry’s ‘Motorists’ Charter’ to deliver more accidents, higher car insurance and even put children’s safety at risk",
-          "url": "https://insidecroydon.com/2026/07/02/mayor-perrys-motorists-charter-to-deliver-more-accidents-higher-car-insurance-and-even-put-childrens-safety-at-risk/",
-          "date": "2026-07-02T16:24:39+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -930,12 +924,6 @@
           "title": "A232 Road Disintegrated, 23rd June",
           "url": "https://www.fixmystreet.com/report/9668740",
           "date": "2026-06-23T09:39:47+00:00",
-          "category": null
-        },
-        {
-          "title": "Major pothole in roadway just before turning/bend, 13th June",
-          "url": "https://www.fixmystreet.com/report/9612435",
-          "date": "2026-06-13T08:52:02+00:00",
           "category": null
         }
       ],
