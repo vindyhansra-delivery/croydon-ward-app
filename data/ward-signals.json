@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T09:36:14.327232+00:00",
+    "generated_at": "2026-07-13T14:43:23.437731+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -29,14 +29,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Gibson is handing over the baton after 27 harmonious years",
-          "url": "https://insidecroydon.com/2026/07/03/gibson-is-handing-over-the-baton-after-27-harmonious-years/",
-          "date": "2026-07-03T10:46:47+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Addiscombe West": {
       "fixmystreet": [
@@ -83,12 +76,6 @@
           "title": "Blues at the Oval, Sunday nights in July from 6pm, entry free",
           "url": "https://insidecroydon.com/2026/07/04/blues-at-the-oval-sunday-nights-in-july-from-6pm-entry-free/",
           "date": "2026-07-04T10:10:05+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Gibson is handing over the baton after 27 harmonious years",
-          "url": "https://insidecroydon.com/2026/07/03/gibson-is-handing-over-the-baton-after-27-harmonious-years/",
-          "date": "2026-07-03T10:46:47+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -316,14 +303,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Gibson is handing over the baton after 27 harmonious years",
-          "url": "https://insidecroydon.com/2026/07/03/gibson-is-handing-over-the-baton-after-27-harmonious-years/",
-          "date": "2026-07-03T10:46:47+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Kenley": {
       "fixmystreet": [
@@ -414,12 +394,6 @@
           "title": "Pedal on exercise bike broken, 20th June",
           "url": "https://www.fixmystreet.com/report/9654838",
           "date": "2026-06-20T13:44:05+00:00",
-          "category": null
-        },
-        {
-          "title": "Croydon refuse bin left on street. Does not belong to any homes nesrby, 13th June",
-          "url": "https://www.fixmystreet.com/report/9614285",
-          "date": "2026-06-13T13:11:10+00:00",
           "category": null
         }
       ],
@@ -565,12 +539,6 @@
           "url": "https://www.fixmystreet.com/report/9618097",
           "date": "2026-06-14T14:03:50+00:00",
           "category": null
-        },
-        {
-          "title": "Deceased badger, 13th June",
-          "url": "https://www.fixmystreet.com/report/9613944",
-          "date": "2026-06-13T11:49:43+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -621,6 +589,12 @@
     },
     "Shirley North": {
       "fixmystreet": [
+        {
+          "title": "Household items dumped, 13th July",
+          "url": "https://www.fixmystreet.com/report/9779022",
+          "date": "2026-07-13T14:10:44+00:00",
+          "category": null
+        },
         {
           "title": "Rubbish, 12th July",
           "url": "https://www.fixmystreet.com/report/9772886",
