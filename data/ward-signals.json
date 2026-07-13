@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T14:43:23.437731+00:00",
+    "generated_at": "2026-07-13T19:29:32.646835+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -34,6 +34,12 @@
     "Addiscombe West": {
       "fixmystreet": [
         {
+          "title": "Cars frequently idling for long periods of time, 13th July",
+          "url": "https://www.fixmystreet.com/report/9780150",
+          "date": "2026-07-13T17:13:20+00:00",
+          "category": null
+        },
+        {
           "title": "Vehicle parked exactly on my property and entrance of my house., 11th July",
           "url": "https://www.fixmystreet.com/report/9769737",
           "date": "2026-07-11T11:41:47+00:00",
@@ -54,6 +60,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Coroner rules bookmakers contributed to Croydon man’s death",
+          "url": "https://insidecroydon.com/2026/07/13/coroner-rules-bookmakers-contributed-to-croydon-mans-death/",
+          "date": "2026-07-13T16:16:41+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Songbird Showcase Night, The Oval Tavern, Sat July 18, 8pm",
           "url": "https://insidecroydon.com/2026/07/12/songbird-showcase-night-the-oval-tavern-sat-july-18-8pm-2/",
@@ -205,6 +217,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Collapsing cover. noise disturbance., 13th July",
+          "url": "https://www.fixmystreet.com/report/9780271",
+          "date": "2026-07-13T17:38:17+00:00",
+          "category": null
+        },
+        {
           "title": "Damaged curb with lose stones, 11th July",
           "url": "https://www.fixmystreet.com/report/9770146",
           "date": "2026-07-11T13:40:08+00:00",
@@ -256,12 +274,6 @@
           "title": "Dead fox outside school, 5th July",
           "url": "https://www.fixmystreet.com/report/9734810",
           "date": "2026-07-05T09:35:23+00:00",
-          "category": null
-        },
-        {
-          "title": "Flytipping, 5th July",
-          "url": "https://www.fixmystreet.com/report/9734747",
-          "date": "2026-07-05T09:21:30+00:00",
           "category": null
         }
       ],
@@ -590,6 +602,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Household items, 13th July",
+          "url": "https://www.fixmystreet.com/report/9779858",
+          "date": "2026-07-13T16:13:02+00:00",
+          "category": null
+        },
+        {
           "title": "Household items dumped, 13th July",
           "url": "https://www.fixmystreet.com/report/9779022",
           "date": "2026-07-13T14:10:44+00:00",
@@ -906,6 +924,12 @@
     },
     "West Thornton": {
       "fixmystreet": [
+        {
+          "title": "Abandoned Vechicle, 13th July",
+          "url": "https://www.fixmystreet.com/report/9780519",
+          "date": "2026-07-13T18:28:21+00:00",
+          "category": null
+        },
         {
           "title": "Flytipping, 30th June",
           "url": "https://www.fixmystreet.com/report/9711136",
