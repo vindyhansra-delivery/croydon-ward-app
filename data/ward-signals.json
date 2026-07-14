@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T02:46:43.976485+00:00",
+    "generated_at": "2026-07-14T08:14:33.545743+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -391,6 +391,12 @@
     "Norbury Park": {
       "fixmystreet": [
         {
+          "title": "Over grown trees branches, 14th July",
+          "url": "https://www.fixmystreet.com/report/9781807",
+          "date": "2026-07-14T05:52:26+00:00",
+          "category": null
+        },
+        {
           "title": "Dumped Motorbike, 4th July",
           "url": "https://www.fixmystreet.com/report/9732066",
           "date": "2026-07-04T11:58:03+00:00",
@@ -470,14 +476,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Coughlan’s directors moved £9m out of bakery firm since 2023",
-          "url": "https://insidecroydon.com/2026/07/03/coughlans-directors-moved-9m-out-of-bakery-firm-since-2024/",
-          "date": "2026-07-03T14:31:49+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Park Hill and Whitgift": {
       "fixmystreet": [],
@@ -760,12 +759,6 @@
           "title": "Pioneer of sociology whose book called for an evolution",
           "url": "https://insidecroydon.com/2026/07/12/pioneer-of-sociology-whose-book-called-for-an-evolution/",
           "date": "2026-07-12T10:40:25+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Coughlan’s directors moved £9m out of bakery firm since 2023",
-          "url": "https://insidecroydon.com/2026/07/03/coughlans-directors-moved-9m-out-of-bakery-firm-since-2024/",
-          "date": "2026-07-03T14:31:49+00:00",
           "publisher": "Inside Croydon"
         }
       ]
