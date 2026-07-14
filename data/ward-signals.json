@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T08:14:33.545743+00:00",
+    "generated_at": "2026-07-14T13:53:31.335400+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -83,12 +83,6 @@
           "url": "https://insidecroydon.com/2026/07/10/perry-promises-again-bridge-to-nowhere-to-open-next-year/",
           "date": "2026-07-10T18:07:40+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Blues at the Oval, Sunday nights in July from 6pm, entry free",
-          "url": "https://insidecroydon.com/2026/07/04/blues-at-the-oval-sunday-nights-in-july-from-6pm-entry-free/",
-          "date": "2026-07-04T10:10:05+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -156,12 +150,6 @@
           "title": "Fire at Hindu temple took Brigade three hours to subdue",
           "url": "https://insidecroydon.com/2026/07/04/fire-at-hindu-temple-took-brigade-three-hours-to-subdue/",
           "date": "2026-07-04T10:42:58+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Trauma at Lanfranc as boy waits 2 hours with knife in his head",
-          "url": "https://insidecroydon.com/2026/07/03/trauma-at-lanfranc-as-boy-waits-2-hours-with-knife-in-his-head/",
-          "date": "2026-07-03T16:33:26+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -577,14 +565,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Free SWLLC benefits and housing advice sessions, Selhurst",
-          "url": "https://insidecroydon.com/2026/07/04/free-swllc-benefits-and-housing-advice-sessions-selhurst-3/",
-          "date": "2026-07-04T08:42:22+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
@@ -676,6 +657,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "The Great British Bake Off Musical, Mitre Theatre, July 21-25",
+          "url": "https://insidecroydon.com/2026/07/14/the-great-british-bake-off-musical-mitre-theatre-july-21-25/",
+          "date": "2026-07-14T08:57:24+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
           "url": "https://insidecroydon.com/2026/07/12/gardening-bargains-mha-the-wilderness-shirley-mon-fri-3/",
           "date": "2026-07-12T09:14:17+00:00",
@@ -685,6 +672,12 @@
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "Very deep and dangerous hole in the road, 14th July",
+          "url": "https://www.fixmystreet.com/report/9784451",
+          "date": "2026-07-14T11:33:17+00:00",
+          "category": null
+        },
         {
           "title": "6+ sacks tipped by roadside, 11th July",
           "url": "https://www.fixmystreet.com/report/9769204",
@@ -718,6 +711,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "The Great British Bake Off Musical, Mitre Theatre, July 21-25",
+          "url": "https://insidecroydon.com/2026/07/14/the-great-british-bake-off-musical-mitre-theatre-july-21-25/",
+          "date": "2026-07-14T08:57:24+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
           "url": "https://insidecroydon.com/2026/07/12/gardening-bargains-mha-the-wilderness-shirley-mon-fri-3/",
@@ -894,12 +893,6 @@
           "url": "https://insidecroydon.com/2026/07/04/fire-at-hindu-temple-took-brigade-three-hours-to-subdue/",
           "date": "2026-07-04T10:42:58+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Trauma at Lanfranc as boy waits 2 hours with knife in his head",
-          "url": "https://insidecroydon.com/2026/07/03/trauma-at-lanfranc-as-boy-waits-2-hours-with-knife-in-his-head/",
-          "date": "2026-07-03T16:33:26+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -949,14 +942,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Trauma at Lanfranc as boy waits 2 hours with knife in his head",
-          "url": "https://insidecroydon.com/2026/07/03/trauma-at-lanfranc-as-boy-waits-2-hours-with-knife-in-his-head/",
-          "date": "2026-07-03T16:33:26+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Woodside": {
       "fixmystreet": [
