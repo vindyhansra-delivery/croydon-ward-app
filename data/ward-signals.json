@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T19:29:32.646835+00:00",
+    "generated_at": "2026-07-14T02:46:43.976485+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -487,6 +487,18 @@
     "Purley Oaks and Riddlesdown": {
       "fixmystreet": [
         {
+          "title": "Vehicle parking too close to central reservation, 14th July",
+          "url": "https://www.fixmystreet.com/report/9781656",
+          "date": "2026-07-14T00:40:11+00:00",
+          "category": null
+        },
+        {
+          "title": "Road restriction, 14th July",
+          "url": "https://www.fixmystreet.com/report/9781655",
+          "date": "2026-07-14T00:36:21+00:00",
+          "category": null
+        },
+        {
           "title": "Signals not working, 28th June",
           "url": "https://www.fixmystreet.com/report/9695942",
           "date": "2026-06-28T14:57:59+00:00",
@@ -900,6 +912,12 @@
     },
     "Waddon": {
       "fixmystreet": [
+        {
+          "title": "Tree branches hitting buses, 14th July",
+          "url": "https://www.fixmystreet.com/report/9781645",
+          "date": "2026-07-14T00:25:56+00:00",
+          "category": null
+        },
         {
           "title": "Low hanging branches, 10th July",
           "url": "https://www.fixmystreet.com/report/9764911",
