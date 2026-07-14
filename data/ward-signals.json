@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T13:53:31.335400+00:00",
+    "generated_at": "2026-07-14T19:26:54.795419+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -349,6 +349,12 @@
     "New Addington South": {
       "fixmystreet": [
         {
+          "title": "Overgrown tree branches, 14th July",
+          "url": "https://www.fixmystreet.com/report/9786522",
+          "date": "2026-07-14T15:40:34+00:00",
+          "category": null
+        },
+        {
           "title": "Dead fox on grass, 10th July",
           "url": "https://www.fixmystreet.com/report/9763326",
           "date": "2026-07-10T05:59:06+00:00",
@@ -538,20 +544,7 @@
       "news": []
     },
     "Sanderstead": {
-      "fixmystreet": [
-        {
-          "title": "Fly tipping, 14th June",
-          "url": "https://www.fixmystreet.com/report/9618113",
-          "date": "2026-06-14T14:09:41+00:00",
-          "category": null
-        },
-        {
-          "title": "Fly tipping, 14th June",
-          "url": "https://www.fixmystreet.com/report/9618097",
-          "date": "2026-06-14T14:03:50+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
