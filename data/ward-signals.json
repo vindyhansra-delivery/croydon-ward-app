@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T08:21:57.960820+00:00",
+    "generated_at": "2026-07-15T13:52:09.681413+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -196,12 +196,6 @@
           "url": "https://www.fixmystreet.com/report/9666069",
           "date": "2026-06-22T19:51:47+00:00",
           "category": null
-        },
-        {
-          "title": "Dangerous road surface, 15th June",
-          "url": "https://www.fixmystreet.com/report/9622207",
-          "date": "2026-06-15T09:58:34+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -309,6 +303,18 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "‘The saddest news about Croydon town centre since the riots’",
+          "url": "https://insidecroydon.com/2026/07/15/the-saddest-news-about-croydon-town-centre-since-the-riots/",
+          "date": "2026-07-15T13:17:11+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "The 15-year takeover of Croydon town centre by Westfield",
+          "url": "https://insidecroydon.com/2026/07/15/the-15-year-takeover-of-croydon-town-centre-by-westfield/",
+          "date": "2026-07-15T09:54:58+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "SOLD! Westfield in £31.5m deal to buy Whitgift Centre freehold",
           "url": "https://insidecroydon.com/2026/07/15/sold-westfield-in-31-5m-deal-to-buy-whitgift-centre-freehold/",
@@ -450,6 +456,12 @@
     },
     "Old Coulsdon": {
       "fixmystreet": [
+        {
+          "title": "Parking on the pavement, 15th July",
+          "url": "https://www.fixmystreet.com/report/9791704",
+          "date": "2026-07-15T12:41:57+00:00",
+          "category": null
+        },
         {
           "title": "Multiple pot holes, 11th July",
           "url": "https://www.fixmystreet.com/report/9770211",
@@ -711,12 +723,6 @@
           "title": "Street Light, 26th June",
           "url": "https://www.fixmystreet.com/report/9686351",
           "date": "2026-06-26T08:27:23+00:00",
-          "category": null
-        },
-        {
-          "title": "The curb stone outside 149 Devonshire WAY CR0 8BY, 15th June",
-          "url": "https://www.fixmystreet.com/report/9623557",
-          "date": "2026-06-15T12:14:03+00:00",
           "category": null
         }
       ],
