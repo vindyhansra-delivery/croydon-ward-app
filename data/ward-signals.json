@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T13:52:09.681413+00:00",
+    "generated_at": "2026-07-15T19:19:01.972047+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -266,6 +266,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Primary schools are hit by strikes over ‘toxic bullying culture’",
+          "url": "https://insidecroydon.com/2026/07/15/primary-schools-closed-by-strikes-over-toxic-bullying-culture/",
+          "date": "2026-07-15T14:52:56+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Up! Up! And away! You’re invited to Crystal Palace celebrations",
           "url": "https://insidecroydon.com/2026/07/11/up-up-and-away-youre-invited-to-crystal-palace-celebrations/",
