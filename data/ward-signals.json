@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T08:21:48.111871+00:00",
+    "generated_at": "2026-07-16T14:02:36.425856+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -362,7 +362,14 @@
     "New Addington North": {
       "fixmystreet": [],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Join the Wildlife Trust’s butterfly walk at Hutchinson’s Bank",
+          "url": "https://insidecroydon.com/2026/07/16/join-the-wildlife-trusts-butterfly-walk-at-hutchinsons-bank/",
+          "date": "2026-07-16T12:18:53+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "New Addington South": {
       "fixmystreet": [
@@ -404,7 +411,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Join the Wildlife Trust’s butterfly walk at Hutchinson’s Bank",
+          "url": "https://insidecroydon.com/2026/07/16/join-the-wildlife-trusts-butterfly-walk-at-hutchinsons-bank/",
+          "date": "2026-07-16T12:18:53+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Norbury Park": {
       "fixmystreet": [
