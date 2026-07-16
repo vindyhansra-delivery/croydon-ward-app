@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T19:19:01.972047+00:00",
+    "generated_at": "2026-07-16T02:51:55.603470+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -204,6 +204,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Pavement collapsing by side of telecommunications cover, 15th July",
+          "url": "https://www.fixmystreet.com/report/9794716",
+          "date": "2026-07-15T22:40:16+00:00",
+          "category": null
+        },
+        {
           "title": "Collapsing cover. noise disturbance., 13th July",
           "url": "https://www.fixmystreet.com/report/9780271",
           "date": "2026-07-13T17:38:17+00:00",
@@ -255,12 +261,6 @@
           "title": "Pothole in road O/s 82 Moore Road, 5th July",
           "url": "https://www.fixmystreet.com/report/9735936",
           "date": "2026-07-05T13:40:29+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead fox outside school, 5th July",
-          "url": "https://www.fixmystreet.com/report/9734810",
-          "date": "2026-07-05T09:35:23+00:00",
           "category": null
         }
       ],
@@ -496,12 +496,6 @@
           "title": "Back woods, 21st June",
           "url": "https://www.fixmystreet.com/report/9657821",
           "date": "2026-06-21T11:46:10+00:00",
-          "category": null
-        },
-        {
-          "title": "Obergruwn bushes, 15th June",
-          "url": "https://www.fixmystreet.com/report/9627687",
-          "date": "2026-06-15T22:46:53+00:00",
           "category": null
         }
       ],
