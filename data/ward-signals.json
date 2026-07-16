@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T02:51:55.603470+00:00",
+    "generated_at": "2026-07-16T08:21:48.111871+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -298,12 +298,6 @@
           "title": "Overflowing wheelie bins, 21st June",
           "url": "https://www.fixmystreet.com/report/9657608",
           "date": "2026-06-21T11:45:47+00:00",
-          "category": null
-        },
-        {
-          "title": "Several large defects in road surface on the bend which are hard to avoid, 16th June",
-          "url": "https://www.fixmystreet.com/report/9628227",
-          "date": "2026-06-16T06:43:28+00:00",
           "category": null
         }
       ],
@@ -656,24 +650,6 @@
           "title": "Broken swing, 21st June",
           "url": "https://www.fixmystreet.com/report/9657033",
           "date": "2026-06-21T08:48:02+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped bag, 16th June",
-          "url": "https://www.fixmystreet.com/report/9628362",
-          "date": "2026-06-16T07:03:31+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped bags, 16th June",
-          "url": "https://www.fixmystreet.com/report/9628349",
-          "date": "2026-06-16T07:01:19+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped light, 16th June",
-          "url": "https://www.fixmystreet.com/report/9628319",
-          "date": "2026-06-16T06:59:38+00:00",
           "category": null
         }
       ],
