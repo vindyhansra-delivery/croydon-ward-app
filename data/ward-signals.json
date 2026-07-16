@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T14:02:36.425856+00:00",
+    "generated_at": "2026-07-16T19:19:11.941359+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -266,6 +266,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Crystal Palace’s dinosaurs are no longer at risk of extinction",
+          "url": "https://insidecroydon.com/2026/07/16/crystal-palaces-dinosaurs-are-no-longer-at-risk-of-extinction/",
+          "date": "2026-07-16T15:04:09+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Primary schools are hit by strikes over ‘toxic bullying culture’",
           "url": "https://insidecroydon.com/2026/07/15/primary-schools-closed-by-strikes-over-toxic-bullying-culture/",
@@ -625,6 +631,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "4 dumped mattresses, 16th July",
+          "url": "https://www.fixmystreet.com/report/9798882",
+          "date": "2026-07-16T15:58:35+00:00",
+          "category": null
+        },
+        {
           "title": "Household items, 13th July",
           "url": "https://www.fixmystreet.com/report/9779858",
           "date": "2026-07-13T16:13:02+00:00",
@@ -772,6 +784,12 @@
     "South Norwood": {
       "fixmystreet": [
         {
+          "title": "Overflowing bins again, 16th July",
+          "url": "https://www.fixmystreet.com/report/9788605",
+          "date": "2026-07-16T16:51:41+00:00",
+          "category": null
+        },
+        {
           "title": "Open & overflowing bins, 8th July",
           "url": "https://www.fixmystreet.com/report/9754199",
           "date": "2026-07-08T12:29:15+00:00",
@@ -820,12 +838,6 @@
           "title": "Perry tries to hide homelessness service with South End move",
           "url": "https://insidecroydon.com/2026/07/07/perry-tries-to-hide-homelessness-service-with-south-end-move/",
           "date": "2026-07-07T10:40:13+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Green-eyed monster prowls the stage in South Norwood",
-          "url": "https://insidecroydon.com/2026/07/07/green-eyed-monster-prowls-the-stage-in-south-norwood/",
-          "date": "2026-07-07T09:20:06+00:00",
           "publisher": "Inside Croydon"
         }
       ]
