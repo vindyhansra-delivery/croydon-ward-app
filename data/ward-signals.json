@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T08:17:38.010911+00:00",
+    "generated_at": "2026-07-17T13:48:20.038332+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -370,6 +370,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Council sets up group to mark 10th anniversary of tram crash",
+          "url": "https://insidecroydon.com/2026/07/17/council-sets-up-group-to-mark-10th-anniversary-of-tram-crash/",
+          "date": "2026-07-17T12:53:46+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Join the Wildlife Trust’s butterfly walk at Hutchinson’s Bank",
           "url": "https://insidecroydon.com/2026/07/16/join-the-wildlife-trusts-butterfly-walk-at-hutchinsons-bank/",
           "date": "2026-07-16T12:18:53+00:00",
@@ -418,6 +424,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Council sets up group to mark 10th anniversary of tram crash",
+          "url": "https://insidecroydon.com/2026/07/17/council-sets-up-group-to-mark-10th-anniversary-of-tram-crash/",
+          "date": "2026-07-17T12:53:46+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Join the Wildlife Trust’s butterfly walk at Hutchinson’s Bank",
           "url": "https://insidecroydon.com/2026/07/16/join-the-wildlife-trusts-butterfly-walk-at-hutchinsons-bank/",
@@ -774,6 +786,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "South Croydon cheerleaders celebrate reaching the Summit",
+          "url": "https://insidecroydon.com/2026/07/17/south-croydon-cheerleaders-celebrate-reaching-the-summit/",
+          "date": "2026-07-17T11:22:17+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Pioneer of sociology whose book called for an evolution",
           "url": "https://insidecroydon.com/2026/07/12/pioneer-of-sociology-whose-book-called-for-an-evolution/",
           "date": "2026-07-12T10:40:25+00:00",
@@ -832,12 +850,6 @@
           "title": "Eco Living Fest, Holy Innocents South Norwood, Sat July 18",
           "url": "https://insidecroydon.com/2026/07/09/eco-living-fest-holy-innocents-south-norwood-sat-july-18/",
           "date": "2026-07-09T08:45:12+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Perry tries to hide homelessness service with South End move",
-          "url": "https://insidecroydon.com/2026/07/07/perry-tries-to-hide-homelessness-service-with-south-end-move/",
-          "date": "2026-07-07T10:40:13+00:00",
           "publisher": "Inside Croydon"
         }
       ]
