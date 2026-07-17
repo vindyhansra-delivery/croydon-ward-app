@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T13:48:20.038332+00:00",
+    "generated_at": "2026-07-17T19:18:24.770156+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -147,12 +147,6 @@
           "title": "Litter picking volunteer, 17th June",
           "url": "https://www.fixmystreet.com/report/9640300",
           "date": "2026-06-17T19:46:43+00:00",
-          "category": null
-        },
-        {
-          "title": "Litter picking volunteer, 17th June",
-          "url": "https://www.fixmystreet.com/report/9639830",
-          "date": "2026-06-17T17:56:49+00:00",
           "category": null
         }
       ],
@@ -768,18 +762,6 @@
           "title": "2 bags of children's toys, 28th June",
           "url": "https://www.fixmystreet.com/report/9695093",
           "date": "2026-06-28T11:46:16+00:00",
-          "category": null
-        },
-        {
-          "title": "Very large series of potholes before and after the speed camera, 17th June",
-          "url": "https://www.fixmystreet.com/report/9638779",
-          "date": "2026-06-17T14:55:29+00:00",
-          "category": null
-        },
-        {
-          "title": "Water meter leaking, 17th June",
-          "url": "https://www.fixmystreet.com/report/9638606",
-          "date": "2026-06-17T14:29:44+00:00",
           "category": null
         }
       ],
