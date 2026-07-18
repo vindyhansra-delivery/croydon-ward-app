@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T13:25:13.926544+00:00",
+    "generated_at": "2026-07-18T19:12:30.369064+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -66,6 +66,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "London’s ‘Lord Mayor’ puts Croydon Green Belt in his plan",
+          "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
+          "date": "2026-07-18T14:07:25+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Coroner rules bookmakers contributed to Croydon man’s death",
           "url": "https://insidecroydon.com/2026/07/13/coroner-rules-bookmakers-contributed-to-croydon-mans-death/",
@@ -283,6 +289,12 @@
     "Fairfield": {
       "fixmystreet": [
         {
+          "title": "Flytipping on High Street, 18th July",
+          "url": "https://www.fixmystreet.com/report/9808227",
+          "date": "2026-07-18T16:07:29+00:00",
+          "category": null
+        },
+        {
           "title": "Collapsed manhole cover, 2nd July",
           "url": "https://www.fixmystreet.com/report/9723971",
           "date": "2026-07-02T17:58:21+00:00",
@@ -358,6 +370,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "London’s ‘Lord Mayor’ puts Croydon Green Belt in his plan",
+          "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
+          "date": "2026-07-18T14:07:25+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Council sets up group to mark 10th anniversary of tram crash",
           "url": "https://insidecroydon.com/2026/07/17/council-sets-up-group-to-mark-10th-anniversary-of-tram-crash/",
           "date": "2026-07-17T12:53:46+00:00",
@@ -412,6 +430,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "London’s ‘Lord Mayor’ puts Croydon Green Belt in his plan",
+          "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
+          "date": "2026-07-18T14:07:25+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Council sets up group to mark 10th anniversary of tram crash",
           "url": "https://insidecroydon.com/2026/07/17/council-sets-up-group-to-mark-10th-anniversary-of-tram-crash/",
@@ -519,7 +543,14 @@
     "Park Hill and Whitgift": {
       "fixmystreet": [],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "London’s ‘Lord Mayor’ puts Croydon Green Belt in his plan",
+          "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
+          "date": "2026-07-18T14:07:25+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Purley Oaks and Riddlesdown": {
       "fixmystreet": [
@@ -626,7 +657,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "London’s ‘Lord Mayor’ puts Croydon Green Belt in his plan",
+          "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
+          "date": "2026-07-18T14:07:25+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Shirley North": {
       "fixmystreet": [
@@ -762,6 +800,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "London’s ‘Lord Mayor’ puts Croydon Green Belt in his plan",
+          "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
+          "date": "2026-07-18T14:07:25+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Detective showed murder victim photos for ‘bragging purposes’",
           "url": "https://insidecroydon.com/2026/07/18/detective-showed-murder-victim-photos-for-bragging-purposes/",
           "date": "2026-07-18T12:12:53+00:00",
@@ -893,6 +937,12 @@
     },
     "Waddon": {
       "fixmystreet": [
+        {
+          "title": "Car parked on the pavement, 18th July",
+          "url": "https://www.fixmystreet.com/report/9808675",
+          "date": "2026-07-18T18:49:49+00:00",
+          "category": null
+        },
         {
           "title": "Tree branches hitting buses, 14th July",
           "url": "https://www.fixmystreet.com/report/9781645",
