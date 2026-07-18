@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T07:59:35.360593+00:00",
+    "generated_at": "2026-07-18T13:25:13.926544+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -762,6 +762,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Detective showed murder victim photos for ‘bragging purposes’",
+          "url": "https://insidecroydon.com/2026/07/18/detective-showed-murder-victim-photos-for-bragging-purposes/",
+          "date": "2026-07-18T12:12:53+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "South Croydon cheerleaders celebrate reaching the Summit",
           "url": "https://insidecroydon.com/2026/07/17/south-croydon-cheerleaders-celebrate-reaching-the-summit/",
           "date": "2026-07-17T11:22:17+00:00",
@@ -820,12 +826,6 @@
           "title": "Three men in court charged over Livingstone Road murder",
           "url": "https://insidecroydon.com/2026/07/11/three-men-in-court-charged-over-livingstone-road-murder/",
           "date": "2026-07-11T09:25:40+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Eco Living Fest, Holy Innocents South Norwood, Sat July 18",
-          "url": "https://insidecroydon.com/2026/07/09/eco-living-fest-holy-innocents-south-norwood-sat-july-18/",
-          "date": "2026-07-09T08:45:12+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -887,12 +887,6 @@
           "title": "Three men in court charged over Livingstone Road murder",
           "url": "https://insidecroydon.com/2026/07/11/three-men-in-court-charged-over-livingstone-road-murder/",
           "date": "2026-07-11T09:25:40+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Eco Living Fest, Holy Innocents South Norwood, Sat July 18",
-          "url": "https://insidecroydon.com/2026/07/09/eco-living-fest-holy-innocents-south-norwood-sat-july-18/",
-          "date": "2026-07-09T08:45:12+00:00",
           "publisher": "Inside Croydon"
         }
       ]
