@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T08:26:50.439659+00:00",
+    "generated_at": "2026-07-19T13:26:38.941578+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -108,14 +108,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Flook’s off! Reform candidate quits job at Wallington grammar",
-          "url": "https://insidecroydon.com/2026/07/10/flooks-off-reform-candidate-quits-job-at-wallington-grammar/",
-          "date": "2026-07-10T13:01:28+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Broad Green": {
       "fixmystreet": [
@@ -270,12 +263,6 @@
           "title": "Up! Up! And away! You’re invited to Crystal Palace celebrations",
           "url": "https://insidecroydon.com/2026/07/11/up-up-and-away-youre-invited-to-crystal-palace-celebrations/",
           "date": "2026-07-11T10:31:39+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "LibDems win in Streatham as Greens retain Lambeth control",
-          "url": "https://insidecroydon.com/2026/07/10/libdems-win-in-streatham-as-greens-retain-lambeth-control/",
-          "date": "2026-07-10T11:40:18+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -715,6 +702,12 @@
       "news": [
         {
           "title": "The Great British Bake Off Musical, Mitre Theatre, July 21-25",
+          "url": "https://insidecroydon.com/2026/07/19/the-great-british-bake-off-musical-mitre-theatre-july-21-25-2/",
+          "date": "2026-07-19T09:49:06+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "The Great British Bake Off Musical, Mitre Theatre, July 21-25",
           "url": "https://insidecroydon.com/2026/07/14/the-great-british-bake-off-musical-mitre-theatre-july-21-25/",
           "date": "2026-07-14T08:57:24+00:00",
           "publisher": "Inside Croydon"
@@ -762,6 +755,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "The Great British Bake Off Musical, Mitre Theatre, July 21-25",
+          "url": "https://insidecroydon.com/2026/07/19/the-great-british-bake-off-musical-mitre-theatre-july-21-25-2/",
+          "date": "2026-07-19T09:49:06+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "The Great British Bake Off Musical, Mitre Theatre, July 21-25",
           "url": "https://insidecroydon.com/2026/07/14/the-great-british-bake-off-musical-mitre-theatre-july-21-25/",
