@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T03:01:09.578241+00:00",
+    "generated_at": "2026-07-19T08:26:50.439659+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -55,12 +55,6 @@
           "title": "It's difficult to take a good quality photos The street power/electric cables seem to be hanging TOO LOW @Morland Avenue 28-30 buildings. Could someone have a look so to be sure ,their hanging level and proximity to the buildings isn't hazardous?, 30th June",
           "url": "https://www.fixmystreet.com/report/9711209",
           "date": "2026-06-30T18:27:54+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned fridge freezer left leaning on tree, 19th June",
-          "url": "https://www.fixmystreet.com/report/9648223",
-          "date": "2026-06-19T08:09:20+00:00",
           "category": null
         }
       ],
