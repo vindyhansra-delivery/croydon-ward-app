@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T13:26:38.941578+00:00",
+    "generated_at": "2026-07-19T19:13:31.005130+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -39,6 +39,12 @@
     },
     "Addiscombe West": {
       "fixmystreet": [
+        {
+          "title": "Hole in pavement light - side of 60 lower addiscombe road, 19th July",
+          "url": "https://www.fixmystreet.com/report/9811048",
+          "date": "2026-07-19T14:27:23+00:00",
+          "category": "Hole in pavement light"
+        },
         {
           "title": "Cars frequently idling for long periods of time, 13th July",
           "url": "https://www.fixmystreet.com/report/9780150",
@@ -82,12 +88,6 @@
           "title": "Blues at the Oval, Sunday nights in July from 6pm, entry free",
           "url": "https://insidecroydon.com/2026/07/11/blues-at-the-oval-sunday-nights-in-july-from-6pm-entry-free-2/",
           "date": "2026-07-11T08:40:43+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Perry promises – again – Bridge to Nowhere to open ‘next year’",
-          "url": "https://insidecroydon.com/2026/07/10/perry-promises-again-bridge-to-nowhere-to-open-next-year/",
-          "date": "2026-07-10T18:07:40+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -605,14 +605,7 @@
       "news": []
     },
     "Selhurst": {
-      "fixmystreet": [
-        {
-          "title": "Abandoned trailer with refuse, 19th June",
-          "url": "https://www.fixmystreet.com/report/9650746",
-          "date": "2026-06-19T13:59:12+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
