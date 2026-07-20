@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-20T14:15:08.410694+00:00",
+    "generated_at": "2026-07-20T19:49:52.869053+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -258,17 +258,17 @@
           "url": "https://insidecroydon.com/2026/07/15/primary-schools-closed-by-strikes-over-toxic-bullying-culture/",
           "date": "2026-07-15T14:52:56+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Up! Up! And away! You’re invited to Crystal Palace celebrations",
-          "url": "https://insidecroydon.com/2026/07/11/up-up-and-away-youre-invited-to-crystal-palace-celebrations/",
-          "date": "2026-07-11T10:31:39+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
     "Fairfield": {
       "fixmystreet": [
+        {
+          "title": "Black sacks, 20th July",
+          "url": "https://www.fixmystreet.com/report/9817387",
+          "date": "2026-07-20T15:57:47+00:00",
+          "category": null
+        },
         {
           "title": "Flytipping on High Street, 18th July",
           "url": "https://www.fixmystreet.com/report/9808227",
@@ -814,6 +814,12 @@
     },
     "South Norwood": {
       "fixmystreet": [
+        {
+          "title": "Zebra crossing outside school and nursery completely worn, 20th July",
+          "url": "https://www.fixmystreet.com/report/9817744",
+          "date": "2026-07-20T17:01:23+00:00",
+          "category": null
+        },
         {
           "title": "Overflowing bins again, 16th July",
           "url": "https://www.fixmystreet.com/report/9788605",
