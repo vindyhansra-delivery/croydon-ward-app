@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T08:36:56.002063+00:00",
+    "generated_at": "2026-07-21T14:01:48.312797+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -82,12 +82,6 @@
           "title": "Coroner rules bookmakers contributed to Croydon man’s death",
           "url": "https://insidecroydon.com/2026/07/13/coroner-rules-bookmakers-contributed-to-croydon-mans-death/",
           "date": "2026-07-13T16:16:41+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Songbird Showcase Night, The Oval Tavern, Sat July 18, 8pm",
-          "url": "https://insidecroydon.com/2026/07/12/songbird-showcase-night-the-oval-tavern-sat-july-18-8pm-2/",
-          "date": "2026-07-12T08:10:40+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -185,6 +179,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Temporary traffic lights are all showing red at a 4 way control, 21st July",
+          "url": "https://www.fixmystreet.com/report/9821162",
+          "date": "2026-07-21T10:14:01+00:00",
+          "category": null
+        },
+        {
           "title": "Pavement collapsing by side of telecommunications cover, 15th July",
           "url": "https://www.fixmystreet.com/report/9794716",
           "date": "2026-07-15T22:40:16+00:00",
@@ -237,12 +237,6 @@
           "url": "https://www.fixmystreet.com/report/9736589",
           "date": "2026-07-05T16:26:50+00:00",
           "category": null
-        },
-        {
-          "title": "Pothole in road O/s 82 Moore Road, 5th July",
-          "url": "https://www.fixmystreet.com/report/9735936",
-          "date": "2026-07-05T13:40:29+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -280,12 +274,6 @@
           "url": "https://www.fixmystreet.com/report/9723971",
           "date": "2026-07-02T17:58:21+00:00",
           "category": null
-        },
-        {
-          "title": "Overflowing wheelie bins, 21st June",
-          "url": "https://www.fixmystreet.com/report/9657608",
-          "date": "2026-06-21T11:45:47+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -312,6 +300,12 @@
     },
     "Kenley": {
       "fixmystreet": [
+        {
+          "title": "Car has not moved, 21st July",
+          "url": "https://www.fixmystreet.com/report/9821756",
+          "date": "2026-07-21T10:56:45+00:00",
+          "category": null
+        },
         {
           "title": "Over grown trees and bushes, 10th July",
           "url": "https://www.fixmystreet.com/report/9766510",
@@ -511,12 +505,6 @@
           "url": "https://www.fixmystreet.com/report/9677808",
           "date": "2026-06-24T17:03:19+00:00",
           "category": null
-        },
-        {
-          "title": "Back woods, 21st June",
-          "url": "https://www.fixmystreet.com/report/9657821",
-          "date": "2026-06-21T11:46:10+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -684,18 +672,6 @@
           "url": "https://www.fixmystreet.com/report/9712027",
           "date": "2026-06-30T21:52:47+00:00",
           "category": null
-        },
-        {
-          "title": "Overgrown tree branch strike in buses, 21st June",
-          "url": "https://www.fixmystreet.com/report/9657985",
-          "date": "2026-06-21T12:26:27+00:00",
-          "category": null
-        },
-        {
-          "title": "Broken swing, 21st June",
-          "url": "https://www.fixmystreet.com/report/9657033",
-          "date": "2026-06-21T08:48:02+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -793,6 +769,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "End-of-year report: Whitgift Head finds room for improvement",
+          "url": "https://insidecroydon.com/2026/07/21/end-of-year-report-whitgift-head-finds-room-for-improvement/",
+          "date": "2026-07-21T10:17:12+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "London’s ‘Lord Mayor’ puts Croydon Green Belt in his plan",
           "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
           "date": "2026-07-18T14:07:25+00:00",
@@ -865,6 +847,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "£10-a-ticket offer for South Norwood Rec circus opening shows",
+          "url": "https://insidecroydon.com/2026/07/21/10-a-ticket-offer-for-south-norwood-rec-circus-opening-shows/",
+          "date": "2026-07-21T11:21:01+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Eco Living Fest, Holy Innocents South Norwood, Sat July 18",
           "url": "https://insidecroydon.com/2026/07/12/eco-living-fest-holy-innocents-south-norwood-sat-july-18-2/",
@@ -982,12 +970,6 @@
           "title": "Mattress frame dumped, 29th June",
           "url": "https://www.fixmystreet.com/report/9704079",
           "date": "2026-06-29T18:11:24+00:00",
-          "category": null
-        },
-        {
-          "title": "Wood, 21st June",
-          "url": "https://www.fixmystreet.com/report/9657891",
-          "date": "2026-06-21T12:00:27+00:00",
           "category": null
         }
       ],
