@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T02:56:58.256048+00:00",
+    "generated_at": "2026-07-21T08:36:56.002063+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -567,6 +567,12 @@
     "Purley and Woodcote": {
       "fixmystreet": [
         {
+          "title": "Burnout car, 21st July",
+          "url": "https://www.fixmystreet.com/report/9819992",
+          "date": "2026-07-21T07:41:28+00:00",
+          "category": null
+        },
+        {
           "title": "Overgrown hedges and high traffic speed, 6th July",
           "url": "https://www.fixmystreet.com/report/9740063",
           "date": "2026-07-06T10:16:07+00:00",
@@ -815,6 +821,12 @@
     "South Norwood": {
       "fixmystreet": [
         {
+          "title": "Rubbish left, 21st July",
+          "url": "https://www.fixmystreet.com/report/9819632",
+          "date": "2026-07-21T06:45:38+00:00",
+          "category": null
+        },
+        {
           "title": "Zebra crossing outside school and nursery completely worn, 20th July",
           "url": "https://www.fixmystreet.com/report/9817744",
           "date": "2026-07-20T17:01:23+00:00",
@@ -891,12 +903,6 @@
           "title": "Collapsed pavement on corner of Moffat & Westbrook, 30th June",
           "url": "https://www.fixmystreet.com/report/9710850",
           "date": "2026-06-30T17:21:33+00:00",
-          "category": null
-        },
-        {
-          "title": "Dangerous payment Beauchamp road, 21st June",
-          "url": "https://www.fixmystreet.com/report/9656583",
-          "date": "2026-06-21T06:15:38+00:00",
           "category": null
         }
       ],
