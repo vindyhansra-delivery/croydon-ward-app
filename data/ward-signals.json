@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T08:36:36.732536+00:00",
+    "generated_at": "2026-07-22T14:05:31.353758+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -76,12 +76,6 @@
           "title": "London’s ‘Lord Mayor’ puts Croydon Green Belt in his plan",
           "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
           "date": "2026-07-18T14:07:25+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Coroner rules bookmakers contributed to Croydon man’s death",
-          "url": "https://insidecroydon.com/2026/07/13/coroner-rules-bookmakers-contributed-to-croydon-mans-death/",
-          "date": "2026-07-13T16:16:41+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -179,6 +173,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Temporary light broken again!, 22nd July",
+          "url": "https://www.fixmystreet.com/report/9827109",
+          "date": "2026-07-22T09:11:40+00:00",
+          "category": null
+        },
+        {
           "title": "Rubbish and overflowing bin, 21st July",
           "url": "https://www.fixmystreet.com/report/9825075",
           "date": "2026-07-21T19:35:23+00:00",
@@ -230,12 +230,6 @@
           "title": "Loose manhole cover, 8th July",
           "url": "https://www.fixmystreet.com/report/9756330",
           "date": "2026-07-08T18:47:50+00:00",
-          "category": null
-        },
-        {
-          "title": "The road surface is bumpy and causes our listed house to shake, 8th July",
-          "url": "https://www.fixmystreet.com/report/9752094",
-          "date": "2026-07-08T08:06:41+00:00",
           "category": null
         }
       ],
@@ -489,6 +483,12 @@
     "Old Coulsdon": {
       "fixmystreet": [
         {
+          "title": "Remains of accident Coulsdon road, 22nd July",
+          "url": "https://www.fixmystreet.com/report/9827565",
+          "date": "2026-07-22T10:05:34+00:00",
+          "category": null
+        },
+        {
           "title": "Parking on the pavement, 15th July",
           "url": "https://www.fixmystreet.com/report/9791704",
           "date": "2026-07-15T12:41:57+00:00",
@@ -526,6 +526,12 @@
       "fixmystreet": [],
       "reddit": [],
       "news": [
+        {
+          "title": "Archbishop Tenison’s still struggling to find replacement Head",
+          "url": "https://insidecroydon.com/2026/07/22/archbishop-tenisons-still-struggling-to-find-replacement-head/",
+          "date": "2026-07-22T14:00:12+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Perry challenge to Khan: ‘Croydon’s Green Belt is sacrosanct’",
           "url": "https://insidecroydon.com/2026/07/21/perry-challenge-to-khan-croydons-green-belt-is-sacrosanct/",
@@ -638,7 +644,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Selsdon hotel’s new owners clear Croydon planning hurdle",
+          "url": "https://insidecroydon.com/2026/07/22/selsdon-hotels-new-owners-clear-croydon-planning-hurdle/",
+          "date": "2026-07-22T10:50:28+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
