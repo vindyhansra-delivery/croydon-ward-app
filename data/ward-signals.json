@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T02:54:57.422203+00:00",
+    "generated_at": "2026-07-22T08:36:36.732536+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -25,12 +25,6 @@
           "title": "Sofa, 1st July",
           "url": "https://www.fixmystreet.com/report/9715515",
           "date": "2026-07-01T12:14:59+00:00",
-          "category": null
-        },
-        {
-          "title": "Fly tipping, 22nd June",
-          "url": "https://www.fixmystreet.com/report/9660341",
-          "date": "2026-06-22T06:00:44+00:00",
           "category": null
         }
       ],
