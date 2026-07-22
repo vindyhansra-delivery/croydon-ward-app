@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T19:30:57.083227+00:00",
+    "generated_at": "2026-07-22T02:54:57.422203+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -185,6 +185,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Rubbish and overflowing bin, 21st July",
+          "url": "https://www.fixmystreet.com/report/9825075",
+          "date": "2026-07-21T19:35:23+00:00",
+          "category": null
+        },
+        {
           "title": "Temporary traffic lights are all showing red at a 4 way control, 21st July",
           "url": "https://www.fixmystreet.com/report/9821162",
           "date": "2026-07-21T10:14:01+00:00",
@@ -236,12 +242,6 @@
           "title": "The road surface is bumpy and causes our listed house to shake, 8th July",
           "url": "https://www.fixmystreet.com/report/9752094",
           "date": "2026-07-08T08:06:41+00:00",
-          "category": null
-        },
-        {
-          "title": "Constant ongoing fly tipping!, 5th July",
-          "url": "https://www.fixmystreet.com/report/9736589",
-          "date": "2026-07-05T16:26:50+00:00",
           "category": null
         }
       ],
