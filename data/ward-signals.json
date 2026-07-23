@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T08:37:59.870782+00:00",
+    "generated_at": "2026-07-23T14:11:00.559991+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -72,6 +72,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Croydon’s first peregrine falcons fledge from landmark building",
+          "url": "https://insidecroydon.com/2026/07/23/croydons-first-peregrine-falcons-fledge-from-landmark-building/",
+          "date": "2026-07-23T13:32:21+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Perry challenge to Khan: ‘Croydon’s Green Belt is sacrosanct’",
           "url": "https://insidecroydon.com/2026/07/21/perry-challenge-to-khan-croydons-green-belt-is-sacrosanct/",
@@ -173,6 +179,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Road breaking up with water coming out, 23rd July",
+          "url": "https://www.fixmystreet.com/report/9833109",
+          "date": "2026-07-23T08:39:54+00:00",
+          "category": null
+        },
+        {
           "title": "Temporary light broken again!, 22nd July",
           "url": "https://www.fixmystreet.com/report/9827109",
           "date": "2026-07-22T09:11:40+00:00",
@@ -224,12 +236,6 @@
           "title": "Illegal parked vehicle, 9th July",
           "url": "https://www.fixmystreet.com/report/9761097",
           "date": "2026-07-09T15:41:16+00:00",
-          "category": null
-        },
-        {
-          "title": "Loose manhole cover, 8th July",
-          "url": "https://www.fixmystreet.com/report/9756330",
-          "date": "2026-07-08T18:47:50+00:00",
           "category": null
         }
       ],
@@ -332,7 +338,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Meteor shower and solar eclipse will keep star gazers busy",
+          "url": "https://insidecroydon.com/2026/07/23/meteor-shower-and-solar-eclipse-will-keep-star-gazers-busy/",
+          "date": "2026-07-23T12:19:22+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "New Addington North": {
       "fixmystreet": [
@@ -724,12 +737,6 @@
           "url": "https://insidecroydon.com/2026/07/19/the-great-british-bake-off-musical-mitre-theatre-july-21-25-2/",
           "date": "2026-07-19T09:49:06+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "The Great British Bake Off Musical, Mitre Theatre, July 21-25",
-          "url": "https://insidecroydon.com/2026/07/14/the-great-british-bake-off-musical-mitre-theatre-july-21-25/",
-          "date": "2026-07-14T08:57:24+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -772,12 +779,6 @@
           "title": "The Great British Bake Off Musical, Mitre Theatre, July 21-25",
           "url": "https://insidecroydon.com/2026/07/19/the-great-british-bake-off-musical-mitre-theatre-july-21-25-2/",
           "date": "2026-07-19T09:49:06+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "The Great British Bake Off Musical, Mitre Theatre, July 21-25",
-          "url": "https://insidecroydon.com/2026/07/14/the-great-british-bake-off-musical-mitre-theatre-july-21-25/",
-          "date": "2026-07-14T08:57:24+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -953,12 +954,6 @@
           "url": "https://www.fixmystreet.com/report/9705315",
           "date": "2026-06-29T23:24:33+00:00",
           "category": null
-        },
-        {
-          "title": "A232 Road Disintegrated, 23rd June",
-          "url": "https://www.fixmystreet.com/report/9668740",
-          "date": "2026-06-23T09:39:47+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -984,6 +979,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Trolley, 23rd July",
+          "url": "https://www.fixmystreet.com/report/9833124",
+          "date": "2026-07-23T08:41:36+00:00",
+          "category": null
+        },
         {
           "title": "Metal thing, 1st July",
           "url": "https://www.fixmystreet.com/report/9715537",
