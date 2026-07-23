@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T19:28:38.552262+00:00",
+    "generated_at": "2026-07-23T03:16:14.112543+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -158,12 +158,6 @@
           "title": "2 medium potholes, 28th June",
           "url": "https://www.fixmystreet.com/report/9695084",
           "date": "2026-06-28T11:44:39+00:00",
-          "category": null
-        },
-        {
-          "title": "Trees leaning heavily presenting risk and damage, 22nd June",
-          "url": "https://www.fixmystreet.com/report/9666069",
-          "date": "2026-06-22T19:51:47+00:00",
           "category": null
         }
       ],
@@ -612,12 +606,6 @@
           "title": "Previously repaved tarmac has risen since June 2026 storm, 24th June",
           "url": "https://www.fixmystreet.com/report/9675290",
           "date": "2026-06-24T10:12:05+00:00",
-          "category": null
-        },
-        {
-          "title": "Boundary hedge obstructing footpath, 22nd June",
-          "url": "https://www.fixmystreet.com/report/9666683",
-          "date": "2026-06-22T22:54:24+00:00",
           "category": null
         }
       ],
