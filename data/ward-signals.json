@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T08:34:38.292139+00:00",
+    "generated_at": "2026-07-24T13:53:42.027173+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -179,6 +179,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Rubbish dumped next to path, 24th July",
+          "url": "https://www.fixmystreet.com/report/9840327",
+          "date": "2026-07-24T11:40:40+00:00",
+          "category": null
+        },
+        {
           "title": "Road breaking up with water coming out, 23rd July",
           "url": "https://www.fixmystreet.com/report/9833109",
           "date": "2026-07-23T08:39:54+00:00",
@@ -231,26 +237,20 @@
           "url": "https://www.fixmystreet.com/report/9761160",
           "date": "2026-07-09T15:42:19+00:00",
           "category": null
-        },
-        {
-          "title": "Illegal parked vehicle, 9th July",
-          "url": "https://www.fixmystreet.com/report/9761097",
-          "date": "2026-07-09T15:41:16+00:00",
-          "category": null
         }
       ],
       "reddit": [],
       "news": [
         {
-          "title": "Crystal Palace’s dinosaurs are no longer at risk of extinction",
-          "url": "https://insidecroydon.com/2026/07/16/crystal-palaces-dinosaurs-are-no-longer-at-risk-of-extinction/",
-          "date": "2026-07-16T15:04:09+00:00",
+          "title": "£130m Crystal Palace sports centre scheme is given go-ahead",
+          "url": "https://insidecroydon.com/2026/07/24/130m-crystal-palace-sports-centre-scheme-is-given-go-ahead/",
+          "date": "2026-07-24T10:59:34+00:00",
           "publisher": "Inside Croydon"
         },
         {
-          "title": "Primary schools are hit by strikes over ‘toxic bullying culture’",
-          "url": "https://insidecroydon.com/2026/07/15/primary-schools-closed-by-strikes-over-toxic-bullying-culture/",
-          "date": "2026-07-15T14:52:56+00:00",
+          "title": "Crystal Palace’s dinosaurs are no longer at risk of extinction",
+          "url": "https://insidecroydon.com/2026/07/16/crystal-palaces-dinosaurs-are-no-longer-at-risk-of-extinction/",
+          "date": "2026-07-16T15:04:09+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -562,6 +562,12 @@
     "Purley Oaks and Riddlesdown": {
       "fixmystreet": [
         {
+          "title": "Abandoned, damaged car., 24th July",
+          "url": "https://www.fixmystreet.com/report/9839493",
+          "date": "2026-07-24T09:22:59+00:00",
+          "category": null
+        },
+        {
           "title": "Vehicle parking too close to central reservation, 14th July",
           "url": "https://www.fixmystreet.com/report/9781656",
           "date": "2026-07-14T00:40:11+00:00",
@@ -620,12 +626,6 @@
           "url": "https://www.fixmystreet.com/report/9677874",
           "date": "2026-06-24T17:22:16+00:00",
           "category": null
-        },
-        {
-          "title": "Previously repaved tarmac has risen since June 2026 storm, 24th June",
-          "url": "https://www.fixmystreet.com/report/9675290",
-          "date": "2026-06-24T10:12:05+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -637,19 +637,25 @@
       "news": []
     },
     "Selhurst": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Massive potholes at end od saddle mews, 24th July",
+          "url": "https://www.fixmystreet.com/report/9840781",
+          "date": "2026-07-24T12:40:53+00:00",
+          "category": null
+        },
+        {
+          "title": "Dead fox on the road (been run over), 24th July",
+          "url": "https://www.fixmystreet.com/report/9838774",
+          "date": "2026-07-24T08:56:19+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
     "Selsdon Vale and Forestdale": {
-      "fixmystreet": [
-        {
-          "title": "Abandoned Amazon Van, 24th June",
-          "url": "https://www.fixmystreet.com/report/9676658",
-          "date": "2026-06-24T13:22:15+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": [
         {
