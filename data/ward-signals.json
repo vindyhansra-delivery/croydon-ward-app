@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T19:25:36.748286+00:00",
+    "generated_at": "2026-07-24T02:55:30.768059+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -288,6 +288,12 @@
     },
     "Kenley": {
       "fixmystreet": [
+        {
+          "title": "Speeding, 23rd July",
+          "url": "https://www.fixmystreet.com/report/9837793",
+          "date": "2026-07-23T20:51:38+00:00",
+          "category": null
+        },
         {
           "title": "Car has not moved, 21st July",
           "url": "https://www.fixmystreet.com/report/9821756",
