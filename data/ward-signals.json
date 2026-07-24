@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T02:55:30.768059+00:00",
+    "generated_at": "2026-07-24T08:34:38.292139+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -277,14 +277,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "‘The saddest news about Croydon town centre since the riots’",
-          "url": "https://insidecroydon.com/2026/07/15/the-saddest-news-about-croydon-town-centre-since-the-riots/",
-          "date": "2026-07-15T13:17:11+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Kenley": {
       "fixmystreet": [
@@ -414,6 +407,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Three jailed over sawn-off shotgun shooting in New Addington",
+          "url": "https://insidecroydon.com/2026/07/24/three-jailed-over-sawn-off-shotgun-shooting-in-new-addington/",
+          "date": "2026-07-24T08:22:32+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Perry challenge to Khan: ‘Croydon’s Green Belt is sacrosanct’",
           "url": "https://insidecroydon.com/2026/07/21/perry-challenge-to-khan-croydons-green-belt-is-sacrosanct/",
           "date": "2026-07-21T15:53:07+00:00",
@@ -484,6 +483,12 @@
     "Old Coulsdon": {
       "fixmystreet": [
         {
+          "title": "Overgrown Brambles & Stinging Nettles etc, 24th July",
+          "url": "https://www.fixmystreet.com/report/9838805",
+          "date": "2026-07-24T07:55:42+00:00",
+          "category": null
+        },
+        {
           "title": "Remains of accident Coulsdon road, 22nd July",
           "url": "https://www.fixmystreet.com/report/9827565",
           "date": "2026-07-22T10:05:34+00:00",
@@ -521,7 +526,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Three jailed over sawn-off shotgun shooting in New Addington",
+          "url": "https://insidecroydon.com/2026/07/24/three-jailed-over-sawn-off-shotgun-shooting-in-new-addington/",
+          "date": "2026-07-24T08:22:32+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Park Hill and Whitgift": {
       "fixmystreet": [],
@@ -650,6 +662,12 @@
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
+        {
+          "title": "The bins in the park are overflowing., 24th July",
+          "url": "https://www.fixmystreet.com/report/9838976",
+          "date": "2026-07-24T08:22:20+00:00",
+          "category": null
+        },
         {
           "title": "Trees on spout hill overgrown, 11th July",
           "url": "https://www.fixmystreet.com/report/9769604",
@@ -973,6 +991,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Bin full by house before tramline and rubbish nearby before tramline, 24th July",
+          "url": "https://www.fixmystreet.com/report/9838138",
+          "date": "2026-07-24T03:26:01+00:00",
+          "category": null
+        },
         {
           "title": "Trolley, 23rd July",
           "url": "https://www.fixmystreet.com/report/9833124",
