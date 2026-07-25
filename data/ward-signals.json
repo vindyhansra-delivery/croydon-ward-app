@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T02:54:49.076675+00:00",
+    "generated_at": "2026-07-25T08:13:07.929688+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -649,7 +649,14 @@
       "news": []
     },
     "Selsdon Vale and Forestdale": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Bollard/post removed, 25th July",
+          "url": "https://www.fixmystreet.com/report/9844187",
+          "date": "2026-07-25T07:54:09+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": [
         {
@@ -693,6 +700,12 @@
     },
     "Shirley North": {
       "fixmystreet": [
+        {
+          "title": "Dumped Rubbish, 25th July",
+          "url": "https://www.fixmystreet.com/report/9843973",
+          "date": "2026-07-25T06:29:00+00:00",
+          "category": null
+        },
         {
           "title": "Trolley, 23rd July",
           "url": "https://www.fixmystreet.com/report/9832982",
