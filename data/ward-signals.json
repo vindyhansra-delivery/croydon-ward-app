@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-25T13:43:37.933323+00:00",
+    "generated_at": "2026-07-25T19:14:14.580428+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -395,12 +395,6 @@
           "title": "Hedge needs cutting, 4th July",
           "url": "https://www.fixmystreet.com/report/9731548",
           "date": "2026-07-04T10:03:31+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped rubbish and gas cylinder, 25th June",
-          "url": "https://www.fixmystreet.com/report/9683843",
-          "date": "2026-06-25T16:25:02+00:00",
           "category": null
         }
       ],
