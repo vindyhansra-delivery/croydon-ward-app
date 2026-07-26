@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T03:19:58.212999+00:00",
+    "generated_at": "2026-07-26T08:33:35.628578+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -772,12 +772,6 @@
           "title": "Pothole, 28th June",
           "url": "https://www.fixmystreet.com/report/9695037",
           "date": "2026-06-28T11:30:20+00:00",
-          "category": null
-        },
-        {
-          "title": "Street Light, 26th June",
-          "url": "https://www.fixmystreet.com/report/9686351",
-          "date": "2026-06-26T08:27:23+00:00",
           "category": null
         }
       ],
