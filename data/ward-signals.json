@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T08:33:35.628578+00:00",
+    "generated_at": "2026-07-26T13:38:38.976729+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -787,6 +787,18 @@
     },
     "South Croydon": {
       "fixmystreet": [
+        {
+          "title": "Dead tree leaning across path, 26th July",
+          "url": "https://www.fixmystreet.com/report/9848284",
+          "date": "2026-07-26T11:27:28+00:00",
+          "category": null
+        },
+        {
+          "title": "Rubbish left by dog bin, 26th July",
+          "url": "https://www.fixmystreet.com/report/9848262",
+          "date": "2026-07-26T11:23:57+00:00",
+          "category": null
+        },
         {
           "title": "Pavement and curb badly broken - trip hazard, 29th June",
           "url": "https://www.fixmystreet.com/report/9701427",
