@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T13:38:38.976729+00:00",
+    "generated_at": "2026-07-26T19:18:47.410448+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -39,6 +39,12 @@
     },
     "Addiscombe West": {
       "fixmystreet": [
+        {
+          "title": "Temporary traffic lights showing red on both sides for past three hours around a bend, 26th July",
+          "url": "https://www.fixmystreet.com/report/9849349",
+          "date": "2026-07-26T15:46:40+00:00",
+          "category": null
+        },
         {
           "title": "Vehicle blocking access to the driveways, 20th July",
           "url": "https://www.fixmystreet.com/report/9813262",
@@ -362,12 +368,6 @@
           "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
           "date": "2026-07-18T14:07:25+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Council sets up group to mark 10th anniversary of tram crash",
-          "url": "https://insidecroydon.com/2026/07/17/council-sets-up-group-to-mark-10th-anniversary-of-tram-crash/",
-          "date": "2026-07-17T12:53:46+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -416,12 +416,6 @@
           "title": "London’s ‘Lord Mayor’ puts Croydon Green Belt in his plan",
           "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
           "date": "2026-07-18T14:07:25+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Council sets up group to mark 10th anniversary of tram crash",
-          "url": "https://insidecroydon.com/2026/07/17/council-sets-up-group-to-mark-10th-anniversary-of-tram-crash/",
-          "date": "2026-07-17T12:53:46+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -750,6 +744,12 @@
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "Graffiti on Bethlem Royal Hospital old “Temp” walls, 26th July",
+          "url": "https://www.fixmystreet.com/report/9849186",
+          "date": "2026-07-26T15:11:16+00:00",
+          "category": null
+        },
         {
           "title": "Very deep and dangerous hole in the road, 14th July",
           "url": "https://www.fixmystreet.com/report/9784451",
