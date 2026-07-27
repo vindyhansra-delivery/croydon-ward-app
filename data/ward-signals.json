@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-27T10:00:18.219924+00:00",
+    "generated_at": "2026-07-27T14:44:46.533775+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -573,12 +573,6 @@
           "url": "https://www.fixmystreet.com/report/9695942",
           "date": "2026-06-28T14:57:59+00:00",
           "category": null
-        },
-        {
-          "title": "Car park for over a week on pavement., 27th June",
-          "url": "https://www.fixmystreet.com/report/9692344",
-          "date": "2026-06-27T14:03:16+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -629,7 +623,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Friends on a mission in Selhurst’s neglected Whitehorse Rec",
+          "url": "https://insidecroydon.com/2026/07/27/friends-on-a-mission-in-selhursts-neglected-whitehorse-rec/",
+          "date": "2026-07-27T11:30:26+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
