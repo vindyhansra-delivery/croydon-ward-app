@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T02:47:22.048527+00:00",
+    "generated_at": "2026-07-28T08:41:39.231891+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -88,12 +88,6 @@
           "title": "Perry challenge to Khan: ‘Croydon’s Green Belt is sacrosanct’",
           "url": "https://insidecroydon.com/2026/07/21/perry-challenge-to-khan-croydons-green-belt-is-sacrosanct/",
           "date": "2026-07-21T15:53:07+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "London’s ‘Lord Mayor’ puts Croydon Green Belt in his plan",
-          "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
-          "date": "2026-07-18T14:07:25+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -282,6 +276,12 @@
     "Kenley": {
       "fixmystreet": [
         {
+          "title": "Overgrown, 28th July",
+          "url": "https://www.fixmystreet.com/report/9857367",
+          "date": "2026-07-28T07:18:04+00:00",
+          "category": null
+        },
+        {
           "title": "Hasn’t moved in months, 24th July",
           "url": "https://www.fixmystreet.com/report/9843207",
           "date": "2026-07-24T19:16:53+00:00",
@@ -356,12 +356,6 @@
           "url": "https://insidecroydon.com/2026/07/21/perry-challenge-to-khan-croydons-green-belt-is-sacrosanct/",
           "date": "2026-07-21T15:53:07+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "London’s ‘Lord Mayor’ puts Croydon Green Belt in his plan",
-          "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
-          "date": "2026-07-18T14:07:25+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -404,12 +398,6 @@
           "title": "Perry challenge to Khan: ‘Croydon’s Green Belt is sacrosanct’",
           "url": "https://insidecroydon.com/2026/07/21/perry-challenge-to-khan-croydons-green-belt-is-sacrosanct/",
           "date": "2026-07-21T15:53:07+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "London’s ‘Lord Mayor’ puts Croydon Green Belt in his plan",
-          "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
-          "date": "2026-07-18T14:07:25+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -533,12 +521,6 @@
           "url": "https://insidecroydon.com/2026/07/21/perry-challenge-to-khan-croydons-green-belt-is-sacrosanct/",
           "date": "2026-07-21T15:53:07+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "London’s ‘Lord Mayor’ puts Croydon Green Belt in his plan",
-          "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
-          "date": "2026-07-18T14:07:25+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -629,6 +611,12 @@
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
         {
+          "title": "Rubbish on floor next to bus stop, 28th July",
+          "url": "https://www.fixmystreet.com/report/9857307",
+          "date": "2026-07-28T06:15:21+00:00",
+          "category": null
+        },
+        {
           "title": "Bollard/post removed, 25th July",
           "url": "https://www.fixmystreet.com/report/9844187",
           "date": "2026-07-25T07:54:09+00:00",
@@ -666,12 +654,6 @@
           "title": "Perry challenge to Khan: ‘Croydon’s Green Belt is sacrosanct’",
           "url": "https://insidecroydon.com/2026/07/21/perry-challenge-to-khan-croydons-green-belt-is-sacrosanct/",
           "date": "2026-07-21T15:53:07+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "London’s ‘Lord Mayor’ puts Croydon Green Belt in his plan",
-          "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
-          "date": "2026-07-18T14:07:25+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -838,12 +820,6 @@
           "url": "https://insidecroydon.com/2026/07/21/end-of-year-report-whitgift-head-finds-room-for-improvement/",
           "date": "2026-07-21T10:17:12+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "London’s ‘Lord Mayor’ puts Croydon Green Belt in his plan",
-          "url": "https://insidecroydon.com/2026/07/18/londons-lord-mayor-puts-croydon-green-belt-in-his-plan/",
-          "date": "2026-07-18T14:07:25+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -994,6 +970,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Water leaking and pooling beside tramway, 28th July",
+          "url": "https://www.fixmystreet.com/report/9857685",
+          "date": "2026-07-28T07:34:14+00:00",
+          "category": null
+        },
         {
           "title": "Abandoned silver mercedes SUV, 27th July",
           "url": "https://www.fixmystreet.com/report/9855535",
