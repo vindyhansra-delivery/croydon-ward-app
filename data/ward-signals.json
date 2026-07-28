@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-28T08:41:39.231891+00:00",
+    "generated_at": "2026-07-28T14:16:35.979139+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -158,12 +158,6 @@
           "title": "Hedge at corner is overgrown, obstructing the pathway, 29th June",
           "url": "https://www.fixmystreet.com/report/9702172",
           "date": "2026-06-29T13:47:20+00:00",
-          "category": null
-        },
-        {
-          "title": "2 medium potholes, 28th June",
-          "url": "https://www.fixmystreet.com/report/9695084",
-          "date": "2026-06-28T11:44:39+00:00",
           "category": null
         }
       ],
@@ -661,6 +655,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Dumped tree, 28th July",
+          "url": "https://www.fixmystreet.com/report/9858581",
+          "date": "2026-07-28T09:29:08+00:00",
+          "category": null
+        },
+        {
           "title": "Dumped Rubbish, 25th July",
           "url": "https://www.fixmystreet.com/report/9843973",
           "date": "2026-07-25T06:29:00+00:00",
@@ -716,14 +716,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "The Great British Bake Off Musical, Mitre Theatre, July 21-25",
-          "url": "https://insidecroydon.com/2026/07/19/the-great-british-bake-off-musical-mitre-theatre-july-21-25-2/",
-          "date": "2026-07-19T09:49:06+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Shirley South": {
       "fixmystreet": [
@@ -750,26 +743,19 @@
           "url": "https://www.fixmystreet.com/report/9745559",
           "date": "2026-07-07T07:55:06+00:00",
           "category": null
-        },
-        {
-          "title": "Pothole, 28th June",
-          "url": "https://www.fixmystreet.com/report/9695037",
-          "date": "2026-06-28T11:30:20+00:00",
-          "category": null
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "The Great British Bake Off Musical, Mitre Theatre, July 21-25",
-          "url": "https://insidecroydon.com/2026/07/19/the-great-british-bake-off-musical-mitre-theatre-july-21-25-2/",
-          "date": "2026-07-19T09:49:06+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "South Croydon": {
       "fixmystreet": [
+        {
+          "title": "Growth on bases of trees along Pampisford Road, 28th July",
+          "url": "https://www.fixmystreet.com/report/9859688",
+          "date": "2026-07-28T11:31:54+00:00",
+          "category": null
+        },
         {
           "title": "Dead tree leaning across path, 26th July",
           "url": "https://www.fixmystreet.com/report/9848284",
@@ -787,12 +773,6 @@
           "url": "https://www.fixmystreet.com/report/9701427",
           "date": "2026-06-29T12:30:36+00:00",
           "category": "Pavement and curb badly broken"
-        },
-        {
-          "title": "2 bags of children's toys, 28th June",
-          "url": "https://www.fixmystreet.com/report/9695093",
-          "date": "2026-06-28T11:46:16+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -825,6 +805,24 @@
     },
     "South Norwood": {
       "fixmystreet": [
+        {
+          "title": "Large solar panel and camera attached to lamp post, 28th July",
+          "url": "https://www.fixmystreet.com/report/9859730",
+          "date": "2026-07-28T11:36:37+00:00",
+          "category": null
+        },
+        {
+          "title": "Dead end sign - not a dead end., 28th July",
+          "url": "https://www.fixmystreet.com/report/9859726",
+          "date": "2026-07-28T11:35:36+00:00",
+          "category": "Dead end sign"
+        },
+        {
+          "title": "Obstruction in road. Planter needs removing, 28th July",
+          "url": "https://www.fixmystreet.com/report/9859717",
+          "date": "2026-07-28T11:34:11+00:00",
+          "category": null
+        },
         {
           "title": "Rubbish left, 21st July",
           "url": "https://www.fixmystreet.com/report/9819632",
