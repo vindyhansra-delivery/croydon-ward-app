@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T02:54:10.269423+00:00",
+    "generated_at": "2026-07-29T08:48:24.690016+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -444,12 +444,6 @@
           "title": "Leaning concrete retaining wall and separating fence posing public safety risk, 7th July",
           "url": "https://www.fixmystreet.com/report/9746853",
           "date": "2026-07-07T10:18:04+00:00",
-          "category": null
-        },
-        {
-          "title": "Road bollard knocked down, 29th June",
-          "url": "https://www.fixmystreet.com/report/9698499",
-          "date": "2026-06-29T07:34:38+00:00",
           "category": null
         }
       ],
