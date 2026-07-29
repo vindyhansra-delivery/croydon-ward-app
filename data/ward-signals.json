@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T08:48:24.690016+00:00",
+    "generated_at": "2026-07-29T14:19:20.159391+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -105,12 +105,6 @@
           "url": "https://www.fixmystreet.com/report/9755310",
           "date": "2026-07-08T15:14:35+00:00",
           "category": null
-        },
-        {
-          "title": "Good Afternoon, One of your contractors came to clear the overgrown vegetation, which was causing damage to my garage at the back of my garden. They came in the Autumn of last year. Further to this, they said they will come back in the Summer to fully complete the works and spray some permanent weed killer. Please can this done at the earliest possible convenience. Mr. K. Sheikh, 66, Bensham Manor Road, Thornton Heath, Surrey, Cr7 7ab. Kindest Regards., 29th June",
-          "url": "https://www.fixmystreet.com/report/9700006",
-          "date": "2026-06-29T10:03:38+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -158,12 +152,6 @@
           "title": "Collapsing drain cover in road, 6th July",
           "url": "https://www.fixmystreet.com/report/9741950",
           "date": "2026-07-06T14:01:29+00:00",
-          "category": null
-        },
-        {
-          "title": "Hedge at corner is overgrown, obstructing the pathway, 29th June",
-          "url": "https://www.fixmystreet.com/report/9702172",
-          "date": "2026-06-29T13:47:20+00:00",
           "category": null
         }
       ],
@@ -570,7 +558,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Police dispersal notice in clampdown on crime-ridden… Purley",
+          "url": "https://insidecroydon.com/2026/07/29/police-dispersal-notice-in-clampdown-on-crime-ridden-purley/",
+          "date": "2026-07-29T10:44:27+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Sanderstead": {
       "fixmystreet": [],
@@ -644,6 +639,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Selsdon Wood’s drought-hit nature reserve placed on fire alert",
+          "url": "https://insidecroydon.com/2026/07/29/selsdon-woods-drought-hit-nature-reserve-placed-on-fire-alert/",
+          "date": "2026-07-29T08:54:40+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Perry challenge to Khan: ‘Croydon’s Green Belt is sacrosanct’",
           "url": "https://insidecroydon.com/2026/07/21/perry-challenge-to-khan-croydons-green-belt-is-sacrosanct/",
@@ -767,12 +768,6 @@
           "url": "https://www.fixmystreet.com/report/9848262",
           "date": "2026-07-26T11:23:57+00:00",
           "category": null
-        },
-        {
-          "title": "Pavement and curb badly broken - trip hazard, 29th June",
-          "url": "https://www.fixmystreet.com/report/9701427",
-          "date": "2026-06-29T12:30:36+00:00",
-          "category": "Pavement and curb badly broken"
         }
       ],
       "reddit": [],
