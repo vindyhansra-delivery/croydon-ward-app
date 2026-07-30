@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T19:24:08.261946+00:00",
+    "generated_at": "2026-07-30T02:39:12.057865+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -880,6 +880,12 @@
     "Thornton Heath": {
       "fixmystreet": [
         {
+          "title": "Narrow Road, 29th July",
+          "url": "https://www.fixmystreet.com/report/9869384",
+          "date": "2026-07-29T22:21:12+00:00",
+          "category": null
+        },
+        {
           "title": "Next to 87 Cranbrook Road, 21st July",
           "url": "https://www.fixmystreet.com/report/9824942",
           "date": "2026-07-21T18:52:33+00:00",
@@ -949,12 +955,6 @@
           "title": "Low hanging branches, 10th July",
           "url": "https://www.fixmystreet.com/report/9764911",
           "date": "2026-07-10T10:03:50+00:00",
-          "category": null
-        },
-        {
-          "title": "Vans parked outside driveways blocking entry and exit to the house, 30th June",
-          "url": "https://www.fixmystreet.com/report/9705315",
-          "date": "2026-06-29T23:24:33+00:00",
           "category": null
         }
       ],
