@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-30T02:39:12.057865+00:00",
+    "generated_at": "2026-07-30T08:34:05.120471+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -434,6 +434,12 @@
     },
     "Norbury and Pollards Hill": {
       "fixmystreet": [
+        {
+          "title": "Dumped mattress., 30th July",
+          "url": "https://www.fixmystreet.com/report/9870030",
+          "date": "2026-07-30T07:11:22+00:00",
+          "category": null
+        },
         {
           "title": "Leaning concrete retaining wall and separating fence posing public safety risk, 7th July",
           "url": "https://www.fixmystreet.com/report/9746853",
@@ -981,6 +987,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "20mph rotated causing confusion and mistakes, 30th July",
+          "url": "https://www.fixmystreet.com/report/9869771",
+          "date": "2026-07-30T06:07:59+00:00",
+          "category": null
+        },
         {
           "title": "Water leaking and pooling beside tramway, 28th July",
           "url": "https://www.fixmystreet.com/report/9857685",
