@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-30T08:34:05.120471+00:00",
+    "generated_at": "2026-07-30T14:11:46.217918+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -322,12 +322,6 @@
           "url": "https://www.fixmystreet.com/report/9727422",
           "date": "2026-07-03T11:24:15+00:00",
           "category": null
-        },
-        {
-          "title": "Street light not working, 30th June",
-          "url": "https://www.fixmystreet.com/report/9709021",
-          "date": "2026-06-30T13:00:23+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -452,6 +446,12 @@
     },
     "Old Coulsdon": {
       "fixmystreet": [
+        {
+          "title": "One only Yellow Keep Left sign off its base, 30th July",
+          "url": "https://www.fixmystreet.com/report/9872082",
+          "date": "2026-07-30T11:24:48+00:00",
+          "category": null
+        },
         {
           "title": "Overgrown Brambles & Stinging Nettles etc, 24th July",
           "url": "https://www.fixmystreet.com/report/9838805",
@@ -668,6 +668,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Dead fox, 30th July",
+          "url": "https://www.fixmystreet.com/report/9870944",
+          "date": "2026-07-30T09:08:34+00:00",
+          "category": null
+        },
+        {
           "title": "Dumped tree, 28th July",
           "url": "https://www.fixmystreet.com/report/9858581",
           "date": "2026-07-28T09:29:08+00:00",
@@ -719,12 +725,6 @@
           "title": "Speeding and over use, 9th July",
           "url": "https://www.fixmystreet.com/report/9761291",
           "date": "2026-07-09T15:24:18+00:00",
-          "category": null
-        },
-        {
-          "title": "Long-standing unmanaged vegetation and neglected land adjacent to Croydon Road / Longheath Gardens, 30th June",
-          "url": "https://www.fixmystreet.com/report/9712027",
-          "date": "2026-06-30T21:52:47+00:00",
           "category": null
         }
       ],
