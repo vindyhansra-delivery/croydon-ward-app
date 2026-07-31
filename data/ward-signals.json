@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-31T08:56:49.450488+00:00",
+    "generated_at": "2026-07-31T14:16:49.547837+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -31,12 +31,6 @@
           "title": "Rubbish, 14th July",
           "url": "https://www.fixmystreet.com/report/9787949",
           "date": "2026-07-14T21:13:42+00:00",
-          "category": null
-        },
-        {
-          "title": "Sofa, 1st July",
-          "url": "https://www.fixmystreet.com/report/9715515",
-          "date": "2026-07-01T12:14:59+00:00",
           "category": null
         }
       ],
@@ -88,12 +82,6 @@
           "title": "Croydon’s first peregrine falcons fledge from landmark building",
           "url": "https://insidecroydon.com/2026/07/23/croydons-first-peregrine-falcons-fledge-from-landmark-building/",
           "date": "2026-07-23T13:32:21+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Perry challenge to Khan: ‘Croydon’s Green Belt is sacrosanct’",
-          "url": "https://insidecroydon.com/2026/07/21/perry-challenge-to-khan-croydons-green-belt-is-sacrosanct/",
-          "date": "2026-07-21T15:53:07+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -155,6 +143,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Roadworks left incomplete causing severe traffic congesTion, 31st July",
+          "url": "https://www.fixmystreet.com/report/9878606",
+          "date": "2026-07-31T13:23:52+00:00",
+          "category": null
+        },
+        {
           "title": "Max speed sign hit by a car on entrance to Eskmont Ridge, 31st July",
           "url": "https://www.fixmystreet.com/report/9876047",
           "date": "2026-07-31T07:50:08+00:00",
@@ -206,12 +200,6 @@
           "title": "Collapsing cover. noise disturbance., 13th July",
           "url": "https://www.fixmystreet.com/report/9780271",
           "date": "2026-07-13T17:38:17+00:00",
-          "category": null
-        },
-        {
-          "title": "Damaged curb with lose stones, 11th July",
-          "url": "https://www.fixmystreet.com/report/9770146",
-          "date": "2026-07-11T13:40:08+00:00",
           "category": null
         }
       ],
@@ -334,9 +322,9 @@
       "reddit": [],
       "news": [
         {
-          "title": "Perry challenge to Khan: ‘Croydon’s Green Belt is sacrosanct’",
-          "url": "https://insidecroydon.com/2026/07/21/perry-challenge-to-khan-croydons-green-belt-is-sacrosanct/",
-          "date": "2026-07-21T15:53:07+00:00",
+          "title": "Council’s ‘no barbecues’ plea after wildfires hit New Addington",
+          "url": "https://insidecroydon.com/2026/07/31/councils-no-barbecues-plea-after-wildfires-hit-new-addington/",
+          "date": "2026-07-31T10:42:37+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -371,15 +359,15 @@
       "reddit": [],
       "news": [
         {
-          "title": "Three jailed over sawn-off shotgun shooting in New Addington",
-          "url": "https://insidecroydon.com/2026/07/24/three-jailed-over-sawn-off-shotgun-shooting-in-new-addington/",
-          "date": "2026-07-24T08:22:32+00:00",
+          "title": "Council’s ‘no barbecues’ plea after wildfires hit New Addington",
+          "url": "https://insidecroydon.com/2026/07/31/councils-no-barbecues-plea-after-wildfires-hit-new-addington/",
+          "date": "2026-07-31T10:42:37+00:00",
           "publisher": "Inside Croydon"
         },
         {
-          "title": "Perry challenge to Khan: ‘Croydon’s Green Belt is sacrosanct’",
-          "url": "https://insidecroydon.com/2026/07/21/perry-challenge-to-khan-croydons-green-belt-is-sacrosanct/",
-          "date": "2026-07-21T15:53:07+00:00",
+          "title": "Three jailed over sawn-off shotgun shooting in New Addington",
+          "url": "https://insidecroydon.com/2026/07/24/three-jailed-over-sawn-off-shotgun-shooting-in-new-addington/",
+          "date": "2026-07-24T08:22:32+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -509,12 +497,6 @@
           "url": "https://insidecroydon.com/2026/07/22/archbishop-tenisons-still-struggling-to-find-replacement-head/",
           "date": "2026-07-22T14:00:12+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Perry challenge to Khan: ‘Croydon’s Green Belt is sacrosanct’",
-          "url": "https://insidecroydon.com/2026/07/21/perry-challenge-to-khan-croydons-green-belt-is-sacrosanct/",
-          "date": "2026-07-21T15:53:07+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -576,7 +558,14 @@
     "Sanderstead": {
       "fixmystreet": [],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Man arrested after staff member stabbed at Sanderstead Shell",
+          "url": "https://insidecroydon.com/2026/07/31/man-arrested-after-staff-member-stabbed-at-sanderstead-shell/",
+          "date": "2026-07-31T14:10:24+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selhurst": {
       "fixmystreet": [
@@ -649,12 +638,6 @@
           "title": "Selsdon Wood’s drought-hit nature reserve placed on fire alert",
           "url": "https://insidecroydon.com/2026/07/29/selsdon-woods-drought-hit-nature-reserve-placed-on-fire-alert/",
           "date": "2026-07-29T08:54:40+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Perry challenge to Khan: ‘Croydon’s Green Belt is sacrosanct’",
-          "url": "https://insidecroydon.com/2026/07/21/perry-challenge-to-khan-croydons-green-belt-is-sacrosanct/",
-          "date": "2026-07-21T15:53:07+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -789,12 +772,6 @@
           "url": "https://insidecroydon.com/2026/07/23/inspectors-rate-whitgift-care-home-as-requires-improvement/",
           "date": "2026-07-23T16:11:47+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Perry challenge to Khan: ‘Croydon’s Green Belt is sacrosanct’",
-          "url": "https://insidecroydon.com/2026/07/21/perry-challenge-to-khan-croydons-green-belt-is-sacrosanct/",
-          "date": "2026-07-21T15:53:07+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -862,14 +839,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "£10-a-ticket offer for South Norwood Rec circus opening shows",
-          "url": "https://insidecroydon.com/2026/07/21/10-a-ticket-offer-for-south-norwood-rec-circus-opening-shows/",
-          "date": "2026-07-21T11:21:01+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Thornton Heath": {
       "fixmystreet": [
@@ -991,12 +961,6 @@
           "title": "Trolley, 23rd July",
           "url": "https://www.fixmystreet.com/report/9833124",
           "date": "2026-07-23T08:41:36+00:00",
-          "category": null
-        },
-        {
-          "title": "Metal thing, 1st July",
-          "url": "https://www.fixmystreet.com/report/9715537",
-          "date": "2026-07-01T12:17:18+00:00",
           "category": null
         }
       ],
