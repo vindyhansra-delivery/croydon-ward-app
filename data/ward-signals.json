@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T03:18:49.359291+00:00",
+    "generated_at": "2026-08-01T08:27:50.478562+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "Red car is blocking my drive., 1st August",
+          "url": "https://www.fixmystreet.com/report/9880934",
+          "date": "2026-08-01T07:45:49+00:00",
+          "category": null
+        },
         {
           "title": "Matress/bed material, 28th July",
           "url": "https://www.fixmystreet.com/report/9861613",
@@ -124,6 +130,12 @@
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "Litter visible after vegetation cut back, 1st August",
+          "url": "https://www.fixmystreet.com/report/9880777",
+          "date": "2026-08-01T06:39:59+00:00",
+          "category": null
+        },
         {
           "title": "Roads dirty & unkept, 12th July",
           "url": "https://www.fixmystreet.com/report/9774894",
