@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T03:21:18.870173+00:00",
+    "generated_at": "2026-08-03T09:54:34.771066+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -655,6 +655,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Matress, 3rd August",
+          "url": "https://www.fixmystreet.com/report/9888155",
+          "date": "2026-08-03T08:34:39+00:00",
+          "category": null
+        },
+        {
           "title": "Cars parked on the pavement, 1st August",
           "url": "https://www.fixmystreet.com/report/9883314",
           "date": "2026-08-01T20:32:59+00:00",
@@ -706,12 +712,6 @@
           "title": "Household items dumped, 13th July",
           "url": "https://www.fixmystreet.com/report/9779022",
           "date": "2026-07-13T14:10:44+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish, 12th July",
-          "url": "https://www.fixmystreet.com/report/9772886",
-          "date": "2026-07-12T12:54:11+00:00",
           "category": null
         }
       ],
@@ -788,6 +788,12 @@
     "South Norwood": {
       "fixmystreet": [
         {
+          "title": "Large obstruction in the road approximately 1 m by half a metre by half a metre, 3rd August",
+          "url": "https://www.fixmystreet.com/report/9887729",
+          "date": "2026-08-03T07:34:19+00:00",
+          "category": null
+        },
+        {
           "title": "Large solar panel and camera attached to lamp post, 28th July",
           "url": "https://www.fixmystreet.com/report/9859730",
           "date": "2026-07-28T11:36:37+00:00",
@@ -839,12 +845,6 @@
           "title": "Overflowing bins again, 8th July",
           "url": "https://www.fixmystreet.com/report/9751402",
           "date": "2026-07-08T06:08:48+00:00",
-          "category": null
-        },
-        {
-          "title": "Illegal driving on footpath, 5th July",
-          "url": "https://www.fixmystreet.com/report/9737219",
-          "date": "2026-07-05T18:52:23+00:00",
           "category": null
         }
       ],
