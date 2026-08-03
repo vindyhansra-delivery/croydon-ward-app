@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T09:54:34.771066+00:00",
+    "generated_at": "2026-08-03T14:48:25.915029+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -366,12 +366,6 @@
           "url": "https://www.fixmystreet.com/report/9763326",
           "date": "2026-07-10T05:59:06+00:00",
           "category": null
-        },
-        {
-          "title": "Hedge needs cutting, 4th July",
-          "url": "https://www.fixmystreet.com/report/9731548",
-          "date": "2026-07-04T10:03:31+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -380,12 +374,6 @@
           "title": "Council’s ‘no barbecues’ plea after wildfires hit New Addington",
           "url": "https://insidecroydon.com/2026/07/31/councils-no-barbecues-plea-after-wildfires-hit-new-addington/",
           "date": "2026-07-31T10:42:37+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Three jailed over sawn-off shotgun shooting in New Addington",
-          "url": "https://insidecroydon.com/2026/07/24/three-jailed-over-sawn-off-shotgun-shooting-in-new-addington/",
-          "date": "2026-07-24T08:22:32+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -408,12 +396,6 @@
           "title": "Over grown trees branches, 14th July",
           "url": "https://www.fixmystreet.com/report/9781807",
           "date": "2026-07-14T05:52:26+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped Motorbike, 4th July",
-          "url": "https://www.fixmystreet.com/report/9732066",
-          "date": "2026-07-04T11:58:03+00:00",
           "category": null
         }
       ],
@@ -490,14 +472,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Three jailed over sawn-off shotgun shooting in New Addington",
-          "url": "https://insidecroydon.com/2026/07/24/three-jailed-over-sawn-off-shotgun-shooting-in-new-addington/",
-          "date": "2026-07-24T08:22:32+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Park Hill and Whitgift": {
       "fixmystreet": [
@@ -596,6 +571,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Lidl summer camp at Legacy zone provides thoughts for food",
+          "url": "https://insidecroydon.com/2026/08/03/lidl-summer-camp-at-legacy-zone-provides-thoughts-for-food/",
+          "date": "2026-08-03T12:44:47+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Friends of Grangewood Park Picnic in the Park, Sun Sep 20",
           "url": "https://insidecroydon.com/2026/08/01/friends-of-grangewood-park-picnic-in-the-park-sun-sep-20/",
           "date": "2026-08-01T13:00:01+00:00",
@@ -611,6 +592,12 @@
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
+        {
+          "title": "Temporary traffic lights not working, 3rd August",
+          "url": "https://www.fixmystreet.com/report/9889844",
+          "date": "2026-08-03T11:54:14+00:00",
+          "category": null
+        },
         {
           "title": "Rubbish on floor next to bus stop, 28th July",
           "url": "https://www.fixmystreet.com/report/9857307",
@@ -775,12 +762,6 @@
           "title": "Charities team up with a festival of football for primary pupils",
           "url": "https://insidecroydon.com/2026/07/25/charities-team-up-for-a-festival-of-football-for-primary-pupils/",
           "date": "2026-07-25T11:24:37+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Inspectors rate Whitgift care home as ‘Requires improvement’",
-          "url": "https://insidecroydon.com/2026/07/23/inspectors-rate-whitgift-care-home-as-requires-improvement/",
-          "date": "2026-07-23T16:11:47+00:00",
           "publisher": "Inside Croydon"
         }
       ]
