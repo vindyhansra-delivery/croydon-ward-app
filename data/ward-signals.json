@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T14:25:16.831398+00:00",
+    "generated_at": "2026-08-04T19:43:44.150269+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -543,6 +543,12 @@
     },
     "Purley and Woodcote": {
       "fixmystreet": [
+        {
+          "title": "Large Pothole At this junction, 4th August",
+          "url": "https://www.fixmystreet.com/report/9897700",
+          "date": "2026-08-04T15:41:18+00:00",
+          "category": null
+        },
         {
           "title": "Vehicle appears to have been abandoned, 21st July",
           "url": "https://www.fixmystreet.com/report/9823550",
