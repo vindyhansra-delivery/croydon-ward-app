@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T14:48:25.915029+00:00",
+    "generated_at": "2026-08-04T02:50:06.251690+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -89,7 +89,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Ansari’s £90m property empire in collapse as receivers move in",
+          "url": "https://insidecroydon.com/2026/08/03/ansaris-90m-property-empire-in-collapse-as-receivers-move-in/",
+          "date": "2026-08-03T16:22:28+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Bensham Manor": {
       "fixmystreet": [
@@ -130,6 +137,18 @@
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "Trees swinging heavily in wind causing damage, 3rd August",
+          "url": "https://www.fixmystreet.com/report/9892220",
+          "date": "2026-08-03T17:42:21+00:00",
+          "category": null
+        },
+        {
+          "title": "Ongoing issue with high powered dirt bikes and e-bikes terrorising park visitors, 3rd August",
+          "url": "https://www.fixmystreet.com/report/9892143",
+          "date": "2026-08-03T17:28:46+00:00",
+          "category": null
+        },
         {
           "title": "Litter visible after vegetation cut back, 1st August",
           "url": "https://www.fixmystreet.com/report/9880777",
@@ -462,12 +481,6 @@
           "title": "Multiple pot holes, 11th July",
           "url": "https://www.fixmystreet.com/report/9770211",
           "date": "2026-07-11T14:03:11+00:00",
-          "category": null
-        },
-        {
-          "title": "Manhole on the pavement., 4th July",
-          "url": "https://www.fixmystreet.com/report/9732784",
-          "date": "2026-07-04T14:45:05+00:00",
           "category": null
         }
       ],
