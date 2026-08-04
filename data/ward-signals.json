@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T02:50:06.251690+00:00",
+    "generated_at": "2026-08-04T08:44:49.503023+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -138,6 +138,12 @@
     "Coulsdon Town": {
       "fixmystreet": [
         {
+          "title": "Blocked pavement, 4th August",
+          "url": "https://www.fixmystreet.com/report/9893680",
+          "date": "2026-08-04T06:21:53+00:00",
+          "category": null
+        },
+        {
           "title": "Trees swinging heavily in wind causing damage, 3rd August",
           "url": "https://www.fixmystreet.com/report/9892220",
           "date": "2026-08-03T17:42:21+00:00",
@@ -253,12 +259,6 @@
           "url": "https://insidecroydon.com/2026/08/01/councillor-adderley-still-left-waiting-for-green-partys-decision/",
           "date": "2026-08-01T15:10:56+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "£130m Crystal Palace sports centre scheme is given go-ahead",
-          "url": "https://insidecroydon.com/2026/07/24/130m-crystal-palace-sports-centre-scheme-is-given-go-ahead/",
-          "date": "2026-07-24T10:59:34+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -339,6 +339,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Passport to Chocolate, workshops at Cocoa Jones, from Aug 6",
+          "url": "https://insidecroydon.com/2026/08/04/passport-to-chocolate-workshops-at-cocoa-jones-from-aug-6-2/",
+          "date": "2026-08-04T08:29:12+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Passport to Chocolate, workshops at Cocoa Jones, from Aug 6",
           "url": "https://insidecroydon.com/2026/08/02/passport-to-chocolate-workshops-at-cocoa-jones-from-aug-6/",
