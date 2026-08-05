@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T14:18:15.537309+00:00",
+    "generated_at": "2026-08-05T19:41:49.787185+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -362,6 +362,12 @@
     "New Addington North": {
       "fixmystreet": [
         {
+          "title": "In parking loan, 5th August",
+          "url": "https://www.fixmystreet.com/report/9904439",
+          "date": "2026-08-05T18:21:37+00:00",
+          "category": null
+        },
+        {
           "title": "Tree from woods over hanging garden, 20th July",
           "url": "https://www.fixmystreet.com/report/9816211",
           "date": "2026-07-20T13:15:59+00:00",
@@ -642,6 +648,12 @@
     "Selsdon and Addington Village": {
       "fixmystreet": [
         {
+          "title": "Untaxed car, 5th August",
+          "url": "https://www.fixmystreet.com/report/9903416",
+          "date": "2026-08-05T14:50:56+00:00",
+          "category": null
+        },
+        {
           "title": "The bins in the park are overflowing., 24th July",
           "url": "https://www.fixmystreet.com/report/9838976",
           "date": "2026-07-24T08:22:20+00:00",
@@ -787,6 +799,12 @@
     "South Norwood": {
       "fixmystreet": [
         {
+          "title": "Anti social behaviour, 5th August",
+          "url": "https://www.fixmystreet.com/report/9904065",
+          "date": "2026-08-05T16:56:06+00:00",
+          "category": null
+        },
+        {
           "title": "Large obstruction in the road approximately 1 m by half a metre by half a metre, 3rd August",
           "url": "https://www.fixmystreet.com/report/9887729",
           "date": "2026-08-03T07:34:19+00:00",
@@ -838,12 +856,6 @@
           "title": "40 to 50 cm diameter & very deep, 8th July",
           "url": "https://www.fixmystreet.com/report/9754177",
           "date": "2026-07-08T12:23:39+00:00",
-          "category": null
-        },
-        {
-          "title": "Overflowing bins again, 8th July",
-          "url": "https://www.fixmystreet.com/report/9751402",
-          "date": "2026-07-08T06:08:48+00:00",
           "category": null
         }
       ],
