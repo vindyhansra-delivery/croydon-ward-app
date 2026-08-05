@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T08:43:21.128841+00:00",
+    "generated_at": "2026-08-05T14:18:15.537309+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -177,12 +177,6 @@
           "title": "Road surface ripped up by manoeuvring lorries and trailers, 9th July",
           "url": "https://www.fixmystreet.com/report/9760891",
           "date": "2026-07-09T14:04:55+00:00",
-          "category": null
-        },
-        {
-          "title": "Collapsing drain cover in road, 6th July",
-          "url": "https://www.fixmystreet.com/report/9741950",
-          "date": "2026-07-06T14:01:29+00:00",
           "category": null
         }
       ],
@@ -560,12 +554,6 @@
           "url": "https://www.fixmystreet.com/report/9819992",
           "date": "2026-07-21T07:41:28+00:00",
           "category": null
-        },
-        {
-          "title": "Overgrown hedges and high traffic speed, 6th July",
-          "url": "https://www.fixmystreet.com/report/9740063",
-          "date": "2026-07-06T10:16:07+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -794,14 +782,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Charities team up with a festival of football for primary pupils",
-          "url": "https://insidecroydon.com/2026/07/25/charities-team-up-for-a-festival-of-football-for-primary-pupils/",
-          "date": "2026-07-25T11:24:37+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "South Norwood": {
       "fixmystreet": [
