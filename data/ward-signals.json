@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T19:41:49.787185+00:00",
+    "generated_at": "2026-08-06T02:50:18.857185+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -122,12 +122,6 @@
           "title": "Fly tipping, 15th July",
           "url": "https://www.fixmystreet.com/report/9789257",
           "date": "2026-07-15T08:03:03+00:00",
-          "category": null
-        },
-        {
-          "title": "Flytipping., 6th July",
-          "url": "https://www.fixmystreet.com/report/9744314",
-          "date": "2026-07-06T20:52:05+00:00",
           "category": null
         }
       ],
@@ -960,6 +954,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Constant speeding, 5th August",
+          "url": "https://www.fixmystreet.com/report/9904955",
+          "date": "2026-08-05T20:27:00+00:00",
+          "category": null
+        },
         {
           "title": "20mph rotated causing confusion and mistakes, 30th July",
           "url": "https://www.fixmystreet.com/report/9869771",
