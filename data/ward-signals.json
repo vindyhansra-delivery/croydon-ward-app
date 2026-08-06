@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T08:44:05.011766+00:00",
+    "generated_at": "2026-08-06T14:22:08.795582+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -340,6 +340,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Spitfire’s Battle of Britain Kenley fly-past booked for Aug 16",
+          "url": "https://insidecroydon.com/2026/08/06/spitfires-battle-of-britain-kenley-fly-past-booked-for-aug-16/",
+          "date": "2026-08-06T12:31:26+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Passport to Chocolate, workshops at Cocoa Jones, from Aug 6",
           "url": "https://insidecroydon.com/2026/08/04/passport-to-chocolate-workshops-at-cocoa-jones-from-aug-6-2/",
           "date": "2026-08-04T08:29:12+00:00",
@@ -451,12 +457,6 @@
           "title": "Dumped mattress., 30th July",
           "url": "https://www.fixmystreet.com/report/9870030",
           "date": "2026-07-30T07:11:22+00:00",
-          "category": null
-        },
-        {
-          "title": "Leaning concrete retaining wall and separating fence posing public safety risk, 7th July",
-          "url": "https://www.fixmystreet.com/report/9746853",
-          "date": "2026-07-07T10:18:04+00:00",
           "category": null
         }
       ],
@@ -800,7 +800,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "South End start-up that tackles scammers wins Innovate award",
+          "url": "https://insidecroydon.com/2026/08/06/south-end-start-up-that-tackles-scammers-wins-innovate-award/",
+          "date": "2026-08-06T11:14:46+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "South Norwood": {
       "fixmystreet": [
@@ -898,12 +905,6 @@
           "title": "Bedding Dumped, 8th July",
           "url": "https://www.fixmystreet.com/report/9752499",
           "date": "2026-07-08T08:49:49+00:00",
-          "category": null
-        },
-        {
-          "title": "Driveway access, 7th July",
-          "url": "https://www.fixmystreet.com/report/9748381",
-          "date": "2026-07-07T13:21:11+00:00",
           "category": null
         }
       ],
