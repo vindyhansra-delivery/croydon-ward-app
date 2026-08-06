@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T02:50:18.857185+00:00",
+    "generated_at": "2026-08-06T08:44:05.011766+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -356,6 +356,12 @@
     "New Addington North": {
       "fixmystreet": [
         {
+          "title": "Tent pitched in woods, 6th August",
+          "url": "https://www.fixmystreet.com/report/9905785",
+          "date": "2026-08-06T06:53:20+00:00",
+          "category": null
+        },
+        {
           "title": "In parking loan, 5th August",
           "url": "https://www.fixmystreet.com/report/9904439",
           "date": "2026-08-05T18:21:37+00:00",
@@ -514,6 +520,12 @@
     "Purley Oaks and Riddlesdown": {
       "fixmystreet": [
         {
+          "title": "Blocked street drains Selcroft Road Purley, 6th August",
+          "url": "https://www.fixmystreet.com/report/9906208",
+          "date": "2026-08-06T08:08:44+00:00",
+          "category": null
+        },
+        {
           "title": "Abandoned, damaged car., 24th July",
           "url": "https://www.fixmystreet.com/report/9839493",
           "date": "2026-07-24T09:22:59+00:00",
@@ -537,6 +549,12 @@
     },
     "Purley and Woodcote": {
       "fixmystreet": [
+        {
+          "title": "Overgrown hedge, 6th August",
+          "url": "https://www.fixmystreet.com/report/9906062",
+          "date": "2026-08-06T07:48:24+00:00",
+          "category": null
+        },
         {
           "title": "Large Pothole At this junction, 4th August",
           "url": "https://www.fixmystreet.com/report/9897700",
@@ -755,12 +773,6 @@
           "url": "https://www.fixmystreet.com/report/9769204",
           "date": "2026-07-11T09:25:38+00:00",
           "category": null
-        },
-        {
-          "title": "Man made bike ramps & rubbish, 7th July",
-          "url": "https://www.fixmystreet.com/report/9745559",
-          "date": "2026-07-07T07:55:06+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -954,6 +966,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Litter inside the park entrance near metal fences in what3words location///extend.flying.fame, 6th August",
+          "url": "https://www.fixmystreet.com/report/9906178",
+          "date": "2026-08-06T08:04:30+00:00",
+          "category": null
+        },
         {
           "title": "Constant speeding, 5th August",
           "url": "https://www.fixmystreet.com/report/9904955",
