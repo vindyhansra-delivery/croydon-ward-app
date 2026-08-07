@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T14:22:08.795582+00:00",
+    "generated_at": "2026-08-07T00:08:02.366020+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -328,12 +328,6 @@
           "title": "Flytipped furniture, 8th July",
           "url": "https://www.fixmystreet.com/report/9755910",
           "date": "2026-07-08T17:13:31+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead fox was in garden. Triple bagged up to collect please, 7th July",
-          "url": "https://www.fixmystreet.com/report/9749607",
-          "date": "2026-07-07T16:33:47+00:00",
           "category": null
         }
       ],
@@ -780,6 +774,12 @@
     },
     "South Croydon": {
       "fixmystreet": [
+        {
+          "title": "Water leak., 6th August",
+          "url": "https://www.fixmystreet.com/report/9910945",
+          "date": "2026-08-06T21:46:32+00:00",
+          "category": null
+        },
         {
           "title": "Growth on bases of trees along Pampisford Road, 28th July",
           "url": "https://www.fixmystreet.com/report/9859688",
