@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T00:08:02.366020+00:00",
+    "generated_at": "2026-08-07T07:23:14.031228+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -137,6 +137,12 @@
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "Pine trees dropping large branches, 7th August",
+          "url": "https://www.fixmystreet.com/report/9911489",
+          "date": "2026-08-07T06:51:39+00:00",
+          "category": null
+        },
         {
           "title": "Blocked pavement, 4th August",
           "url": "https://www.fixmystreet.com/report/9893680",
