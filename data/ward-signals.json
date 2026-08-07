@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T07:23:14.031228+00:00",
+    "generated_at": "2026-08-07T13:12:54.049887+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -186,6 +186,18 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Dead Fox on Road by Beulah Vista Care Home, 7th August",
+          "url": "https://www.fixmystreet.com/report/9911899",
+          "date": "2026-08-07T08:06:12+00:00",
+          "category": null
+        },
+        {
+          "title": "Dead fox on road, 7th August",
+          "url": "https://www.fixmystreet.com/report/9911822",
+          "date": "2026-08-07T07:59:54+00:00",
+          "category": null
+        },
+        {
           "title": "Trees covered over, 1st August",
           "url": "https://www.fixmystreet.com/report/9883444",
           "date": "2026-08-01T21:52:25+00:00",
@@ -231,18 +243,6 @@
           "title": "Rubbish and overflowing bin, 21st July",
           "url": "https://www.fixmystreet.com/report/9825075",
           "date": "2026-07-21T19:35:23+00:00",
-          "category": null
-        },
-        {
-          "title": "Temporary traffic lights are all showing red at a 4 way control, 21st July",
-          "url": "https://www.fixmystreet.com/report/9821162",
-          "date": "2026-07-21T10:14:01+00:00",
-          "category": null
-        },
-        {
-          "title": "Pavement collapsing by side of telecommunications cover, 15th July",
-          "url": "https://www.fixmystreet.com/report/9794716",
-          "date": "2026-07-15T22:40:16+00:00",
           "category": null
         }
       ],
@@ -520,6 +520,12 @@
     "Purley Oaks and Riddlesdown": {
       "fixmystreet": [
         {
+          "title": "Temporary traffic lights have all been switched off, 7th August",
+          "url": "https://www.fixmystreet.com/report/9913089",
+          "date": "2026-08-07T10:44:58+00:00",
+          "category": null
+        },
+        {
           "title": "Blocked street drains Selcroft Road Purley, 6th August",
           "url": "https://www.fixmystreet.com/report/9906208",
           "date": "2026-08-06T08:08:44+00:00",
@@ -549,6 +555,12 @@
     },
     "Purley and Woodcote": {
       "fixmystreet": [
+        {
+          "title": "Bushes obstructing pavement, 7th August",
+          "url": "https://www.fixmystreet.com/report/9911638",
+          "date": "2026-08-07T07:27:20+00:00",
+          "category": null
+        },
         {
           "title": "Overgrown hedge, 6th August",
           "url": "https://www.fixmystreet.com/report/9906062",
@@ -623,12 +635,6 @@
           "title": "Friends of Grangewood Park Picnic in the Park, Sun Sep 20",
           "url": "https://insidecroydon.com/2026/08/01/friends-of-grangewood-park-picnic-in-the-park-sun-sep-20/",
           "date": "2026-08-01T13:00:01+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Friends on a mission in Selhurst’s neglected Whitehorse Rec",
-          "url": "https://insidecroydon.com/2026/07/27/friends-on-a-mission-in-selhursts-neglected-whitehorse-rec/",
-          "date": "2026-07-27T11:30:26+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -864,18 +870,6 @@
           "url": "https://www.fixmystreet.com/report/9788605",
           "date": "2026-07-16T16:51:41+00:00",
           "category": null
-        },
-        {
-          "title": "Open & overflowing bins, 8th July",
-          "url": "https://www.fixmystreet.com/report/9754199",
-          "date": "2026-07-08T12:29:15+00:00",
-          "category": null
-        },
-        {
-          "title": "40 to 50 cm diameter & very deep, 8th July",
-          "url": "https://www.fixmystreet.com/report/9754177",
-          "date": "2026-07-08T12:23:39+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -899,18 +893,6 @@
           "title": "Large hole in pavement needs fixing, 11th July",
           "url": "https://www.fixmystreet.com/report/9769349",
           "date": "2026-07-11T10:02:05+00:00",
-          "category": null
-        },
-        {
-          "title": "Tree knocked down, 8th July",
-          "url": "https://www.fixmystreet.com/report/9753555",
-          "date": "2026-07-08T10:56:25+00:00",
-          "category": null
-        },
-        {
-          "title": "Bedding Dumped, 8th July",
-          "url": "https://www.fixmystreet.com/report/9752499",
-          "date": "2026-07-08T08:49:49+00:00",
           "category": null
         }
       ],
