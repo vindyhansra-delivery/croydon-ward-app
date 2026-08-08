@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T12:57:00.166741+00:00",
+    "generated_at": "2026-08-08T18:44:02.429187+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -178,12 +178,6 @@
           "url": "https://www.fixmystreet.com/report/9774894",
           "date": "2026-07-12T22:54:17+00:00",
           "category": null
-        },
-        {
-          "title": "Road surface ripped up by manoeuvring lorries and trailers, 9th July",
-          "url": "https://www.fixmystreet.com/report/9760891",
-          "date": "2026-07-09T14:04:55+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -254,6 +248,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "MP Steve Reed needs help. And he’ll pay £40,0000pa to get it",
+          "url": "https://insidecroydon.com/2026/08/08/mp-steve-reed-needs-help-and-hell-pay-400000pa-to-get-it/",
+          "date": "2026-08-08T15:19:01+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Sawalha threatens legal action against ITV over Loose Women",
           "url": "https://insidecroydon.com/2026/08/07/sawalha-threatens-legal-action-against-itv-over-loose-women/",
@@ -698,14 +698,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Selsdon Wood’s drought-hit nature reserve placed on fire alert",
-          "url": "https://insidecroydon.com/2026/07/29/selsdon-woods-drought-hit-nature-reserve-placed-on-fire-alert/",
-          "date": "2026-07-29T08:54:40+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Shirley North": {
       "fixmystreet": [
