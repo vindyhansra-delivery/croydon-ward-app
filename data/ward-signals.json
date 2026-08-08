@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T07:01:14.859600+00:00",
+    "generated_at": "2026-08-08T12:57:00.166741+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -105,7 +105,20 @@
       ]
     },
     "Bensham Manor": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Overgrown brambles and tree branches obstructing footpath near 49 Lakehall Road, CR7 7EG., 8th August",
+          "url": "https://www.fixmystreet.com/report/9917422",
+          "date": "2026-08-08T11:37:15+00:00",
+          "category": null
+        },
+        {
+          "title": "No double yellow line, 8th August",
+          "url": "https://www.fixmystreet.com/report/9917246",
+          "date": "2026-08-08T10:51:29+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
@@ -758,7 +771,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
+          "url": "https://insidecroydon.com/2026/08/08/gardening-bargains-mha-the-wilderness-shirley-mon-fri-4/",
+          "date": "2026-08-08T08:20:18+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Shirley South": {
       "fixmystreet": [
@@ -782,7 +802,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
+          "url": "https://insidecroydon.com/2026/08/08/gardening-bargains-mha-the-wilderness-shirley-mon-fri-4/",
+          "date": "2026-08-08T08:20:18+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "South Croydon": {
       "fixmystreet": [
