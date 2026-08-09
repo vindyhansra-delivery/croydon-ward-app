@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T18:44:02.429187+00:00",
+    "generated_at": "2026-08-09T01:59:08.597962+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -249,7 +249,7 @@
       "reddit": [],
       "news": [
         {
-          "title": "MP Steve Reed needs help. And he’ll pay £40,0000pa to get it",
+          "title": "MP Steve Reed needs help. And he’ll pay £40,000pa to get it",
           "url": "https://insidecroydon.com/2026/08/08/mp-steve-reed-needs-help-and-hell-pay-400000pa-to-get-it/",
           "date": "2026-08-08T15:19:01+00:00",
           "publisher": "Inside Croydon"
@@ -367,6 +367,12 @@
     },
     "New Addington North": {
       "fixmystreet": [
+        {
+          "title": "Fly tipping, 8th August",
+          "url": "https://www.fixmystreet.com/report/9918857",
+          "date": "2026-08-08T19:44:55+00:00",
+          "category": null
+        },
         {
           "title": "Tent pitched in woods, 6th August",
           "url": "https://www.fixmystreet.com/report/9905785",
