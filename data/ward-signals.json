@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T01:59:08.597962+00:00",
+    "generated_at": "2026-08-09T07:03:33.726851+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -283,6 +283,12 @@
     "Fairfield": {
       "fixmystreet": [
         {
+          "title": "Abandoned vehicle, 9th August",
+          "url": "https://www.fixmystreet.com/report/9919188",
+          "date": "2026-08-09T05:20:34+00:00",
+          "category": null
+        },
+        {
           "title": "Uneven steps, 24th July",
           "url": "https://www.fixmystreet.com/report/9842159",
           "date": "2026-07-24T15:06:15+00:00",
@@ -414,12 +420,6 @@
           "title": "Overgrown tree branches, 14th July",
           "url": "https://www.fixmystreet.com/report/9786522",
           "date": "2026-07-14T15:40:34+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead fox on grass, 10th July",
-          "url": "https://www.fixmystreet.com/report/9763326",
-          "date": "2026-07-10T05:59:06+00:00",
           "category": null
         }
       ],
