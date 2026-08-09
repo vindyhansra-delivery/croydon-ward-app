@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T07:03:33.726851+00:00",
+    "generated_at": "2026-08-09T12:59:13.002810+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -352,6 +352,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Passport to Chocolate, workshops at Cocoa Jones, from Aug 6",
+          "url": "https://insidecroydon.com/2026/08/09/passport-to-chocolate-workshops-at-cocoa-jones-from-aug-6-3/",
+          "date": "2026-08-09T10:00:08+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Spitfire’s Battle of Britain Kenley fly-past booked for Aug 16",
           "url": "https://insidecroydon.com/2026/08/06/spitfires-battle-of-britain-kenley-fly-past-booked-for-aug-16/",
           "date": "2026-08-06T12:31:26+00:00",
@@ -606,14 +612,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Police dispersal notice in clampdown on crime-ridden… Purley",
-          "url": "https://insidecroydon.com/2026/07/29/police-dispersal-notice-in-clampdown-on-crime-ridden-purley/",
-          "date": "2026-07-29T10:44:27+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Sanderstead": {
       "fixmystreet": [],
@@ -840,6 +839,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Police appeal for information over woman’s ‘unexplained’ death",
+          "url": "https://insidecroydon.com/2026/08/09/police-appeal-for-information-over-womans-unexplained-death/",
+          "date": "2026-08-09T10:31:38+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Gloucestershire bakery business in rescue deal for Coughlans",
           "url": "https://insidecroydon.com/2026/08/07/gloucestershire-bakery-business-in-rescue-deal-for-coughlans/",
           "date": "2026-08-07T13:34:37+00:00",
@@ -962,12 +967,6 @@
           "title": "Tree branches hitting buses, 14th July",
           "url": "https://www.fixmystreet.com/report/9781645",
           "date": "2026-07-14T00:25:56+00:00",
-          "category": null
-        },
-        {
-          "title": "Low hanging branches, 10th July",
-          "url": "https://www.fixmystreet.com/report/9764911",
-          "date": "2026-07-10T10:03:50+00:00",
           "category": null
         }
       ],
