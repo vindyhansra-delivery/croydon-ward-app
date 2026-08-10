@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T07:50:01.045620+00:00",
+    "generated_at": "2026-08-10T13:17:52.620966+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -85,12 +85,6 @@
           "title": "Cars frequently idling for long periods of time, 13th July",
           "url": "https://www.fixmystreet.com/report/9780150",
           "date": "2026-07-13T17:13:20+00:00",
-          "category": null
-        },
-        {
-          "title": "Vehicle parked exactly on my property and entrance of my house., 11th July",
-          "url": "https://www.fixmystreet.com/report/9769737",
-          "date": "2026-07-11T11:41:47+00:00",
           "category": null
         }
       ],
@@ -701,12 +695,6 @@
           "url": "https://www.fixmystreet.com/report/9838976",
           "date": "2026-07-24T08:22:20+00:00",
           "category": null
-        },
-        {
-          "title": "Trees on spout hill overgrown, 11th July",
-          "url": "https://www.fixmystreet.com/report/9769604",
-          "date": "2026-07-11T11:02:24+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -797,12 +785,6 @@
           "title": "Very deep and dangerous hole in the road, 14th July",
           "url": "https://www.fixmystreet.com/report/9784451",
           "date": "2026-07-14T11:33:17+00:00",
-          "category": null
-        },
-        {
-          "title": "6+ sacks tipped by roadside, 11th July",
-          "url": "https://www.fixmystreet.com/report/9769204",
-          "date": "2026-07-11T09:25:38+00:00",
           "category": null
         }
       ],
@@ -937,12 +919,6 @@
           "title": "Next to 87 Cranbrook Road, 21st July",
           "url": "https://www.fixmystreet.com/report/9824942",
           "date": "2026-07-21T18:52:33+00:00",
-          "category": null
-        },
-        {
-          "title": "Large hole in pavement needs fixing, 11th July",
-          "url": "https://www.fixmystreet.com/report/9769349",
-          "date": "2026-07-11T10:02:05+00:00",
           "category": null
         }
       ],
