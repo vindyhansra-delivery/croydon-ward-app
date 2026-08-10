@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T13:17:52.620966+00:00",
+    "generated_at": "2026-08-10T19:04:00.724860+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -249,6 +249,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Council agrees to take closer look at Grange Road speedsters",
+          "url": "https://insidecroydon.com/2026/08/10/council-agrees-to-take-closer-look-at-grange-road-speedsters/",
+          "date": "2026-08-10T17:04:34+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "MP Steve Reed needs help. And he’ll pay £40,000pa to get it",
           "url": "https://insidecroydon.com/2026/08/08/mp-steve-reed-needs-help-and-hell-pay-400000pa-to-get-it/",
           "date": "2026-08-08T15:19:01+00:00",
@@ -270,12 +276,6 @@
           "title": "‘It put my family at great risk and under huge mental anguish’",
           "url": "https://insidecroydon.com/2026/08/02/it-put-my-family-at-great-risk-and-under-huge-mental-anguish/",
           "date": "2026-08-02T10:50:28+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Councillor Adderley still left waiting for Green Party’s decision",
-          "url": "https://insidecroydon.com/2026/08/01/councillor-adderley-still-left-waiting-for-green-partys-decision/",
-          "date": "2026-08-01T15:10:56+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -399,14 +399,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Council’s ‘no barbecues’ plea after wildfires hit New Addington",
-          "url": "https://insidecroydon.com/2026/07/31/councils-no-barbecues-plea-after-wildfires-hit-new-addington/",
-          "date": "2026-07-31T10:42:37+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "New Addington South": {
       "fixmystreet": [
@@ -424,14 +417,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Council’s ‘no barbecues’ plea after wildfires hit New Addington",
-          "url": "https://insidecroydon.com/2026/07/31/councils-no-barbecues-plea-after-wildfires-hit-new-addington/",
-          "date": "2026-07-31T10:42:37+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Norbury Park": {
       "fixmystreet": [
@@ -505,12 +491,6 @@
           "title": "Parking on the pavement, 15th July",
           "url": "https://www.fixmystreet.com/report/9791704",
           "date": "2026-07-15T12:41:57+00:00",
-          "category": null
-        },
-        {
-          "title": "Multiple pot holes, 11th July",
-          "url": "https://www.fixmystreet.com/report/9770211",
-          "date": "2026-07-11T14:03:11+00:00",
           "category": null
         }
       ],
