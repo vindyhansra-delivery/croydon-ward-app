@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T18:47:42.093651+00:00",
+    "generated_at": "2026-08-10T02:04:10.806340+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -143,6 +143,12 @@
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "Foliage reqs cutting back from traffic lights, 9th August",
+          "url": "https://www.fixmystreet.com/report/9921973",
+          "date": "2026-08-09T18:57:44+00:00",
+          "category": null
+        },
         {
           "title": "Pine trees dropping large branches, 7th August",
           "url": "https://www.fixmystreet.com/report/9911489",
@@ -609,7 +615,14 @@
       "news": []
     },
     "Sanderstead": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Mini roundabout paint faded & road markings disappeared, 9th August",
+          "url": "https://www.fixmystreet.com/report/9922553",
+          "date": "2026-08-09T22:01:51+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": [
         {
@@ -854,6 +867,12 @@
     },
     "South Norwood": {
       "fixmystreet": [
+        {
+          "title": "Sewage smell., 9th August",
+          "url": "https://www.fixmystreet.com/report/9921993",
+          "date": "2026-08-09T19:01:41+00:00",
+          "category": null
+        },
         {
           "title": "Anti social behaviour, 5th August",
           "url": "https://www.fixmystreet.com/report/9904065",
