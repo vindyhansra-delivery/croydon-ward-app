@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T13:20:30.734269+00:00",
+    "generated_at": "2026-08-11T19:08:38.876848+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -109,6 +109,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Charity leader arrested after reports of providing aid to Hamas",
+          "url": "https://insidecroydon.com/2026/08/11/charity-leader-arrested-after-reports-of-providing-aid-to-hamas/",
+          "date": "2026-08-11T14:40:06+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Customer care? With Thames Water, all you get is an AI shrug",
           "url": "https://insidecroydon.com/2026/08/11/customer-care-with-thames-water-all-you-get-is-an-ai-shrug/",
@@ -403,12 +409,50 @@
       ]
     },
     "New Addington North": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Fly tipping, 8th August",
+          "url": "https://www.fixmystreet.com/report/9918857",
+          "date": "2026-08-08T19:44:55+00:00",
+          "category": null
+        },
+        {
+          "title": "Tent pitched in woods, 6th August",
+          "url": "https://www.fixmystreet.com/report/9905785",
+          "date": "2026-08-06T06:53:20+00:00",
+          "category": null
+        },
+        {
+          "title": "In parking loan, 5th August",
+          "url": "https://www.fixmystreet.com/report/9904439",
+          "date": "2026-08-05T18:21:37+00:00",
+          "category": null
+        },
+        {
+          "title": "Tree from woods over hanging garden, 20th July",
+          "url": "https://www.fixmystreet.com/report/9816211",
+          "date": "2026-07-20T13:15:59+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
     "New Addington South": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Water leak, 15th July",
+          "url": "https://www.fixmystreet.com/report/9788401",
+          "date": "2026-07-15T05:01:24+00:00",
+          "category": null
+        },
+        {
+          "title": "Overgrown tree branches, 14th July",
+          "url": "https://www.fixmystreet.com/report/9786522",
+          "date": "2026-07-14T15:40:34+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
@@ -437,7 +481,20 @@
       "news": []
     },
     "Norbury and Pollards Hill": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Abandoned, 31st July",
+          "url": "https://www.fixmystreet.com/report/9876254",
+          "date": "2026-07-31T08:17:53+00:00",
+          "category": null
+        },
+        {
+          "title": "Dumped mattress., 30th July",
+          "url": "https://www.fixmystreet.com/report/9870030",
+          "date": "2026-07-30T07:11:22+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
@@ -581,7 +638,20 @@
       "news": []
     },
     "Selhurst": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Massive potholes at end od saddle mews, 24th July",
+          "url": "https://www.fixmystreet.com/report/9840781",
+          "date": "2026-07-24T12:40:53+00:00",
+          "category": null
+        },
+        {
+          "title": "Dead fox on the road (been run over), 24th July",
+          "url": "https://www.fixmystreet.com/report/9838774",
+          "date": "2026-07-24T08:56:19+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": [
         {
@@ -714,7 +784,20 @@
       ]
     },
     "Shirley South": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Graffiti on Bethlem Royal Hospital old “Temp” walls, 26th July",
+          "url": "https://www.fixmystreet.com/report/9849186",
+          "date": "2026-07-26T15:11:16+00:00",
+          "category": null
+        },
+        {
+          "title": "Very deep and dangerous hole in the road, 14th July",
+          "url": "https://www.fixmystreet.com/report/9784451",
+          "date": "2026-07-14T11:33:17+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": [
         {
@@ -775,7 +858,62 @@
       ]
     },
     "South Norwood": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Sewage smell., 9th August",
+          "url": "https://www.fixmystreet.com/report/9921993",
+          "date": "2026-08-09T19:01:41+00:00",
+          "category": null
+        },
+        {
+          "title": "Anti social behaviour, 5th August",
+          "url": "https://www.fixmystreet.com/report/9904065",
+          "date": "2026-08-05T16:56:06+00:00",
+          "category": null
+        },
+        {
+          "title": "Large obstruction in the road approximately 1 m by half a metre by half a metre, 3rd August",
+          "url": "https://www.fixmystreet.com/report/9887729",
+          "date": "2026-08-03T07:34:19+00:00",
+          "category": null
+        },
+        {
+          "title": "Large solar panel and camera attached to lamp post, 28th July",
+          "url": "https://www.fixmystreet.com/report/9859730",
+          "date": "2026-07-28T11:36:37+00:00",
+          "category": null
+        },
+        {
+          "title": "Dead end sign - not a dead end., 28th July",
+          "url": "https://www.fixmystreet.com/report/9859726",
+          "date": "2026-07-28T11:35:36+00:00",
+          "category": "Dead end sign"
+        },
+        {
+          "title": "Obstruction in road. Planter needs removing, 28th July",
+          "url": "https://www.fixmystreet.com/report/9859717",
+          "date": "2026-07-28T11:34:11+00:00",
+          "category": null
+        },
+        {
+          "title": "Rubbish left, 21st July",
+          "url": "https://www.fixmystreet.com/report/9819632",
+          "date": "2026-07-21T06:45:38+00:00",
+          "category": null
+        },
+        {
+          "title": "Zebra crossing outside school and nursery completely worn, 20th July",
+          "url": "https://www.fixmystreet.com/report/9817744",
+          "date": "2026-07-20T17:01:23+00:00",
+          "category": null
+        },
+        {
+          "title": "Overflowing bins again, 16th July",
+          "url": "https://www.fixmystreet.com/report/9788605",
+          "date": "2026-07-16T16:51:41+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
@@ -807,6 +945,12 @@
     "Waddon": {
       "fixmystreet": [
         {
+          "title": "Loose manhole cover causing noise, 11th August",
+          "url": "https://www.fixmystreet.com/report/9934221",
+          "date": "2026-08-11T17:45:56+00:00",
+          "category": null
+        },
+        {
           "title": "Another su ken trench, 28th July",
           "url": "https://www.fixmystreet.com/report/9861844",
           "date": "2026-07-28T16:52:04+00:00",
@@ -835,12 +979,74 @@
       "news": []
     },
     "West Thornton": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Alley way problem, 11th August",
+          "url": "https://www.fixmystreet.com/report/9934391",
+          "date": "2026-08-11T18:29:21+00:00",
+          "category": null
+        },
+        {
+          "title": "Fly tipped bed base ( 12 Jamaica Road ), 2nd August",
+          "url": "https://www.fixmystreet.com/report/9885682",
+          "date": "2026-08-02T15:27:55+00:00",
+          "category": null
+        },
+        {
+          "title": "Abandoned Vechicle, 13th July",
+          "url": "https://www.fixmystreet.com/report/9780519",
+          "date": "2026-07-13T18:28:21+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
     "Woodside": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Litter inside the park entrance near metal fences in what3words location///extend.flying.fame, 6th August",
+          "url": "https://www.fixmystreet.com/report/9906178",
+          "date": "2026-08-06T08:04:30+00:00",
+          "category": null
+        },
+        {
+          "title": "Constant speeding, 5th August",
+          "url": "https://www.fixmystreet.com/report/9904955",
+          "date": "2026-08-05T20:27:00+00:00",
+          "category": null
+        },
+        {
+          "title": "20mph rotated causing confusion and mistakes, 30th July",
+          "url": "https://www.fixmystreet.com/report/9869771",
+          "date": "2026-07-30T06:07:59+00:00",
+          "category": null
+        },
+        {
+          "title": "Water leaking and pooling beside tramway, 28th July",
+          "url": "https://www.fixmystreet.com/report/9857685",
+          "date": "2026-07-28T07:34:14+00:00",
+          "category": null
+        },
+        {
+          "title": "Abandoned silver mercedes SUV, 27th July",
+          "url": "https://www.fixmystreet.com/report/9855535",
+          "date": "2026-07-27T16:47:36+00:00",
+          "category": null
+        },
+        {
+          "title": "Bin full by house before tramline and rubbish nearby before tramline, 24th July",
+          "url": "https://www.fixmystreet.com/report/9838138",
+          "date": "2026-07-24T03:26:01+00:00",
+          "category": null
+        },
+        {
+          "title": "Trolley, 23rd July",
+          "url": "https://www.fixmystreet.com/report/9833124",
+          "date": "2026-07-23T08:41:36+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     }
