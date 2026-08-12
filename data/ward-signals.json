@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T13:18:40.693541+00:00",
+    "generated_at": "2026-08-12T19:07:52.710519+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -99,12 +99,6 @@
           "url": "https://www.fixmystreet.com/report/9811048",
           "date": "2026-07-19T14:27:23+00:00",
           "category": "Hole in pavement light"
-        },
-        {
-          "title": "Cars frequently idling for long periods of time, 13th July",
-          "url": "https://www.fixmystreet.com/report/9780150",
-          "date": "2026-07-13T17:13:20+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -753,12 +747,6 @@
           "url": "https://www.fixmystreet.com/report/9798882",
           "date": "2026-07-16T15:58:35+00:00",
           "category": null
-        },
-        {
-          "title": "Household items, 13th July",
-          "url": "https://www.fixmystreet.com/report/9779858",
-          "date": "2026-07-13T16:13:02+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -991,12 +979,6 @@
           "title": "Fly tipped bed base ( 12 Jamaica Road ), 2nd August",
           "url": "https://www.fixmystreet.com/report/9885682",
           "date": "2026-08-02T15:27:55+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned Vechicle, 13th July",
-          "url": "https://www.fixmystreet.com/report/9780519",
-          "date": "2026-07-13T18:28:21+00:00",
           "category": null
         }
       ],
