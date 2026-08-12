@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T19:08:38.876848+00:00",
+    "generated_at": "2026-08-12T02:11:48.732592+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -208,12 +208,6 @@
           "title": "Litter visible after vegetation cut back, 1st August",
           "url": "https://www.fixmystreet.com/report/9880777",
           "date": "2026-08-01T06:39:59+00:00",
-          "category": null
-        },
-        {
-          "title": "Roads dirty & unkept, 12th July",
-          "url": "https://www.fixmystreet.com/report/9774894",
-          "date": "2026-07-12T22:54:17+00:00",
           "category": null
         }
       ],
