@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T02:11:48.732592+00:00",
+    "generated_at": "2026-08-12T07:40:17.229141+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -853,6 +853,12 @@
     },
     "South Norwood": {
       "fixmystreet": [
+        {
+          "title": "Rubbish everwhere, 12th August",
+          "url": "https://www.fixmystreet.com/report/9935571",
+          "date": "2026-08-12T06:28:26+00:00",
+          "category": null
+        },
         {
           "title": "Sewage smell., 9th August",
           "url": "https://www.fixmystreet.com/report/9921993",
