@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T07:40:17.229141+00:00",
+    "generated_at": "2026-08-12T13:18:40.693541+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -653,12 +653,6 @@
           "url": "https://insidecroydon.com/2026/08/03/lidl-summer-camp-at-legacy-zone-provides-thoughts-for-food/",
           "date": "2026-08-03T12:44:47+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Friends of Grangewood Park Picnic in the Park, Sun Sep 20",
-          "url": "https://insidecroydon.com/2026/08/01/friends-of-grangewood-park-picnic-in-the-park-sun-sep-20/",
-          "date": "2026-08-01T13:00:01+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -915,7 +909,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "South Norwood Community Kitchen’s forum: Tue Aug 18",
+          "url": "https://insidecroydon.com/2026/08/12/south-norwood-community-kitchens-forum-tue-aug-18/",
+          "date": "2026-08-12T11:55:22+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Thornton Heath": {
       "fixmystreet": [
