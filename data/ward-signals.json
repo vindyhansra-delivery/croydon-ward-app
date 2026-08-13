@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T13:20:56.613549+00:00",
+    "generated_at": "2026-08-13T19:08:43.447779+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -157,14 +157,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "How sci-fi author John Munro died as a hermit in Croydon",
-          "url": "https://insidecroydon.com/2026/08/02/how-sci-fi-author-john-munro-died-as-a-hermit-in-croydon/",
-          "date": "2026-08-02T15:31:37+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Coulsdon Town": {
       "fixmystreet": [
@@ -295,12 +288,6 @@
           "title": "Public outcry helps save Triangle trees from death by tarmac",
           "url": "https://insidecroydon.com/2026/08/04/public-outcry-helps-save-triangle-trees-from-death-by-tarmac/",
           "date": "2026-08-04T11:51:28+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "‘It put my family at great risk and under huge mental anguish’",
-          "url": "https://insidecroydon.com/2026/08/02/it-put-my-family-at-great-risk-and-under-huge-mental-anguish/",
-          "date": "2026-08-02T10:50:28+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -440,12 +427,6 @@
           "title": "Water leak, 15th July",
           "url": "https://www.fixmystreet.com/report/9788401",
           "date": "2026-07-15T05:01:24+00:00",
-          "category": null
-        },
-        {
-          "title": "Overgrown tree branches, 14th July",
-          "url": "https://www.fixmystreet.com/report/9786522",
-          "date": "2026-07-14T15:40:34+00:00",
           "category": null
         }
       ],
@@ -810,6 +791,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Croydon High’s high achievers celebrate on A Level results day",
+          "url": "https://insidecroydon.com/2026/08/13/croydon-highs-high-achievers-celebrate-on-a-level-results-day/",
+          "date": "2026-08-13T15:05:10+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Police appeal for information over woman’s ‘unexplained’ death",
           "url": "https://insidecroydon.com/2026/08/09/police-appeal-for-information-over-womans-unexplained-death/",
