@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T07:41:54.451800+00:00",
+    "generated_at": "2026-08-13T13:20:56.613549+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -333,7 +333,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Open House 2026: from Croydon Town Hall to Downing Street",
+          "url": "https://insidecroydon.com/2026/08/13/open-house-2026-from-croydon-town-hall-to-downing-street/",
+          "date": "2026-08-13T12:29:29+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Kenley": {
       "fixmystreet": [
@@ -387,12 +394,6 @@
           "url": "https://insidecroydon.com/2026/08/04/passport-to-chocolate-workshops-at-cocoa-jones-from-aug-6-2/",
           "date": "2026-08-04T08:29:12+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Passport to Chocolate, workshops at Cocoa Jones, from Aug 6",
-          "url": "https://insidecroydon.com/2026/08/02/passport-to-chocolate-workshops-at-cocoa-jones-from-aug-6/",
-          "date": "2026-08-02T09:59:24+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -424,7 +425,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "£2,000 reward offered to find New Addington’s cruel fox killer",
+          "url": "https://insidecroydon.com/2026/08/13/2000-reward-offered-to-find-new-addingtons-cruel-fox-killer/",
+          "date": "2026-08-13T10:43:21+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "New Addington South": {
       "fixmystreet": [
@@ -442,7 +450,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "£2,000 reward offered to find New Addington’s cruel fox killer",
+          "url": "https://insidecroydon.com/2026/08/13/2000-reward-offered-to-find-new-addingtons-cruel-fox-killer/",
+          "date": "2026-08-13T10:43:21+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Norbury Park": {
       "fixmystreet": [
@@ -598,6 +613,12 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Large builders' bag dumped outside flats at 54 Arkwright Road, 13th August",
+          "url": "https://www.fixmystreet.com/report/9943017",
+          "date": "2026-08-13T11:27:29+00:00",
+          "category": null
+        },
+        {
           "title": "Mini roundabout paint faded & road markings disappeared, 9th August",
           "url": "https://www.fixmystreet.com/report/9922553",
           "date": "2026-08-09T22:01:51+00:00",
@@ -747,12 +768,6 @@
           "title": "Graffiti on Bethlem Royal Hospital old “Temp” walls, 26th July",
           "url": "https://www.fixmystreet.com/report/9849186",
           "date": "2026-07-26T15:11:16+00:00",
-          "category": null
-        },
-        {
-          "title": "Very deep and dangerous hole in the road, 14th July",
-          "url": "https://www.fixmystreet.com/report/9784451",
-          "date": "2026-07-14T11:33:17+00:00",
           "category": null
         }
       ],
