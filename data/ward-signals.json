@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T02:13:58.746734+00:00",
+    "generated_at": "2026-08-13T07:41:54.451800+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -456,12 +456,6 @@
           "title": "Dead fox on pavement outside 301 Beulah Hill, 25th July",
           "url": "https://www.fixmystreet.com/report/9845536",
           "date": "2026-07-25T13:35:07+00:00",
-          "category": null
-        },
-        {
-          "title": "Over grown trees branches, 14th July",
-          "url": "https://www.fixmystreet.com/report/9781807",
-          "date": "2026-07-14T05:52:26+00:00",
           "category": null
         }
       ],
