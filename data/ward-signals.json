@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T19:07:52.710519+00:00",
+    "generated_at": "2026-08-13T02:13:58.746734+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -560,18 +560,6 @@
           "url": "https://www.fixmystreet.com/report/9839493",
           "date": "2026-07-24T09:22:59+00:00",
           "category": null
-        },
-        {
-          "title": "Vehicle parking too close to central reservation, 14th July",
-          "url": "https://www.fixmystreet.com/report/9781656",
-          "date": "2026-07-14T00:40:11+00:00",
-          "category": null
-        },
-        {
-          "title": "Road restriction, 14th July",
-          "url": "https://www.fixmystreet.com/report/9781655",
-          "date": "2026-07-14T00:36:21+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -955,12 +943,6 @@
           "title": "Car parked on the pavement, 18th July",
           "url": "https://www.fixmystreet.com/report/9808675",
           "date": "2026-07-18T18:49:49+00:00",
-          "category": null
-        },
-        {
-          "title": "Tree branches hitting buses, 14th July",
-          "url": "https://www.fixmystreet.com/report/9781645",
-          "date": "2026-07-14T00:25:56+00:00",
           "category": null
         }
       ],
