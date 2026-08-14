@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T02:11:43.674053+00:00",
+    "generated_at": "2026-08-14T07:31:21.881981+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -416,14 +416,7 @@
       ]
     },
     "New Addington South": {
-      "fixmystreet": [
-        {
-          "title": "Water leak, 15th July",
-          "url": "https://www.fixmystreet.com/report/9788401",
-          "date": "2026-07-15T05:01:24+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": [
         {
