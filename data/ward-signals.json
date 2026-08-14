@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T07:31:21.881981+00:00",
+    "generated_at": "2026-08-14T13:15:27.723092+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -142,14 +142,7 @@
       "news": []
     },
     "Broad Green": {
-      "fixmystreet": [
-        {
-          "title": "Fly tipping, 15th July",
-          "url": "https://www.fixmystreet.com/report/9789257",
-          "date": "2026-07-15T08:03:03+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
@@ -359,6 +352,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "10,000 turn out for astronomical society’s solar eclipse events",
+          "url": "https://insidecroydon.com/2026/08/14/10000-turn-out-for-astronomical-societys-solar-eclipse-events/",
+          "date": "2026-08-14T12:20:07+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Passport to Chocolate, workshops at Cocoa Jones, from Aug 6",
           "url": "https://insidecroydon.com/2026/08/09/passport-to-chocolate-workshops-at-cocoa-jones-from-aug-6-3/",
           "date": "2026-08-09T10:00:08+00:00",
@@ -488,12 +487,6 @@
           "url": "https://www.fixmystreet.com/report/9827565",
           "date": "2026-07-22T10:05:34+00:00",
           "category": null
-        },
-        {
-          "title": "Parking on the pavement, 15th July",
-          "url": "https://www.fixmystreet.com/report/9791704",
-          "date": "2026-07-15T12:41:57+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -612,14 +605,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Lidl summer camp at Legacy zone provides thoughts for food",
-          "url": "https://insidecroydon.com/2026/08/03/lidl-summer-camp-at-legacy-zone-provides-thoughts-for-food/",
-          "date": "2026-08-03T12:44:47+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
@@ -732,6 +718,12 @@
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "Rats running around very visible, 14th August",
+          "url": "https://www.fixmystreet.com/report/9948516",
+          "date": "2026-08-14T12:43:31+00:00",
+          "category": null
+        },
         {
           "title": "Graffiti on Bethlem Royal Hospital old “Temp” walls, 26th July",
           "url": "https://www.fixmystreet.com/report/9849186",
