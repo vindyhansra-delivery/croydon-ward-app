@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T19:08:43.447779+00:00",
+    "generated_at": "2026-08-14T02:11:43.674053+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -37,12 +37,6 @@
           "title": "Fridge, 23rd July",
           "url": "https://www.fixmystreet.com/report/9832976",
           "date": "2026-07-23T08:28:50+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish, 14th July",
-          "url": "https://www.fixmystreet.com/report/9787949",
-          "date": "2026-07-14T21:13:42+00:00",
           "category": null
         }
       ],
@@ -947,6 +941,12 @@
     },
     "West Thornton": {
       "fixmystreet": [
+        {
+          "title": "Report of heavy abandoned item/obstacle on the public highway, near house 15, 13th August",
+          "url": "https://www.fixmystreet.com/report/9945197",
+          "date": "2026-08-13T19:39:56+00:00",
+          "category": null
+        },
         {
           "title": "Alley way problem, 11th August",
           "url": "https://www.fixmystreet.com/report/9934391",
