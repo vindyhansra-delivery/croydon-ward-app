@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T06:44:53.222465+00:00",
+    "generated_at": "2026-08-15T12:45:00.889583+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -137,6 +137,12 @@
     },
     "Broad Green": {
       "fixmystreet": [
+        {
+          "title": "Sinkhole approx 3\" diameter but deep, 15th August",
+          "url": "https://www.fixmystreet.com/report/9952190",
+          "date": "2026-08-15T11:47:20+00:00",
+          "category": null
+        },
         {
           "title": "20 sign angled at main carriageway causing confusion, 14th August",
           "url": "https://www.fixmystreet.com/report/9949888",
@@ -368,12 +374,6 @@
           "title": "Spitfire’s Battle of Britain Kenley fly-past booked for Aug 16",
           "url": "https://insidecroydon.com/2026/08/06/spitfires-battle-of-britain-kenley-fly-past-booked-for-aug-16/",
           "date": "2026-08-06T12:31:26+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Passport to Chocolate, workshops at Cocoa Jones, from Aug 6",
-          "url": "https://insidecroydon.com/2026/08/04/passport-to-chocolate-workshops-at-cocoa-jones-from-aug-6-2/",
-          "date": "2026-08-04T08:29:12+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -618,7 +618,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Free SWLLC benefits and housing advice sessions, Selhurst",
+          "url": "https://insidecroydon.com/2026/08/15/free-swllc-benefits-and-housing-advice-sessions-selhurst-4/",
+          "date": "2026-08-15T09:05:46+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
@@ -874,6 +881,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "South Norwood Community Kitchen’s forum: Tue Aug 18",
+          "url": "https://insidecroydon.com/2026/08/15/south-norwood-community-kitchens-forum-tue-aug-18-2/",
+          "date": "2026-08-15T09:55:05+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "South Norwood Community Kitchen’s forum: Tue Aug 18",
           "url": "https://insidecroydon.com/2026/08/12/south-norwood-community-kitchens-forum-tue-aug-18/",
