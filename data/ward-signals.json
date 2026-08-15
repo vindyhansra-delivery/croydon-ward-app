@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T12:45:00.889583+00:00",
+    "generated_at": "2026-08-15T18:37:02.173387+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -277,12 +277,6 @@
           "url": "https://insidecroydon.com/2026/08/07/sawalha-threatens-legal-action-against-itv-over-loose-women/",
           "date": "2026-08-07T15:34:39+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Public outcry helps save Triangle trees from death by tarmac",
-          "url": "https://insidecroydon.com/2026/08/04/public-outcry-helps-save-triangle-trees-from-death-by-tarmac/",
-          "date": "2026-08-04T11:51:28+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -325,6 +319,12 @@
     },
     "Kenley": {
       "fixmystreet": [
+        {
+          "title": "Blocking bin lorries, 15th August",
+          "url": "https://www.fixmystreet.com/report/9952993",
+          "date": "2026-08-15T15:31:39+00:00",
+          "category": null
+        },
         {
           "title": "Dead fox, 28th July",
           "url": "https://www.fixmystreet.com/report/9861995",
@@ -718,12 +718,6 @@
           "url": "https://www.fixmystreet.com/report/9832956",
           "date": "2026-07-23T08:25:21+00:00",
           "category": null
-        },
-        {
-          "title": "4 dumped mattresses, 16th July",
-          "url": "https://www.fixmystreet.com/report/9798882",
-          "date": "2026-07-16T15:58:35+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -870,12 +864,6 @@
           "title": "Zebra crossing outside school and nursery completely worn, 20th July",
           "url": "https://www.fixmystreet.com/report/9817744",
           "date": "2026-07-20T17:01:23+00:00",
-          "category": null
-        },
-        {
-          "title": "Overflowing bins again, 16th July",
-          "url": "https://www.fixmystreet.com/report/9788605",
-          "date": "2026-07-16T16:51:41+00:00",
           "category": null
         }
       ],
