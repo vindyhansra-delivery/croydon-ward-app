@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T12:46:22.873583+00:00",
+    "generated_at": "2026-08-16T18:36:15.248701+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -133,7 +133,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "The high street business that made sure Croydon was on song",
+          "url": "https://insidecroydon.com/2026/08/16/the-high-street-business-that-made-sure-croydon-was-on-song/",
+          "date": "2026-08-16T15:19:12+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Broad Green": {
       "fixmystreet": [
@@ -918,6 +925,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "The high street business that made sure Croydon was on song",
+          "url": "https://insidecroydon.com/2026/08/16/the-high-street-business-that-made-sure-croydon-was-on-song/",
+          "date": "2026-08-16T15:19:12+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Gloucestershire bakery business in rescue deal for Coughlans",
           "url": "https://insidecroydon.com/2026/08/07/gloucestershire-bakery-business-in-rescue-deal-for-coughlans/",
