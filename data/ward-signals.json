@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T06:46:42.495701+00:00",
+    "generated_at": "2026-08-16T12:46:22.873583+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -678,6 +678,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Flytipping, 16th August",
+          "url": "https://www.fixmystreet.com/report/9955380",
+          "date": "2026-08-16T12:19:08+00:00",
+          "category": null
+        },
+        {
           "title": "Broken swings, 7th August",
           "url": "https://www.fixmystreet.com/report/9915458",
           "date": "2026-08-07T17:54:10+00:00",
@@ -790,6 +796,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Thanks to the magic of Merlin there’s more to see in the woods",
+          "url": "https://insidecroydon.com/2026/08/16/thanks-to-the-magic-of-merlin-theres-more-to-see-in-the-woods/",
+          "date": "2026-08-16T10:02:26+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Croydon High’s high achievers celebrate on A Level results day",
           "url": "https://insidecroydon.com/2026/08/13/croydon-highs-high-achievers-celebrate-on-a-level-results-day/",
