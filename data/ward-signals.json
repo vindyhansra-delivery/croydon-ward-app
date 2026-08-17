@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T18:36:15.248701+00:00",
+    "generated_at": "2026-08-17T01:32:35.661178+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -295,6 +295,12 @@
     },
     "Fairfield": {
       "fixmystreet": [
+        {
+          "title": "Extremely dirty high street, blackening roads and pavements, 16th August",
+          "url": "https://www.fixmystreet.com/report/9957225",
+          "date": "2026-08-16T21:03:58+00:00",
+          "category": null
+        },
         {
           "title": "Abandoned vehicle, 9th August",
           "url": "https://www.fixmystreet.com/report/9919188",
@@ -666,6 +672,12 @@
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
+        {
+          "title": "Abandoned untaxed car, 16th August",
+          "url": "https://www.fixmystreet.com/report/9957255",
+          "date": "2026-08-16T21:18:01+00:00",
+          "category": null
+        },
         {
           "title": "Untaxed car, 5th August",
           "url": "https://www.fixmystreet.com/report/9903416",
