@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T07:03:15.844136+00:00",
+    "generated_at": "2026-08-17T12:52:38.434964+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -163,6 +163,12 @@
     "Coulsdon Town": {
       "fixmystreet": [
         {
+          "title": "Abandoned vehicle, 17th August",
+          "url": "https://www.fixmystreet.com/report/9958698",
+          "date": "2026-08-17T08:58:40+00:00",
+          "category": null
+        },
+        {
           "title": "Outside 96 St. Andrews Road / Richmond Road Junction Dangerous Tree, 15th August",
           "url": "https://www.fixmystreet.com/report/9953799",
           "date": "2026-08-15T20:34:51+00:00",
@@ -210,6 +216,12 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "Overflowing ins on street due to lack of council collection twice now, 17th August",
+          "url": "https://www.fixmystreet.com/report/9958336",
+          "date": "2026-08-17T08:16:03+00:00",
+          "category": null
+        },
         {
           "title": "Dead Fox on Road by Beulah Vista Care Home, 7th August",
           "url": "https://www.fixmystreet.com/report/9911899",
@@ -262,12 +274,6 @@
           "title": "Temporary light broken again!, 22nd July",
           "url": "https://www.fixmystreet.com/report/9827109",
           "date": "2026-07-22T09:11:40+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish and overflowing bin, 21st July",
-          "url": "https://www.fixmystreet.com/report/9825075",
-          "date": "2026-07-21T19:35:23+00:00",
           "category": null
         }
       ],
@@ -435,7 +441,14 @@
       ]
     },
     "New Addington South": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Pothole, 17th August",
+          "url": "https://www.fixmystreet.com/report/9958965",
+          "date": "2026-08-17T09:29:08+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": [
         {
@@ -697,6 +710,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Fire extinguishers and other large items dumped, 17th August",
+          "url": "https://www.fixmystreet.com/report/9960634",
+          "date": "2026-08-17T12:42:23+00:00",
+          "category": null
+        },
+        {
           "title": "Flytipping, 16th August",
           "url": "https://www.fixmystreet.com/report/9955380",
           "date": "2026-08-16T12:19:08+00:00",
@@ -850,6 +869,12 @@
     "South Norwood": {
       "fixmystreet": [
         {
+          "title": "Shopping Trolley, 17th August",
+          "url": "https://www.fixmystreet.com/report/9958107",
+          "date": "2026-08-17T07:40:18+00:00",
+          "category": null
+        },
+        {
           "title": "Rubbish everwhere, 12th August",
           "url": "https://www.fixmystreet.com/report/9935571",
           "date": "2026-08-12T06:28:26+00:00",
@@ -906,6 +931,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Free: People’s Emergency Briefing, South Norwood, Sep 13",
+          "url": "https://insidecroydon.com/2026/08/17/free-peoples-emergency-briefing-south-norwood-sep-13/",
+          "date": "2026-08-17T08:59:18+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "South Norwood Community Kitchen’s forum: Tue Aug 18",
           "url": "https://insidecroydon.com/2026/08/15/south-norwood-community-kitchens-forum-tue-aug-18-2/",
@@ -1008,6 +1039,12 @@
     "Woodside": {
       "fixmystreet": [
         {
+          "title": "Shopping Trolley, 17th August",
+          "url": "https://www.fixmystreet.com/report/9958098",
+          "date": "2026-08-17T07:39:03+00:00",
+          "category": null
+        },
+        {
           "title": "Litter inside the park entrance near metal fences in what3words location///extend.flying.fame, 6th August",
           "url": "https://www.fixmystreet.com/report/9906178",
           "date": "2026-08-06T08:04:30+00:00",
@@ -1051,7 +1088,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Free: People’s Emergency Briefing, South Norwood, Sep 13",
+          "url": "https://insidecroydon.com/2026/08/17/free-peoples-emergency-briefing-south-norwood-sep-13/",
+          "date": "2026-08-17T08:59:18+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     }
   }
 }
