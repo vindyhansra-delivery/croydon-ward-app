@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T12:52:38.434964+00:00",
+    "generated_at": "2026-08-17T18:45:43.683110+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -324,12 +324,6 @@
           "url": "https://www.fixmystreet.com/report/9817387",
           "date": "2026-07-20T15:57:47+00:00",
           "category": null
-        },
-        {
-          "title": "Flytipping on High Street, 18th July",
-          "url": "https://www.fixmystreet.com/report/9808227",
-          "date": "2026-07-18T16:07:29+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -461,6 +455,12 @@
     },
     "Norbury Park": {
       "fixmystreet": [
+        {
+          "title": "Windscreen glass, 17th August",
+          "url": "https://www.fixmystreet.com/report/9962574",
+          "date": "2026-08-17T17:13:09+00:00",
+          "category": null
+        },
         {
           "title": "Abandoned car, 27th July",
           "url": "https://www.fixmystreet.com/report/9851496",
@@ -636,6 +636,12 @@
     },
     "Selhurst": {
       "fixmystreet": [
+        {
+          "title": "Car blocking stop, 17th August",
+          "url": "https://www.fixmystreet.com/report/9961556",
+          "date": "2026-08-17T14:33:15+00:00",
+          "category": null
+        },
         {
           "title": "Massive potholes at end od saddle mews, 24th July",
           "url": "https://www.fixmystreet.com/report/9840781",
@@ -856,12 +862,6 @@
           "title": "Gloucestershire bakery business in rescue deal for Coughlans",
           "url": "https://insidecroydon.com/2026/08/07/gloucestershire-bakery-business-in-rescue-deal-for-coughlans/",
           "date": "2026-08-07T13:34:37+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "South End start-up that tackles scammers wins Innovate award",
-          "url": "https://insidecroydon.com/2026/08/06/south-end-start-up-that-tackles-scammers-wins-innovate-award/",
-          "date": "2026-08-06T11:14:46+00:00",
           "publisher": "Inside Croydon"
         }
       ]
