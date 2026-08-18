@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T18:45:43.683110+00:00",
+    "generated_at": "2026-08-18T01:24:18.815195+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -339,6 +339,12 @@
     "Kenley": {
       "fixmystreet": [
         {
+          "title": "Not moved since April, 17th August",
+          "url": "https://www.fixmystreet.com/report/9963379",
+          "date": "2026-08-17T19:58:03+00:00",
+          "category": null
+        },
+        {
           "title": "Blocking bin lorries, 15th August",
           "url": "https://www.fixmystreet.com/report/9952993",
           "date": "2026-08-15T15:31:39+00:00",
@@ -667,6 +673,12 @@
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
+        {
+          "title": "All 4 clothes bins are stuck and unusable, 17th August",
+          "url": "https://www.fixmystreet.com/report/9963690",
+          "date": "2026-08-17T21:31:50+00:00",
+          "category": null
+        },
         {
           "title": "Temporary traffic lights not working, 3rd August",
           "url": "https://www.fixmystreet.com/report/9889844",
@@ -1000,12 +1012,6 @@
           "title": "500mm sunken trench, 28th July",
           "url": "https://www.fixmystreet.com/report/9861835",
           "date": "2026-07-28T16:49:57+00:00",
-          "category": null
-        },
-        {
-          "title": "Car parked on the pavement, 18th July",
-          "url": "https://www.fixmystreet.com/report/9808675",
-          "date": "2026-07-18T18:49:49+00:00",
           "category": null
         }
       ],
