@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T06:50:56.825019+00:00",
+    "generated_at": "2026-08-18T12:54:51.806359+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -394,12 +394,6 @@
           "url": "https://insidecroydon.com/2026/08/09/passport-to-chocolate-workshops-at-cocoa-jones-from-aug-6-3/",
           "date": "2026-08-09T10:00:08+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Spitfire’s Battle of Britain Kenley fly-past booked for Aug 16",
-          "url": "https://insidecroydon.com/2026/08/06/spitfires-battle-of-britain-kenley-fly-past-booked-for-aug-16/",
-          "date": "2026-08-06T12:31:26+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -543,6 +537,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Old Coulsdon Camera Club Welcome Evening, Tue Sep 8",
+          "url": "https://insidecroydon.com/2026/08/18/old-coulsdon-camera-club-welcome-evening-tue-sep-8/",
+          "date": "2026-08-18T10:15:50+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Gloucestershire bakery business in rescue deal for Coughlans",
           "url": "https://insidecroydon.com/2026/08/07/gloucestershire-bakery-business-in-rescue-deal-for-coughlans/",
           "date": "2026-08-07T13:34:37+00:00",
@@ -642,6 +642,12 @@
     },
     "Selhurst": {
       "fixmystreet": [
+        {
+          "title": "Road works no action for over a week, 18th August",
+          "url": "https://www.fixmystreet.com/report/9964392",
+          "date": "2026-08-18T07:03:42+00:00",
+          "category": null
+        },
         {
           "title": "Car blocking stop, 17th August",
           "url": "https://www.fixmystreet.com/report/9961556",
@@ -1044,6 +1050,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "20 sign angled to main carriageway causing confusion and Adas errors, 18th August",
+          "url": "https://www.fixmystreet.com/report/9966965",
+          "date": "2026-08-18T12:16:22+00:00",
+          "category": null
+        },
         {
           "title": "Shopping Trolley, 17th August",
           "url": "https://www.fixmystreet.com/report/9958098",
