@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T12:54:51.806359+00:00",
+    "generated_at": "2026-08-18T18:44:05.115705+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -87,12 +87,6 @@
           "url": "https://www.fixmystreet.com/report/9813262",
           "date": "2026-07-20T07:43:53+00:00",
           "category": null
-        },
-        {
-          "title": "Hole in pavement light - side of 60 lower addiscombe road, 19th July",
-          "url": "https://www.fixmystreet.com/report/9811048",
-          "date": "2026-07-19T14:27:23+00:00",
-          "category": "Hole in pavement light"
         }
       ],
       "reddit": [],
@@ -301,6 +295,12 @@
     },
     "Fairfield": {
       "fixmystreet": [
+        {
+          "title": "Road Lane Closure due to TFL Maintenance, 18th August",
+          "url": "https://www.fixmystreet.com/report/9968385",
+          "date": "2026-08-18T15:40:34+00:00",
+          "category": null
+        },
         {
           "title": "Extremely dirty high street, blackening roads and pavements, 16th August",
           "url": "https://www.fixmystreet.com/report/9957225",
@@ -986,6 +986,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Petty Perry blocks residents’ groups from RA rubbish meeting",
+          "url": "https://insidecroydon.com/2026/08/18/petty-perry-blocks-residents-groups-from-ra-rubbish-meeting/",
+          "date": "2026-08-18T15:07:07+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "The high street business that made sure Croydon was on song",
           "url": "https://insidecroydon.com/2026/08/16/the-high-street-business-that-made-sure-croydon-was-on-song/",
