@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T06:51:56.980886+00:00",
+    "generated_at": "2026-08-19T12:55:21.275992+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -92,12 +92,6 @@
           "title": "Temporary traffic lights showing red on both sides for past three hours around a bend, 26th July",
           "url": "https://www.fixmystreet.com/report/9849349",
           "date": "2026-07-26T15:46:40+00:00",
-          "category": null
-        },
-        {
-          "title": "Vehicle blocking access to the driveways, 20th July",
-          "url": "https://www.fixmystreet.com/report/9813262",
-          "date": "2026-07-20T07:43:53+00:00",
           "category": null
         }
       ],
@@ -449,6 +443,12 @@
     "New Addington South": {
       "fixmystreet": [
         {
+          "title": "Low hanging canopy branches need trimming, 19th August",
+          "url": "https://www.fixmystreet.com/report/9970998",
+          "date": "2026-08-19T08:22:26+00:00",
+          "category": null
+        },
+        {
           "title": "Pothole, 17th August",
           "url": "https://www.fixmystreet.com/report/9958965",
           "date": "2026-08-17T09:29:08+00:00",
@@ -509,6 +509,12 @@
     },
     "Old Coulsdon": {
       "fixmystreet": [
+        {
+          "title": "Remains of RTC, 19th August",
+          "url": "https://www.fixmystreet.com/report/9971968",
+          "date": "2026-08-19T10:30:06+00:00",
+          "category": null
+        },
         {
           "title": "Abandoned Ford ka, 14th August",
           "url": "https://www.fixmystreet.com/report/9949131",
