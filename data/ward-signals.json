@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T18:44:05.115705+00:00",
+    "generated_at": "2026-08-19T01:26:18.080891+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -58,6 +58,18 @@
     },
     "Addiscombe West": {
       "fixmystreet": [
+        {
+          "title": "Hole appearing around manhole, 18th August",
+          "url": "https://www.fixmystreet.com/report/9969322",
+          "date": "2026-08-18T18:51:34+00:00",
+          "category": null
+        },
+        {
+          "title": "Collapsing man hole - needs to be fix at night, 18th August",
+          "url": "https://www.fixmystreet.com/report/9969311",
+          "date": "2026-08-18T18:50:32+00:00",
+          "category": "Collapsing man hole"
+        },
         {
           "title": "Misuse of blue badge, 10th August",
           "url": "https://www.fixmystreet.com/report/9928949",
@@ -887,6 +899,12 @@
     "South Norwood": {
       "fixmystreet": [
         {
+          "title": "Obstructions in road - reported one a week for 3 weeks at least, 18th August",
+          "url": "https://www.fixmystreet.com/report/9969331",
+          "date": "2026-08-18T18:52:46+00:00",
+          "category": "Obstructions in road"
+        },
+        {
           "title": "Shopping Trolley, 17th August",
           "url": "https://www.fixmystreet.com/report/9958107",
           "date": "2026-08-17T07:40:18+00:00",
@@ -938,12 +956,6 @@
           "title": "Rubbish left, 21st July",
           "url": "https://www.fixmystreet.com/report/9819632",
           "date": "2026-07-21T06:45:38+00:00",
-          "category": null
-        },
-        {
-          "title": "Zebra crossing outside school and nursery completely worn, 20th July",
-          "url": "https://www.fixmystreet.com/report/9817744",
-          "date": "2026-07-20T17:01:23+00:00",
           "category": null
         }
       ],
