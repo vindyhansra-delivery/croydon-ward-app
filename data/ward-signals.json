@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T18:41:45.532220+00:00",
+    "generated_at": "2026-08-20T01:25:22.737026+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -58,6 +58,12 @@
     },
     "Addiscombe West": {
       "fixmystreet": [
+        {
+          "title": "Number 11, 19th August",
+          "url": "https://www.fixmystreet.com/report/9975076",
+          "date": "2026-08-19T19:20:29+00:00",
+          "category": null
+        },
         {
           "title": "Hole appearing around manhole, 18th August",
           "url": "https://www.fixmystreet.com/report/9969322",
