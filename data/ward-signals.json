@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T01:25:22.737026+00:00",
+    "generated_at": "2026-08-20T06:53:49.498476+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -932,12 +932,6 @@
           "title": "Obstruction in road. Planter needs removing, 28th July",
           "url": "https://www.fixmystreet.com/report/9859717",
           "date": "2026-07-28T11:34:11+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish left, 21st July",
-          "url": "https://www.fixmystreet.com/report/9819632",
-          "date": "2026-07-21T06:45:38+00:00",
           "category": null
         }
       ],
