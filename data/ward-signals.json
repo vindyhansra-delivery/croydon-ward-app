@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T06:53:49.498476+00:00",
+    "generated_at": "2026-08-20T12:57:13.434156+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "Dumped bags of hardcore, 20th August",
+          "url": "https://www.fixmystreet.com/report/9977118",
+          "date": "2026-08-20T09:28:14+00:00",
+          "category": null
+        },
         {
           "title": "Apparently abandoned vehicle, 4th August",
           "url": "https://www.fixmystreet.com/report/9895508",
@@ -103,6 +109,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Buskers Barbecue Festival, The Oval Tavern, Sat Aug 22",
+          "url": "https://insidecroydon.com/2026/08/20/buskers-barbecue-festival-the-oval-tavern-sat-aug-22/",
+          "date": "2026-08-20T09:19:46+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Charity leader arrested after reports of providing aid to Hamas",
           "url": "https://insidecroydon.com/2026/08/11/charity-leader-arrested-after-reports-of-providing-aid-to-hamas/",
@@ -223,6 +235,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Fly tipping, 20th August",
+          "url": "https://www.fixmystreet.com/report/9978275",
+          "date": "2026-08-20T12:03:24+00:00",
+          "category": null
+        },
+        {
           "title": "Overflowing ins on street due to lack of council collection twice now, 17th August",
           "url": "https://www.fixmystreet.com/report/9958336",
           "date": "2026-08-17T08:16:03+00:00",
@@ -275,12 +293,6 @@
           "url": "https://www.fixmystreet.com/report/9833109",
           "date": "2026-07-23T08:39:54+00:00",
           "category": null
-        },
-        {
-          "title": "Temporary light broken again!, 22nd July",
-          "url": "https://www.fixmystreet.com/report/9827109",
-          "date": "2026-07-22T09:11:40+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -289,12 +301,6 @@
           "title": "Council agrees to take closer look at Grange Road speedsters",
           "url": "https://insidecroydon.com/2026/08/10/council-agrees-to-take-closer-look-at-grange-road-speedsters/",
           "date": "2026-08-10T17:04:34+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "MP Steve Reed needs help. And he’ll pay £40,000pa to get it",
-          "url": "https://insidecroydon.com/2026/08/08/mp-steve-reed-needs-help-and-hell-pay-400000pa-to-get-it/",
-          "date": "2026-08-08T15:19:01+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -373,16 +379,16 @@
           "url": "https://www.fixmystreet.com/report/9837793",
           "date": "2026-07-23T20:51:38+00:00",
           "category": null
-        },
-        {
-          "title": "Car has not moved, 21st July",
-          "url": "https://www.fixmystreet.com/report/9821756",
-          "date": "2026-07-21T10:56:45+00:00",
-          "category": null
         }
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Chocolate, cakes and a choir: ‘Reedham Village Lates’ returns",
+          "url": "https://insidecroydon.com/2026/08/20/chocolate-cakes-and-a-choir-reedham-village-lates-returns/",
+          "date": "2026-08-20T11:01:54+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "10,000 turn out for astronomical society’s solar eclipse events",
           "url": "https://insidecroydon.com/2026/08/14/10000-turn-out-for-astronomical-societys-solar-eclipse-events/",
@@ -611,12 +617,6 @@
           "url": "https://www.fixmystreet.com/report/9823550",
           "date": "2026-07-21T14:37:58+00:00",
           "category": null
-        },
-        {
-          "title": "Burnout car, 21st July",
-          "url": "https://www.fixmystreet.com/report/9819992",
-          "date": "2026-07-21T07:41:28+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -624,6 +624,12 @@
     },
     "Sanderstead": {
       "fixmystreet": [
+        {
+          "title": "Speeding vehicles, 20th August",
+          "url": "https://www.fixmystreet.com/report/9976414",
+          "date": "2026-08-20T07:59:39+00:00",
+          "category": null
+        },
         {
           "title": "Large builders' bag dumped outside flats at 54 Arkwright Road, 13th August",
           "url": "https://www.fixmystreet.com/report/9943017",
@@ -795,14 +801,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
-          "url": "https://insidecroydon.com/2026/08/08/gardening-bargains-mha-the-wilderness-shirley-mon-fri-4/",
-          "date": "2026-08-08T08:20:18+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Shirley South": {
       "fixmystreet": [
@@ -820,14 +819,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Gardening bargains, MHA The Wilderness, Shirley, Mon-Fri",
-          "url": "https://insidecroydon.com/2026/08/08/gardening-bargains-mha-the-wilderness-shirley-mon-fri-4/",
-          "date": "2026-08-08T08:20:18+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "South Croydon": {
       "fixmystreet": [
@@ -1038,6 +1030,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "I would like to report that a tent has been erected in the South Norwood Country Park Elmer's end road near the children's play area assume it is rough sleepers, 20th August",
+          "url": "https://www.fixmystreet.com/report/9977142",
+          "date": "2026-08-20T10:08:23+00:00",
+          "category": null
+        },
         {
           "title": "20 sign angled to main carriageway causing confusion and Adas errors, 18th August",
           "url": "https://www.fixmystreet.com/report/9966965",
