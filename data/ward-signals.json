@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T18:45:29.392880+00:00",
+    "generated_at": "2026-08-21T01:29:20.939114+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -181,6 +181,12 @@
     "Coulsdon Town": {
       "fixmystreet": [
         {
+          "title": "Fly tipping of plastic bottles discarded under the fence by local hand car was accross the road., 20th August",
+          "url": "https://www.fixmystreet.com/report/9980556",
+          "date": "2026-08-20T19:33:50+00:00",
+          "category": null
+        },
+        {
           "title": "Abandoned vehicle, 17th August",
           "url": "https://www.fixmystreet.com/report/9958698",
           "date": "2026-08-17T08:58:40+00:00",
@@ -235,6 +241,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Uneven pavement, 20th August",
+          "url": "https://www.fixmystreet.com/report/9980548",
+          "date": "2026-08-20T19:32:17+00:00",
+          "category": null
+        },
+        {
           "title": "Fly tipping, 20th August",
           "url": "https://www.fixmystreet.com/report/9978275",
           "date": "2026-08-20T12:03:24+00:00",
@@ -286,12 +298,6 @@
           "title": "Rubbish dumped next to path, 24th July",
           "url": "https://www.fixmystreet.com/report/9840327",
           "date": "2026-07-24T11:40:40+00:00",
-          "category": null
-        },
-        {
-          "title": "Road breaking up with water coming out, 23rd July",
-          "url": "https://www.fixmystreet.com/report/9833109",
-          "date": "2026-07-23T08:39:54+00:00",
           "category": null
         }
       ],
@@ -949,12 +955,6 @@
           "title": "Narrow Road, 29th July",
           "url": "https://www.fixmystreet.com/report/9869384",
           "date": "2026-07-29T22:21:12+00:00",
-          "category": null
-        },
-        {
-          "title": "Next to 87 Cranbrook Road, 21st July",
-          "url": "https://www.fixmystreet.com/report/9824942",
-          "date": "2026-07-21T18:52:33+00:00",
           "category": null
         }
       ],
