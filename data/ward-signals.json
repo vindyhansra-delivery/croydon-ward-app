@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T12:56:12.586050+00:00",
+    "generated_at": "2026-08-21T18:42:38.196215+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -674,14 +674,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Free SWLLC benefits and housing advice sessions, Selhurst",
-          "url": "https://insidecroydon.com/2026/08/15/free-swllc-benefits-and-housing-advice-sessions-selhurst-4/",
-          "date": "2026-08-15T09:05:46+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
