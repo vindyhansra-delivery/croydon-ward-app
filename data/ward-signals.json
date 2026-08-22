@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T06:46:11.441684+00:00",
+    "generated_at": "2026-08-22T12:46:24.707443+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -37,12 +37,6 @@
           "title": "Matress/bed material, 28th July",
           "url": "https://www.fixmystreet.com/report/9861613",
           "date": "2026-07-28T16:06:03+00:00",
-          "category": null
-        },
-        {
-          "title": "Fridge, 23rd July",
-          "url": "https://www.fixmystreet.com/report/9832976",
-          "date": "2026-07-23T08:28:50+00:00",
           "category": null
         }
       ],
@@ -733,6 +727,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Abandoned vehicle, 22nd August",
+          "url": "https://www.fixmystreet.com/report/9986731",
+          "date": "2026-08-22T11:17:00+00:00",
+          "category": null
+        },
+        {
           "title": "Flytipping, 20th August",
           "url": "https://www.fixmystreet.com/report/9979371",
           "date": "2026-08-20T14:52:19+00:00",
@@ -784,12 +784,6 @@
           "title": "Dumped Rubbish, 25th July",
           "url": "https://www.fixmystreet.com/report/9843973",
           "date": "2026-07-25T06:29:00+00:00",
-          "category": null
-        },
-        {
-          "title": "Trolley, 23rd July",
-          "url": "https://www.fixmystreet.com/report/9832982",
-          "date": "2026-07-23T08:30:02+00:00",
           "category": null
         }
       ],
@@ -843,6 +837,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "South Croydon Model Railway Show, St Paul’s Church, Sep 12",
+          "url": "https://insidecroydon.com/2026/08/22/south-croydon-model-railway-show-st-pauls-church-sep-12/",
+          "date": "2026-08-22T10:10:27+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Pampisford Road Allotments annual Open Day, Sun Sep 6",
           "url": "https://insidecroydon.com/2026/08/21/pampisford-road-allotments-annual-open-day-sun-sep-6/",
@@ -1075,12 +1075,6 @@
           "title": "Bin full by house before tramline and rubbish nearby before tramline, 24th July",
           "url": "https://www.fixmystreet.com/report/9838138",
           "date": "2026-07-24T03:26:01+00:00",
-          "category": null
-        },
-        {
-          "title": "Trolley, 23rd July",
-          "url": "https://www.fixmystreet.com/report/9833124",
-          "date": "2026-07-23T08:41:36+00:00",
           "category": null
         }
       ],
