@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T12:47:46.503931+00:00",
+    "generated_at": "2026-08-23T18:36:04.515925+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -291,12 +291,6 @@
           "title": "Abandoned vehicle, 9th August",
           "url": "https://www.fixmystreet.com/report/9919188",
           "date": "2026-08-09T05:20:34+00:00",
-          "category": null
-        },
-        {
-          "title": "Uneven steps, 24th July",
-          "url": "https://www.fixmystreet.com/report/9842159",
-          "date": "2026-07-24T15:06:15+00:00",
           "category": null
         }
       ],
@@ -648,6 +642,12 @@
     "Selsdon and Addington Village": {
       "fixmystreet": [
         {
+          "title": "Repeated Excessive Speeding down Upper Selsdon Road, 23rd August",
+          "url": "https://www.fixmystreet.com/report/9990083",
+          "date": "2026-08-23T13:36:12+00:00",
+          "category": null
+        },
+        {
           "title": "Street light, 22nd August",
           "url": "https://www.fixmystreet.com/report/9988327",
           "date": "2026-08-22T21:01:22+00:00",
@@ -678,6 +678,12 @@
     },
     "Shirley North": {
       "fixmystreet": [
+        {
+          "title": "Burst pipe, 23rd August",
+          "url": "https://www.fixmystreet.com/report/9990172",
+          "date": "2026-08-23T14:00:51+00:00",
+          "category": null
+        },
         {
           "title": "Cracked payment, 22nd August",
           "url": "https://www.fixmystreet.com/report/9987629",
@@ -731,12 +737,6 @@
           "url": "https://www.fixmystreet.com/report/9870944",
           "date": "2026-07-30T09:08:34+00:00",
           "category": null
-        },
-        {
-          "title": "Dumped tree, 28th July",
-          "url": "https://www.fixmystreet.com/report/9858581",
-          "date": "2026-07-28T09:29:08+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -744,6 +744,18 @@
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "Abandoned vehicle, 23rd August",
+          "url": "https://www.fixmystreet.com/report/9990974",
+          "date": "2026-08-23T17:26:16+00:00",
+          "category": null
+        },
+        {
+          "title": "Builders rubbish has been fly tipped, 23rd August",
+          "url": "https://www.fixmystreet.com/report/9990162",
+          "date": "2026-08-23T13:57:53+00:00",
+          "category": null
+        },
         {
           "title": "Rats running around very visible, 14th August",
           "url": "https://www.fixmystreet.com/report/9948516",
@@ -890,12 +902,6 @@
           "title": "South Norwood Community Kitchen’s forum: Tue Aug 18",
           "url": "https://insidecroydon.com/2026/08/15/south-norwood-community-kitchens-forum-tue-aug-18-2/",
           "date": "2026-08-15T09:55:05+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "South Norwood Community Kitchen’s forum: Tue Aug 18",
-          "url": "https://insidecroydon.com/2026/08/12/south-norwood-community-kitchens-forum-tue-aug-18/",
-          "date": "2026-08-12T11:55:22+00:00",
           "publisher": "Inside Croydon"
         }
       ]
