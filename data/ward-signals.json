@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T06:47:45.512486+00:00",
+    "generated_at": "2026-08-23T12:47:46.503931+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -41,14 +41,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Customer care? With Thames Water, all you get is an AI shrug",
-          "url": "https://insidecroydon.com/2026/08/11/customer-care-with-thames-water-all-you-get-is-an-ai-shrug/",
-          "date": "2026-08-11T10:24:45+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Addiscombe West": {
       "fixmystreet": [
@@ -107,18 +100,6 @@
           "title": "Buskers Barbecue Festival, The Oval Tavern, Sat Aug 22",
           "url": "https://insidecroydon.com/2026/08/20/buskers-barbecue-festival-the-oval-tavern-sat-aug-22/",
           "date": "2026-08-20T09:19:46+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Charity leader arrested after reports of providing aid to Hamas",
-          "url": "https://insidecroydon.com/2026/08/11/charity-leader-arrested-after-reports-of-providing-aid-to-hamas/",
-          "date": "2026-08-11T14:40:06+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Customer care? With Thames Water, all you get is an AI shrug",
-          "url": "https://insidecroydon.com/2026/08/11/customer-care-with-thames-water-all-you-get-is-an-ai-shrug/",
-          "date": "2026-08-11T10:24:45+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -286,12 +267,6 @@
           "title": "Pothole already reappearing after just been fixed, 25th July",
           "url": "https://www.fixmystreet.com/report/9844953",
           "date": "2026-07-25T11:09:09+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish dumped next to path, 24th July",
-          "url": "https://www.fixmystreet.com/report/9840327",
-          "date": "2026-07-24T11:40:40+00:00",
           "category": null
         }
       ],
@@ -519,12 +494,6 @@
           "url": "https://www.fixmystreet.com/report/9872082",
           "date": "2026-07-30T11:24:48+00:00",
           "category": null
-        },
-        {
-          "title": "Overgrown Brambles & Stinging Nettles etc, 24th July",
-          "url": "https://www.fixmystreet.com/report/9838805",
-          "date": "2026-07-24T07:55:42+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -561,12 +530,6 @@
           "title": "Blocked street drains Selcroft Road Purley, 6th August",
           "url": "https://www.fixmystreet.com/report/9906208",
           "date": "2026-08-06T08:08:44+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned, damaged car., 24th July",
-          "url": "https://www.fixmystreet.com/report/9839493",
-          "date": "2026-07-24T09:22:59+00:00",
           "category": null
         }
       ],
@@ -634,18 +597,6 @@
           "url": "https://www.fixmystreet.com/report/9961556",
           "date": "2026-08-17T14:33:15+00:00",
           "category": null
-        },
-        {
-          "title": "Massive potholes at end od saddle mews, 24th July",
-          "url": "https://www.fixmystreet.com/report/9840781",
-          "date": "2026-07-24T12:40:53+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead fox on the road (been run over), 24th July",
-          "url": "https://www.fixmystreet.com/report/9838774",
-          "date": "2026-07-24T08:56:19+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -685,7 +636,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Woodland wonderland that’s hidden behind Selsdon’s suburbia",
+          "url": "https://insidecroydon.com/2026/08/23/woodland-wonderland-thats-hidden-behind-selsdons-suburbia/",
+          "date": "2026-08-23T10:30:48+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
@@ -706,16 +664,17 @@
           "url": "https://www.fixmystreet.com/report/9903416",
           "date": "2026-08-05T14:50:56+00:00",
           "category": null
-        },
-        {
-          "title": "The bins in the park are overflowing., 24th July",
-          "url": "https://www.fixmystreet.com/report/9838976",
-          "date": "2026-07-24T08:22:20+00:00",
-          "category": null
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Woodland wonderland that’s hidden behind Selsdon’s suburbia",
+          "url": "https://insidecroydon.com/2026/08/23/woodland-wonderland-thats-hidden-behind-selsdons-suburbia/",
+          "date": "2026-08-23T10:30:48+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Shirley North": {
       "fixmystreet": [
@@ -830,6 +789,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Woodland wonderland that’s hidden behind Selsdon’s suburbia",
+          "url": "https://insidecroydon.com/2026/08/23/woodland-wonderland-thats-hidden-behind-selsdons-suburbia/",
+          "date": "2026-08-23T10:30:48+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "South Croydon Model Railway Show, St Paul’s Church, Sep 12",
           "url": "https://insidecroydon.com/2026/08/22/south-croydon-model-railway-show-st-pauls-church-sep-12/",
