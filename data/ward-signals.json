@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T01:37:46.009831+00:00",
+    "generated_at": "2026-08-23T06:47:45.512486+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -1080,12 +1080,6 @@
           "title": "Abandoned silver mercedes SUV, 27th July",
           "url": "https://www.fixmystreet.com/report/9855535",
           "date": "2026-07-27T16:47:36+00:00",
-          "category": null
-        },
-        {
-          "title": "Bin full by house before tramline and rubbish nearby before tramline, 24th July",
-          "url": "https://www.fixmystreet.com/report/9838138",
-          "date": "2026-07-24T03:26:01+00:00",
           "category": null
         }
       ],
