@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-22T18:37:09.913242+00:00",
+    "generated_at": "2026-08-23T01:37:46.009831+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -366,12 +366,6 @@
           "url": "https://www.fixmystreet.com/report/9843207",
           "date": "2026-07-24T19:16:53+00:00",
           "category": null
-        },
-        {
-          "title": "Speeding, 23rd July",
-          "url": "https://www.fixmystreet.com/report/9837793",
-          "date": "2026-07-23T20:51:38+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -660,6 +654,12 @@
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
         {
+          "title": "No tax, 22nd August",
+          "url": "https://www.fixmystreet.com/report/9988313",
+          "date": "2026-08-22T20:48:34+00:00",
+          "category": null
+        },
+        {
           "title": "All 4 clothes bins are stuck and unusable, 17th August",
           "url": "https://www.fixmystreet.com/report/9963690",
           "date": "2026-08-17T21:31:50+00:00",
@@ -689,6 +689,12 @@
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
+        {
+          "title": "Street light, 22nd August",
+          "url": "https://www.fixmystreet.com/report/9988327",
+          "date": "2026-08-22T21:01:22+00:00",
+          "category": null
+        },
         {
           "title": "Abandoned untaxed car, 16th August",
           "url": "https://www.fixmystreet.com/report/9957255",
