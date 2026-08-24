@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T12:58:24.968735+00:00",
+    "generated_at": "2026-08-24T18:46:35.246245+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -150,6 +150,12 @@
     "Coulsdon Town": {
       "fixmystreet": [
         {
+          "title": "Overgrown vegetation, 24th August",
+          "url": "https://www.fixmystreet.com/report/9995691",
+          "date": "2026-08-24T14:35:00+00:00",
+          "category": null
+        },
+        {
           "title": "Huge leaning tree presents risk to road users and dwellers, 21st August",
           "url": "https://www.fixmystreet.com/report/9981621",
           "date": "2026-08-21T07:50:11+00:00",
@@ -201,12 +207,6 @@
           "title": "Trees swinging heavily in wind causing damage, 3rd August",
           "url": "https://www.fixmystreet.com/report/9892220",
           "date": "2026-08-03T17:42:21+00:00",
-          "category": null
-        },
-        {
-          "title": "Ongoing issue with high powered dirt bikes and e-bikes terrorising park visitors, 3rd August",
-          "url": "https://www.fixmystreet.com/report/9892143",
-          "date": "2026-08-03T17:28:46+00:00",
           "category": null
         }
       ],
@@ -363,14 +363,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "£2,000 reward offered to find New Addington’s cruel fox killer",
-          "url": "https://insidecroydon.com/2026/08/13/2000-reward-offered-to-find-new-addingtons-cruel-fox-killer/",
-          "date": "2026-08-13T10:43:21+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "New Addington South": {
       "fixmystreet": [
@@ -388,14 +381,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "£2,000 reward offered to find New Addington’s cruel fox killer",
-          "url": "https://insidecroydon.com/2026/08/13/2000-reward-offered-to-find-new-addingtons-cruel-fox-killer/",
-          "date": "2026-08-13T10:43:21+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Norbury Park": {
       "fixmystreet": [
@@ -409,12 +395,6 @@
           "title": "Abandoned car, 27th July",
           "url": "https://www.fixmystreet.com/report/9851496",
           "date": "2026-07-27T08:05:37+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead fox on pavement outside 301 Beulah Hill, 25th July",
-          "url": "https://www.fixmystreet.com/report/9845536",
-          "date": "2026-07-25T13:35:07+00:00",
           "category": null
         }
       ],
