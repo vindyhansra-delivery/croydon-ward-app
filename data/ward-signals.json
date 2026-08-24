@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T07:06:18.152536+00:00",
+    "generated_at": "2026-08-24T12:58:24.968735+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -262,12 +262,6 @@
           "url": "https://www.fixmystreet.com/report/9876047",
           "date": "2026-07-31T07:50:08+00:00",
           "category": null
-        },
-        {
-          "title": "Pothole already reappearing after just been fixed, 25th July",
-          "url": "https://www.fixmystreet.com/report/9844953",
-          "date": "2026-07-25T11:09:09+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -495,14 +489,7 @@
       ]
     },
     "Park Hill and Whitgift": {
-      "fixmystreet": [
-        {
-          "title": "Dangerous over hanging trees, 25th July",
-          "url": "https://www.fixmystreet.com/report/9845300",
-          "date": "2026-07-25T12:24:50+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
@@ -522,7 +509,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Walk and Talk Riddlesdown, weekly every Sunday from 9am",
+          "url": "https://insidecroydon.com/2026/08/24/walk-and-talk-riddlesdown-weekly-every-sunday-from-9am/",
+          "date": "2026-08-24T12:13:34+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Purley and Woodcote": {
       "fixmystreet": [
@@ -614,12 +608,6 @@
           "title": "Rubbish on floor next to bus stop, 28th July",
           "url": "https://www.fixmystreet.com/report/9857307",
           "date": "2026-07-28T06:15:21+00:00",
-          "category": null
-        },
-        {
-          "title": "Bollard/post removed, 25th July",
-          "url": "https://www.fixmystreet.com/report/9844187",
-          "date": "2026-07-25T07:54:09+00:00",
           "category": null
         }
       ],
@@ -903,6 +891,36 @@
     "Thornton Heath": {
       "fixmystreet": [
         {
+          "title": "Line painting, 24th August",
+          "url": "https://www.fixmystreet.com/report/9994194",
+          "date": "2026-08-24T11:22:12+00:00",
+          "category": null
+        },
+        {
+          "title": "Vehicle incorrectly parked, 24th August",
+          "url": "https://www.fixmystreet.com/report/9994172",
+          "date": "2026-08-24T11:22:10+00:00",
+          "category": null
+        },
+        {
+          "title": "Parking on a double yellow, 24th August",
+          "url": "https://www.fixmystreet.com/report/9994149",
+          "date": "2026-08-24T11:46:34+00:00",
+          "category": null
+        },
+        {
+          "title": "Constant parking on double yellow lines, 24th August",
+          "url": "https://www.fixmystreet.com/report/9993902",
+          "date": "2026-08-24T10:40:39+00:00",
+          "category": null
+        },
+        {
+          "title": "Planter protruding into road, 24th August",
+          "url": "https://www.fixmystreet.com/report/9993697",
+          "date": "2026-08-24T10:36:06+00:00",
+          "category": null
+        },
+        {
           "title": "Narrow Road, 29th July",
           "url": "https://www.fixmystreet.com/report/9869384",
           "date": "2026-07-29T22:21:12+00:00",
@@ -933,6 +951,12 @@
     },
     "Waddon": {
       "fixmystreet": [
+        {
+          "title": "Trees branches hitting buses, 24th August",
+          "url": "https://www.fixmystreet.com/report/9994477",
+          "date": "2026-08-24T11:53:08+00:00",
+          "category": null
+        },
         {
           "title": "Overgrown trees covering whole pavement area, 22nd August",
           "url": "https://www.fixmystreet.com/report/9987777",
