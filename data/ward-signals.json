@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-23T18:36:04.515925+00:00",
+    "generated_at": "2026-08-24T01:29:36.469354+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -328,12 +328,6 @@
           "title": "Overgrown, 28th July",
           "url": "https://www.fixmystreet.com/report/9857367",
           "date": "2026-07-28T07:18:04+00:00",
-          "category": null
-        },
-        {
-          "title": "Hasn’t moved in months, 24th July",
-          "url": "https://www.fixmystreet.com/report/9843207",
-          "date": "2026-07-24T19:16:53+00:00",
           "category": null
         }
       ],
@@ -679,6 +673,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Matress, 23rd August",
+          "url": "https://www.fixmystreet.com/report/9991454",
+          "date": "2026-08-23T19:45:37+00:00",
+          "category": null
+        },
+        {
           "title": "Burst pipe, 23rd August",
           "url": "https://www.fixmystreet.com/report/9990172",
           "date": "2026-08-23T14:00:51+00:00",
@@ -730,12 +730,6 @@
           "title": "Cars parked on the pavement, 1st August",
           "url": "https://www.fixmystreet.com/report/9883314",
           "date": "2026-08-01T20:32:59+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead fox, 30th July",
-          "url": "https://www.fixmystreet.com/report/9870944",
-          "date": "2026-07-30T09:08:34+00:00",
           "category": null
         }
       ],
