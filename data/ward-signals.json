@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T18:46:35.246245+00:00",
+    "generated_at": "2026-08-25T01:26:51.489232+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -870,6 +870,12 @@
     },
     "Thornton Heath": {
       "fixmystreet": [
+        {
+          "title": "Foliage blocking traffic light equipment, 24th August",
+          "url": "https://www.fixmystreet.com/report/9997664",
+          "date": "2026-08-24T22:53:33+00:00",
+          "category": null
+        },
         {
           "title": "Line painting, 24th August",
           "url": "https://www.fixmystreet.com/report/9994194",
