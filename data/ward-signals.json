@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T06:55:47.183723+00:00",
+    "generated_at": "2026-08-25T12:55:01.890376+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -297,9 +297,9 @@
       "reddit": [],
       "news": [
         {
-          "title": "Open House 2026: from Croydon Town Hall to Downing Street",
-          "url": "https://insidecroydon.com/2026/08/13/open-house-2026-from-croydon-town-hall-to-downing-street/",
-          "date": "2026-08-13T12:29:29+00:00",
+          "title": "‘Crap’ council is caught taping over the cracks of listed building",
+          "url": "https://insidecroydon.com/2026/08/25/crap-council-is-caught-taping-over-the-cracks-of-listed-building/",
+          "date": "2026-08-25T11:03:27+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -409,6 +409,12 @@
     },
     "Norbury and Pollards Hill": {
       "fixmystreet": [
+        {
+          "title": "Mattress, 25th August",
+          "url": "https://www.fixmystreet.com/report/9999342",
+          "date": "2026-08-25T09:37:03+00:00",
+          "category": null
+        },
         {
           "title": "Post office manhole cover cracked, 22nd August",
           "url": "https://www.fixmystreet.com/report/9988029",
@@ -743,6 +749,12 @@
     "South Croydon": {
       "fixmystreet": [
         {
+          "title": "Mattress, 25th August",
+          "url": "https://www.fixmystreet.com/report/9998895",
+          "date": "2026-08-25T08:45:11+00:00",
+          "category": null
+        },
+        {
           "title": "Water leak., 6th August",
           "url": "https://www.fixmystreet.com/report/9910945",
           "date": "2026-08-06T21:46:32+00:00",
@@ -753,22 +765,16 @@
           "url": "https://www.fixmystreet.com/report/9859688",
           "date": "2026-07-28T11:31:54+00:00",
           "category": null
-        },
-        {
-          "title": "Dead tree leaning across path, 26th July",
-          "url": "https://www.fixmystreet.com/report/9848284",
-          "date": "2026-07-26T11:27:28+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish left by dog bin, 26th July",
-          "url": "https://www.fixmystreet.com/report/9848262",
-          "date": "2026-07-26T11:23:57+00:00",
-          "category": null
         }
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Selsdon Community Fair, Old Farleigh Road, Sun Sep 6",
+          "url": "https://insidecroydon.com/2026/08/25/selsdon-community-fair-old-farleigh-road-sun-sep-6/",
+          "date": "2026-08-25T08:41:19+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Woodland wonderland that’s hidden behind Selsdon’s suburbia",
           "url": "https://insidecroydon.com/2026/08/23/woodland-wonderland-thats-hidden-behind-selsdons-suburbia/",
@@ -791,12 +797,6 @@
           "title": "Thanks to the magic of Merlin there’s more to see in the woods",
           "url": "https://insidecroydon.com/2026/08/16/thanks-to-the-magic-of-merlin-theres-more-to-see-in-the-woods/",
           "date": "2026-08-16T10:02:26+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Croydon High’s high achievers celebrate on A Level results day",
-          "url": "https://insidecroydon.com/2026/08/13/croydon-highs-high-achievers-celebrate-on-a-level-results-day/",
-          "date": "2026-08-13T15:05:10+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -943,6 +943,12 @@
     },
     "Waddon": {
       "fixmystreet": [
+        {
+          "title": "Low hanging branch hitting the windows of the buses, 25th August",
+          "url": "https://www.fixmystreet.com/report/10000030",
+          "date": "2026-08-25T10:52:19+00:00",
+          "category": null
+        },
         {
           "title": "Trees branches hitting buses, 24th August",
           "url": "https://www.fixmystreet.com/report/9994477",
