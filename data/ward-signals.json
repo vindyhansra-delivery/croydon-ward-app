@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T12:55:01.890376+00:00",
+    "generated_at": "2026-08-25T18:45:28.359773+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -79,12 +79,6 @@
           "title": "Blocking the pavement, 29th July",
           "url": "https://www.fixmystreet.com/report/9868292",
           "date": "2026-07-29T18:16:52+00:00",
-          "category": null
-        },
-        {
-          "title": "Temporary traffic lights showing red on both sides for past three hours around a bend, 26th July",
-          "url": "https://www.fixmystreet.com/report/9849349",
-          "date": "2026-07-26T15:46:40+00:00",
           "category": null
         }
       ],
@@ -735,12 +729,6 @@
           "url": "https://www.fixmystreet.com/report/9948516",
           "date": "2026-08-14T12:43:31+00:00",
           "category": null
-        },
-        {
-          "title": "Graffiti on Bethlem Royal Hospital old “Temp” walls, 26th July",
-          "url": "https://www.fixmystreet.com/report/9849186",
-          "date": "2026-07-26T15:11:16+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -860,6 +848,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "South Norwood man jailed for life over 2021 fatal shooting",
+          "url": "https://insidecroydon.com/2026/08/25/south-norwood-man-jailed-for-life-over-2021-fatal-shooting/",
+          "date": "2026-08-25T16:05:37+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Free: People’s Emergency Briefing, South Norwood, Sep 13",
           "url": "https://insidecroydon.com/2026/08/17/free-peoples-emergency-briefing-south-norwood-sep-13/",
