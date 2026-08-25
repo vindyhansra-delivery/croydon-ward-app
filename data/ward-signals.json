@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T01:26:51.489232+00:00",
+    "generated_at": "2026-08-25T06:55:47.183723+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -215,6 +215,12 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "Flytipping, 25th August",
+          "url": "https://www.fixmystreet.com/report/9997967",
+          "date": "2026-08-25T06:22:26+00:00",
+          "category": null
+        },
         {
           "title": "Uneven pavement, 20th August",
           "url": "https://www.fixmystreet.com/report/9980548",
