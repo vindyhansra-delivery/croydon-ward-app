@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T06:56:54.800104+00:00",
+    "generated_at": "2026-08-26T12:59:54.478785+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -84,6 +84,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Blues at The Oval: Two-Gun Mathilda, Sun Aug 30, free entry",
+          "url": "https://insidecroydon.com/2026/08/26/blues-at-the-oval-two-gun-mathilda-sun-aug-30-free-entry/",
+          "date": "2026-08-26T10:00:44+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Kit Packham’s One Jump Ahead, The Oval Tavern, Sun Aug 23",
           "url": "https://insidecroydon.com/2026/08/21/kit-packhams-one-jump-ahead-the-oval-tavern-sun-aug-23/",
@@ -332,12 +338,6 @@
           "url": "https://insidecroydon.com/2026/08/20/chocolate-cakes-and-a-choir-reedham-village-lates-returns/",
           "date": "2026-08-20T11:01:54+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "10,000 turn out for astronomical society’s solar eclipse events",
-          "url": "https://insidecroydon.com/2026/08/14/10000-turn-out-for-astronomical-societys-solar-eclipse-events/",
-          "date": "2026-08-14T12:20:07+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -389,12 +389,6 @@
           "title": "Windscreen glass, 17th August",
           "url": "https://www.fixmystreet.com/report/9962574",
           "date": "2026-08-17T17:13:09+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned car, 27th July",
-          "url": "https://www.fixmystreet.com/report/9851496",
-          "date": "2026-07-27T08:05:37+00:00",
           "category": null
         }
       ],
@@ -512,6 +506,12 @@
     },
     "Purley and Woodcote": {
       "fixmystreet": [
+        {
+          "title": "Hole by drain cover opposite no 18 Dale Road. Getting bigger. Reported once before, nothing done!, 26th August",
+          "url": "https://www.fixmystreet.com/report/10005224",
+          "date": "2026-08-26T10:06:06+00:00",
+          "category": null
+        },
         {
           "title": "Bushes obstructing pavement, 7th August",
           "url": "https://www.fixmystreet.com/report/9911638",
