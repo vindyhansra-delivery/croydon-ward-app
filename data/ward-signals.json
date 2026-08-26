@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T18:45:28.359773+00:00",
+    "generated_at": "2026-08-26T01:29:42.631277+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -403,6 +403,12 @@
     },
     "Norbury and Pollards Hill": {
       "fixmystreet": [
+        {
+          "title": "Bumps on the pavement, 25th August",
+          "url": "https://www.fixmystreet.com/report/10003125",
+          "date": "2026-08-25T20:29:19+00:00",
+          "category": null
+        },
         {
           "title": "Mattress, 25th August",
           "url": "https://www.fixmystreet.com/report/9999342",
