@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T12:59:54.478785+00:00",
+    "generated_at": "2026-08-26T19:52:59.012751+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -45,6 +45,12 @@
     },
     "Addiscombe West": {
       "fixmystreet": [
+        {
+          "title": "Traffic lights going green for only 20 seconds on a busy road crossing, 26th August",
+          "url": "https://www.fixmystreet.com/report/10008731",
+          "date": "2026-08-26T19:31:52+00:00",
+          "category": null
+        },
         {
           "title": "Number 11, 19th August",
           "url": "https://www.fixmystreet.com/report/9975076",
@@ -865,12 +871,6 @@
           "url": "https://insidecroydon.com/2026/08/17/free-peoples-emergency-briefing-south-norwood-sep-13/",
           "date": "2026-08-17T08:59:18+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "South Norwood Community Kitchen’s forum: Tue Aug 18",
-          "url": "https://insidecroydon.com/2026/08/15/south-norwood-community-kitchens-forum-tue-aug-18-2/",
-          "date": "2026-08-15T09:55:05+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -1061,12 +1061,6 @@
           "title": "Water leaking and pooling beside tramway, 28th July",
           "url": "https://www.fixmystreet.com/report/9857685",
           "date": "2026-07-28T07:34:14+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned silver mercedes SUV, 27th July",
-          "url": "https://www.fixmystreet.com/report/9855535",
-          "date": "2026-07-27T16:47:36+00:00",
           "category": null
         }
       ],
