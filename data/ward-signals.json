@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T19:52:59.012751+00:00",
+    "generated_at": "2026-08-27T08:18:08.532864+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -329,12 +329,6 @@
           "url": "https://www.fixmystreet.com/report/9861995",
           "date": "2026-07-28T17:24:12+00:00",
           "category": null
-        },
-        {
-          "title": "Overgrown, 28th July",
-          "url": "https://www.fixmystreet.com/report/9857367",
-          "date": "2026-07-28T07:18:04+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -567,6 +561,12 @@
     "Selhurst": {
       "fixmystreet": [
         {
+          "title": "Abandoned car more than two month, 26th August",
+          "url": "https://www.fixmystreet.com/report/10009023",
+          "date": "2026-08-26T21:13:21+00:00",
+          "category": null
+        },
+        {
           "title": "Road works no action for over a week, 18th August",
           "url": "https://www.fixmystreet.com/report/9964392",
           "date": "2026-08-18T07:03:42+00:00",
@@ -600,12 +600,6 @@
           "title": "Temporary traffic lights not working, 3rd August",
           "url": "https://www.fixmystreet.com/report/9889844",
           "date": "2026-08-03T11:54:14+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish on floor next to bus stop, 28th July",
-          "url": "https://www.fixmystreet.com/report/9857307",
-          "date": "2026-07-28T06:15:21+00:00",
           "category": null
         }
       ],
@@ -1055,12 +1049,6 @@
           "title": "20mph rotated causing confusion and mistakes, 30th July",
           "url": "https://www.fixmystreet.com/report/9869771",
           "date": "2026-07-30T06:07:59+00:00",
-          "category": null
-        },
-        {
-          "title": "Water leaking and pooling beside tramway, 28th July",
-          "url": "https://www.fixmystreet.com/report/9857685",
-          "date": "2026-07-28T07:34:14+00:00",
           "category": null
         }
       ],
