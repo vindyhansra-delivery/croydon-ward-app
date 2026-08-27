@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-27T08:18:08.532864+00:00",
+    "generated_at": "2026-08-27T22:01:51.528880+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -31,12 +31,6 @@
           "title": "Red car is blocking my drive., 1st August",
           "url": "https://www.fixmystreet.com/report/9880934",
           "date": "2026-08-01T07:45:49+00:00",
-          "category": null
-        },
-        {
-          "title": "Matress/bed material, 28th July",
-          "url": "https://www.fixmystreet.com/report/9861613",
-          "date": "2026-07-28T16:06:03+00:00",
           "category": null
         }
       ],
@@ -126,14 +120,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "The high street business that made sure Croydon was on song",
-          "url": "https://insidecroydon.com/2026/08/16/the-high-street-business-that-made-sure-croydon-was-on-song/",
-          "date": "2026-08-16T15:19:12+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Broad Green": {
       "fixmystreet": [
@@ -222,6 +209,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Fly tipping, 27th August",
+          "url": "https://www.fixmystreet.com/report/10013618",
+          "date": "2026-08-27T16:36:52+00:00",
+          "category": null
+        },
+        {
           "title": "Flytipping, 25th August",
           "url": "https://www.fixmystreet.com/report/9997967",
           "date": "2026-08-25T06:22:26+00:00",
@@ -303,6 +296,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Ted Craig, director of Warehouse Theatre for 25 years, has died",
+          "url": "https://insidecroydon.com/2026/08/27/ted-craig-director-of-warehouse-theatre-for-25-years-has-died/",
+          "date": "2026-08-27T13:59:55+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "‘Crap’ council is caught taping over the cracks of listed building",
           "url": "https://insidecroydon.com/2026/08/25/crap-council-is-caught-taping-over-the-cracks-of-listed-building/",
           "date": "2026-08-25T11:03:27+00:00",
@@ -322,12 +321,6 @@
           "title": "Blocking bin lorries, 15th August",
           "url": "https://www.fixmystreet.com/report/9952993",
           "date": "2026-08-15T15:31:39+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead fox, 28th July",
-          "url": "https://www.fixmystreet.com/report/9861995",
-          "date": "2026-07-28T17:24:12+00:00",
           "category": null
         }
       ],
@@ -507,6 +500,12 @@
     "Purley and Woodcote": {
       "fixmystreet": [
         {
+          "title": "Street lights not working, 27th August",
+          "url": "https://www.fixmystreet.com/report/10014101",
+          "date": "2026-08-27T18:37:35+00:00",
+          "category": null
+        },
+        {
           "title": "Hole by drain cover opposite no 18 Dale Road. Getting bigger. Reported once before, nothing done!, 26th August",
           "url": "https://www.fixmystreet.com/report/10005224",
           "date": "2026-08-26T10:06:06+00:00",
@@ -536,6 +535,12 @@
     },
     "Sanderstead": {
       "fixmystreet": [
+        {
+          "title": "Dumped 200 kg slate chippings in bags, 27th August",
+          "url": "https://www.fixmystreet.com/report/10010683",
+          "date": "2026-08-27T09:18:48+00:00",
+          "category": null
+        },
         {
           "title": "Speeding vehicles, 20th August",
           "url": "https://www.fixmystreet.com/report/9976414",
@@ -753,12 +758,6 @@
           "url": "https://www.fixmystreet.com/report/9910945",
           "date": "2026-08-06T21:46:32+00:00",
           "category": null
-        },
-        {
-          "title": "Growth on bases of trees along Pampisford Road, 28th July",
-          "url": "https://www.fixmystreet.com/report/9859688",
-          "date": "2026-07-28T11:31:54+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -785,12 +784,6 @@
           "title": "Pampisford Road Allotments annual Open Day, Sun Sep 6",
           "url": "https://insidecroydon.com/2026/08/21/pampisford-road-allotments-annual-open-day-sun-sep-6/",
           "date": "2026-08-21T10:10:38+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Thanks to the magic of Merlin there’s more to see in the woods",
-          "url": "https://insidecroydon.com/2026/08/16/thanks-to-the-magic-of-merlin-theres-more-to-see-in-the-woods/",
-          "date": "2026-08-16T10:02:26+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -831,24 +824,6 @@
           "title": "Large obstruction in the road approximately 1 m by half a metre by half a metre, 3rd August",
           "url": "https://www.fixmystreet.com/report/9887729",
           "date": "2026-08-03T07:34:19+00:00",
-          "category": null
-        },
-        {
-          "title": "Large solar panel and camera attached to lamp post, 28th July",
-          "url": "https://www.fixmystreet.com/report/9859730",
-          "date": "2026-07-28T11:36:37+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead end sign - not a dead end., 28th July",
-          "url": "https://www.fixmystreet.com/report/9859726",
-          "date": "2026-07-28T11:35:36+00:00",
-          "category": "Dead end sign"
-        },
-        {
-          "title": "Obstruction in road. Planter needs removing, 28th July",
-          "url": "https://www.fixmystreet.com/report/9859717",
-          "date": "2026-07-28T11:34:11+00:00",
           "category": null
         }
       ],
@@ -926,12 +901,6 @@
           "url": "https://insidecroydon.com/2026/08/18/petty-perry-blocks-residents-groups-from-ra-rubbish-meeting/",
           "date": "2026-08-18T15:07:07+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "The high street business that made sure Croydon was on song",
-          "url": "https://insidecroydon.com/2026/08/16/the-high-street-business-that-made-sure-croydon-was-on-song/",
-          "date": "2026-08-16T15:19:12+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -971,18 +940,6 @@
           "title": "Loose manhole cover causing noise, 11th August",
           "url": "https://www.fixmystreet.com/report/9934221",
           "date": "2026-08-11T17:45:56+00:00",
-          "category": null
-        },
-        {
-          "title": "Another su ken trench, 28th July",
-          "url": "https://www.fixmystreet.com/report/9861844",
-          "date": "2026-07-28T16:52:04+00:00",
-          "category": null
-        },
-        {
-          "title": "500mm sunken trench, 28th July",
-          "url": "https://www.fixmystreet.com/report/9861835",
-          "date": "2026-07-28T16:49:57+00:00",
           "category": null
         }
       ],
