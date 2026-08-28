@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-27T22:01:51.528880+00:00",
+    "generated_at": "2026-08-28T10:20:53.260875+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -658,6 +658,18 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Matters and other rubbish dumped, 28th August",
+          "url": "https://www.fixmystreet.com/report/10016184",
+          "date": "2026-08-28T09:22:36+00:00",
+          "category": null
+        },
+        {
+          "title": "Deceased Animal, 28th August",
+          "url": "https://www.fixmystreet.com/report/10016089",
+          "date": "2026-08-28T09:09:25+00:00",
+          "category": null
+        },
+        {
           "title": "Matress, 23rd August",
           "url": "https://www.fixmystreet.com/report/9991454",
           "date": "2026-08-23T19:45:37+00:00",
@@ -703,18 +715,6 @@
           "title": "Broken swings, 7th August",
           "url": "https://www.fixmystreet.com/report/9915458",
           "date": "2026-08-07T17:54:10+00:00",
-          "category": null
-        },
-        {
-          "title": "Matress, 3rd August",
-          "url": "https://www.fixmystreet.com/report/9888155",
-          "date": "2026-08-03T08:34:39+00:00",
-          "category": null
-        },
-        {
-          "title": "Cars parked on the pavement, 1st August",
-          "url": "https://www.fixmystreet.com/report/9883314",
-          "date": "2026-08-01T20:32:59+00:00",
           "category": null
         }
       ],
@@ -830,15 +830,15 @@
       "reddit": [],
       "news": [
         {
-          "title": "South Norwood man jailed for life over 2021 fatal shooting",
-          "url": "https://insidecroydon.com/2026/08/25/south-norwood-man-jailed-for-life-over-2021-fatal-shooting/",
-          "date": "2026-08-25T16:05:37+00:00",
+          "title": "London Radical Book Fair, Stanley Halls, free entry, Sun Sep 6",
+          "url": "https://insidecroydon.com/2026/08/28/london-radical-book-fair-stanley-halls-free-entry-sun-sep-6/",
+          "date": "2026-08-28T09:39:19+00:00",
           "publisher": "Inside Croydon"
         },
         {
-          "title": "Free: People’s Emergency Briefing, South Norwood, Sep 13",
-          "url": "https://insidecroydon.com/2026/08/17/free-peoples-emergency-briefing-south-norwood-sep-13/",
-          "date": "2026-08-17T08:59:18+00:00",
+          "title": "South Norwood man jailed for life over 2021 fatal shooting",
+          "url": "https://insidecroydon.com/2026/08/25/south-norwood-man-jailed-for-life-over-2021-fatal-shooting/",
+          "date": "2026-08-25T16:05:37+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -907,6 +907,12 @@
     "Waddon": {
       "fixmystreet": [
         {
+          "title": "Overhanging trees, 28th August",
+          "url": "https://www.fixmystreet.com/report/10016514",
+          "date": "2026-08-28T10:04:40+00:00",
+          "category": null
+        },
+        {
           "title": "Low hanging branch hitting the windows of the buses, 25th August",
           "url": "https://www.fixmystreet.com/report/10000030",
           "date": "2026-08-25T10:52:19+00:00",
@@ -973,6 +979,12 @@
     "Woodside": {
       "fixmystreet": [
         {
+          "title": "Dead baby fox, 28th August",
+          "url": "https://www.fixmystreet.com/report/10015607",
+          "date": "2026-08-28T08:08:01+00:00",
+          "category": null
+        },
+        {
           "title": "I would like to report that a tent has been erected in the South Norwood Country Park Elmer's end road near the children's play area assume it is rough sleepers, 20th August",
           "url": "https://www.fixmystreet.com/report/9977142",
           "date": "2026-08-20T10:08:23+00:00",
@@ -1010,14 +1022,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Free: People’s Emergency Briefing, South Norwood, Sep 13",
-          "url": "https://insidecroydon.com/2026/08/17/free-peoples-emergency-briefing-south-norwood-sep-13/",
-          "date": "2026-08-17T08:59:18+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     }
   }
 }
