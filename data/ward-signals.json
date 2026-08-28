@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-28T10:20:53.260875+00:00",
+    "generated_at": "2026-08-28T21:56:18.970922+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -73,12 +73,6 @@
           "title": "Large pot hole at the junction of Lower Addiscombe Road and Cherry Orchard Road before the crossing which is hard to avoid, 31st July",
           "url": "https://www.fixmystreet.com/report/9880167",
           "date": "2026-07-31T19:57:05+00:00",
-          "category": null
-        },
-        {
-          "title": "Blocking the pavement, 29th July",
-          "url": "https://www.fixmystreet.com/report/9868292",
-          "date": "2026-07-29T18:16:52+00:00",
           "category": null
         }
       ],
@@ -585,7 +579,20 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Fanatics shock Palace fans with end to Selhurst activities",
+          "url": "https://insidecroydon.com/2026/08/28/fanatics-shock-palace-fans-with-end-to-selhurst-activities/",
+          "date": "2026-08-28T11:05:53+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "‘There needs to be drastic shift at Palace towards younger fans’",
+          "url": "https://insidecroydon.com/2026/08/28/there-needs-to-be-drastic-shift-at-palace-towards-younger-fans/",
+          "date": "2026-08-28T10:10:23+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
@@ -658,6 +665,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Dumped ironing board, 28th August",
+          "url": "https://www.fixmystreet.com/report/10017698",
+          "date": "2026-08-28T12:53:23+00:00",
+          "category": null
+        },
+        {
           "title": "Matters and other rubbish dumped, 28th August",
           "url": "https://www.fixmystreet.com/report/10016184",
           "date": "2026-08-28T09:22:36+00:00",
@@ -709,12 +722,6 @@
           "title": "Flytipping, 16th August",
           "url": "https://www.fixmystreet.com/report/9955380",
           "date": "2026-08-16T12:19:08+00:00",
-          "category": null
-        },
-        {
-          "title": "Broken swings, 7th August",
-          "url": "https://www.fixmystreet.com/report/9915458",
-          "date": "2026-08-07T17:54:10+00:00",
           "category": null
         }
       ],
