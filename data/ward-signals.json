@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T06:19:37.690721+00:00",
+    "generated_at": "2026-08-29T16:28:51.486680+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -269,6 +269,12 @@
     "Fairfield": {
       "fixmystreet": [
         {
+          "title": "Rubbish from homeless people causing a menace, smell and rats, 29th August",
+          "url": "https://www.fixmystreet.com/report/10020156",
+          "date": "2026-08-29T06:51:11+00:00",
+          "category": null
+        },
+        {
           "title": "Road Lane Closure due to TFL Maintenance, 18th August",
           "url": "https://www.fixmystreet.com/report/9968385",
           "date": "2026-08-18T15:40:34+00:00",
@@ -407,12 +413,6 @@
           "url": "https://www.fixmystreet.com/report/9876254",
           "date": "2026-07-31T08:17:53+00:00",
           "category": null
-        },
-        {
-          "title": "Dumped mattress., 30th July",
-          "url": "https://www.fixmystreet.com/report/9870030",
-          "date": "2026-07-30T07:11:22+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -443,20 +443,14 @@
           "url": "https://www.fixmystreet.com/report/9883038",
           "date": "2026-08-01T18:13:52+00:00",
           "category": null
-        },
-        {
-          "title": "One only Yellow Keep Left sign off its base, 30th July",
-          "url": "https://www.fixmystreet.com/report/9872082",
-          "date": "2026-07-30T11:24:48+00:00",
-          "category": null
         }
       ],
       "reddit": [],
       "news": [
         {
           "title": "Old Coulsdon Camera Club Welcome Evening, Tue Sep 8",
-          "url": "https://insidecroydon.com/2026/08/18/old-coulsdon-camera-club-welcome-evening-tue-sep-8/",
-          "date": "2026-08-18T10:15:50+00:00",
+          "url": "https://insidecroydon.com/2026/08/29/old-coulsdon-camera-club-welcome-evening-tue-sep-8-2/",
+          "date": "2026-08-29T09:00:33+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -770,6 +764,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Pampisford Road Allotments annual Open Day, Sun Sep 6",
+          "url": "https://insidecroydon.com/2026/08/29/pampisford-road-allotments-annual-open-day-sun-sep-6-2/",
+          "date": "2026-08-29T10:08:50+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Selsdon Community Fair, Old Farleigh Road, Sun Sep 6",
           "url": "https://insidecroydon.com/2026/08/25/selsdon-community-fair-old-farleigh-road-sun-sep-6/",
           "date": "2026-08-25T08:41:19+00:00",
@@ -896,12 +896,6 @@
           "url": "https://insidecroydon.com/2026/08/20/perrys-caught-on-camera-fly-tipper-is-following-councils-rules/",
           "date": "2026-08-20T15:14:03+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Petty Perry blocks residents’ groups from RA rubbish meeting",
-          "url": "https://insidecroydon.com/2026/08/18/petty-perry-blocks-residents-groups-from-ra-rubbish-meeting/",
-          "date": "2026-08-18T15:07:07+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -979,6 +973,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Missing water meter cover on pavement near 18/18A, 29th August",
+          "url": "https://www.fixmystreet.com/report/10021514",
+          "date": "2026-08-29T13:49:11+00:00",
+          "category": null
+        },
         {
           "title": "Dead baby fox, 28th August",
           "url": "https://www.fixmystreet.com/report/10015607",
