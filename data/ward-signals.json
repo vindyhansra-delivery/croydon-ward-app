@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-28T21:56:18.970922+00:00",
+    "generated_at": "2026-08-29T06:19:37.690721+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -887,12 +887,6 @@
           "url": "https://www.fixmystreet.com/report/9993697",
           "date": "2026-08-24T10:36:06+00:00",
           "category": null
-        },
-        {
-          "title": "Narrow Road, 29th July",
-          "url": "https://www.fixmystreet.com/report/9869384",
-          "date": "2026-07-29T22:21:12+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -1019,12 +1013,6 @@
           "title": "Constant speeding, 5th August",
           "url": "https://www.fixmystreet.com/report/9904955",
           "date": "2026-08-05T20:27:00+00:00",
-          "category": null
-        },
-        {
-          "title": "20mph rotated causing confusion and mistakes, 30th July",
-          "url": "https://www.fixmystreet.com/report/9869771",
-          "date": "2026-07-30T06:07:59+00:00",
           "category": null
         }
       ],
