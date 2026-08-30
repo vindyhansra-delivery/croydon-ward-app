@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T16:22:33.149224+00:00",
+    "generated_at": "2026-08-30T20:48:32.873339+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -73,12 +73,6 @@
           "title": "Misuse of blue badge, 10th August",
           "url": "https://www.fixmystreet.com/report/9928949",
           "date": "2026-08-10T21:26:46+00:00",
-          "category": null
-        },
-        {
-          "title": "Large pot hole at the junction of Lower Addiscombe Road and Cherry Orchard Road before the crossing which is hard to avoid, 31st July",
-          "url": "https://www.fixmystreet.com/report/9880167",
-          "date": "2026-07-31T19:57:05+00:00",
           "category": null
         }
       ],
