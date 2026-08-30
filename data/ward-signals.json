@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T04:29:12.229370+00:00",
+    "generated_at": "2026-08-30T11:34:33.528231+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -88,12 +88,6 @@
           "title": "Kit Packham’s One Jump Ahead, The Oval Tavern, Sun Aug 23",
           "url": "https://insidecroydon.com/2026/08/21/kit-packhams-one-jump-ahead-the-oval-tavern-sun-aug-23/",
           "date": "2026-08-21T08:29:45+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Buskers Barbecue Festival, The Oval Tavern, Sat Aug 22",
-          "url": "https://insidecroydon.com/2026/08/20/buskers-barbecue-festival-the-oval-tavern-sat-aug-22/",
-          "date": "2026-08-20T09:19:46+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -255,12 +249,6 @@
           "url": "https://www.fixmystreet.com/report/9878606",
           "date": "2026-07-31T13:23:52+00:00",
           "category": null
-        },
-        {
-          "title": "Max speed sign hit by a car on entrance to Eskmont Ridge, 31st July",
-          "url": "https://www.fixmystreet.com/report/9876047",
-          "date": "2026-07-31T07:50:08+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -406,12 +394,6 @@
           "title": "Post office manhole cover cracked, 22nd August",
           "url": "https://www.fixmystreet.com/report/9988029",
           "date": "2026-08-22T18:17:04+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned, 31st July",
-          "url": "https://www.fixmystreet.com/report/9876254",
-          "date": "2026-07-31T08:17:53+00:00",
           "category": null
         }
       ],
@@ -580,6 +562,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Friends of Grangewood Park Picnic in the Park, Sun Sep 20",
+          "url": "https://insidecroydon.com/2026/08/30/friends-of-grangewood-park-picnic-in-the-park-sun-sep-20-2/",
+          "date": "2026-08-30T09:00:25+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Fanatics shock Palace fans with end to Selhurst activities",
           "url": "https://insidecroydon.com/2026/08/28/fanatics-shock-palace-fans-with-end-to-selhurst-activities/",
