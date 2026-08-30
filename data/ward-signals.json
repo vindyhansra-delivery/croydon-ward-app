@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T11:34:33.528231+00:00",
+    "generated_at": "2026-08-30T16:22:33.149224+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "Rubbish, 30th August",
+          "url": "https://www.fixmystreet.com/report/10023996",
+          "date": "2026-08-30T12:10:36+00:00",
+          "category": null
+        },
         {
           "title": "Dumped bags of hardcore, 20th August",
           "url": "https://www.fixmystreet.com/report/9977118",
@@ -242,12 +248,6 @@
           "title": "Trees covered over, 1st August",
           "url": "https://www.fixmystreet.com/report/9883444",
           "date": "2026-08-01T21:52:25+00:00",
-          "category": null
-        },
-        {
-          "title": "Roadworks left incomplete causing severe traffic congesTion, 31st July",
-          "url": "https://www.fixmystreet.com/report/9878606",
-          "date": "2026-07-31T13:23:52+00:00",
           "category": null
         }
       ],
@@ -653,6 +653,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Rubbish, 30th August",
+          "url": "https://www.fixmystreet.com/report/10023930",
+          "date": "2026-08-30T11:52:11+00:00",
+          "category": null
+        },
+        {
           "title": "Dumped ironing board, 28th August",
           "url": "https://www.fixmystreet.com/report/10017698",
           "date": "2026-08-28T12:53:23+00:00",
@@ -704,12 +710,6 @@
           "title": "Fire extinguishers and other large items dumped, 17th August",
           "url": "https://www.fixmystreet.com/report/9960634",
           "date": "2026-08-17T12:42:23+00:00",
-          "category": null
-        },
-        {
-          "title": "Flytipping, 16th August",
-          "url": "https://www.fixmystreet.com/report/9955380",
-          "date": "2026-08-16T12:19:08+00:00",
           "category": null
         }
       ],
