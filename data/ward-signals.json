@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T04:33:31.736141+00:00",
+    "generated_at": "2026-08-31T13:07:13.346954+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -31,12 +31,6 @@
           "title": "Apparently abandoned vehicle, 4th August",
           "url": "https://www.fixmystreet.com/report/9895508",
           "date": "2026-08-04T10:22:14+00:00",
-          "category": null
-        },
-        {
-          "title": "Red car is blocking my drive., 1st August",
-          "url": "https://www.fixmystreet.com/report/9880934",
-          "date": "2026-08-01T07:45:49+00:00",
           "category": null
         }
       ],
@@ -307,14 +301,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Chocolate, cakes and a choir: ‘Reedham Village Lates’ returns",
-          "url": "https://insidecroydon.com/2026/08/20/chocolate-cakes-and-a-choir-reedham-village-lates-returns/",
-          "date": "2026-08-20T11:01:54+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "New Addington North": {
       "fixmystreet": [
@@ -752,6 +739,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Selsdon Community Fair, Old Farleigh Road, Sun Sep 6",
+          "url": "https://insidecroydon.com/2026/08/31/selsdon-community-fair-old-farleigh-road-sun-sep-6-2/",
+          "date": "2026-08-31T08:57:03+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Pampisford Road Allotments annual Open Day, Sun Sep 6",
           "url": "https://insidecroydon.com/2026/08/29/pampisford-road-allotments-annual-open-day-sun-sep-6-2/",
           "date": "2026-08-29T10:08:50+00:00",
@@ -773,12 +766,6 @@
           "title": "South Croydon Model Railway Show, St Paul’s Church, Sep 12",
           "url": "https://insidecroydon.com/2026/08/22/south-croydon-model-railway-show-st-pauls-church-sep-12/",
           "date": "2026-08-22T10:10:27+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Pampisford Road Allotments annual Open Day, Sun Sep 6",
-          "url": "https://insidecroydon.com/2026/08/21/pampisford-road-allotments-annual-open-day-sun-sep-6/",
-          "date": "2026-08-21T10:10:38+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -824,6 +811,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "London Radical Book Fair, Stanley Halls, free entry, Sun Sep 6",
+          "url": "https://insidecroydon.com/2026/08/31/london-radical-book-fair-stanley-halls-free-entry-sun-sep-6-2/",
+          "date": "2026-08-31T08:07:21+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "London Radical Book Fair, Stanley Halls, free entry, Sun Sep 6",
           "url": "https://insidecroydon.com/2026/08/28/london-radical-book-fair-stanley-halls-free-entry-sun-sep-6/",
@@ -878,14 +871,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Perry’s ‘caught on camera’ fly-tipper is following council’s rules",
-          "url": "https://insidecroydon.com/2026/08/20/perrys-caught-on-camera-fly-tipper-is-following-councils-rules/",
-          "date": "2026-08-20T15:14:03+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Waddon": {
       "fixmystreet": [
