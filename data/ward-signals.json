@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T13:07:13.346954+00:00",
+    "generated_at": "2026-08-31T22:41:18.936401+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "Fallen branch of tree, 31st August",
+          "url": "https://www.fixmystreet.com/report/10028246",
+          "date": "2026-08-31T16:16:20+00:00",
+          "category": null
+        },
         {
           "title": "Rubbish, 30th August",
           "url": "https://www.fixmystreet.com/report/10023996",
@@ -231,12 +237,6 @@
           "url": "https://www.fixmystreet.com/report/9911822",
           "date": "2026-08-07T07:59:54+00:00",
           "category": null
-        },
-        {
-          "title": "Trees covered over, 1st August",
-          "url": "https://www.fixmystreet.com/report/9883444",
-          "date": "2026-08-01T21:52:25+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -405,12 +405,6 @@
           "title": "Abandoned car, 14th August",
           "url": "https://www.fixmystreet.com/report/9949108",
           "date": "2026-08-14T14:16:26+00:00",
-          "category": null
-        },
-        {
-          "title": "Eight potholes in a line, 1st August",
-          "url": "https://www.fixmystreet.com/report/9883038",
-          "date": "2026-08-01T18:13:52+00:00",
           "category": null
         }
       ],
