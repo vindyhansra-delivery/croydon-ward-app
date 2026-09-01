@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T16:20:14.672782+00:00",
+    "generated_at": "2026-09-01T20:48:51.154525+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -385,6 +385,12 @@
     "Old Coulsdon": {
       "fixmystreet": [
         {
+          "title": "Sort the fucking roadworks out, 1st September",
+          "url": "https://www.fixmystreet.com/report/10034704",
+          "date": "2026-09-01T17:57:17+00:00",
+          "category": null
+        },
+        {
           "title": "Dumped furniture and rubbish, 29th August",
           "url": "https://www.fixmystreet.com/report/10022301",
           "date": "2026-08-29T18:54:16+00:00",
@@ -591,6 +597,12 @@
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
+        {
+          "title": "Street light, 1st September",
+          "url": "https://www.fixmystreet.com/report/10035038",
+          "date": "2026-09-01T19:16:52+00:00",
+          "category": null
+        },
         {
           "title": "Repeated Excessive Speeding down Upper Selsdon Road, 23rd August",
           "url": "https://www.fixmystreet.com/report/9990083",
