@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T11:23:08.871620+00:00",
+    "generated_at": "2026-09-01T16:20:14.672782+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -940,12 +940,6 @@
           "title": "Alley way problem, 11th August",
           "url": "https://www.fixmystreet.com/report/9934391",
           "date": "2026-08-11T18:29:21+00:00",
-          "category": null
-        },
-        {
-          "title": "Fly tipped bed base ( 12 Jamaica Road ), 2nd August",
-          "url": "https://www.fixmystreet.com/report/9885682",
-          "date": "2026-08-02T15:27:55+00:00",
           "category": null
         }
       ],
