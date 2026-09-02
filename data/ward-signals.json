@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T20:48:51.154525+00:00",
+    "generated_at": "2026-09-02T03:38:45.415125+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -597,6 +597,12 @@
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
+        {
+          "title": "Street light stopped working, 1st September",
+          "url": "https://www.fixmystreet.com/report/10035349",
+          "date": "2026-09-01T21:26:48+00:00",
+          "category": null
+        },
         {
           "title": "Street light, 1st September",
           "url": "https://www.fixmystreet.com/report/10035038",
