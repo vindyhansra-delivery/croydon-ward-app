@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T10:57:24.447774+00:00",
+    "generated_at": "2026-09-02T16:16:16.618099+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -278,6 +278,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Giant PubCo seeking new management for Slug & Lettuce site",
+          "url": "https://insidecroydon.com/2026/09/02/giant-pubco-seeking-new-management-for-slug-lettuce-site/",
+          "date": "2026-09-02T12:06:43+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Ted Craig, director of Warehouse Theatre for 25 years, has died",
           "url": "https://insidecroydon.com/2026/08/27/ted-craig-director-of-warehouse-theatre-for-25-years-has-died/",
@@ -590,12 +596,6 @@
           "url": "https://www.fixmystreet.com/report/9963690",
           "date": "2026-08-17T21:31:50+00:00",
           "category": null
-        },
-        {
-          "title": "Temporary traffic lights not working, 3rd August",
-          "url": "https://www.fixmystreet.com/report/9889844",
-          "date": "2026-08-03T11:54:14+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -660,6 +660,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Rubbbish, 2nd September",
+          "url": "https://www.fixmystreet.com/report/10038109",
+          "date": "2026-09-02T11:14:00+00:00",
+          "category": null
+        },
+        {
           "title": "Rubbish, 30th August",
           "url": "https://www.fixmystreet.com/report/10023930",
           "date": "2026-08-30T11:52:11+00:00",
@@ -711,12 +717,6 @@
           "title": "Flytipping, 20th August",
           "url": "https://www.fixmystreet.com/report/9979371",
           "date": "2026-08-20T14:52:19+00:00",
-          "category": null
-        },
-        {
-          "title": "Fire extinguishers and other large items dumped, 17th August",
-          "url": "https://www.fixmystreet.com/report/9960634",
-          "date": "2026-08-17T12:42:23+00:00",
           "category": null
         }
       ],
