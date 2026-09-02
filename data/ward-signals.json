@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T03:38:45.415125+00:00",
+    "generated_at": "2026-09-02T10:57:24.447774+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -41,7 +41,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "20th anniversary Apple Day, Addiscombe Railway Park, Sep 12",
+          "url": "https://insidecroydon.com/2026/09/02/20th-anniversary-apple-day-addiscombe-railway-park-sep-12/",
+          "date": "2026-09-02T09:37:02+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Addiscombe West": {
       "fixmystreet": [
@@ -78,6 +85,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "20th anniversary Apple Day, Addiscombe Railway Park, Sep 12",
+          "url": "https://insidecroydon.com/2026/09/02/20th-anniversary-apple-day-addiscombe-railway-park-sep-12/",
+          "date": "2026-09-02T09:37:02+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Blues at The Oval: Two-Gun Mathilda, Sun Aug 30, free entry",
           "url": "https://insidecroydon.com/2026/08/26/blues-at-the-oval-two-gun-mathilda-sun-aug-30-free-entry/",
@@ -297,7 +310,7 @@
       "reddit": [],
       "news": [
         {
-          "title": "Save The Kenley Quiz Night fundraiser, Smokin’ Grill, Sep 18",
+          "title": "Quiz Night: Save The Kenley fundraiser, Smokin’ Grill, Sep 18",
           "url": "https://insidecroydon.com/2026/09/01/save-the-kenley-quiz-night-fundraiser-smokin-grill-sep-18/",
           "date": "2026-09-01T10:41:02+00:00",
           "publisher": "Inside Croydon"
@@ -786,12 +799,6 @@
           "url": "https://insidecroydon.com/2026/08/23/woodland-wonderland-thats-hidden-behind-selsdons-suburbia/",
           "date": "2026-08-23T10:30:48+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "South Croydon Model Railway Show, St Paul’s Church, Sep 12",
-          "url": "https://insidecroydon.com/2026/08/22/south-croydon-model-railway-show-st-pauls-church-sep-12/",
-          "date": "2026-08-22T10:10:27+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -825,12 +832,6 @@
           "title": "Anti social behaviour, 5th August",
           "url": "https://www.fixmystreet.com/report/9904065",
           "date": "2026-08-05T16:56:06+00:00",
-          "category": null
-        },
-        {
-          "title": "Large obstruction in the road approximately 1 m by half a metre by half a metre, 3rd August",
-          "url": "https://www.fixmystreet.com/report/9887729",
-          "date": "2026-08-03T07:34:19+00:00",
           "category": null
         }
       ],
