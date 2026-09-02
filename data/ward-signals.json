@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T16:16:16.618099+00:00",
+    "generated_at": "2026-09-02T20:47:43.851538+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -189,12 +189,6 @@
           "title": "Blocked pavement, 4th August",
           "url": "https://www.fixmystreet.com/report/9893680",
           "date": "2026-08-04T06:21:53+00:00",
-          "category": null
-        },
-        {
-          "title": "Trees swinging heavily in wind causing damage, 3rd August",
-          "url": "https://www.fixmystreet.com/report/9892220",
-          "date": "2026-08-03T17:42:21+00:00",
           "category": null
         }
       ],
