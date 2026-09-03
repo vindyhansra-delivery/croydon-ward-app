@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T10:56:46.351661+00:00",
+    "generated_at": "2026-09-03T16:05:33.781211+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -273,6 +273,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Got a fryer going cheap? Croydon’s best chippie on the brink",
+          "url": "https://insidecroydon.com/2026/09/03/got-a-fryer-going-cheap-croydons-best-chippie-on-the-brink/",
+          "date": "2026-09-03T14:33:08+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Giant PubCo seeking new management for Slug & Lettuce site",
           "url": "https://insidecroydon.com/2026/09/02/giant-pubco-seeking-new-management-for-slug-lettuce-site/",
           "date": "2026-09-02T12:06:43+00:00",
@@ -319,6 +325,12 @@
     },
     "New Addington North": {
       "fixmystreet": [
+        {
+          "title": "A large sofa chair, 3rd September",
+          "url": "https://www.fixmystreet.com/report/10045054",
+          "date": "2026-09-03T14:09:24+00:00",
+          "category": null
+        },
         {
           "title": "Fly tipping, 8th August",
           "url": "https://www.fixmystreet.com/report/9918857",
@@ -459,14 +471,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Walk and Talk Riddlesdown, weekly every Sunday from 9am",
-          "url": "https://insidecroydon.com/2026/08/24/walk-and-talk-riddlesdown-weekly-every-sunday-from-9am/",
-          "date": "2026-08-24T12:13:34+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Purley and Woodcote": {
       "fixmystreet": [
@@ -492,12 +497,6 @@
           "title": "Overgrown hedge, 6th August",
           "url": "https://www.fixmystreet.com/report/9906062",
           "date": "2026-08-06T07:48:24+00:00",
-          "category": null
-        },
-        {
-          "title": "Large Pothole At this junction, 4th August",
-          "url": "https://www.fixmystreet.com/report/9897700",
-          "date": "2026-08-04T15:41:18+00:00",
           "category": null
         }
       ],
@@ -762,6 +761,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Got a fryer going cheap? Croydon’s best chippie on the brink",
+          "url": "https://insidecroydon.com/2026/09/03/got-a-fryer-going-cheap-croydons-best-chippie-on-the-brink/",
+          "date": "2026-09-03T14:33:08+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Selsdon Community Fair, Old Farleigh Road, Sun Sep 6",
           "url": "https://insidecroydon.com/2026/08/31/selsdon-community-fair-old-farleigh-road-sun-sep-6-2/",
