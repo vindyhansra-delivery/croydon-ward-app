@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T20:47:43.851538+00:00",
+    "generated_at": "2026-09-03T03:38:42.005104+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -197,6 +197,12 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "Urgent: Abandoned vehicle causing traffic obstruction and hazard to school children, 2nd September",
+          "url": "https://www.fixmystreet.com/report/10041250",
+          "date": "2026-09-02T21:49:58+00:00",
+          "category": null
+        },
         {
           "title": "Fly tipping, 27th August",
           "url": "https://www.fixmystreet.com/report/10013618",
