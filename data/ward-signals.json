@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T03:38:42.005104+00:00",
+    "generated_at": "2026-09-03T10:56:46.351661+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -31,12 +31,6 @@
           "title": "Dumped bags of hardcore, 20th August",
           "url": "https://www.fixmystreet.com/report/9977118",
           "date": "2026-08-20T09:28:14+00:00",
-          "category": null
-        },
-        {
-          "title": "Apparently abandoned vehicle, 4th August",
-          "url": "https://www.fixmystreet.com/report/9895508",
-          "date": "2026-08-04T10:22:14+00:00",
           "category": null
         }
       ],
@@ -85,6 +79,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Night of Dance on the streets of Addiscombe next Tuesday",
+          "url": "https://insidecroydon.com/2026/09/03/night-of-dance-on-the-streets-of-addiscombe-next-tuesday/",
+          "date": "2026-09-03T09:03:21+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "20th anniversary Apple Day, Addiscombe Railway Park, Sep 12",
           "url": "https://insidecroydon.com/2026/09/02/20th-anniversary-apple-day-addiscombe-railway-park-sep-12/",
@@ -183,12 +183,6 @@
           "title": "Pine trees dropping large branches, 7th August",
           "url": "https://www.fixmystreet.com/report/9911489",
           "date": "2026-08-07T06:51:39+00:00",
-          "category": null
-        },
-        {
-          "title": "Blocked pavement, 4th August",
-          "url": "https://www.fixmystreet.com/report/9893680",
-          "date": "2026-08-04T06:21:53+00:00",
           "category": null
         }
       ],
@@ -599,14 +593,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Woodland wonderland that’s hidden behind Selsdon’s suburbia",
-          "url": "https://insidecroydon.com/2026/08/23/woodland-wonderland-thats-hidden-behind-selsdons-suburbia/",
-          "date": "2026-08-23T10:30:48+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
@@ -648,14 +635,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Woodland wonderland that’s hidden behind Selsdon’s suburbia",
-          "url": "https://insidecroydon.com/2026/08/23/woodland-wonderland-thats-hidden-behind-selsdons-suburbia/",
-          "date": "2026-08-23T10:30:48+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Shirley North": {
       "fixmystreet": [
@@ -726,6 +706,12 @@
     "Shirley South": {
       "fixmystreet": [
         {
+          "title": "Dumped rubbish, 3rd September",
+          "url": "https://www.fixmystreet.com/report/10041810",
+          "date": "2026-09-03T06:50:01+00:00",
+          "category": null
+        },
+        {
           "title": "Overhanging bush onto pavement from No 2, 1st September",
           "url": "https://www.fixmystreet.com/report/10030683",
           "date": "2026-09-01T09:02:38+00:00",
@@ -792,12 +778,6 @@
           "title": "Selsdon Community Fair, Old Farleigh Road, Sun Sep 6",
           "url": "https://insidecroydon.com/2026/08/25/selsdon-community-fair-old-farleigh-road-sun-sep-6/",
           "date": "2026-08-25T08:41:19+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Woodland wonderland that’s hidden behind Selsdon’s suburbia",
-          "url": "https://insidecroydon.com/2026/08/23/woodland-wonderland-thats-hidden-behind-selsdons-suburbia/",
-          "date": "2026-08-23T10:30:48+00:00",
           "publisher": "Inside Croydon"
         }
       ]
