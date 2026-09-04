@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T10:56:10.037808+00:00",
+    "generated_at": "2026-09-04T16:02:09.753118+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -458,6 +458,12 @@
     "Purley Oaks and Riddlesdown": {
       "fixmystreet": [
         {
+          "title": "Greenery growing in drains, 4th September",
+          "url": "https://www.fixmystreet.com/report/10050929",
+          "date": "2026-09-04T15:01:34+00:00",
+          "category": null
+        },
+        {
           "title": "Temporary traffic lights have all been switched off, 7th August",
           "url": "https://www.fixmystreet.com/report/9913089",
           "date": "2026-08-07T10:44:58+00:00",
@@ -563,6 +569,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "PM Burnham says he’ll get Selhurst rail project ‘back on track’",
+          "url": "https://insidecroydon.com/2026/09/04/pm-burnham-says-hell-get-selhurst-rail-project-back-on-track/",
+          "date": "2026-09-04T10:57:58+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Former pupil’s business gives BRIT School a £40,000 facelift",
           "url": "https://insidecroydon.com/2026/09/04/former-pupils-business-gives-brit-school-a-40000-facelift/",
           "date": "2026-09-04T09:40:46+00:00",
@@ -643,12 +655,6 @@
           "url": "https://www.fixmystreet.com/report/9957255",
           "date": "2026-08-16T21:18:01+00:00",
           "category": null
-        },
-        {
-          "title": "Untaxed car, 5th August",
-          "url": "https://www.fixmystreet.com/report/9903416",
-          "date": "2026-08-05T14:50:56+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -723,6 +729,18 @@
     "Shirley South": {
       "fixmystreet": [
         {
+          "title": "Cars park on both sides and buses can’t get past, 4th September",
+          "url": "https://www.fixmystreet.com/report/10050132",
+          "date": "2026-09-04T12:40:58+00:00",
+          "category": null
+        },
+        {
+          "title": "Garden Waste/building material dumped, 4th September",
+          "url": "https://www.fixmystreet.com/report/10049711",
+          "date": "2026-09-04T11:33:42+00:00",
+          "category": null
+        },
+        {
           "title": "Dumped rubbish, 3rd September",
           "url": "https://www.fixmystreet.com/report/10041810",
           "date": "2026-09-03T06:50:01+00:00",
@@ -795,12 +813,6 @@
           "title": "Pampisford Road Allotments annual Open Day, Sun Sep 6",
           "url": "https://insidecroydon.com/2026/08/29/pampisford-road-allotments-annual-open-day-sun-sep-6-2/",
           "date": "2026-08-29T10:08:50+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Selsdon Community Fair, Old Farleigh Road, Sun Sep 6",
-          "url": "https://insidecroydon.com/2026/08/25/selsdon-community-fair-old-farleigh-road-sun-sep-6/",
-          "date": "2026-08-25T08:41:19+00:00",
           "publisher": "Inside Croydon"
         }
       ]
