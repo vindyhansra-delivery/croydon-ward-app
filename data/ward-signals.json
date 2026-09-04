@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T03:39:27.551549+00:00",
+    "generated_at": "2026-09-04T10:56:10.037808+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -536,6 +536,12 @@
     "Selhurst": {
       "fixmystreet": [
         {
+          "title": "Thames Water abandoned traffic signs/lights, 4th September",
+          "url": "https://www.fixmystreet.com/report/10048959",
+          "date": "2026-09-04T09:58:20+00:00",
+          "category": null
+        },
+        {
           "title": "Abandoned car more than two month, 26th August",
           "url": "https://www.fixmystreet.com/report/10009023",
           "date": "2026-08-26T21:13:21+00:00",
@@ -556,6 +562,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Former pupil’s business gives BRIT School a £40,000 facelift",
+          "url": "https://insidecroydon.com/2026/09/04/former-pupils-business-gives-brit-school-a-40000-facelift/",
+          "date": "2026-09-04T09:40:46+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Friends of Grangewood Park Picnic in the Park, Sun Sep 20",
           "url": "https://insidecroydon.com/2026/08/30/friends-of-grangewood-park-picnic-in-the-park-sun-sep-20-2/",
@@ -578,6 +590,12 @@
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
+        {
+          "title": "2 firework cylinders, 4th September",
+          "url": "https://www.fixmystreet.com/report/10048794",
+          "date": "2026-09-04T09:36:43+00:00",
+          "category": null
+        },
         {
           "title": "No tax, 22nd August",
           "url": "https://www.fixmystreet.com/report/9988313",
