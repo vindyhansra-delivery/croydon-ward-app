@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T10:15:14.303276+00:00",
+    "generated_at": "2026-09-05T14:52:59.662251+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -89,12 +89,6 @@
           "title": "20th anniversary Apple Day, Addiscombe Railway Park, Sep 12",
           "url": "https://insidecroydon.com/2026/09/02/20th-anniversary-apple-day-addiscombe-railway-park-sep-12/",
           "date": "2026-09-02T09:37:02+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Blues at The Oval: Two-Gun Mathilda, Sun Aug 30, free entry",
-          "url": "https://insidecroydon.com/2026/08/26/blues-at-the-oval-two-gun-mathilda-sun-aug-30-free-entry/",
-          "date": "2026-08-26T10:00:44+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -459,7 +453,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Purley Downs Road to be closed for eight weeks for gas works",
+          "url": "https://insidecroydon.com/2026/09/05/purley-downs-road-to-be-closed-for-eight-weeks-for-gas-works/",
+          "date": "2026-09-05T11:41:07+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Purley and Woodcote": {
       "fixmystreet": [
@@ -513,7 +514,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Purley Downs Road to be closed for eight weeks for gas works",
+          "url": "https://insidecroydon.com/2026/09/05/purley-downs-road-to-be-closed-for-eight-weeks-for-gas-works/",
+          "date": "2026-09-05T11:41:07+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selhurst": {
       "fixmystreet": [
@@ -774,6 +782,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Purley Downs Road to be closed for eight weeks for gas works",
+          "url": "https://insidecroydon.com/2026/09/05/purley-downs-road-to-be-closed-for-eight-weeks-for-gas-works/",
+          "date": "2026-09-05T11:41:07+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "South Croydon Model Railway Show, St Paul’s Church, Sep 12",
           "url": "https://insidecroydon.com/2026/09/05/south-croydon-model-railway-show-st-pauls-church-sep-12-2/",
           "date": "2026-09-05T09:25:14+00:00",
@@ -838,12 +852,6 @@
           "title": "London Radical Book Fair, Stanley Halls, free entry, Sun Sep 6",
           "url": "https://insidecroydon.com/2026/08/28/london-radical-book-fair-stanley-halls-free-entry-sun-sep-6/",
           "date": "2026-08-28T09:39:19+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "South Norwood man jailed for life over 2021 fatal shooting",
-          "url": "https://insidecroydon.com/2026/08/25/south-norwood-man-jailed-for-life-over-2021-fatal-shooting/",
-          "date": "2026-08-25T16:05:37+00:00",
           "publisher": "Inside Croydon"
         }
       ]
