@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T14:52:59.662251+00:00",
+    "generated_at": "2026-09-05T20:08:22.471863+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -131,6 +131,12 @@
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "Tree is huge with low branches hitting the property, 5th September",
+          "url": "https://www.fixmystreet.com/report/10054759",
+          "date": "2026-09-05T16:29:40+00:00",
+          "category": null
+        },
         {
           "title": "Overgrown vegetation, 24th August",
           "url": "https://www.fixmystreet.com/report/9995691",
@@ -266,6 +272,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Up to £1,000 a ticket – make sure you buy an Archers tea towel",
+          "url": "https://insidecroydon.com/2026/09/05/up-to-1000-a-ticket-make-sure-you-buy-an-archers-tea-towel/",
+          "date": "2026-09-05T16:05:04+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Got a fryer going cheap? Croydon’s best chippie on the brink",
           "url": "https://insidecroydon.com/2026/09/03/got-a-fryer-going-cheap-croydons-best-chippie-on-the-brink/",
