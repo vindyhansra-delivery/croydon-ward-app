@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T03:39:34.307377+00:00",
+    "generated_at": "2026-09-05T10:15:14.303276+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -289,12 +289,6 @@
           "url": "https://insidecroydon.com/2026/08/27/ted-craig-director-of-warehouse-theatre-for-25-years-has-died/",
           "date": "2026-08-27T13:59:55+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "‘Crap’ council is caught taping over the cracks of listed building",
-          "url": "https://insidecroydon.com/2026/08/25/crap-council-is-caught-taping-over-the-cracks-of-listed-building/",
-          "date": "2026-08-25T11:03:27+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -336,12 +330,6 @@
           "url": "https://www.fixmystreet.com/report/9918857",
           "date": "2026-08-08T19:44:55+00:00",
           "category": null
-        },
-        {
-          "title": "Tent pitched in woods, 6th August",
-          "url": "https://www.fixmystreet.com/report/9905785",
-          "date": "2026-08-06T06:53:20+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -349,6 +337,12 @@
     },
     "New Addington South": {
       "fixmystreet": [
+        {
+          "title": "Temporary traffic lights, 5th September",
+          "url": "https://www.fixmystreet.com/report/10052572",
+          "date": "2026-09-05T06:32:51+00:00",
+          "category": null
+        },
         {
           "title": "Low hanging canopy branches need trimming, 19th August",
           "url": "https://www.fixmystreet.com/report/9970998",
@@ -462,12 +456,6 @@
           "url": "https://www.fixmystreet.com/report/9913089",
           "date": "2026-08-07T10:44:58+00:00",
           "category": null
-        },
-        {
-          "title": "Blocked street drains Selcroft Road Purley, 6th August",
-          "url": "https://www.fixmystreet.com/report/9906208",
-          "date": "2026-08-06T08:08:44+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -491,12 +479,6 @@
           "title": "Bushes obstructing pavement, 7th August",
           "url": "https://www.fixmystreet.com/report/9911638",
           "date": "2026-08-07T07:27:20+00:00",
-          "category": null
-        },
-        {
-          "title": "Overgrown hedge, 6th August",
-          "url": "https://www.fixmystreet.com/report/9906062",
-          "date": "2026-08-06T07:48:24+00:00",
           "category": null
         }
       ],
@@ -792,6 +774,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "South Croydon Model Railway Show, St Paul’s Church, Sep 12",
+          "url": "https://insidecroydon.com/2026/09/05/south-croydon-model-railway-show-st-pauls-church-sep-12-2/",
+          "date": "2026-09-05T09:25:14+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Got a fryer going cheap? Croydon’s best chippie on the brink",
           "url": "https://insidecroydon.com/2026/09/03/got-a-fryer-going-cheap-croydons-best-chippie-on-the-brink/",
           "date": "2026-09-03T14:33:08+00:00",
@@ -998,12 +986,6 @@
           "title": "Shopping Trolley, 17th August",
           "url": "https://www.fixmystreet.com/report/9958098",
           "date": "2026-08-17T07:39:03+00:00",
-          "category": null
-        },
-        {
-          "title": "Litter inside the park entrance near metal fences in what3words location///extend.flying.fame, 6th August",
-          "url": "https://www.fixmystreet.com/report/9906178",
-          "date": "2026-08-06T08:04:30+00:00",
           "category": null
         }
       ],
