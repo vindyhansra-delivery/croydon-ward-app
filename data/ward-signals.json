@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T20:08:22.471863+00:00",
+    "generated_at": "2026-09-06T03:40:45.601534+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -782,12 +782,6 @@
           "title": "Mattress, 25th August",
           "url": "https://www.fixmystreet.com/report/9998895",
           "date": "2026-08-25T08:45:11+00:00",
-          "category": null
-        },
-        {
-          "title": "Water leak., 6th August",
-          "url": "https://www.fixmystreet.com/report/9910945",
-          "date": "2026-08-06T21:46:32+00:00",
           "category": null
         }
       ],
