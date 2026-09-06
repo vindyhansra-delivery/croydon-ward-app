@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T15:12:26.585124+00:00",
+    "generated_at": "2026-09-06T20:12:51.500715+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -107,6 +107,12 @@
     },
     "Bensham Manor": {
       "fixmystreet": [
+        {
+          "title": "Abandoned car, 6th September",
+          "url": "https://www.fixmystreet.com/report/10057891",
+          "date": "2026-09-06T16:07:08+00:00",
+          "category": null
+        },
         {
           "title": "Overgrown brambles and tree branches obstructing footpath near 49 Lakehall Road, CR7 7EG., 8th August",
           "url": "https://www.fixmystreet.com/report/9917422",
