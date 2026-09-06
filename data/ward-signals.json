@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T10:35:55.505445+00:00",
+    "generated_at": "2026-09-06T15:12:26.585124+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -197,6 +197,12 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "Large pothole, 6th September",
+          "url": "https://www.fixmystreet.com/report/10056617",
+          "date": "2026-09-06T10:40:11+00:00",
+          "category": null
+        },
         {
           "title": "Urgent: Abandoned vehicle causing traffic obstruction and hazard to school children, 2nd September",
           "url": "https://www.fixmystreet.com/report/10041250",
@@ -461,12 +467,6 @@
           "title": "Greenery growing in drains, 4th September",
           "url": "https://www.fixmystreet.com/report/10050929",
           "date": "2026-09-04T15:01:34+00:00",
-          "category": null
-        },
-        {
-          "title": "Temporary traffic lights have all been switched off, 7th August",
-          "url": "https://www.fixmystreet.com/report/9913089",
-          "date": "2026-08-07T10:44:58+00:00",
           "category": null
         }
       ],
