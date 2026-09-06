@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T03:40:45.601534+00:00",
+    "generated_at": "2026-09-06T10:35:55.505445+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -36,6 +36,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "20th anniversary Apple Day, Addiscombe Railway Park, Sep 12",
+          "url": "https://insidecroydon.com/2026/09/06/20th-anniversary-apple-day-addiscombe-railway-park-sep-12-2/",
+          "date": "2026-09-06T09:15:02+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "20th anniversary Apple Day, Addiscombe Railway Park, Sep 12",
           "url": "https://insidecroydon.com/2026/09/02/20th-anniversary-apple-day-addiscombe-railway-park-sep-12/",
@@ -79,6 +85,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "20th anniversary Apple Day, Addiscombe Railway Park, Sep 12",
+          "url": "https://insidecroydon.com/2026/09/06/20th-anniversary-apple-day-addiscombe-railway-park-sep-12-2/",
+          "date": "2026-09-06T09:15:02+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Night of Dance on the streets of Addiscombe next Tuesday",
           "url": "https://insidecroydon.com/2026/09/03/night-of-dance-on-the-streets-of-addiscombe-next-tuesday/",
@@ -178,12 +190,6 @@
           "url": "https://www.fixmystreet.com/report/9921973",
           "date": "2026-08-09T18:57:44+00:00",
           "category": null
-        },
-        {
-          "title": "Pine trees dropping large branches, 7th August",
-          "url": "https://www.fixmystreet.com/report/9911489",
-          "date": "2026-08-07T06:51:39+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -225,18 +231,6 @@
           "title": "Overflowing ins on street due to lack of council collection twice now, 17th August",
           "url": "https://www.fixmystreet.com/report/9958336",
           "date": "2026-08-17T08:16:03+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead Fox on Road by Beulah Vista Care Home, 7th August",
-          "url": "https://www.fixmystreet.com/report/9911899",
-          "date": "2026-08-07T08:06:12+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead fox on road, 7th August",
-          "url": "https://www.fixmystreet.com/report/9911822",
-          "date": "2026-08-07T07:59:54+00:00",
           "category": null
         }
       ],
@@ -301,6 +295,12 @@
     "Kenley": {
       "fixmystreet": [
         {
+          "title": "Disabled Parking Bay, 6th September",
+          "url": "https://www.fixmystreet.com/report/10055781",
+          "date": "2026-09-06T06:22:53+00:00",
+          "category": null
+        },
+        {
           "title": "Not moved since April, 17th August",
           "url": "https://www.fixmystreet.com/report/9963379",
           "date": "2026-08-17T19:58:03+00:00",
@@ -315,6 +315,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Quiz Night: Save The Kenley fundraiser, Smokin’ Grill, Sep 18",
+          "url": "https://insidecroydon.com/2026/09/06/quiz-night-save-the-kenley-fundraiser-smokin-grill-sep-18/",
+          "date": "2026-09-06T08:36:16+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Quiz Night: Save The Kenley fundraiser, Smokin’ Grill, Sep 18",
           "url": "https://insidecroydon.com/2026/09/01/save-the-kenley-quiz-night-fundraiser-smokin-grill-sep-18/",
@@ -487,12 +493,6 @@
           "url": "https://www.fixmystreet.com/report/10005224",
           "date": "2026-08-26T10:06:06+00:00",
           "category": null
-        },
-        {
-          "title": "Bushes obstructing pavement, 7th August",
-          "url": "https://www.fixmystreet.com/report/9911638",
-          "date": "2026-08-07T07:27:20+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -659,6 +659,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Street lighting is very dim in tge evening/ night, 6th September",
+          "url": "https://www.fixmystreet.com/report/10055888",
+          "date": "2026-09-06T07:37:19+00:00",
+          "category": null
+        },
+        {
           "title": "Rubbbish, 2nd September",
           "url": "https://www.fixmystreet.com/report/10038109",
           "date": "2026-09-02T11:14:00+00:00",
@@ -710,12 +716,6 @@
           "title": "Abandoned vehicle, 22nd August",
           "url": "https://www.fixmystreet.com/report/9986731",
           "date": "2026-08-22T11:17:00+00:00",
-          "category": null
-        },
-        {
-          "title": "Flytipping, 20th August",
-          "url": "https://www.fixmystreet.com/report/9979371",
-          "date": "2026-08-20T14:52:19+00:00",
           "category": null
         }
       ],
