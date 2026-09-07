@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T17:38:04.409579+00:00",
+    "generated_at": "2026-09-07T21:20:21.447942+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -198,6 +198,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Road surface inadequate, 7th September",
+          "url": "https://www.fixmystreet.com/report/10065073",
+          "date": "2026-09-07T20:57:36+00:00",
+          "category": null
+        },
+        {
           "title": "Large pothole, 6th September",
           "url": "https://www.fixmystreet.com/report/10056617",
           "date": "2026-09-06T10:40:11+00:00",
@@ -335,12 +341,6 @@
           "title": "A large sofa chair, 3rd September",
           "url": "https://www.fixmystreet.com/report/10045054",
           "date": "2026-09-03T14:09:24+00:00",
-          "category": null
-        },
-        {
-          "title": "Fly tipping, 8th August",
-          "url": "https://www.fixmystreet.com/report/9918857",
-          "date": "2026-08-08T19:44:55+00:00",
           "category": null
         }
       ],
@@ -839,6 +839,12 @@
     },
     "South Norwood": {
       "fixmystreet": [
+        {
+          "title": "Abandoned vehicle, 7th September",
+          "url": "https://www.fixmystreet.com/report/10064493",
+          "date": "2026-09-07T18:14:05+00:00",
+          "category": null
+        },
         {
           "title": "Obstructions in road - reported one a week for 3 weeks at least, 18th August",
           "url": "https://www.fixmystreet.com/report/9969331",
