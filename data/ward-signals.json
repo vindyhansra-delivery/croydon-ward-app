@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T03:40:27.308667+00:00",
+    "generated_at": "2026-09-07T11:59:25.535430+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -86,6 +86,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Blues at The Oval, Sunday evenings in Sep and Oct, free entry",
+          "url": "https://insidecroydon.com/2026/09/07/blues-at-the-oval-sunday-evenings-in-sep-and-oct-free-entry/",
+          "date": "2026-09-07T09:52:06+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "20th anniversary Apple Day, Addiscombe Railway Park, Sep 12",
           "url": "https://insidecroydon.com/2026/09/06/20th-anniversary-apple-day-addiscombe-railway-park-sep-12-2/",
           "date": "2026-09-06T09:15:02+00:00",
@@ -111,18 +117,6 @@
           "title": "Abandoned car, 6th September",
           "url": "https://www.fixmystreet.com/report/10057891",
           "date": "2026-09-06T16:07:08+00:00",
-          "category": null
-        },
-        {
-          "title": "Overgrown brambles and tree branches obstructing footpath near 49 Lakehall Road, CR7 7EG., 8th August",
-          "url": "https://www.fixmystreet.com/report/9917422",
-          "date": "2026-08-08T11:37:15+00:00",
-          "category": null
-        },
-        {
-          "title": "No double yellow line, 8th August",
-          "url": "https://www.fixmystreet.com/report/9917246",
-          "date": "2026-08-08T10:51:29+00:00",
           "category": null
         }
       ],
@@ -295,12 +289,6 @@
           "url": "https://insidecroydon.com/2026/09/02/giant-pubco-seeking-new-management-for-slug-lettuce-site/",
           "date": "2026-09-02T12:06:43+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Ted Craig, director of Warehouse Theatre for 25 years, has died",
-          "url": "https://insidecroydon.com/2026/08/27/ted-craig-director-of-warehouse-theatre-for-25-years-has-died/",
-          "date": "2026-08-27T13:59:55+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -361,6 +349,12 @@
     },
     "New Addington South": {
       "fixmystreet": [
+        {
+          "title": "Abandoned traffic lights and roadworks, 7th September",
+          "url": "https://www.fixmystreet.com/report/10059573",
+          "date": "2026-09-07T07:22:13+00:00",
+          "category": null
+        },
         {
           "title": "Temporary traffic lights, 5th September",
           "url": "https://www.fixmystreet.com/report/10052572",
@@ -665,6 +659,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Furniture and clothing left on pavement, 7th September",
+          "url": "https://www.fixmystreet.com/report/10059986",
+          "date": "2026-09-07T08:13:00+00:00",
+          "category": null
+        },
+        {
           "title": "Street lighting is very dim in tge evening/ night, 6th September",
           "url": "https://www.fixmystreet.com/report/10055888",
           "date": "2026-09-06T07:37:19+00:00",
@@ -717,12 +717,6 @@
           "url": "https://www.fixmystreet.com/report/9987629",
           "date": "2026-08-22T16:05:32+00:00",
           "category": null
-        },
-        {
-          "title": "Abandoned vehicle, 22nd August",
-          "url": "https://www.fixmystreet.com/report/9986731",
-          "date": "2026-08-22T11:17:00+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -730,6 +724,12 @@
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "More flytipped rubbish, Shirley Heath, 7th September",
+          "url": "https://www.fixmystreet.com/report/10059937",
+          "date": "2026-09-07T08:09:04+00:00",
+          "category": null
+        },
         {
           "title": "Cars park on both sides and buses can’t get past, 4th September",
           "url": "https://www.fixmystreet.com/report/10050132",
@@ -855,6 +855,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Stanley Halls’ heritage, history and future on show this Sunday",
+          "url": "https://insidecroydon.com/2026/09/07/stanley-halls-heritage-history-and-future-on-show-this-sunday/",
+          "date": "2026-09-07T11:31:13+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "London Radical Book Fair, Stanley Halls, free entry, Sun Sep 6",
           "url": "https://insidecroydon.com/2026/08/31/london-radical-book-fair-stanley-halls-free-entry-sun-sep-6-2/",
           "date": "2026-08-31T08:07:21+00:00",
@@ -978,6 +984,18 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Kerb dislodged, 7th September",
+          "url": "https://www.fixmystreet.com/report/10060437",
+          "date": "2026-09-07T09:02:48+00:00",
+          "category": null
+        },
+        {
+          "title": "Pavement brick dislodged and coming away, 7th September",
+          "url": "https://www.fixmystreet.com/report/10060362",
+          "date": "2026-09-07T08:59:06+00:00",
+          "category": null
+        },
         {
           "title": "Missing water meter cover on pavement near 18/18A, 29th August",
           "url": "https://www.fixmystreet.com/report/10021514",
