@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T11:59:25.535430+00:00",
+    "generated_at": "2026-09-07T17:38:04.409579+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -449,6 +449,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "There’s no dough to reopen six former Coughlans bread shops",
+          "url": "https://insidecroydon.com/2026/09/07/theres-no-dough-to-reopen-six-former-coughlans-bread-shops/",
+          "date": "2026-09-07T14:03:24+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Old Coulsdon Camera Club Welcome Evening, Tue Sep 8",
           "url": "https://insidecroydon.com/2026/08/29/old-coulsdon-camera-club-welcome-evening-tue-sep-8-2/",
           "date": "2026-08-29T09:00:33+00:00",
@@ -785,6 +791,12 @@
     "South Croydon": {
       "fixmystreet": [
         {
+          "title": "Tree fallen blocking path, 7th September",
+          "url": "https://www.fixmystreet.com/report/10063818",
+          "date": "2026-09-07T16:12:11+00:00",
+          "category": null
+        },
+        {
           "title": "Mattress, 25th August",
           "url": "https://www.fixmystreet.com/report/9998895",
           "date": "2026-08-25T08:45:11+00:00",
@@ -793,6 +805,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "There’s no dough to reopen six former Coughlans bread shops",
+          "url": "https://insidecroydon.com/2026/09/07/theres-no-dough-to-reopen-six-former-coughlans-bread-shops/",
+          "date": "2026-09-07T14:03:24+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Purley Downs Road to be closed for eight weeks for gas works",
           "url": "https://insidecroydon.com/2026/09/05/purley-downs-road-to-be-closed-for-eight-weeks-for-gas-works/",
@@ -815,12 +833,6 @@
           "title": "Selsdon Community Fair, Old Farleigh Road, Sun Sep 6",
           "url": "https://insidecroydon.com/2026/08/31/selsdon-community-fair-old-farleigh-road-sun-sep-6-2/",
           "date": "2026-08-31T08:57:03+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Pampisford Road Allotments annual Open Day, Sun Sep 6",
-          "url": "https://insidecroydon.com/2026/08/29/pampisford-road-allotments-annual-open-day-sun-sep-6-2/",
-          "date": "2026-08-29T10:08:50+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -865,12 +877,6 @@
           "url": "https://insidecroydon.com/2026/08/31/london-radical-book-fair-stanley-halls-free-entry-sun-sep-6-2/",
           "date": "2026-08-31T08:07:21+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "London Radical Book Fair, Stanley Halls, free entry, Sun Sep 6",
-          "url": "https://insidecroydon.com/2026/08/28/london-radical-book-fair-stanley-halls-free-entry-sun-sep-6/",
-          "date": "2026-08-28T09:39:19+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -914,7 +920,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "There’s no dough to reopen six former Coughlans bread shops",
+          "url": "https://insidecroydon.com/2026/09/07/theres-no-dough-to-reopen-six-former-coughlans-bread-shops/",
+          "date": "2026-09-07T14:03:24+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Waddon": {
       "fixmystreet": [
