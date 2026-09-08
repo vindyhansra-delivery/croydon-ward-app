@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T03:45:23.140846+00:00",
+    "generated_at": "2026-09-08T10:55:16.893182+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -85,6 +85,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Canning and Clyde RA charity quiz night, Clyde Hall, Oct 3",
+          "url": "https://insidecroydon.com/2026/09/08/canning-and-clyde-ra-charity-quiz-night-clyde-hall-oct-3/",
+          "date": "2026-09-08T08:07:30+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Blues at The Oval, Sunday evenings in Sep and Oct, free entry",
           "url": "https://insidecroydon.com/2026/09/07/blues-at-the-oval-sunday-evenings-in-sep-and-oct-free-entry/",
@@ -267,12 +273,6 @@
           "title": "Extremely dirty high street, blackening roads and pavements, 16th August",
           "url": "https://www.fixmystreet.com/report/9957225",
           "date": "2026-08-16T21:03:58+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned vehicle, 9th August",
-          "url": "https://www.fixmystreet.com/report/9919188",
-          "date": "2026-08-09T05:20:34+00:00",
           "category": null
         }
       ],
@@ -586,18 +586,6 @@
           "title": "Friends of Grangewood Park Picnic in the Park, Sun Sep 20",
           "url": "https://insidecroydon.com/2026/08/30/friends-of-grangewood-park-picnic-in-the-park-sun-sep-20-2/",
           "date": "2026-08-30T09:00:25+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Fanatics shock Palace fans with end to Selhurst activities",
-          "url": "https://insidecroydon.com/2026/08/28/fanatics-shock-palace-fans-with-end-to-selhurst-activities/",
-          "date": "2026-08-28T11:05:53+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "‘There needs to be drastic shift at Palace towards younger fans’",
-          "url": "https://insidecroydon.com/2026/08/28/there-needs-to-be-drastic-shift-at-palace-towards-younger-fans/",
-          "date": "2026-08-28T10:10:23+00:00",
           "publisher": "Inside Croydon"
         }
       ]
