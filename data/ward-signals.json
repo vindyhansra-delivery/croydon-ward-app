@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T16:19:42.383147+00:00",
+    "generated_at": "2026-09-08T20:56:17.297863+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -189,12 +189,6 @@
           "title": "Outside 96 St. Andrews Road / Richmond Road Junction Dangerous Tree, 15th August",
           "url": "https://www.fixmystreet.com/report/9953799",
           "date": "2026-08-15T20:34:51+00:00",
-          "category": null
-        },
-        {
-          "title": "Foliage reqs cutting back from traffic lights, 9th August",
-          "url": "https://www.fixmystreet.com/report/9921973",
-          "date": "2026-08-09T18:57:44+00:00",
           "category": null
         }
       ],
@@ -883,12 +877,6 @@
           "title": "Rubbish everwhere, 12th August",
           "url": "https://www.fixmystreet.com/report/9935571",
           "date": "2026-08-12T06:28:26+00:00",
-          "category": null
-        },
-        {
-          "title": "Sewage smell., 9th August",
-          "url": "https://www.fixmystreet.com/report/9921993",
-          "date": "2026-08-09T19:01:41+00:00",
           "category": null
         }
       ],
