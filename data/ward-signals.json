@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T10:55:16.893182+00:00",
+    "generated_at": "2026-09-08T16:19:42.383147+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -86,6 +86,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
+          "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
+          "date": "2026-09-08T11:27:53+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Canning and Clyde RA charity quiz night, Clyde Hall, Oct 3",
           "url": "https://insidecroydon.com/2026/09/08/canning-and-clyde-ra-charity-quiz-night-clyde-hall-oct-3/",
           "date": "2026-09-08T08:07:30+00:00",
@@ -107,12 +113,6 @@
           "title": "Night of Dance on the streets of Addiscombe next Tuesday",
           "url": "https://insidecroydon.com/2026/09/03/night-of-dance-on-the-streets-of-addiscombe-next-tuesday/",
           "date": "2026-09-03T09:03:21+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "20th anniversary Apple Day, Addiscombe Railway Park, Sep 12",
-          "url": "https://insidecroydon.com/2026/09/02/20th-anniversary-apple-day-addiscombe-railway-park-sep-12/",
-          "date": "2026-09-02T09:37:02+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -345,10 +345,23 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
+          "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
+          "date": "2026-09-08T11:27:53+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "New Addington South": {
       "fixmystreet": [
+        {
+          "title": "Been here for over a month, 8th September",
+          "url": "https://www.fixmystreet.com/report/10067387",
+          "date": "2026-09-08T11:17:05+00:00",
+          "category": null
+        },
         {
           "title": "Abandoned traffic lights and roadworks, 7th September",
           "url": "https://www.fixmystreet.com/report/10059573",
@@ -375,7 +388,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
+          "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
+          "date": "2026-09-08T11:27:53+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Norbury Park": {
       "fixmystreet": [
@@ -453,19 +473,20 @@
           "url": "https://insidecroydon.com/2026/09/07/theres-no-dough-to-reopen-six-former-coughlans-bread-shops/",
           "date": "2026-09-07T14:03:24+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Old Coulsdon Camera Club Welcome Evening, Tue Sep 8",
-          "url": "https://insidecroydon.com/2026/08/29/old-coulsdon-camera-club-welcome-evening-tue-sep-8-2/",
-          "date": "2026-08-29T09:00:33+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
     "Park Hill and Whitgift": {
       "fixmystreet": [],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
+          "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
+          "date": "2026-09-08T11:27:53+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Purley Oaks and Riddlesdown": {
       "fixmystreet": [
@@ -648,7 +669,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
+          "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
+          "date": "2026-09-08T11:27:53+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Shirley North": {
       "fixmystreet": [
@@ -718,6 +746,12 @@
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "Pointless temporary traffic lights, 8th September",
+          "url": "https://www.fixmystreet.com/report/10069032",
+          "date": "2026-09-08T15:44:35+00:00",
+          "category": null
+        },
         {
           "title": "More flytipped rubbish, Shirley Heath, 7th September",
           "url": "https://www.fixmystreet.com/report/10059937",
@@ -794,6 +828,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
+          "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
+          "date": "2026-09-08T11:27:53+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "There’s no dough to reopen six former Coughlans bread shops",
           "url": "https://insidecroydon.com/2026/09/07/theres-no-dough-to-reopen-six-former-coughlans-bread-shops/",
           "date": "2026-09-07T14:03:24+00:00",
@@ -815,12 +855,6 @@
           "title": "Got a fryer going cheap? Croydon’s best chippie on the brink",
           "url": "https://insidecroydon.com/2026/09/03/got-a-fryer-going-cheap-croydons-best-chippie-on-the-brink/",
           "date": "2026-09-03T14:33:08+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Selsdon Community Fair, Old Farleigh Road, Sun Sep 6",
-          "url": "https://insidecroydon.com/2026/08/31/selsdon-community-fair-old-farleigh-road-sun-sep-6-2/",
-          "date": "2026-08-31T08:57:03+00:00",
           "publisher": "Inside Croydon"
         }
       ]
