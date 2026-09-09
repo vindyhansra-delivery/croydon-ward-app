@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T11:00:42.188693+00:00",
+    "generated_at": "2026-09-09T16:14:04.354316+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -253,7 +253,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Climate documentary lays out full horror of our catastrophe",
+          "url": "https://insidecroydon.com/2026/09/09/climate-documentary-lays-out-full-horror-of-our-catastrophe/",
+          "date": "2026-09-09T14:05:38+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Fairfield": {
       "fixmystreet": [
@@ -517,6 +524,12 @@
     "Purley and Woodcote": {
       "fixmystreet": [
         {
+          "title": "Long deep indentation in tarmac., 9th September",
+          "url": "https://www.fixmystreet.com/report/10072851",
+          "date": "2026-09-09T11:17:55+00:00",
+          "category": null
+        },
+        {
           "title": "Street lights not working, 27th August",
           "url": "https://www.fixmystreet.com/report/10014101",
           "date": "2026-08-27T18:37:35+00:00",
@@ -748,6 +761,12 @@
     "Shirley South": {
       "fixmystreet": [
         {
+          "title": "Refuse collectors making and leaving a mess, 9th September",
+          "url": "https://www.fixmystreet.com/report/10072827",
+          "date": "2026-09-09T11:15:26+00:00",
+          "category": null
+        },
+        {
           "title": "Pointless temporary traffic lights, 8th September",
           "url": "https://www.fixmystreet.com/report/10069032",
           "date": "2026-09-08T15:44:35+00:00",
@@ -799,12 +818,6 @@
           "title": "Builders rubbish has been fly tipped, 23rd August",
           "url": "https://www.fixmystreet.com/report/9990162",
           "date": "2026-08-23T13:57:53+00:00",
-          "category": null
-        },
-        {
-          "title": "Rats running around very visible, 14th August",
-          "url": "https://www.fixmystreet.com/report/9948516",
-          "date": "2026-08-14T12:43:31+00:00",
           "category": null
         }
       ],
