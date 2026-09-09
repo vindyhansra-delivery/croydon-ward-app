@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T20:56:17.297863+00:00",
+    "generated_at": "2026-09-09T03:50:17.897614+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -537,12 +537,6 @@
           "title": "Large builders' bag dumped outside flats at 54 Arkwright Road, 13th August",
           "url": "https://www.fixmystreet.com/report/9943017",
           "date": "2026-08-13T11:27:29+00:00",
-          "category": null
-        },
-        {
-          "title": "Mini roundabout paint faded & road markings disappeared, 9th August",
-          "url": "https://www.fixmystreet.com/report/9922553",
-          "date": "2026-08-09T22:01:51+00:00",
           "category": null
         }
       ],
