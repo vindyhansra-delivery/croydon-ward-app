@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T16:14:04.354316+00:00",
+    "generated_at": "2026-09-09T20:43:43.907650+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -203,6 +203,12 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "Broken street lamp, 9th September",
+          "url": "https://www.fixmystreet.com/report/10075565",
+          "date": "2026-09-09T20:01:43+00:00",
+          "category": null
+        },
         {
           "title": "Road surface inadequate, 7th September",
           "url": "https://www.fixmystreet.com/report/10065073",
@@ -967,6 +973,12 @@
     },
     "Waddon": {
       "fixmystreet": [
+        {
+          "title": "Parked wrong on one way street, 9th September",
+          "url": "https://www.fixmystreet.com/report/10074793",
+          "date": "2026-09-09T16:41:22+00:00",
+          "category": null
+        },
         {
           "title": "Overhanging trees, 28th August",
           "url": "https://www.fixmystreet.com/report/10016514",
