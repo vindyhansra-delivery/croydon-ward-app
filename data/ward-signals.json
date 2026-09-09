@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T03:50:17.897614+00:00",
+    "generated_at": "2026-09-09T11:00:42.188693+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -149,6 +149,12 @@
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "O/S No 42 Woodmansterne Road, 9th September",
+          "url": "https://www.fixmystreet.com/report/10072580",
+          "date": "2026-09-09T10:42:01+00:00",
+          "category": null
+        },
         {
           "title": "Tree is huge with low branches hitting the property, 5th September",
           "url": "https://www.fixmystreet.com/report/10054759",
@@ -401,7 +407,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Harvest Fest, Norbury Park Lawn Tennis Club, Sat Sept 26",
+          "url": "https://insidecroydon.com/2026/09/09/harvest-fest-norbury-park-lawn-tennis-club-sat-sept-26/",
+          "date": "2026-09-09T09:10:44+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Norbury and Pollards Hill": {
       "fixmystreet": [
