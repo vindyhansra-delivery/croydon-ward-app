@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T10:57:24.110165+00:00",
+    "generated_at": "2026-09-10T16:06:00.508391+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -199,7 +199,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "No news from Tibet, as Diwali is cancelled in grieving Coulsdon",
+          "url": "https://insidecroydon.com/2026/09/10/no-news-from-tibet-as-diwali-is-cancelled-in-grieving-coulsdon/",
+          "date": "2026-09-10T11:37:59+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
@@ -260,6 +267,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Adderley suspension lifted by Greens after six-month wait",
+          "url": "https://insidecroydon.com/2026/09/10/adderley-suspension-lifted-by-greens-after-six-month-wait/",
+          "date": "2026-09-10T15:46:52+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Climate documentary lays out full horror of our catastrophe",
           "url": "https://insidecroydon.com/2026/09/09/climate-documentary-lays-out-full-horror-of-our-catastrophe/",
@@ -488,6 +501,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "No news from Tibet, as Diwali is cancelled in grieving Coulsdon",
+          "url": "https://insidecroydon.com/2026/09/10/no-news-from-tibet-as-diwali-is-cancelled-in-grieving-coulsdon/",
+          "date": "2026-09-10T11:37:59+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "There’s no dough to reopen six former Coughlans bread shops",
           "url": "https://insidecroydon.com/2026/09/07/theres-no-dough-to-reopen-six-former-coughlans-bread-shops/",
@@ -827,6 +846,18 @@
     "South Croydon": {
       "fixmystreet": [
         {
+          "title": "Upper end of Footpath 605, behind Tirlemont Road, 10th September",
+          "url": "https://www.fixmystreet.com/report/10078909",
+          "date": "2026-09-10T12:53:21+00:00",
+          "category": null
+        },
+        {
+          "title": "Pavement needs attention outside No 57 St Augustine's Ave, South Croydon., 10th September",
+          "url": "https://www.fixmystreet.com/report/10078890",
+          "date": "2026-09-10T12:50:00+00:00",
+          "category": null
+        },
+        {
           "title": "Tree fallen blocking path, 7th September",
           "url": "https://www.fixmystreet.com/report/10063818",
           "date": "2026-09-07T16:12:11+00:00",
@@ -918,12 +949,6 @@
           "title": "Stanley Halls’ heritage, history and future on show this Sunday",
           "url": "https://insidecroydon.com/2026/09/07/stanley-halls-heritage-history-and-future-on-show-this-sunday/",
           "date": "2026-09-07T11:31:13+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "London Radical Book Fair, Stanley Halls, free entry, Sun Sep 6",
-          "url": "https://insidecroydon.com/2026/08/31/london-radical-book-fair-stanley-halls-free-entry-sun-sep-6-2/",
-          "date": "2026-08-31T08:07:21+00:00",
           "publisher": "Inside Croydon"
         }
       ]
