@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T03:48:29.694630+00:00",
+    "generated_at": "2026-09-10T10:57:24.110165+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -143,6 +143,12 @@
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "Car abandoned on the pavement, 10th September",
+          "url": "https://www.fixmystreet.com/report/10077073",
+          "date": "2026-09-10T08:39:55+00:00",
+          "category": null
+        },
         {
           "title": "O/S No 42 Woodmansterne Road, 9th September",
           "url": "https://www.fixmystreet.com/report/10072580",
@@ -616,12 +622,6 @@
           "url": "https://insidecroydon.com/2026/09/04/former-pupils-business-gives-brit-school-a-40000-facelift/",
           "date": "2026-09-04T09:40:46+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Friends of Grangewood Park Picnic in the Park, Sun Sep 20",
-          "url": "https://insidecroydon.com/2026/08/30/friends-of-grangewood-park-picnic-in-the-park-sun-sep-20-2/",
-          "date": "2026-08-30T09:00:25+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -761,6 +761,12 @@
     "Shirley South": {
       "fixmystreet": [
         {
+          "title": "SMall hole causing major congestion issues - no worj being done, 10th September",
+          "url": "https://www.fixmystreet.com/report/10076664",
+          "date": "2026-09-10T07:47:11+00:00",
+          "category": "SMall hole causing major congestion issues"
+        },
+        {
           "title": "Refuse collectors making and leaving a mess, 9th September",
           "url": "https://www.fixmystreet.com/report/10072827",
           "date": "2026-09-09T11:15:26+00:00",
@@ -812,12 +818,6 @@
           "title": "Abandoned vehicle, 23rd August",
           "url": "https://www.fixmystreet.com/report/9990974",
           "date": "2026-08-23T17:26:16+00:00",
-          "category": null
-        },
-        {
-          "title": "Builders rubbish has been fly tipped, 23rd August",
-          "url": "https://www.fixmystreet.com/report/9990162",
-          "date": "2026-08-23T13:57:53+00:00",
           "category": null
         }
       ],
@@ -902,6 +902,18 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Signal failure closes tram network’s Beckenham branch",
+          "url": "https://insidecroydon.com/2026/09/10/signal-failure-closes-tram-networks-beckenham-branch/",
+          "date": "2026-09-10T10:26:47+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Mezze Feast, South Norwood Community Kitchen, Oct 6",
+          "url": "https://insidecroydon.com/2026/09/10/mezze-feast-south-norwood-community-kitchen-oct-6/",
+          "date": "2026-09-10T09:00:24+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Stanley Halls’ heritage, history and future on show this Sunday",
           "url": "https://insidecroydon.com/2026/09/07/stanley-halls-heritage-history-and-future-on-show-this-sunday/",
@@ -1083,7 +1095,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Signal failure closes tram network’s Beckenham branch",
+          "url": "https://insidecroydon.com/2026/09/10/signal-failure-closes-tram-networks-beckenham-branch/",
+          "date": "2026-09-10T10:26:47+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     }
   }
 }
