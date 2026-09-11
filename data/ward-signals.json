@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T03:45:59.031110+00:00",
+    "generated_at": "2026-09-11T10:54:46.302338+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -351,12 +351,6 @@
           "title": "Quiz Night: Save The Kenley fundraiser, Smokin’ Grill, Sep 18",
           "url": "https://insidecroydon.com/2026/09/06/quiz-night-save-the-kenley-fundraiser-smokin-grill-sep-18/",
           "date": "2026-09-06T08:36:16+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Quiz Night: Save The Kenley fundraiser, Smokin’ Grill, Sep 18",
-          "url": "https://insidecroydon.com/2026/09/01/save-the-kenley-quiz-night-fundraiser-smokin-grill-sep-18/",
-          "date": "2026-09-01T10:41:02+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -780,6 +774,12 @@
     "Shirley South": {
       "fixmystreet": [
         {
+          "title": "Street light not working, 11th September",
+          "url": "https://www.fixmystreet.com/report/10081526",
+          "date": "2026-09-11T05:25:46+00:00",
+          "category": null
+        },
+        {
           "title": "SMall hole causing major congestion issues - no worj being done, 10th September",
           "url": "https://www.fixmystreet.com/report/10076664",
           "date": "2026-09-10T07:47:11+00:00",
@@ -832,12 +832,6 @@
           "url": "https://www.fixmystreet.com/report/10030615",
           "date": "2026-09-01T08:55:29+00:00",
           "category": null
-        },
-        {
-          "title": "Abandoned vehicle, 23rd August",
-          "url": "https://www.fixmystreet.com/report/9990974",
-          "date": "2026-08-23T17:26:16+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -873,6 +867,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Thameslink to strip 60,000 ‘ironing board’ seats from its trains",
+          "url": "https://insidecroydon.com/2026/09/11/thameslink-to-strip-60000-ironing-board-seats-from-its-trains/",
+          "date": "2026-09-11T10:30:12+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
           "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
           "date": "2026-09-08T11:27:53+00:00",
@@ -895,12 +895,6 @@
           "url": "https://insidecroydon.com/2026/09/05/south-croydon-model-railway-show-st-pauls-church-sep-12-2/",
           "date": "2026-09-05T09:25:14+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Got a fryer going cheap? Croydon’s best chippie on the brink",
-          "url": "https://insidecroydon.com/2026/09/03/got-a-fryer-going-cheap-croydons-best-chippie-on-the-brink/",
-          "date": "2026-09-03T14:33:08+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -922,12 +916,6 @@
           "title": "Shopping Trolley, 17th August",
           "url": "https://www.fixmystreet.com/report/9958107",
           "date": "2026-08-17T07:40:18+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish everwhere, 12th August",
-          "url": "https://www.fixmystreet.com/report/9935571",
-          "date": "2026-08-12T06:28:26+00:00",
           "category": null
         }
       ],
@@ -1064,6 +1052,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Pothole, 11th September",
+          "url": "https://www.fixmystreet.com/report/10081687",
+          "date": "2026-09-11T06:41:56+00:00",
+          "category": null
+        },
         {
           "title": "Kerb dislodged, 7th September",
           "url": "https://www.fixmystreet.com/report/10060437",
