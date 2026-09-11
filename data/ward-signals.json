@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T16:09:57.724482+00:00",
+    "generated_at": "2026-09-11T20:43:59.134563+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -40,12 +40,6 @@
           "title": "20th anniversary Apple Day, Addiscombe Railway Park, Sep 12",
           "url": "https://insidecroydon.com/2026/09/06/20th-anniversary-apple-day-addiscombe-railway-park-sep-12-2/",
           "date": "2026-09-06T09:15:02+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "20th anniversary Apple Day, Addiscombe Railway Park, Sep 12",
-          "url": "https://insidecroydon.com/2026/09/02/20th-anniversary-apple-day-addiscombe-railway-park-sep-12/",
-          "date": "2026-09-02T09:37:02+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -999,6 +993,12 @@
     "Waddon": {
       "fixmystreet": [
         {
+          "title": "Cars coming out of one way street to on coming traffic from Denning Avenue, 11th September",
+          "url": "https://www.fixmystreet.com/report/10085398",
+          "date": "2026-09-11T16:53:46+00:00",
+          "category": null
+        },
+        {
           "title": "Parked wrong on one way street, 9th September",
           "url": "https://www.fixmystreet.com/report/10074793",
           "date": "2026-09-09T16:41:22+00:00",
@@ -1058,6 +1058,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Huge and deep pot hole, 11th September",
+          "url": "https://www.fixmystreet.com/report/10085609",
+          "date": "2026-09-11T17:49:21+00:00",
+          "category": null
+        },
         {
           "title": "Pothole, 11th September",
           "url": "https://www.fixmystreet.com/report/10081687",
