@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T10:54:46.302338+00:00",
+    "generated_at": "2026-09-11T16:09:57.724482+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -143,6 +143,12 @@
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "Sewage smell, 11th September",
+          "url": "https://www.fixmystreet.com/report/10083285",
+          "date": "2026-09-11T12:00:41+00:00",
+          "category": null
+        },
         {
           "title": "Car abandoned on the pavement, 10th September",
           "url": "https://www.fixmystreet.com/report/10077073",
