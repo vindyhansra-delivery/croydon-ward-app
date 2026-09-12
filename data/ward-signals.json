@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T15:18:08.877746+00:00",
+    "generated_at": "2026-09-12T20:23:18.240239+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -527,6 +527,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Firm behind £60m Purley Pool project goes into administration",
+          "url": "https://insidecroydon.com/2026/09/12/firm-behind-60m-purley-pool-project-goes-into-administration/",
+          "date": "2026-09-12T17:32:11+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Walk and Talk Riddlesdown, weekly every Sunday from 9am",
           "url": "https://insidecroydon.com/2026/09/12/walk-and-talk-riddlesdown-weekly-every-sunday-from-9am-2/",
           "date": "2026-09-12T09:01:55+00:00",
@@ -542,6 +548,12 @@
     },
     "Purley and Woodcote": {
       "fixmystreet": [
+        {
+          "title": "Exposed wire on pavement coming out of floor by walkway, 12th September",
+          "url": "https://www.fixmystreet.com/report/10088893",
+          "date": "2026-09-12T18:49:58+00:00",
+          "category": null
+        },
         {
           "title": "Long deep indentation in tarmac., 9th September",
           "url": "https://www.fixmystreet.com/report/10072851",
@@ -1039,14 +1051,7 @@
       "news": []
     },
     "West Thornton": {
-      "fixmystreet": [
-        {
-          "title": "Report of heavy abandoned item/obstacle on the public highway, near house 15, 13th August",
-          "url": "https://www.fixmystreet.com/report/9945197",
-          "date": "2026-08-13T19:39:56+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
