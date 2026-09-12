@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T03:49:40.179860+00:00",
+    "generated_at": "2026-09-12T10:23:05.863466+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -315,12 +315,6 @@
           "url": "https://insidecroydon.com/2026/09/03/got-a-fryer-going-cheap-croydons-best-chippie-on-the-brink/",
           "date": "2026-09-03T14:33:08+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Giant PubCo seeking new management for Slug & Lettuce site",
-          "url": "https://insidecroydon.com/2026/09/02/giant-pubco-seeking-new-management-for-slug-lettuce-site/",
-          "date": "2026-09-02T12:06:43+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -532,6 +526,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Walk and Talk Riddlesdown, weekly every Sunday from 9am",
+          "url": "https://insidecroydon.com/2026/09/12/walk-and-talk-riddlesdown-weekly-every-sunday-from-9am-2/",
+          "date": "2026-09-12T09:01:55+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Purley Downs Road to be closed for eight weeks for gas works",
           "url": "https://insidecroydon.com/2026/09/05/purley-downs-road-to-be-closed-for-eight-weeks-for-gas-works/",
