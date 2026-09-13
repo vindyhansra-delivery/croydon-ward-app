@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T15:53:18.508423+00:00",
+    "generated_at": "2026-09-13T20:33:32.609756+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -123,12 +123,6 @@
           "title": "Sinkhole approx 3\" diameter but deep, 15th August",
           "url": "https://www.fixmystreet.com/report/9952190",
           "date": "2026-08-15T11:47:20+00:00",
-          "category": null
-        },
-        {
-          "title": "20 sign angled at main carriageway causing confusion, 14th August",
-          "url": "https://www.fixmystreet.com/report/9949888",
-          "date": "2026-08-14T16:34:19+00:00",
           "category": null
         }
       ],
@@ -283,6 +277,12 @@
     },
     "Fairfield": {
       "fixmystreet": [
+        {
+          "title": "Sunken drain on pavement, 13th September",
+          "url": "https://www.fixmystreet.com/report/10091768",
+          "date": "2026-09-13T17:30:48+00:00",
+          "category": null
+        },
         {
           "title": "Rubbish from homeless people causing a menace, smell and rats, 29th August",
           "url": "https://www.fixmystreet.com/report/10020156",
