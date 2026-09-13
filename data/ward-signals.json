@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T03:57:36.083477+00:00",
+    "generated_at": "2026-09-13T11:22:58.451539+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -74,6 +74,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Blues at The Oval, Sunday evenings in Sep and Oct, free entry",
+          "url": "https://insidecroydon.com/2026/09/13/blues-at-the-oval-sunday-evenings-in-sep-and-oct-free-entry-2/",
+          "date": "2026-09-13T09:00:51+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
           "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
           "date": "2026-09-08T11:27:53+00:00",
@@ -95,12 +101,6 @@
           "title": "20th anniversary Apple Day, Addiscombe Railway Park, Sep 12",
           "url": "https://insidecroydon.com/2026/09/06/20th-anniversary-apple-day-addiscombe-railway-park-sep-12-2/",
           "date": "2026-09-06T09:15:02+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Night of Dance on the streets of Addiscombe next Tuesday",
-          "url": "https://insidecroydon.com/2026/09/03/night-of-dance-on-the-streets-of-addiscombe-next-tuesday/",
-          "date": "2026-09-03T09:03:21+00:00",
           "publisher": "Inside Croydon"
         }
       ]
