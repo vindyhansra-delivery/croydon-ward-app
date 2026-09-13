@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T11:22:58.451539+00:00",
+    "generated_at": "2026-09-13T15:53:18.508423+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -309,12 +309,6 @@
           "url": "https://insidecroydon.com/2026/09/05/up-to-1000-a-ticket-make-sure-you-buy-an-archers-tea-towel/",
           "date": "2026-09-05T16:05:04+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Got a fryer going cheap? Croydon’s best chippie on the brink",
-          "url": "https://insidecroydon.com/2026/09/03/got-a-fryer-going-cheap-croydons-best-chippie-on-the-brink/",
-          "date": "2026-09-03T14:33:08+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -473,18 +467,6 @@
           "url": "https://www.fixmystreet.com/report/9971968",
           "date": "2026-08-19T10:30:06+00:00",
           "category": null
-        },
-        {
-          "title": "Abandoned Ford ka, 14th August",
-          "url": "https://www.fixmystreet.com/report/9949131",
-          "date": "2026-08-14T14:19:48+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned car, 14th August",
-          "url": "https://www.fixmystreet.com/report/9949108",
-          "date": "2026-08-14T14:16:26+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -635,12 +617,6 @@
           "url": "https://insidecroydon.com/2026/09/04/pm-burnham-says-hell-get-selhurst-rail-project-back-on-track/",
           "date": "2026-09-04T10:57:58+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Former pupil’s business gives BRIT School a £40,000 facelift",
-          "url": "https://insidecroydon.com/2026/09/04/former-pupils-business-gives-brit-school-a-40000-facelift/",
-          "date": "2026-09-04T09:40:46+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -666,7 +642,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Saved for the nation, Selsdon Wood conserved by its Friends",
+          "url": "https://insidecroydon.com/2026/09/13/saved-for-the-nation-selsdon-wood-conserved-by-its-friends/",
+          "date": "2026-09-13T12:27:55+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
@@ -703,6 +686,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Saved for the nation, Selsdon Wood conserved by its Friends",
+          "url": "https://insidecroydon.com/2026/09/13/saved-for-the-nation-selsdon-wood-conserved-by-its-friends/",
+          "date": "2026-09-13T12:27:55+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
           "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
@@ -873,6 +862,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Saved for the nation, Selsdon Wood conserved by its Friends",
+          "url": "https://insidecroydon.com/2026/09/13/saved-for-the-nation-selsdon-wood-conserved-by-its-friends/",
+          "date": "2026-09-13T12:27:55+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Thameslink to strip 60,000 ‘ironing board’ seats from its trains",
           "url": "https://insidecroydon.com/2026/09/11/thameslink-to-strip-60000-ironing-board-seats-from-its-trains/",
           "date": "2026-09-11T10:30:12+00:00",
@@ -894,12 +889,6 @@
           "title": "Purley Downs Road to be closed for eight weeks for gas works",
           "url": "https://insidecroydon.com/2026/09/05/purley-downs-road-to-be-closed-for-eight-weeks-for-gas-works/",
           "date": "2026-09-05T11:41:07+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "South Croydon Model Railway Show, St Paul’s Church, Sep 12",
-          "url": "https://insidecroydon.com/2026/09/05/south-croydon-model-railway-show-st-pauls-church-sep-12-2/",
-          "date": "2026-09-05T09:25:14+00:00",
           "publisher": "Inside Croydon"
         }
       ]
