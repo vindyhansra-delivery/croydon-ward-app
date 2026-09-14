@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-14T04:05:43.469045+00:00",
+    "generated_at": "2026-09-14T12:15:08.819030+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -118,14 +118,7 @@
       "news": []
     },
     "Broad Green": {
-      "fixmystreet": [
-        {
-          "title": "Sinkhole approx 3\" diameter but deep, 15th August",
-          "url": "https://www.fixmystreet.com/report/9952190",
-          "date": "2026-08-15T11:47:20+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
@@ -261,6 +254,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Diver Snode makes a splash with Crystal Palace’s Gallery 56",
+          "url": "https://insidecroydon.com/2026/09/14/diver-snode-makes-a-splash-with-crystal-palaces-gallery-56/",
+          "date": "2026-09-14T11:31:53+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Adderley suspension lifted by Greens after six-month wait",
           "url": "https://insidecroydon.com/2026/09/10/adderley-suspension-lifted-by-greens-after-six-month-wait/",
@@ -611,14 +610,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "PM Burnham says he’ll get Selhurst rail project ‘back on track’",
-          "url": "https://insidecroydon.com/2026/09/04/pm-burnham-says-hell-get-selhurst-rail-project-back-on-track/",
-          "date": "2026-09-04T10:57:58+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
@@ -1046,6 +1038,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Hole in boundary fence between park and tram line, 14th September",
+          "url": "https://www.fixmystreet.com/report/10095067",
+          "date": "2026-09-14T11:30:50+00:00",
+          "category": null
+        },
         {
           "title": "Huge and deep pot hole, 11th September",
           "url": "https://www.fixmystreet.com/report/10085609",
