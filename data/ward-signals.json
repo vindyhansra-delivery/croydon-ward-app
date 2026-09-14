@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-14T12:15:08.819030+00:00",
+    "generated_at": "2026-09-14T21:41:51.629270+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -177,12 +177,6 @@
           "url": "https://www.fixmystreet.com/report/9958698",
           "date": "2026-08-17T08:58:40+00:00",
           "category": null
-        },
-        {
-          "title": "Outside 96 St. Andrews Road / Richmond Road Junction Dangerous Tree, 15th August",
-          "url": "https://www.fixmystreet.com/report/9953799",
-          "date": "2026-08-15T20:34:51+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -324,12 +318,6 @@
           "url": "https://www.fixmystreet.com/report/9963379",
           "date": "2026-08-17T19:58:03+00:00",
           "category": null
-        },
-        {
-          "title": "Blocking bin lorries, 15th August",
-          "url": "https://www.fixmystreet.com/report/9952993",
-          "date": "2026-08-15T15:31:39+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -344,6 +332,12 @@
     },
     "New Addington North": {
       "fixmystreet": [
+        {
+          "title": "Blocking my driveway, 14th September",
+          "url": "https://www.fixmystreet.com/report/10097238",
+          "date": "2026-09-14T16:40:56+00:00",
+          "category": null
+        },
         {
           "title": "A large sofa chair, 3rd September",
           "url": "https://www.fixmystreet.com/report/10045054",
@@ -471,6 +465,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Coughlans’ first bakers’ shop in £5m property portfolio sell-off",
+          "url": "https://insidecroydon.com/2026/09/14/coughlans-original-shop-in-property-portfolio-sell-off-for-5m/",
+          "date": "2026-09-14T13:08:31+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "No news from Tibet, as Diwali is cancelled in grieving Coulsdon",
           "url": "https://insidecroydon.com/2026/09/10/no-news-from-tibet-as-diwali-is-cancelled-in-grieving-coulsdon/",
           "date": "2026-09-10T11:37:59+00:00",
@@ -584,6 +584,12 @@
     },
     "Selhurst": {
       "fixmystreet": [
+        {
+          "title": "Over hanhmging trees at Bus stop Selhurst new rd., 14th September",
+          "url": "https://www.fixmystreet.com/report/10096159",
+          "date": "2026-09-14T13:54:20+00:00",
+          "category": null
+        },
         {
           "title": "Thames Water abandoned traffic signs/lights, 4th September",
           "url": "https://www.fixmystreet.com/report/10048959",
@@ -854,6 +860,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Coughlans’ first bakers’ shop in £5m property portfolio sell-off",
+          "url": "https://insidecroydon.com/2026/09/14/coughlans-original-shop-in-property-portfolio-sell-off-for-5m/",
+          "date": "2026-09-14T13:08:31+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Saved for the nation, Selsdon Wood conserved by its Friends",
           "url": "https://insidecroydon.com/2026/09/13/saved-for-the-nation-selsdon-wood-conserved-by-its-friends/",
           "date": "2026-09-13T12:27:55+00:00",
@@ -875,12 +887,6 @@
           "title": "There’s no dough to reopen six former Coughlans bread shops",
           "url": "https://insidecroydon.com/2026/09/07/theres-no-dough-to-reopen-six-former-coughlans-bread-shops/",
           "date": "2026-09-07T14:03:24+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Purley Downs Road to be closed for eight weeks for gas works",
-          "url": "https://insidecroydon.com/2026/09/05/purley-downs-road-to-be-closed-for-eight-weeks-for-gas-works/",
-          "date": "2026-09-05T11:41:07+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -969,6 +975,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Coughlans’ first bakers’ shop in £5m property portfolio sell-off",
+          "url": "https://insidecroydon.com/2026/09/14/coughlans-original-shop-in-property-portfolio-sell-off-for-5m/",
+          "date": "2026-09-14T13:08:31+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "There’s no dough to reopen six former Coughlans bread shops",
           "url": "https://insidecroydon.com/2026/09/07/theres-no-dough-to-reopen-six-former-coughlans-bread-shops/",
