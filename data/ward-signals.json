@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-15T04:04:54.832514+00:00",
+    "generated_at": "2026-09-15T11:24:49.623469+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -270,6 +270,12 @@
     },
     "Fairfield": {
       "fixmystreet": [
+        {
+          "title": "Potholes, 15th September",
+          "url": "https://www.fixmystreet.com/report/10100237",
+          "date": "2026-09-15T09:42:03+00:00",
+          "category": null
+        },
         {
           "title": "Sunken drain on pavement, 13th September",
           "url": "https://www.fixmystreet.com/report/10091768",
@@ -915,6 +921,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Music, dance and drama at South Norwood’s Arcadia Festival",
+          "url": "https://insidecroydon.com/2026/09/15/music-dance-and-drama-at-south-norwoods-arcadia-festival/",
+          "date": "2026-09-15T09:01:52+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Signal failure closes tram network’s Beckenham branch",
           "url": "https://insidecroydon.com/2026/09/10/signal-failure-closes-tram-networks-beckenham-branch/",
           "date": "2026-09-10T10:26:47+00:00",
@@ -1051,6 +1063,12 @@
     "Woodside": {
       "fixmystreet": [
         {
+          "title": "Full bins in South Norwood, 15th September",
+          "url": "https://www.fixmystreet.com/report/10099023",
+          "date": "2026-09-15T07:46:33+00:00",
+          "category": null
+        },
+        {
           "title": "Hole in boundary fence between park and tram line, 14th September",
           "url": "https://www.fixmystreet.com/report/10095067",
           "date": "2026-09-14T11:30:50+00:00",
@@ -1102,12 +1120,6 @@
           "title": "20 sign angled to main carriageway causing confusion and Adas errors, 18th August",
           "url": "https://www.fixmystreet.com/report/9966965",
           "date": "2026-08-18T12:16:22+00:00",
-          "category": null
-        },
-        {
-          "title": "Shopping Trolley, 17th August",
-          "url": "https://www.fixmystreet.com/report/9958098",
-          "date": "2026-08-17T07:39:03+00:00",
           "category": null
         }
       ],
