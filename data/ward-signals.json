@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-15T16:36:37.048591+00:00",
+    "generated_at": "2026-09-15T21:03:12.944219+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -707,6 +707,18 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Dumped abandoned car for over 1yr, 15th September",
+          "url": "https://www.fixmystreet.com/report/10103940",
+          "date": "2026-09-15T19:56:01+00:00",
+          "category": null
+        },
+        {
+          "title": "Dumped abandoned car for over 1yr, 15th September",
+          "url": "https://www.fixmystreet.com/report/10103939",
+          "date": "2026-09-15T19:55:13+00:00",
+          "category": null
+        },
+        {
           "title": "Furniture and clothing left on pavement, 7th September",
           "url": "https://www.fixmystreet.com/report/10059986",
           "date": "2026-09-07T08:13:00+00:00",
@@ -752,18 +764,6 @@
           "title": "Matress, 23rd August",
           "url": "https://www.fixmystreet.com/report/9991454",
           "date": "2026-08-23T19:45:37+00:00",
-          "category": null
-        },
-        {
-          "title": "Burst pipe, 23rd August",
-          "url": "https://www.fixmystreet.com/report/9990172",
-          "date": "2026-08-23T14:00:51+00:00",
-          "category": null
-        },
-        {
-          "title": "Cracked payment, 22nd August",
-          "url": "https://www.fixmystreet.com/report/9987629",
-          "date": "2026-08-22T16:05:32+00:00",
           "category": null
         }
       ],
