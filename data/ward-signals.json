@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-15T11:24:49.623469+00:00",
+    "generated_at": "2026-09-15T16:36:37.048591+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -115,7 +115,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Fly-tips? It’s all your fault for reporting it, says Perry’s puppet",
+          "url": "https://insidecroydon.com/2026/09/15/fly-tips-its-all-your-fault-for-reporting-it-says-perrys-puppet/",
+          "date": "2026-09-15T14:59:52+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Broad Green": {
       "fixmystreet": [],
@@ -416,6 +423,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Fly-tips? It’s all your fault for reporting it, says Perry’s puppet",
+          "url": "https://insidecroydon.com/2026/09/15/fly-tips-its-all-your-fault-for-reporting-it-says-perrys-puppet/",
+          "date": "2026-09-15T14:59:52+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Harvest Fest, Norbury Park Lawn Tennis Club, Sat Sept 26",
           "url": "https://insidecroydon.com/2026/09/09/harvest-fest-norbury-park-lawn-tennis-club-sat-sept-26/",
           "date": "2026-09-09T09:10:44+00:00",
@@ -524,12 +537,6 @@
           "url": "https://insidecroydon.com/2026/09/12/walk-and-talk-riddlesdown-weekly-every-sunday-from-9am-2/",
           "date": "2026-09-12T09:01:55+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Purley Downs Road to be closed for eight weeks for gas works",
-          "url": "https://insidecroydon.com/2026/09/05/purley-downs-road-to-be-closed-for-eight-weeks-for-gas-works/",
-          "date": "2026-09-05T11:41:07+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -579,14 +586,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Purley Downs Road to be closed for eight weeks for gas works",
-          "url": "https://insidecroydon.com/2026/09/05/purley-downs-road-to-be-closed-for-eight-weeks-for-gas-works/",
-          "date": "2026-09-05T11:41:07+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Selhurst": {
       "fixmystreet": [
@@ -773,6 +773,12 @@
     "Shirley South": {
       "fixmystreet": [
         {
+          "title": "Broken up tarmac, 15th September",
+          "url": "https://www.fixmystreet.com/report/10101221",
+          "date": "2026-09-15T11:50:24+00:00",
+          "category": null
+        },
+        {
           "title": "Street light not working, 11th September",
           "url": "https://www.fixmystreet.com/report/10081526",
           "date": "2026-09-11T05:25:46+00:00",
@@ -824,12 +830,6 @@
           "title": "Overhanging bush onto pavement from No 2, 1st September",
           "url": "https://www.fixmystreet.com/report/10030683",
           "date": "2026-09-01T09:02:38+00:00",
-          "category": null
-        },
-        {
-          "title": "Leaking water supply, 1st September",
-          "url": "https://www.fixmystreet.com/report/10030615",
-          "date": "2026-09-01T08:55:29+00:00",
           "category": null
         }
       ],
@@ -1053,7 +1053,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Fly-tips? It’s all your fault for reporting it, says Perry’s puppet",
+          "url": "https://insidecroydon.com/2026/09/15/fly-tips-its-all-your-fault-for-reporting-it-says-perrys-puppet/",
+          "date": "2026-09-15T14:59:52+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "West Thornton": {
       "fixmystreet": [],
