@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T04:02:26.363589+00:00",
+    "generated_at": "2026-09-16T11:08:50.506122+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -35,14 +35,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "20th anniversary Apple Day, Addiscombe Railway Park, Sep 12",
-          "url": "https://insidecroydon.com/2026/09/06/20th-anniversary-apple-day-addiscombe-railway-park-sep-12-2/",
-          "date": "2026-09-06T09:15:02+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Addiscombe West": {
       "fixmystreet": [
@@ -74,6 +67,18 @@
       "reddit": [],
       "news": [
         {
+          "title": "Music at The Oval Tavern, Addiscombe, through Oct. Free entry",
+          "url": "https://insidecroydon.com/2026/09/16/music-at-the-oval-tavern-addiscombe-through-oct-free-entry/",
+          "date": "2026-09-16T10:03:26+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Canning and Clyde RA charity quiz night, Clyde Hall, Oct 3",
+          "url": "https://insidecroydon.com/2026/09/16/canning-and-clyde-ra-charity-quiz-night-clyde-hall-oct-3-2/",
+          "date": "2026-09-16T09:01:31+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Blues at The Oval, Sunday evenings in Sep and Oct, free entry",
           "url": "https://insidecroydon.com/2026/09/13/blues-at-the-oval-sunday-evenings-in-sep-and-oct-free-entry-2/",
           "date": "2026-09-13T09:00:51+00:00",
@@ -89,18 +94,6 @@
           "title": "Canning and Clyde RA charity quiz night, Clyde Hall, Oct 3",
           "url": "https://insidecroydon.com/2026/09/08/canning-and-clyde-ra-charity-quiz-night-clyde-hall-oct-3/",
           "date": "2026-09-08T08:07:30+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Blues at The Oval, Sunday evenings in Sep and Oct, free entry",
-          "url": "https://insidecroydon.com/2026/09/07/blues-at-the-oval-sunday-evenings-in-sep-and-oct-free-entry/",
-          "date": "2026-09-07T09:52:06+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "20th anniversary Apple Day, Addiscombe Railway Park, Sep 12",
-          "url": "https://insidecroydon.com/2026/09/06/20th-anniversary-apple-day-addiscombe-railway-park-sep-12-2/",
-          "date": "2026-09-06T09:15:02+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -178,12 +171,6 @@
           "url": "https://www.fixmystreet.com/report/9980556",
           "date": "2026-08-20T19:33:50+00:00",
           "category": null
-        },
-        {
-          "title": "Abandoned vehicle, 17th August",
-          "url": "https://www.fixmystreet.com/report/9958698",
-          "date": "2026-08-17T08:58:40+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -245,12 +232,6 @@
           "url": "https://www.fixmystreet.com/report/9978275",
           "date": "2026-08-20T12:03:24+00:00",
           "category": null
-        },
-        {
-          "title": "Overflowing ins on street due to lack of council collection twice now, 17th August",
-          "url": "https://www.fixmystreet.com/report/9958336",
-          "date": "2026-08-17T08:16:03+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -303,14 +284,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Up to £1,000 a ticket – make sure you buy an Archers tea towel",
-          "url": "https://insidecroydon.com/2026/09/05/up-to-1000-a-ticket-make-sure-you-buy-an-archers-tea-towel/",
-          "date": "2026-09-05T16:05:04+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Kenley": {
       "fixmystreet": [
@@ -328,14 +302,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Quiz Night: Save The Kenley fundraiser, Smokin’ Grill, Sep 18",
-          "url": "https://insidecroydon.com/2026/09/06/quiz-night-save-the-kenley-fundraiser-smokin-grill-sep-18/",
-          "date": "2026-09-06T08:36:16+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "New Addington North": {
       "fixmystreet": [
@@ -386,12 +353,6 @@
           "title": "Low hanging canopy branches need trimming, 19th August",
           "url": "https://www.fixmystreet.com/report/9970998",
           "date": "2026-08-19T08:22:26+00:00",
-          "category": null
-        },
-        {
-          "title": "Pothole, 17th August",
-          "url": "https://www.fixmystreet.com/report/9958965",
-          "date": "2026-08-17T09:29:08+00:00",
           "category": null
         }
       ],
@@ -898,12 +859,6 @@
           "url": "https://www.fixmystreet.com/report/9969331",
           "date": "2026-08-18T18:52:46+00:00",
           "category": "Obstructions in road"
-        },
-        {
-          "title": "Shopping Trolley, 17th August",
-          "url": "https://www.fixmystreet.com/report/9958107",
-          "date": "2026-08-17T07:40:18+00:00",
-          "category": null
         }
       ],
       "reddit": [],
