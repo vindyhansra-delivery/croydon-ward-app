@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-15T21:03:12.944219+00:00",
+    "generated_at": "2026-09-16T04:02:26.363589+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -299,12 +299,6 @@
           "title": "Road Lane Closure due to TFL Maintenance, 18th August",
           "url": "https://www.fixmystreet.com/report/9968385",
           "date": "2026-08-18T15:40:34+00:00",
-          "category": null
-        },
-        {
-          "title": "Extremely dirty high street, blackening roads and pavements, 16th August",
-          "url": "https://www.fixmystreet.com/report/9957225",
-          "date": "2026-08-16T21:03:58+00:00",
           "category": null
         }
       ],
@@ -680,12 +674,6 @@
           "url": "https://www.fixmystreet.com/report/9988327",
           "date": "2026-08-22T21:01:22+00:00",
           "category": null
-        },
-        {
-          "title": "Abandoned untaxed car, 16th August",
-          "url": "https://www.fixmystreet.com/report/9957255",
-          "date": "2026-08-16T21:18:01+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -773,6 +761,12 @@
     "Shirley South": {
       "fixmystreet": [
         {
+          "title": "Dumped various parts of building materials, 16th September",
+          "url": "https://www.fixmystreet.com/report/10104405",
+          "date": "2026-09-16T03:50:58+00:00",
+          "category": null
+        },
+        {
           "title": "Broken up tarmac, 15th September",
           "url": "https://www.fixmystreet.com/report/10101221",
           "date": "2026-09-15T11:50:24+00:00",
@@ -824,12 +818,6 @@
           "title": "Dumped rubbish, 3rd September",
           "url": "https://www.fixmystreet.com/report/10041810",
           "date": "2026-09-03T06:50:01+00:00",
-          "category": null
-        },
-        {
-          "title": "Overhanging bush onto pavement from No 2, 1st September",
-          "url": "https://www.fixmystreet.com/report/10030683",
-          "date": "2026-09-01T09:02:38+00:00",
           "category": null
         }
       ],
