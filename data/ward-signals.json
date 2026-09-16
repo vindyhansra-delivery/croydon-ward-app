@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T16:29:27.676573+00:00",
+    "generated_at": "2026-09-16T21:05:24.230807+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -311,12 +311,6 @@
           "url": "https://www.fixmystreet.com/report/10055781",
           "date": "2026-09-06T06:22:53+00:00",
           "category": null
-        },
-        {
-          "title": "Not moved since April, 17th August",
-          "url": "https://www.fixmystreet.com/report/9963379",
-          "date": "2026-08-17T19:58:03+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -349,6 +343,12 @@
     },
     "New Addington South": {
       "fixmystreet": [
+        {
+          "title": "Dumped rubbish with gas bottle and car fuel tank, 16th September",
+          "url": "https://www.fixmystreet.com/report/10109470",
+          "date": "2026-09-16T20:24:23+00:00",
+          "category": null
+        },
         {
           "title": "Been here for over a month, 8th September",
           "url": "https://www.fixmystreet.com/report/10067387",
@@ -385,14 +385,7 @@
       ]
     },
     "Norbury Park": {
-      "fixmystreet": [
-        {
-          "title": "Windscreen glass, 17th August",
-          "url": "https://www.fixmystreet.com/report/9962574",
-          "date": "2026-08-17T17:13:09+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": [
         {
