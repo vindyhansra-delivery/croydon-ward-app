@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T11:08:50.506122+00:00",
+    "generated_at": "2026-09-16T16:29:27.676573+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "Vehicle apparently abandoned., 16th September",
+          "url": "https://www.fixmystreet.com/report/10108475",
+          "date": "2026-09-16T16:07:44+00:00",
+          "category": null
+        },
         {
           "title": "Fallen branch of tree, 31st August",
           "url": "https://www.fixmystreet.com/report/10028246",
@@ -186,6 +192,24 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Broken glass, 16th September",
+          "url": "https://www.fixmystreet.com/report/10107259",
+          "date": "2026-09-16T12:53:37+00:00",
+          "category": null
+        },
+        {
+          "title": "Wheelie bins overflowing, 16th September",
+          "url": "https://www.fixmystreet.com/report/10107241",
+          "date": "2026-09-16T12:49:49+00:00",
+          "category": null
+        },
+        {
+          "title": "Rubbish bin overflowing, 16th September",
+          "url": "https://www.fixmystreet.com/report/10107153",
+          "date": "2026-09-16T12:36:19+00:00",
+          "category": null
+        },
+        {
           "title": "Broken street lamp, 9th September",
           "url": "https://www.fixmystreet.com/report/10075565",
           "date": "2026-09-09T20:01:43+00:00",
@@ -225,12 +249,6 @@
           "title": "Uneven pavement, 20th August",
           "url": "https://www.fixmystreet.com/report/9980548",
           "date": "2026-08-20T19:32:17+00:00",
-          "category": null
-        },
-        {
-          "title": "Fly tipping, 20th August",
-          "url": "https://www.fixmystreet.com/report/9978275",
-          "date": "2026-08-20T12:03:24+00:00",
           "category": null
         }
       ],
@@ -567,12 +585,6 @@
           "title": "Road works no action for over a week, 18th August",
           "url": "https://www.fixmystreet.com/report/9964392",
           "date": "2026-08-18T07:03:42+00:00",
-          "category": null
-        },
-        {
-          "title": "Car blocking stop, 17th August",
-          "url": "https://www.fixmystreet.com/report/9961556",
-          "date": "2026-08-17T14:33:15+00:00",
           "category": null
         }
       ],
