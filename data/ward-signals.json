@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-17T11:18:27.524988+00:00",
+    "generated_at": "2026-09-17T16:35:22.108221+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -94,12 +94,6 @@
           "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
           "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
           "date": "2026-09-08T11:27:53+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Canning and Clyde RA charity quiz night, Clyde Hall, Oct 3",
-          "url": "https://insidecroydon.com/2026/09/08/canning-and-clyde-ra-charity-quiz-night-clyde-hall-oct-3/",
-          "date": "2026-09-08T08:07:30+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -293,12 +287,6 @@
           "url": "https://www.fixmystreet.com/report/10020156",
           "date": "2026-08-29T06:51:11+00:00",
           "category": null
-        },
-        {
-          "title": "Road Lane Closure due to TFL Maintenance, 18th August",
-          "url": "https://www.fixmystreet.com/report/9968385",
-          "date": "2026-08-18T15:40:34+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -389,6 +377,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Smokehouse offers beefy portions Fred Flintstone would adore",
+          "url": "https://insidecroydon.com/2026/09/17/smokehouse-offers-beefy-portions-fred-flintstone-would-adore/",
+          "date": "2026-09-17T11:46:49+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Harvest Fest, Norbury Park Lawn Tennis Club, Sat Sept 26",
           "url": "https://insidecroydon.com/2026/09/17/harvest-fest-norbury-park-lawn-tennis-club-sat-sept-26-2/",
           "date": "2026-09-17T09:00:19+00:00",
@@ -470,7 +464,14 @@
       ]
     },
     "Park Hill and Whitgift": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Multiples large tree branches fallen, 17th September",
+          "url": "https://www.fixmystreet.com/report/10112713",
+          "date": "2026-09-17T12:58:41+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": [
         {
@@ -879,6 +880,12 @@
     "Thornton Heath": {
       "fixmystreet": [
         {
+          "title": "Car has been parked there for weeks, 17th September",
+          "url": "https://www.fixmystreet.com/report/10112619",
+          "date": "2026-09-17T12:40:08+00:00",
+          "category": null
+        },
+        {
           "title": "Foliage blocking traffic light equipment, 24th August",
           "url": "https://www.fixmystreet.com/report/9997664",
           "date": "2026-08-24T22:53:33+00:00",
@@ -1045,12 +1052,6 @@
           "title": "I would like to report that a tent has been erected in the South Norwood Country Park Elmer's end road near the children's play area assume it is rough sleepers, 20th August",
           "url": "https://www.fixmystreet.com/report/9977142",
           "date": "2026-08-20T10:08:23+00:00",
-          "category": null
-        },
-        {
-          "title": "20 sign angled to main carriageway causing confusion and Adas errors, 18th August",
-          "url": "https://www.fixmystreet.com/report/9966965",
-          "date": "2026-08-18T12:16:22+00:00",
           "category": null
         }
       ],
