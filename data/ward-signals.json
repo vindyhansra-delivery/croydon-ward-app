@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-17T16:35:22.108221+00:00",
+    "generated_at": "2026-09-17T21:08:26.816048+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -56,18 +56,6 @@
           "url": "https://www.fixmystreet.com/report/9975076",
           "date": "2026-08-19T19:20:29+00:00",
           "category": null
-        },
-        {
-          "title": "Hole appearing around manhole, 18th August",
-          "url": "https://www.fixmystreet.com/report/9969322",
-          "date": "2026-08-18T18:51:34+00:00",
-          "category": null
-        },
-        {
-          "title": "Collapsing man hole - needs to be fix at night, 18th August",
-          "url": "https://www.fixmystreet.com/report/9969311",
-          "date": "2026-08-18T18:50:32+00:00",
-          "category": "Collapsing man hole"
         }
       ],
       "reddit": [],
@@ -841,12 +829,6 @@
           "url": "https://www.fixmystreet.com/report/10064493",
           "date": "2026-09-07T18:14:05+00:00",
           "category": null
-        },
-        {
-          "title": "Obstructions in road - reported one a week for 3 weeks at least, 18th August",
-          "url": "https://www.fixmystreet.com/report/9969331",
-          "date": "2026-08-18T18:52:46+00:00",
-          "category": "Obstructions in road"
         }
       ],
       "reddit": [],
