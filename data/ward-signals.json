@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-17T04:08:57.777199+00:00",
+    "generated_at": "2026-09-17T11:18:27.524988+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -389,6 +389,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Harvest Fest, Norbury Park Lawn Tennis Club, Sat Sept 26",
+          "url": "https://insidecroydon.com/2026/09/17/harvest-fest-norbury-park-lawn-tennis-club-sat-sept-26-2/",
+          "date": "2026-09-17T09:00:19+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Fly-tips? It’s all your fault for reporting it, says Perry’s puppet",
           "url": "https://insidecroydon.com/2026/09/15/fly-tips-its-all-your-fault-for-reporting-it-says-perrys-puppet/",
           "date": "2026-09-15T14:59:52+00:00",
@@ -459,12 +465,6 @@
           "title": "No news from Tibet, as Diwali is cancelled in grieving Coulsdon",
           "url": "https://insidecroydon.com/2026/09/10/no-news-from-tibet-as-diwali-is-cancelled-in-grieving-coulsdon/",
           "date": "2026-09-10T11:37:59+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "There’s no dough to reopen six former Coughlans bread shops",
-          "url": "https://insidecroydon.com/2026/09/07/theres-no-dough-to-reopen-six-former-coughlans-bread-shops/",
-          "date": "2026-09-07T14:03:24+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -572,12 +572,6 @@
           "title": "Abandoned car more than two month, 26th August",
           "url": "https://www.fixmystreet.com/report/10009023",
           "date": "2026-08-26T21:13:21+00:00",
-          "category": null
-        },
-        {
-          "title": "Road works no action for over a week, 18th August",
-          "url": "https://www.fixmystreet.com/report/9964392",
-          "date": "2026-08-18T07:03:42+00:00",
           "category": null
         }
       ],
@@ -836,12 +830,6 @@
           "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
           "date": "2026-09-08T11:27:53+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "There’s no dough to reopen six former Coughlans bread shops",
-          "url": "https://insidecroydon.com/2026/09/07/theres-no-dough-to-reopen-six-former-coughlans-bread-shops/",
-          "date": "2026-09-07T14:03:24+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -863,6 +851,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Mezze Feast, South Norwood Community Kitchen, Oct 6",
+          "url": "https://insidecroydon.com/2026/09/17/mezze-feast-south-norwood-community-kitchen-oct-6-2/",
+          "date": "2026-09-17T10:02:10+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Music, dance and drama at South Norwood’s Arcadia Festival",
           "url": "https://insidecroydon.com/2026/09/15/music-dance-and-drama-at-south-norwoods-arcadia-festival/",
           "date": "2026-09-15T09:01:52+00:00",
@@ -878,12 +872,6 @@
           "title": "Mezze Feast, South Norwood Community Kitchen, Oct 6",
           "url": "https://insidecroydon.com/2026/09/10/mezze-feast-south-norwood-community-kitchen-oct-6/",
           "date": "2026-09-10T09:00:24+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Stanley Halls’ heritage, history and future on show this Sunday",
-          "url": "https://insidecroydon.com/2026/09/07/stanley-halls-heritage-history-and-future-on-show-this-sunday/",
-          "date": "2026-09-07T11:31:13+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -933,12 +921,6 @@
           "title": "Coughlans’ first bakers’ shop in £5m property portfolio sell-off",
           "url": "https://insidecroydon.com/2026/09/14/coughlans-original-shop-in-property-portfolio-sell-off-for-5m/",
           "date": "2026-09-14T13:08:31+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "There’s no dough to reopen six former Coughlans bread shops",
-          "url": "https://insidecroydon.com/2026/09/07/theres-no-dough-to-reopen-six-former-coughlans-bread-shops/",
-          "date": "2026-09-07T14:03:24+00:00",
           "publisher": "Inside Croydon"
         }
       ]
