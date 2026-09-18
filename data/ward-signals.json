@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-18T16:06:52.516482+00:00",
+    "generated_at": "2026-09-18T20:39:54.570949+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -56,12 +56,6 @@
           "title": "Traffic lights going green for only 20 seconds on a busy road crossing, 26th August",
           "url": "https://www.fixmystreet.com/report/10008731",
           "date": "2026-08-26T19:31:52+00:00",
-          "category": null
-        },
-        {
-          "title": "Number 11, 19th August",
-          "url": "https://www.fixmystreet.com/report/9975076",
-          "date": "2026-08-19T19:20:29+00:00",
           "category": null
         }
       ],
@@ -374,12 +368,6 @@
           "title": "Fly-tips? It’s all your fault for reporting it, says Perry’s puppet",
           "url": "https://insidecroydon.com/2026/09/15/fly-tips-its-all-your-fault-for-reporting-it-says-perrys-puppet/",
           "date": "2026-09-15T14:59:52+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Harvest Fest, Norbury Park Lawn Tennis Club, Sat Sept 26",
-          "url": "https://insidecroydon.com/2026/09/09/harvest-fest-norbury-park-lawn-tennis-club-sat-sept-26/",
-          "date": "2026-09-09T09:10:44+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -957,6 +945,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Dead fox west pavement, 18th September",
+          "url": "https://www.fixmystreet.com/report/10118790",
+          "date": "2026-09-18T16:09:09+00:00",
+          "category": null
+        },
         {
           "title": "Full bins in South Norwood, 15th September",
           "url": "https://www.fixmystreet.com/report/10099023",
