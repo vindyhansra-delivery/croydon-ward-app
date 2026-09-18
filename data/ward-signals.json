@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-18T10:51:09.425779+00:00",
+    "generated_at": "2026-09-18T16:06:52.516482+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -41,7 +41,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Addiscombe locals suspicious as fire destroys heritage house",
+          "url": "https://insidecroydon.com/2026/09/18/addiscombe-locals-suspicious-as-fire-destroys-heritage-house/",
+          "date": "2026-09-18T10:53:32+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Addiscombe West": {
       "fixmystreet": [
@@ -61,6 +68,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Addiscombe locals suspicious as fire destroys heritage house",
+          "url": "https://insidecroydon.com/2026/09/18/addiscombe-locals-suspicious-as-fire-destroys-heritage-house/",
+          "date": "2026-09-18T10:53:32+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Music at The Oval Tavern, Addiscombe, through Oct. Free entry",
           "url": "https://insidecroydon.com/2026/09/16/music-at-the-oval-tavern-addiscombe-through-oct-free-entry/",
           "date": "2026-09-16T10:03:26+00:00",
@@ -76,12 +89,6 @@
           "title": "Blues at The Oval, Sunday evenings in Sep and Oct, free entry",
           "url": "https://insidecroydon.com/2026/09/13/blues-at-the-oval-sunday-evenings-in-sep-and-oct-free-entry-2/",
           "date": "2026-09-13T09:00:51+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
-          "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
-          "date": "2026-09-08T11:27:53+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -315,14 +322,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
-          "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
-          "date": "2026-09-08T11:27:53+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "New Addington South": {
       "fixmystreet": [
@@ -352,14 +352,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
-          "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
-          "date": "2026-09-08T11:27:53+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Norbury Park": {
       "fixmystreet": [],
@@ -462,14 +455,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
-          "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
-          "date": "2026-09-08T11:27:53+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Purley Oaks and Riddlesdown": {
       "fixmystreet": [
@@ -627,12 +613,6 @@
           "url": "https://insidecroydon.com/2026/09/13/saved-for-the-nation-selsdon-wood-conserved-by-its-friends/",
           "date": "2026-09-13T12:27:55+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
-          "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
-          "date": "2026-09-08T11:27:53+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -705,6 +685,12 @@
     "Shirley South": {
       "fixmystreet": [
         {
+          "title": "Missing 30mph sign, 18th September",
+          "url": "https://www.fixmystreet.com/report/10118731",
+          "date": "2026-09-18T15:56:36+00:00",
+          "category": null
+        },
+        {
           "title": "Dumped various parts of building materials, 16th September",
           "url": "https://www.fixmystreet.com/report/10104405",
           "date": "2026-09-16T03:50:58+00:00",
@@ -757,12 +743,6 @@
           "url": "https://www.fixmystreet.com/report/10049711",
           "date": "2026-09-04T11:33:42+00:00",
           "category": null
-        },
-        {
-          "title": "Dumped rubbish, 3rd September",
-          "url": "https://www.fixmystreet.com/report/10041810",
-          "date": "2026-09-03T06:50:01+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -813,12 +793,6 @@
           "title": "Thameslink to strip 60,000 ‘ironing board’ seats from its trains",
           "url": "https://insidecroydon.com/2026/09/11/thameslink-to-strip-60000-ironing-board-seats-from-its-trains/",
           "date": "2026-09-11T10:30:12+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "MP Philp’s Green Belt petition slammed as ‘scaremongering’",
-          "url": "https://insidecroydon.com/2026/09/08/mp-philps-green-belt-petition-slammed-as-scaremongering/",
-          "date": "2026-09-08T11:27:53+00:00",
           "publisher": "Inside Croydon"
         }
       ]
