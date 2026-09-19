@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T03:50:37.536550+00:00",
+    "generated_at": "2026-09-19T10:35:21.989709+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -31,12 +31,6 @@
           "title": "Rubbish, 30th August",
           "url": "https://www.fixmystreet.com/report/10023996",
           "date": "2026-08-30T12:10:36+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped bags of hardcore, 20th August",
-          "url": "https://www.fixmystreet.com/report/9977118",
-          "date": "2026-08-20T09:28:14+00:00",
           "category": null
         }
       ],
@@ -175,6 +169,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Road sign in the road, 19th September",
+          "url": "https://www.fixmystreet.com/report/10119886",
+          "date": "2026-09-19T06:25:04+00:00",
+          "category": null
+        },
+        {
           "title": "Broken glass, 16th September",
           "url": "https://www.fixmystreet.com/report/10107259",
           "date": "2026-09-16T12:53:37+00:00",
@@ -227,12 +227,6 @@
           "url": "https://www.fixmystreet.com/report/9997967",
           "date": "2026-08-25T06:22:26+00:00",
           "category": null
-        },
-        {
-          "title": "Uneven pavement, 20th August",
-          "url": "https://www.fixmystreet.com/report/9980548",
-          "date": "2026-08-20T19:32:17+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -247,12 +241,6 @@
           "title": "Adderley suspension lifted by Greens after six-month wait",
           "url": "https://insidecroydon.com/2026/09/10/adderley-suspension-lifted-by-greens-after-six-month-wait/",
           "date": "2026-09-10T15:46:52+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Climate documentary lays out full horror of our catastrophe",
-          "url": "https://insidecroydon.com/2026/09/09/climate-documentary-lays-out-full-horror-of-our-catastrophe/",
-          "date": "2026-09-09T14:05:38+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -290,6 +278,12 @@
     },
     "Kenley": {
       "fixmystreet": [
+        {
+          "title": "Parking on pavement, 19th September",
+          "url": "https://www.fixmystreet.com/report/10119936",
+          "date": "2026-09-19T07:01:08+00:00",
+          "category": null
+        },
         {
           "title": "Disabled Parking Bay, 6th September",
           "url": "https://www.fixmystreet.com/report/10055781",
@@ -507,16 +501,17 @@
           "url": "https://www.fixmystreet.com/report/10010683",
           "date": "2026-08-27T09:18:48+00:00",
           "category": null
-        },
-        {
-          "title": "Speeding vehicles, 20th August",
-          "url": "https://www.fixmystreet.com/report/9976414",
-          "date": "2026-08-20T07:59:39+00:00",
-          "category": null
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Council cancels £8.6m children’s home contract after 6 months",
+          "url": "https://insidecroydon.com/2026/09/18/council-cancels-8-6m-childrens-home-contract-after-6-months/",
+          "date": "2026-09-18T17:54:20+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selhurst": {
       "fixmystreet": [
@@ -998,16 +993,16 @@
           "url": "https://www.fixmystreet.com/report/10015607",
           "date": "2026-08-28T08:08:01+00:00",
           "category": null
-        },
-        {
-          "title": "I would like to report that a tent has been erected in the South Norwood Country Park Elmer's end road near the children's play area assume it is rough sleepers, 20th August",
-          "url": "https://www.fixmystreet.com/report/9977142",
-          "date": "2026-08-20T10:08:23+00:00",
-          "category": null
         }
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Woodside Fire Station Open Day, 12pm-4pm, Sun Sep 20",
+          "url": "https://insidecroydon.com/2026/09/19/woodside-fire-station-open-day-12pm-4pm-sun-sep-20/",
+          "date": "2026-09-19T09:15:52+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Signal failure closes tram network’s Beckenham branch",
           "url": "https://insidecroydon.com/2026/09/10/signal-failure-closes-tram-networks-beckenham-branch/",
