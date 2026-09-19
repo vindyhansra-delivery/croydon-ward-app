@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T10:35:21.989709+00:00",
+    "generated_at": "2026-09-19T15:39:04.537983+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -169,6 +169,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Pothole, appx. 50cm x 50cm x 10cm deep, 19th September",
+          "url": "https://www.fixmystreet.com/report/10121205",
+          "date": "2026-09-19T13:16:31+00:00",
+          "category": null
+        },
+        {
           "title": "Road sign in the road, 19th September",
           "url": "https://www.fixmystreet.com/report/10119886",
           "date": "2026-09-19T06:25:04+00:00",
@@ -220,12 +226,6 @@
           "title": "Fly tipping, 27th August",
           "url": "https://www.fixmystreet.com/report/10013618",
           "date": "2026-08-27T16:36:52+00:00",
-          "category": null
-        },
-        {
-          "title": "Flytipping, 25th August",
-          "url": "https://www.fixmystreet.com/report/9997967",
-          "date": "2026-08-25T06:22:26+00:00",
           "category": null
         }
       ],
@@ -792,6 +792,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Costs up, volunteers vanished = community festival cancelled",
+          "url": "https://insidecroydon.com/2026/09/19/costs-up-volunteers-vanished-community-festival-cancelled/",
+          "date": "2026-09-19T11:56:59+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Mezze Feast, South Norwood Community Kitchen, Oct 6",
           "url": "https://insidecroydon.com/2026/09/17/mezze-feast-south-norwood-community-kitchen-oct-6-2/",
           "date": "2026-09-17T10:02:10+00:00",
@@ -807,12 +813,6 @@
           "title": "Signal failure closes tram network’s Beckenham branch",
           "url": "https://insidecroydon.com/2026/09/10/signal-failure-closes-tram-networks-beckenham-branch/",
           "date": "2026-09-10T10:26:47+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Mezze Feast, South Norwood Community Kitchen, Oct 6",
-          "url": "https://insidecroydon.com/2026/09/10/mezze-feast-south-norwood-community-kitchen-oct-6/",
-          "date": "2026-09-10T09:00:24+00:00",
           "publisher": "Inside Croydon"
         }
       ]
