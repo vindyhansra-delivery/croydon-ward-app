@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T15:45:01.336922+00:00",
+    "generated_at": "2026-09-20T20:34:09.196919+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -441,6 +441,12 @@
     },
     "Purley and Woodcote": {
       "fixmystreet": [
+        {
+          "title": "Fly tipping, 20th September",
+          "url": "https://www.fixmystreet.com/report/10124849",
+          "date": "2026-09-20T16:35:47+00:00",
+          "category": null
+        },
         {
           "title": "Exposed wire on pavement coming out of floor by walkway, 12th September",
           "url": "https://www.fixmystreet.com/report/10088893",
