@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T10:58:20.719359+00:00",
+    "generated_at": "2026-09-20T15:45:01.336922+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -55,6 +55,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Councillors in plea to Wetherspoons: Dear Tim, buy our pub!",
+          "url": "https://insidecroydon.com/2026/09/20/councillors-in-plea-to-wetherspoons-dear-tim-buy-our-pub/",
+          "date": "2026-09-20T12:45:08+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Addiscombe locals suspicious as fire destroys heritage house",
           "url": "https://insidecroydon.com/2026/09/18/addiscombe-locals-suspicious-as-fire-destroys-heritage-house/",
@@ -210,12 +216,6 @@
           "title": "Diver Snode makes a splash with Crystal Palace’s Gallery 56",
           "url": "https://insidecroydon.com/2026/09/14/diver-snode-makes-a-splash-with-crystal-palaces-gallery-56/",
           "date": "2026-09-14T11:31:53+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Adderley suspension lifted by Greens after six-month wait",
-          "url": "https://insidecroydon.com/2026/09/10/adderley-suspension-lifted-by-greens-after-six-month-wait/",
-          "date": "2026-09-10T15:46:52+00:00",
           "publisher": "Inside Croydon"
         }
       ]
