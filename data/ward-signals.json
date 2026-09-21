@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-21T12:23:18.660722+00:00",
+    "generated_at": "2026-09-21T21:52:26.607001+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -213,6 +213,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Council’s all-clear for second 24/7 gambling addiction centre",
+          "url": "https://insidecroydon.com/2026/09/21/councils-all-clear-for-second-24-7-gambling-addiction-centre/",
+          "date": "2026-09-21T16:21:00+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Diver Snode makes a splash with Crystal Palace’s Gallery 56",
           "url": "https://insidecroydon.com/2026/09/14/diver-snode-makes-a-splash-with-crystal-palaces-gallery-56/",
           "date": "2026-09-14T11:31:53+00:00",
@@ -371,12 +377,6 @@
           "title": "Mattress, 25th August",
           "url": "https://www.fixmystreet.com/report/9999342",
           "date": "2026-08-25T09:37:03+00:00",
-          "category": null
-        },
-        {
-          "title": "Post office manhole cover cracked, 22nd August",
-          "url": "https://www.fixmystreet.com/report/9988029",
-          "date": "2026-08-22T18:17:04+00:00",
           "category": null
         }
       ],
@@ -537,12 +537,6 @@
           "url": "https://www.fixmystreet.com/report/10048794",
           "date": "2026-09-04T09:36:43+00:00",
           "category": null
-        },
-        {
-          "title": "No tax, 22nd August",
-          "url": "https://www.fixmystreet.com/report/9988313",
-          "date": "2026-08-22T20:48:34+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -573,12 +567,6 @@
           "title": "Repeated Excessive Speeding down Upper Selsdon Road, 23rd August",
           "url": "https://www.fixmystreet.com/report/9990083",
           "date": "2026-08-23T13:36:12+00:00",
-          "category": null
-        },
-        {
-          "title": "Street light, 22nd August",
-          "url": "https://www.fixmystreet.com/report/9988327",
-          "date": "2026-08-22T21:01:22+00:00",
           "category": null
         }
       ],
@@ -727,6 +715,12 @@
     "South Croydon": {
       "fixmystreet": [
         {
+          "title": "Missing swing, 21st September",
+          "url": "https://www.fixmystreet.com/report/10130021",
+          "date": "2026-09-21T16:04:56+00:00",
+          "category": null
+        },
+        {
           "title": "Upper end of Footpath 605, behind Tirlemont Road, 10th September",
           "url": "https://www.fixmystreet.com/report/10078909",
           "date": "2026-09-10T12:53:21+00:00",
@@ -770,17 +764,17 @@
           "url": "https://insidecroydon.com/2026/09/13/saved-for-the-nation-selsdon-wood-conserved-by-its-friends/",
           "date": "2026-09-13T12:27:55+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Thameslink to strip 60,000 ‘ironing board’ seats from its trains",
-          "url": "https://insidecroydon.com/2026/09/11/thameslink-to-strip-60000-ironing-board-seats-from-its-trains/",
-          "date": "2026-09-11T10:30:12+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
     "South Norwood": {
       "fixmystreet": [
+        {
+          "title": "Foul sewer overflowing persistently from manhole, 21st September",
+          "url": "https://www.fixmystreet.com/report/10129832",
+          "date": "2026-09-21T15:34:50+00:00",
+          "category": null
+        },
         {
           "title": "Abandoned vehicle, 7th September",
           "url": "https://www.fixmystreet.com/report/10064493",
@@ -895,24 +889,6 @@
           "title": "Trees branches hitting buses, 24th August",
           "url": "https://www.fixmystreet.com/report/9994477",
           "date": "2026-08-24T11:53:08+00:00",
-          "category": null
-        },
-        {
-          "title": "Overgrown trees covering whole pavement area, 22nd August",
-          "url": "https://www.fixmystreet.com/report/9987777",
-          "date": "2026-08-22T16:48:20+00:00",
-          "category": null
-        },
-        {
-          "title": "Parking lines, 22nd August",
-          "url": "https://www.fixmystreet.com/report/9987087",
-          "date": "2026-08-22T13:05:09+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned Van, 22nd August",
-          "url": "https://www.fixmystreet.com/report/9987084",
-          "date": "2026-08-22T13:03:48+00:00",
           "category": null
         }
       ],
