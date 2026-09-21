@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-21T04:06:58.448990+00:00",
+    "generated_at": "2026-09-21T12:23:18.660722+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -150,6 +150,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "H Marking for a dropped kerb., 21st September",
+          "url": "https://www.fixmystreet.com/report/10127477",
+          "date": "2026-09-21T10:00:04+00:00",
+          "category": null
+        },
+        {
           "title": "Pothole, appx. 50cm x 50cm x 10cm deep, 19th September",
           "url": "https://www.fixmystreet.com/report/10121205",
           "date": "2026-09-19T13:16:31+00:00",
@@ -202,12 +208,6 @@
           "url": "https://www.fixmystreet.com/report/10041250",
           "date": "2026-09-02T21:49:58+00:00",
           "category": null
-        },
-        {
-          "title": "Fly tipping, 27th August",
-          "url": "https://www.fixmystreet.com/report/10013618",
-          "date": "2026-08-27T16:36:52+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -222,6 +222,18 @@
     },
     "Fairfield": {
       "fixmystreet": [
+        {
+          "title": "Shocking amount of rubbish dumped that Croydon Council has ignored and not ckeared up, 21st September",
+          "url": "https://www.fixmystreet.com/report/10127864",
+          "date": "2026-09-21T10:37:48+00:00",
+          "category": null
+        },
+        {
+          "title": "Central Library lights left on throughout weekend, 21st September",
+          "url": "https://www.fixmystreet.com/report/10125734",
+          "date": "2026-09-21T11:27:12+00:00",
+          "category": null
+        },
         {
           "title": "Potholes, 15th September",
           "url": "https://www.fixmystreet.com/report/10100237",
