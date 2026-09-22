@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T04:02:42.806356+00:00",
+    "generated_at": "2026-09-22T11:15:07.644009+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -37,6 +37,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Bricks, ghosts and the Northern line all in the Lit’s new season",
+          "url": "https://insidecroydon.com/2026/09/22/bricks-ghosts-and-the-northern-line-all-in-the-lits-new-season/",
+          "date": "2026-09-22T08:53:34+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Addiscombe locals suspicious as fire destroys heritage house",
           "url": "https://insidecroydon.com/2026/09/18/addiscombe-locals-suspicious-as-fire-destroys-heritage-house/",
           "date": "2026-09-18T10:53:32+00:00",
@@ -55,6 +61,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Bricks, ghosts and the Northern line all in the Lit’s new season",
+          "url": "https://insidecroydon.com/2026/09/22/bricks-ghosts-and-the-northern-line-all-in-the-lits-new-season/",
+          "date": "2026-09-22T08:53:34+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Councillors in plea to Wetherspoons: Dear Tim, buy our pub!",
           "url": "https://insidecroydon.com/2026/09/20/councillors-in-plea-to-wetherspoons-dear-tim-buy-our-pub/",
@@ -77,12 +89,6 @@
           "title": "Canning and Clyde RA charity quiz night, Clyde Hall, Oct 3",
           "url": "https://insidecroydon.com/2026/09/16/canning-and-clyde-ra-charity-quiz-night-clyde-hall-oct-3-2/",
           "date": "2026-09-16T09:01:31+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Blues at The Oval, Sunday evenings in Sep and Oct, free entry",
-          "url": "https://insidecroydon.com/2026/09/13/blues-at-the-oval-sunday-evenings-in-sep-and-oct-free-entry-2/",
-          "date": "2026-09-13T09:00:51+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -342,7 +348,14 @@
       "news": []
     },
     "Norbury Park": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Logs used by drug users, 22nd September",
+          "url": "https://www.fixmystreet.com/report/10132628",
+          "date": "2026-09-22T08:32:37+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": [
         {
@@ -966,6 +979,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Bricks, ghosts and the Northern line all in the Lit’s new season",
+          "url": "https://insidecroydon.com/2026/09/22/bricks-ghosts-and-the-northern-line-all-in-the-lits-new-season/",
+          "date": "2026-09-22T08:53:34+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Woodside Fire Station Open Day, 12pm-4pm, Sun Sep 20",
           "url": "https://insidecroydon.com/2026/09/19/woodside-fire-station-open-day-12pm-4pm-sun-sep-20/",
