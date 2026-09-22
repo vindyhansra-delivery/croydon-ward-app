@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T16:36:52.538922+00:00",
+    "generated_at": "2026-09-22T21:04:47.116370+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -647,12 +647,6 @@
           "title": "Deceased Animal, 28th August",
           "url": "https://www.fixmystreet.com/report/10016089",
           "date": "2026-08-28T09:09:25+00:00",
-          "category": null
-        },
-        {
-          "title": "Matress, 23rd August",
-          "url": "https://www.fixmystreet.com/report/9991454",
-          "date": "2026-08-23T19:45:37+00:00",
           "category": null
         }
       ],
