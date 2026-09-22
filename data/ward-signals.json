@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T11:15:07.644009+00:00",
+    "generated_at": "2026-09-22T16:36:52.538922+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -455,12 +455,6 @@
           "url": "https://insidecroydon.com/2026/09/12/firm-behind-60m-purley-pool-project-goes-into-administration/",
           "date": "2026-09-12T17:32:11+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Walk and Talk Riddlesdown, weekly every Sunday from 9am",
-          "url": "https://insidecroydon.com/2026/09/12/walk-and-talk-riddlesdown-weekly-every-sunday-from-9am-2/",
-          "date": "2026-09-12T09:01:55+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -511,6 +505,18 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "‘Appalled’ Labour call for inquiry into children’s home contract",
+          "url": "https://insidecroydon.com/2026/09/22/appalled-labour-call-for-inquiry-into-childrens-home-contract/",
+          "date": "2026-09-22T15:43:51+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Charity ‘strongly disputes’ council report on children’s home",
+          "url": "https://insidecroydon.com/2026/09/22/charity-strongly-disputes-council-report-on-childrens-home/",
+          "date": "2026-09-22T15:42:08+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Council cancels £8.6m children’s home contract after 6 months",
           "url": "https://insidecroydon.com/2026/09/18/council-cancels-8-6m-childrens-home-contract-after-6-months/",
@@ -574,12 +580,6 @@
           "title": "Street light, 1st September",
           "url": "https://www.fixmystreet.com/report/10035038",
           "date": "2026-09-01T19:16:52+00:00",
-          "category": null
-        },
-        {
-          "title": "Repeated Excessive Speeding down Upper Selsdon Road, 23rd August",
-          "url": "https://www.fixmystreet.com/report/9990083",
-          "date": "2026-08-23T13:36:12+00:00",
           "category": null
         }
       ],
@@ -798,6 +798,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "£3m Lottery grant helps to get Stanley’s birthday party going",
+          "url": "https://insidecroydon.com/2026/09/22/3m-lottery-grant-helps-to-get-stanleys-birthday-party-going/",
+          "date": "2026-09-22T11:53:11+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Costs up, volunteers vanished = community festival cancelled",
           "url": "https://insidecroydon.com/2026/09/19/costs-up-volunteers-vanished-community-festival-cancelled/",
           "date": "2026-09-19T11:56:59+00:00",
@@ -922,6 +928,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Light not working, 22nd September",
+          "url": "https://www.fixmystreet.com/report/10135025",
+          "date": "2026-09-22T14:54:37+00:00",
+          "category": null
+        },
         {
           "title": "Dead fox west pavement, 18th September",
           "url": "https://www.fixmystreet.com/report/10118790",
