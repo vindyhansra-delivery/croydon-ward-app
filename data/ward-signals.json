@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T03:59:06.115594+00:00",
+    "generated_at": "2026-09-23T11:06:41.467675+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -62,6 +62,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Music at The Oval Tavern, Addiscombe, through Oct. Free entry",
+          "url": "https://insidecroydon.com/2026/09/23/music-at-the-oval-tavern-addiscombe-through-oct-free-entry-3/",
+          "date": "2026-09-23T08:22:11+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Bricks, ghosts and the Northern line all in the Lit’s new season",
           "url": "https://insidecroydon.com/2026/09/22/bricks-ghosts-and-the-northern-line-all-in-the-lits-new-season/",
           "date": "2026-09-22T08:53:34+00:00",
@@ -83,12 +89,6 @@
           "title": "Music at The Oval Tavern, Addiscombe, through Oct. Free entry",
           "url": "https://insidecroydon.com/2026/09/16/music-at-the-oval-tavern-addiscombe-through-oct-free-entry/",
           "date": "2026-09-16T10:03:26+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Canning and Clyde RA charity quiz night, Clyde Hall, Oct 3",
-          "url": "https://insidecroydon.com/2026/09/16/canning-and-clyde-ra-charity-quiz-night-clyde-hall-oct-3-2/",
-          "date": "2026-09-16T09:01:31+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -156,6 +156,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Bin not emptied, overflowing, 23rd September",
+          "url": "https://www.fixmystreet.com/report/10139190",
+          "date": "2026-09-23T10:09:28+00:00",
+          "category": null
+        },
+        {
           "title": "H Marking for a dropped kerb., 21st September",
           "url": "https://www.fixmystreet.com/report/10127477",
           "date": "2026-09-21T10:00:04+00:00",
@@ -207,12 +213,6 @@
           "title": "Large pothole, 6th September",
           "url": "https://www.fixmystreet.com/report/10056617",
           "date": "2026-09-06T10:40:11+00:00",
-          "category": null
-        },
-        {
-          "title": "Urgent: Abandoned vehicle causing traffic obstruction and hazard to school children, 2nd September",
-          "url": "https://www.fixmystreet.com/report/10041250",
-          "date": "2026-09-02T21:49:58+00:00",
           "category": null
         }
       ],
@@ -449,14 +449,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Firm behind £60m Purley Pool project goes into administration",
-          "url": "https://insidecroydon.com/2026/09/12/firm-behind-60m-purley-pool-project-goes-into-administration/",
-          "date": "2026-09-12T17:32:11+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Purley and Woodcote": {
       "fixmystreet": [
@@ -722,6 +715,12 @@
     "South Croydon": {
       "fixmystreet": [
         {
+          "title": "Parking within roadworks, 23rd September",
+          "url": "https://www.fixmystreet.com/report/10138682",
+          "date": "2026-09-23T09:06:24+00:00",
+          "category": null
+        },
+        {
           "title": "Missing swing, 21st September",
           "url": "https://www.fixmystreet.com/report/10130021",
           "date": "2026-09-21T16:04:56+00:00",
@@ -792,6 +791,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Norwood Junction’s garden offers sunflowers and sanctuary",
+          "url": "https://insidecroydon.com/2026/09/23/norwood-junctions-garden-offers-sunflowers-and-sanctuary/",
+          "date": "2026-09-23T08:59:19+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "£3m Lottery grant helps to get Stanley’s birthday party going",
           "url": "https://insidecroydon.com/2026/09/22/3m-lottery-grant-helps-to-get-stanleys-birthday-party-going/",
           "date": "2026-09-22T11:53:11+00:00",
@@ -847,18 +852,6 @@
           "title": "Parking on a double yellow, 24th August",
           "url": "https://www.fixmystreet.com/report/9994149",
           "date": "2026-08-24T11:46:34+00:00",
-          "category": null
-        },
-        {
-          "title": "Constant parking on double yellow lines, 24th August",
-          "url": "https://www.fixmystreet.com/report/9993902",
-          "date": "2026-08-24T10:40:39+00:00",
-          "category": null
-        },
-        {
-          "title": "Planter protruding into road, 24th August",
-          "url": "https://www.fixmystreet.com/report/9993697",
-          "date": "2026-08-24T10:36:06+00:00",
           "category": null
         }
       ],
@@ -916,7 +909,20 @@
       ]
     },
     "West Thornton": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "House's bins on the pavement. 21 Wortley Road, 23rd September",
+          "url": "https://www.fixmystreet.com/report/10138518",
+          "date": "2026-09-23T08:48:20+00:00",
+          "category": null
+        },
+        {
+          "title": "House's bins on the road parking., 23rd September",
+          "url": "https://www.fixmystreet.com/report/10138480",
+          "date": "2026-09-23T08:43:42+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
