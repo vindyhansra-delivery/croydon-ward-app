@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T21:19:40.742484+00:00",
+    "generated_at": "2026-09-24T03:52:25.759126+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -836,12 +836,6 @@
           "title": "Car has been parked there for weeks, 17th September",
           "url": "https://www.fixmystreet.com/report/10112619",
           "date": "2026-09-17T12:40:08+00:00",
-          "category": null
-        },
-        {
-          "title": "Foliage blocking traffic light equipment, 24th August",
-          "url": "https://www.fixmystreet.com/report/9997664",
-          "date": "2026-08-24T22:53:33+00:00",
           "category": null
         }
       ],
