@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-24T16:49:17.723863+00:00",
+    "generated_at": "2026-09-24T21:21:03.637999+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -358,6 +358,12 @@
     "Norbury Park": {
       "fixmystreet": [
         {
+          "title": "Cavendish Gardens pavement is fulll of rubbish., 24th September",
+          "url": "https://www.fixmystreet.com/report/10147844",
+          "date": "2026-09-24T17:55:34+00:00",
+          "category": null
+        },
+        {
           "title": "Logs used by drug users, 22nd September",
           "url": "https://www.fixmystreet.com/report/10132628",
           "date": "2026-09-22T08:32:37+00:00",
@@ -387,14 +393,7 @@
       ]
     },
     "Norbury and Pollards Hill": {
-      "fixmystreet": [
-        {
-          "title": "Bumps on the pavement, 25th August",
-          "url": "https://www.fixmystreet.com/report/10003125",
-          "date": "2026-08-25T20:29:19+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
