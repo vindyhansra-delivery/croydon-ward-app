@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-25T16:53:49.749410+00:00",
+    "generated_at": "2026-09-25T21:18:56.802870+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -51,14 +51,7 @@
       ]
     },
     "Addiscombe West": {
-      "fixmystreet": [
-        {
-          "title": "Traffic lights going green for only 20 seconds on a busy road crossing, 26th August",
-          "url": "https://www.fixmystreet.com/report/10008731",
-          "date": "2026-08-26T19:31:52+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": [
         {
@@ -461,7 +454,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Tories’ unlawful conduct putting Croydon on highway to hell",
+          "url": "https://insidecroydon.com/2026/09/25/tories-unlawful-conduct-putting-croydon-on-highway-to-hell/",
+          "date": "2026-09-25T16:49:59+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Purley and Woodcote": {
       "fixmystreet": [
@@ -548,12 +548,6 @@
           "title": "Thames Water abandoned traffic signs/lights, 4th September",
           "url": "https://www.fixmystreet.com/report/10048959",
           "date": "2026-09-04T09:58:20+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned car more than two month, 26th August",
-          "url": "https://www.fixmystreet.com/report/10009023",
-          "date": "2026-08-26T21:13:21+00:00",
           "category": null
         }
       ],
