@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-25T11:29:34.142280+00:00",
+    "generated_at": "2026-09-25T16:53:49.749410+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -35,7 +35,20 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Bricks, ghosts and the Northern line all in the Lit’s new season",
+          "url": "https://insidecroydon.com/2026/09/22/bricks-ghosts-and-the-northern-line-all-in-the-lits-new-season/",
+          "date": "2026-09-22T08:53:34+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Addiscombe locals suspicious as fire destroys heritage house",
+          "url": "https://insidecroydon.com/2026/09/18/addiscombe-locals-suspicious-as-fire-destroys-heritage-house/",
+          "date": "2026-09-18T10:53:32+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Addiscombe West": {
       "fixmystreet": [
@@ -47,7 +60,38 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Mystery after Grade II-listed Leslie Arms is pulled from auction",
+          "url": "https://insidecroydon.com/2026/09/24/mystery-after-grade-ii-listed-leslie-arms-is-pulled-from-auction/",
+          "date": "2026-09-24T11:12:09+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Music at The Oval Tavern, Addiscombe, through Oct. Free entry",
+          "url": "https://insidecroydon.com/2026/09/23/music-at-the-oval-tavern-addiscombe-through-oct-free-entry-3/",
+          "date": "2026-09-23T08:22:11+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Bricks, ghosts and the Northern line all in the Lit’s new season",
+          "url": "https://insidecroydon.com/2026/09/22/bricks-ghosts-and-the-northern-line-all-in-the-lits-new-season/",
+          "date": "2026-09-22T08:53:34+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Councillors in plea to Wetherspoons: Dear Tim, buy our pub!",
+          "url": "https://insidecroydon.com/2026/09/20/councillors-in-plea-to-wetherspoons-dear-tim-buy-our-pub/",
+          "date": "2026-09-20T12:45:08+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Addiscombe locals suspicious as fire destroys heritage house",
+          "url": "https://insidecroydon.com/2026/09/18/addiscombe-locals-suspicious-as-fire-destroys-heritage-house/",
+          "date": "2026-09-18T10:53:32+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Bensham Manor": {
       "fixmystreet": [
@@ -65,7 +109,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Fly-tips? It’s all your fault for reporting it, says Perry’s puppet",
+          "url": "https://insidecroydon.com/2026/09/15/fly-tips-its-all-your-fault-for-reporting-it-says-perrys-puppet/",
+          "date": "2026-09-15T14:59:52+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Broad Green": {
       "fixmystreet": [
@@ -77,10 +128,23 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Nike’s super shoes foam factory looks to cut 100 Croydon jobs",
+          "url": "https://insidecroydon.com/2026/09/23/nikes-super-shoes-foam-factory-looks-to-cut-100-croydon-jobs/",
+          "date": "2026-09-23T16:13:25+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "20/264 traffic light covered by foliage, 25th September",
+          "url": "https://www.fixmystreet.com/report/10152306",
+          "date": "2026-09-25T14:37:45+00:00",
+          "category": null
+        },
         {
           "title": "Sewage smell, 11th September",
           "url": "https://www.fixmystreet.com/report/10083285",
@@ -173,7 +237,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Council’s all-clear for second 24/7 gambling addiction centre",
+          "url": "https://insidecroydon.com/2026/09/21/councils-all-clear-for-second-24-7-gambling-addiction-centre/",
+          "date": "2026-09-21T16:21:00+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Fairfield": {
       "fixmystreet": [
@@ -209,7 +280,20 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Bingo! Plus live music, quiz nights, darts at Surrey Cricketers",
+          "url": "https://insidecroydon.com/2026/09/20/bingo-plus-live-music-quiz-nights-darts-at-surrey-cricketers-2/",
+          "date": "2026-09-20T09:00:35+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Bingo! Plus live music, quiz nights, darts at Surrey Cricketers",
+          "url": "https://insidecroydon.com/2026/09/18/bingo-plus-live-music-quiz-nights-darts-at-surrey-cricketers/",
+          "date": "2026-09-18T09:14:21+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Kenley": {
       "fixmystreet": [
@@ -293,7 +377,26 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Smokehouse offers beefy portions Fred Flintstone would adore",
+          "url": "https://insidecroydon.com/2026/09/17/smokehouse-offers-beefy-portions-fred-flintstone-would-adore/",
+          "date": "2026-09-17T11:46:49+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Harvest Fest, Norbury Park Lawn Tennis Club, Sat Sept 26",
+          "url": "https://insidecroydon.com/2026/09/17/harvest-fest-norbury-park-lawn-tennis-club-sat-sept-26-2/",
+          "date": "2026-09-17T09:00:19+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Fly-tips? It’s all your fault for reporting it, says Perry’s puppet",
+          "url": "https://insidecroydon.com/2026/09/15/fly-tips-its-all-your-fault-for-reporting-it-says-perrys-puppet/",
+          "date": "2026-09-15T14:59:52+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Norbury and Pollards Hill": {
       "fixmystreet": [],
@@ -406,7 +509,32 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Outsourcing children’s home has proved costly and high risk",
+          "url": "https://insidecroydon.com/2026/09/24/outsourcing-childrens-home-has-proved-costly-and-high-risk/",
+          "date": "2026-09-24T12:59:40+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "‘Appalled’ Labour call for inquiry into children’s home contract",
+          "url": "https://insidecroydon.com/2026/09/22/appalled-labour-call-for-inquiry-into-childrens-home-contract/",
+          "date": "2026-09-22T15:43:51+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Charity ‘strongly disputes’ council report on children’s home",
+          "url": "https://insidecroydon.com/2026/09/22/charity-strongly-disputes-council-report-on-childrens-home/",
+          "date": "2026-09-22T15:42:08+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Council cancels £8.6m children’s home contract after 6 months",
+          "url": "https://insidecroydon.com/2026/09/18/council-cancels-8-6m-childrens-home-contract-after-6-months/",
+          "date": "2026-09-18T17:54:20+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selhurst": {
       "fixmystreet": [
@@ -628,7 +756,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Indoor boot sale, St Paul’s Church Hall, South Croydon, Oct 3",
+          "url": "https://insidecroydon.com/2026/09/20/indoor-boot-sale-st-pauls-church-hall-south-croydon-oct-3/",
+          "date": "2026-09-20T09:35:24+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "South Norwood": {
       "fixmystreet": [
@@ -646,7 +781,32 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Norwood Junction’s garden offers sunflowers and sanctuary",
+          "url": "https://insidecroydon.com/2026/09/23/norwood-junctions-garden-offers-sunflowers-and-sanctuary/",
+          "date": "2026-09-23T08:59:19+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "£3m Lottery grant helps to get Stanley’s birthday party going",
+          "url": "https://insidecroydon.com/2026/09/22/3m-lottery-grant-helps-to-get-stanleys-birthday-party-going/",
+          "date": "2026-09-22T11:53:11+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Costs up, volunteers vanished = community festival cancelled",
+          "url": "https://insidecroydon.com/2026/09/19/costs-up-volunteers-vanished-community-festival-cancelled/",
+          "date": "2026-09-19T11:56:59+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Mezze Feast, South Norwood Community Kitchen, Oct 6",
+          "url": "https://insidecroydon.com/2026/09/17/mezze-feast-south-norwood-community-kitchen-oct-6-2/",
+          "date": "2026-09-17T10:02:10+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Thornton Heath": {
       "fixmystreet": [
@@ -658,7 +818,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Norbury Brook River Revive Saturday, Thornton Heath, Sep 26",
+          "url": "https://insidecroydon.com/2026/09/24/norbury-brook-river-revive-saturday-thornton-heath-sep-26/",
+          "date": "2026-09-24T08:48:48+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Waddon": {
       "fixmystreet": [
@@ -682,7 +849,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Fly-tips? It’s all your fault for reporting it, says Perry’s puppet",
+          "url": "https://insidecroydon.com/2026/09/15/fly-tips-its-all-your-fault-for-reporting-it-says-perrys-puppet/",
+          "date": "2026-09-15T14:59:52+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "West Thornton": {
       "fixmystreet": [
@@ -700,7 +874,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Nike’s super shoes foam factory looks to cut 100 Croydon jobs",
+          "url": "https://insidecroydon.com/2026/09/23/nikes-super-shoes-foam-factory-looks-to-cut-100-croydon-jobs/",
+          "date": "2026-09-23T16:13:25+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Woodside": {
       "fixmystreet": [
@@ -766,7 +947,20 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Bricks, ghosts and the Northern line all in the Lit’s new season",
+          "url": "https://insidecroydon.com/2026/09/22/bricks-ghosts-and-the-northern-line-all-in-the-lits-new-season/",
+          "date": "2026-09-22T08:53:34+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Woodside Fire Station Open Day, 12pm-4pm, Sun Sep 20",
+          "url": "https://insidecroydon.com/2026/09/19/woodside-fire-station-open-day-12pm-4pm-sun-sep-20/",
+          "date": "2026-09-19T09:15:52+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     }
   }
 }
