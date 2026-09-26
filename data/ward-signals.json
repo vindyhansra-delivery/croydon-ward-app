@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-26T04:14:15.188738+00:00",
+    "generated_at": "2026-09-26T11:04:53.131733+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -102,14 +102,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Fly-tips? It’s all your fault for reporting it, says Perry’s puppet",
-          "url": "https://insidecroydon.com/2026/09/15/fly-tips-its-all-your-fault-for-reporting-it-says-perrys-puppet/",
-          "date": "2026-09-15T14:59:52+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Broad Green": {
       "fixmystreet": [
@@ -382,12 +375,6 @@
           "url": "https://insidecroydon.com/2026/09/17/harvest-fest-norbury-park-lawn-tennis-club-sat-sept-26-2/",
           "date": "2026-09-17T09:00:19+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Fly-tips? It’s all your fault for reporting it, says Perry’s puppet",
-          "url": "https://insidecroydon.com/2026/09/15/fly-tips-its-all-your-fault-for-reporting-it-says-perrys-puppet/",
-          "date": "2026-09-15T14:59:52+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -499,12 +486,6 @@
           "title": "Difficult to deploy rump and buses, 24th September",
           "url": "https://www.fixmystreet.com/report/10148525",
           "date": "2026-09-24T21:35:42+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped 200 kg slate chippings in bags, 27th August",
-          "url": "https://www.fixmystreet.com/report/10010683",
-          "date": "2026-08-27T09:18:48+00:00",
           "category": null
         }
       ],
@@ -843,14 +824,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Fly-tips? It’s all your fault for reporting it, says Perry’s puppet",
-          "url": "https://insidecroydon.com/2026/09/15/fly-tips-its-all-your-fault-for-reporting-it-says-perrys-puppet/",
-          "date": "2026-09-15T14:59:52+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "West Thornton": {
       "fixmystreet": [
