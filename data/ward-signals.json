@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-26T16:05:03.786928+00:00",
+    "generated_at": "2026-09-26T20:51:06.935865+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -481,12 +481,6 @@
           "url": "https://www.fixmystreet.com/report/10072851",
           "date": "2026-09-09T11:17:55+00:00",
           "category": null
-        },
-        {
-          "title": "Street lights not working, 27th August",
-          "url": "https://www.fixmystreet.com/report/10014101",
-          "date": "2026-08-27T18:37:35+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -549,6 +543,12 @@
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
+        {
+          "title": "Incorrect details on street signage, 26th September",
+          "url": "https://www.fixmystreet.com/report/10156113",
+          "date": "2026-09-26T17:26:45+00:00",
+          "category": null
+        },
         {
           "title": "2 firework cylinders, 4th September",
           "url": "https://www.fixmystreet.com/report/10048794",
