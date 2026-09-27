@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T04:27:42.976031+00:00",
+    "generated_at": "2026-09-27T11:43:55.276644+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -381,12 +381,6 @@
           "url": "https://insidecroydon.com/2026/09/17/smokehouse-offers-beefy-portions-fred-flintstone-would-adore/",
           "date": "2026-09-17T11:46:49+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Harvest Fest, Norbury Park Lawn Tennis Club, Sat Sept 26",
-          "url": "https://insidecroydon.com/2026/09/17/harvest-fest-norbury-park-lawn-tennis-club-sat-sept-26-2/",
-          "date": "2026-09-17T09:00:19+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -497,6 +491,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Sanderstead Lit: Newhart and Trump, condors and postcards",
+          "url": "https://insidecroydon.com/2026/09/27/sanderstead-lit-newhart-and-trump-condors-and-postcards/",
+          "date": "2026-09-27T09:26:42+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Outsourcing children’s home has proved costly and high risk",
           "url": "https://insidecroydon.com/2026/09/24/outsourcing-childrens-home-has-proved-costly-and-high-risk/",
@@ -625,18 +625,6 @@
           "title": "Dumped ironing board, 28th August",
           "url": "https://www.fixmystreet.com/report/10017698",
           "date": "2026-08-28T12:53:23+00:00",
-          "category": null
-        },
-        {
-          "title": "Matters and other rubbish dumped, 28th August",
-          "url": "https://www.fixmystreet.com/report/10016184",
-          "date": "2026-08-28T09:22:36+00:00",
-          "category": null
-        },
-        {
-          "title": "Deceased Animal, 28th August",
-          "url": "https://www.fixmystreet.com/report/10016089",
-          "date": "2026-08-28T09:09:25+00:00",
           "category": null
         }
       ],
@@ -786,12 +774,6 @@
           "url": "https://insidecroydon.com/2026/09/19/costs-up-volunteers-vanished-community-festival-cancelled/",
           "date": "2026-09-19T11:56:59+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Mezze Feast, South Norwood Community Kitchen, Oct 6",
-          "url": "https://insidecroydon.com/2026/09/17/mezze-feast-south-norwood-community-kitchen-oct-6-2/",
-          "date": "2026-09-17T10:02:10+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -826,12 +808,6 @@
           "title": "Parked wrong on one way street, 9th September",
           "url": "https://www.fixmystreet.com/report/10074793",
           "date": "2026-09-09T16:41:22+00:00",
-          "category": null
-        },
-        {
-          "title": "Overhanging trees, 28th August",
-          "url": "https://www.fixmystreet.com/report/10016514",
-          "date": "2026-08-28T10:04:40+00:00",
           "category": null
         }
       ],
