@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-28T13:19:41.893074+00:00",
+    "generated_at": "2026-09-28T23:06:04.362011+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -47,12 +47,6 @@
           "url": "https://insidecroydon.com/2026/09/22/bricks-ghosts-and-the-northern-line-all-in-the-lits-new-season/",
           "date": "2026-09-22T08:53:34+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Addiscombe locals suspicious as fire destroys heritage house",
-          "url": "https://insidecroydon.com/2026/09/18/addiscombe-locals-suspicious-as-fire-destroys-heritage-house/",
-          "date": "2026-09-18T10:53:32+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -82,12 +76,6 @@
           "title": "Councillors in plea to Wetherspoons: Dear Tim, buy our pub!",
           "url": "https://insidecroydon.com/2026/09/20/councillors-in-plea-to-wetherspoons-dear-tim-buy-our-pub/",
           "date": "2026-09-20T12:45:08+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Addiscombe locals suspicious as fire destroys heritage house",
-          "url": "https://insidecroydon.com/2026/09/18/addiscombe-locals-suspicious-as-fire-destroys-heritage-house/",
-          "date": "2026-09-18T10:53:32+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -174,6 +162,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Deep pothole with water by bus stop outside Sainsbury's, 28th September",
+          "url": "https://www.fixmystreet.com/report/10165503",
+          "date": "2026-09-28T22:14:22+00:00",
+          "category": null
+        },
+        {
           "title": "Bin not emptied contents overflowing, 24th September",
           "url": "https://www.fixmystreet.com/report/10146274",
           "date": "2026-09-24T13:24:32+00:00",
@@ -225,12 +219,6 @@
           "title": "Rubbish bin overflowing, 16th September",
           "url": "https://www.fixmystreet.com/report/10107153",
           "date": "2026-09-16T12:36:19+00:00",
-          "category": null
-        },
-        {
-          "title": "Broken street lamp, 9th September",
-          "url": "https://www.fixmystreet.com/report/10075565",
-          "date": "2026-09-09T20:01:43+00:00",
           "category": null
         }
       ],
@@ -309,7 +297,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Rail crossing needed safety works 2 years before boy’s death",
+          "url": "https://insidecroydon.com/2026/09/28/rail-crossing-needed-safety-works-2-years-before-boys-death/",
+          "date": "2026-09-28T13:40:18+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "New Addington North": {
       "fixmystreet": [
@@ -400,12 +395,6 @@
           "title": "Sort the fucking roadworks out, 1st September",
           "url": "https://www.fixmystreet.com/report/10034704",
           "date": "2026-09-01T17:57:17+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped furniture and rubbish, 29th August",
-          "url": "https://www.fixmystreet.com/report/10022301",
-          "date": "2026-08-29T18:54:16+00:00",
           "category": null
         }
       ],
@@ -899,12 +888,6 @@
           "title": "Pavement brick dislodged and coming away, 7th September",
           "url": "https://www.fixmystreet.com/report/10060362",
           "date": "2026-09-07T08:59:06+00:00",
-          "category": null
-        },
-        {
-          "title": "Missing water meter cover on pavement near 18/18A, 29th August",
-          "url": "https://www.fixmystreet.com/report/10021514",
-          "date": "2026-08-29T13:49:11+00:00",
           "category": null
         }
       ],
