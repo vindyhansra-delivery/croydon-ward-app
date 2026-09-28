@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-28T04:28:36.439855+00:00",
+    "generated_at": "2026-09-28T13:19:41.893074+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -237,6 +237,18 @@
       "reddit": [],
       "news": [
         {
+          "title": "Parish admits Palace don’t have funding for £200m new stand",
+          "url": "https://insidecroydon.com/2026/09/28/parish-admits-palace-dont-have-funding-for-200m-new-stand/",
+          "date": "2026-09-28T11:46:52+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Family Haunted House Spook Fest, Crystal Palace, Oct 16-18",
+          "url": "https://insidecroydon.com/2026/09/28/haunted-house-spook-fest-crystal-palace-nsc-oct-16-18/",
+          "date": "2026-09-28T08:32:55+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Council’s all-clear for second 24/7 gambling addiction centre",
           "url": "https://insidecroydon.com/2026/09/21/councils-all-clear-for-second-24-7-gambling-addiction-centre/",
           "date": "2026-09-21T16:21:00+00:00",
@@ -269,12 +281,6 @@
           "url": "https://www.fixmystreet.com/report/10091768",
           "date": "2026-09-13T17:30:48+00:00",
           "category": null
-        },
-        {
-          "title": "Rubbish from homeless people causing a menace, smell and rats, 29th August",
-          "url": "https://www.fixmystreet.com/report/10020156",
-          "date": "2026-08-29T06:51:11+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -283,12 +289,6 @@
           "title": "Bingo! Plus live music, quiz nights, darts at Surrey Cricketers",
           "url": "https://insidecroydon.com/2026/09/20/bingo-plus-live-music-quiz-nights-darts-at-surrey-cricketers-2/",
           "date": "2026-09-20T09:00:35+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Bingo! Plus live music, quiz nights, darts at Surrey Cricketers",
-          "url": "https://insidecroydon.com/2026/09/18/bingo-plus-live-music-quiz-nights-darts-at-surrey-cricketers/",
-          "date": "2026-09-18T09:14:21+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -375,14 +375,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Smokehouse offers beefy portions Fred Flintstone would adore",
-          "url": "https://insidecroydon.com/2026/09/17/smokehouse-offers-beefy-portions-fred-flintstone-would-adore/",
-          "date": "2026-09-17T11:46:49+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Norbury and Pollards Hill": {
       "fixmystreet": [],
@@ -539,7 +532,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Parish admits Palace don’t have funding for £200m new stand",
+          "url": "https://insidecroydon.com/2026/09/28/parish-admits-palace-dont-have-funding-for-200m-new-stand/",
+          "date": "2026-09-28T11:46:52+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
@@ -561,6 +561,12 @@
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
+        {
+          "title": "Pavement parking, 28th September",
+          "url": "https://www.fixmystreet.com/report/10160461",
+          "date": "2026-09-28T08:10:01+00:00",
+          "category": null
+        },
         {
           "title": "Low trees branches, 24th September",
           "url": "https://www.fixmystreet.com/report/10148506",
@@ -810,6 +816,12 @@
     },
     "West Thornton": {
       "fixmystreet": [
+        {
+          "title": "Fly tipping, 28th September",
+          "url": "https://www.fixmystreet.com/report/10161992",
+          "date": "2026-09-28T10:59:42+00:00",
+          "category": null
+        },
         {
           "title": "House's bins on the pavement. 21 Wortley Road, 23rd September",
           "url": "https://www.fixmystreet.com/report/10138518",
