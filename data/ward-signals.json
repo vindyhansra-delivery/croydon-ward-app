@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-29T12:27:58.405670+00:00",
+    "generated_at": "2026-09-29T22:04:38.044817+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -156,6 +156,18 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Missing drain or hydrant cover, 29th September",
+          "url": "https://www.fixmystreet.com/report/10170787",
+          "date": "2026-09-29T20:54:05+00:00",
+          "category": null
+        },
+        {
+          "title": "Flytipped mattress on street, 29th September",
+          "url": "https://www.fixmystreet.com/report/10168988",
+          "date": "2026-09-29T13:54:36+00:00",
+          "category": null
+        },
+        {
           "title": "Deep pothole with water by bus stop outside Sainsbury's, 28th September",
           "url": "https://www.fixmystreet.com/report/10165503",
           "date": "2026-09-28T22:14:22+00:00",
@@ -201,18 +213,6 @@
           "title": "Broken glass, 16th September",
           "url": "https://www.fixmystreet.com/report/10107259",
           "date": "2026-09-16T12:53:37+00:00",
-          "category": null
-        },
-        {
-          "title": "Wheelie bins overflowing, 16th September",
-          "url": "https://www.fixmystreet.com/report/10107241",
-          "date": "2026-09-16T12:49:49+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish bin overflowing, 16th September",
-          "url": "https://www.fixmystreet.com/report/10107153",
-          "date": "2026-09-16T12:36:19+00:00",
           "category": null
         }
       ],
@@ -885,12 +885,6 @@
           "title": "Bricks, ghosts and the Northern line all in the Lit’s new season",
           "url": "https://insidecroydon.com/2026/09/22/bricks-ghosts-and-the-northern-line-all-in-the-lits-new-season/",
           "date": "2026-09-22T08:53:34+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Woodside Fire Station Open Day, 12pm-4pm, Sun Sep 20",
-          "url": "https://insidecroydon.com/2026/09/19/woodside-fire-station-open-day-12pm-4pm-sun-sep-20/",
-          "date": "2026-09-19T09:15:52+00:00",
           "publisher": "Inside Croydon"
         }
       ]
