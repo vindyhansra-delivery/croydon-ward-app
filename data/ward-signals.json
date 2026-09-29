@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-29T04:58:15.533878+00:00",
+    "generated_at": "2026-09-29T12:27:58.405670+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -31,12 +31,6 @@
           "title": "Fallen branch of tree, 31st August",
           "url": "https://www.fixmystreet.com/report/10028246",
           "date": "2026-08-31T16:16:20+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish, 30th August",
-          "url": "https://www.fixmystreet.com/report/10023996",
-          "date": "2026-08-30T12:10:36+00:00",
           "category": null
         }
       ],
@@ -496,12 +490,6 @@
           "url": "https://insidecroydon.com/2026/09/22/charity-strongly-disputes-council-report-on-childrens-home/",
           "date": "2026-09-22T15:42:08+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Council cancels £8.6m children’s home contract after 6 months",
-          "url": "https://insidecroydon.com/2026/09/18/council-cancels-8-6m-childrens-home-contract-after-6-months/",
-          "date": "2026-09-18T17:54:20+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -550,6 +538,12 @@
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
+        {
+          "title": "Fox in the road injured, 29th September",
+          "url": "https://www.fixmystreet.com/report/10166108",
+          "date": "2026-09-29T07:31:24+00:00",
+          "category": null
+        },
         {
           "title": "Pavement parking, 28th September",
           "url": "https://www.fixmystreet.com/report/10160461",
@@ -608,12 +602,6 @@
           "title": "Rubbbish, 2nd September",
           "url": "https://www.fixmystreet.com/report/10038109",
           "date": "2026-09-02T11:14:00+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish, 30th August",
-          "url": "https://www.fixmystreet.com/report/10023930",
-          "date": "2026-08-30T11:52:11+00:00",
           "category": null
         }
       ],
