@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-30T04:44:38.356557+00:00",
+    "generated_at": "2026-09-30T12:12:13.799430+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -48,6 +48,12 @@
       "fixmystreet": [],
       "reddit": [],
       "news": [
+        {
+          "title": "Music at The Oval Tavern, Addiscombe, for Nov. Free entry",
+          "url": "https://insidecroydon.com/2026/09/30/music-at-the-oval-tavern-addiscombe-for-nov-free-entry/",
+          "date": "2026-09-30T08:30:20+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Mystery after Grade II-listed Leslie Arms is pulled from auction",
           "url": "https://insidecroydon.com/2026/09/24/mystery-after-grade-ii-listed-leslie-arms-is-pulled-from-auction/",
@@ -711,6 +717,12 @@
       "news": [
         {
           "title": "Indoor boot sale, St Paul’s Church Hall, South Croydon, Oct 3",
+          "url": "https://insidecroydon.com/2026/09/30/indoor-boot-sale-st-pauls-church-hall-south-croydon-oct-3-2/",
+          "date": "2026-09-30T09:46:25+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Indoor boot sale, St Paul’s Church Hall, South Croydon, Oct 3",
           "url": "https://insidecroydon.com/2026/09/20/indoor-boot-sale-st-pauls-church-hall-south-croydon-oct-3/",
           "date": "2026-09-20T09:35:24+00:00",
           "publisher": "Inside Croydon"
@@ -744,12 +756,6 @@
           "title": "£3m Lottery grant helps to get Stanley’s birthday party going",
           "url": "https://insidecroydon.com/2026/09/22/3m-lottery-grant-helps-to-get-stanleys-birthday-party-going/",
           "date": "2026-09-22T11:53:11+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Costs up, volunteers vanished = community festival cancelled",
-          "url": "https://insidecroydon.com/2026/09/19/costs-up-volunteers-vanished-community-festival-cancelled/",
-          "date": "2026-09-19T11:56:59+00:00",
           "publisher": "Inside Croydon"
         }
       ]
