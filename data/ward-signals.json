@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-30T12:12:13.799430+00:00",
+    "generated_at": "2026-09-30T22:03:27.791869+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -25,12 +25,6 @@
           "title": "Vehicle apparently abandoned., 16th September",
           "url": "https://www.fixmystreet.com/report/10108475",
           "date": "2026-09-16T16:07:44+00:00",
-          "category": null
-        },
-        {
-          "title": "Fallen branch of tree, 31st August",
-          "url": "https://www.fixmystreet.com/report/10028246",
-          "date": "2026-08-31T16:16:20+00:00",
           "category": null
         }
       ],
@@ -545,6 +539,18 @@
     "Selsdon and Addington Village": {
       "fixmystreet": [
         {
+          "title": "Someone has driven into this alley way entrance, near the posts, 30th September",
+          "url": "https://www.fixmystreet.com/report/10174210",
+          "date": "2026-09-30T13:20:29+00:00",
+          "category": null
+        },
+        {
+          "title": "Broken post on spout hill and ran into the ally way that leads to boundary way , next to the other posts, 30th September",
+          "url": "https://www.fixmystreet.com/report/10174153",
+          "date": "2026-09-30T13:10:30+00:00",
+          "category": null
+        },
+        {
           "title": "Fox in the road injured, 29th September",
           "url": "https://www.fixmystreet.com/report/10166108",
           "date": "2026-09-29T07:31:24+00:00",
@@ -617,6 +623,12 @@
     "Shirley South": {
       "fixmystreet": [
         {
+          "title": "Fridge/freezer dumped, 30th September",
+          "url": "https://www.fixmystreet.com/report/10174500",
+          "date": "2026-09-30T14:05:39+00:00",
+          "category": null
+        },
+        {
           "title": "Fly tipping, 24th September",
           "url": "https://www.fixmystreet.com/report/10143447",
           "date": "2026-09-24T06:59:46+00:00",
@@ -668,12 +680,6 @@
           "title": "Pointless temporary traffic lights, 8th September",
           "url": "https://www.fixmystreet.com/report/10069032",
           "date": "2026-09-08T15:44:35+00:00",
-          "category": null
-        },
-        {
-          "title": "More flytipped rubbish, Shirley Heath, 7th September",
-          "url": "https://www.fixmystreet.com/report/10059937",
-          "date": "2026-09-07T08:09:04+00:00",
           "category": null
         }
       ],
