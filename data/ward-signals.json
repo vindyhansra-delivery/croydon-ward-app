@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-01T12:45:52.821886+00:00",
+    "generated_at": "2026-10-01T22:31:30.329060+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "3 areas of flytipping, Outram rd, 1st October",
+          "url": "https://www.fixmystreet.com/report/10181370",
+          "date": "2026-10-01T21:21:48+00:00",
+          "category": null
+        },
         {
           "title": "Dead FOX, 26th September",
           "url": "https://www.fixmystreet.com/report/10155788",
@@ -403,12 +409,6 @@
           "url": "https://www.fixmystreet.com/report/10116936",
           "date": "2026-09-18T10:40:15+00:00",
           "category": null
-        },
-        {
-          "title": "Sort the fucking roadworks out, 1st September",
-          "url": "https://www.fixmystreet.com/report/10034704",
-          "date": "2026-09-01T17:57:17+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -586,18 +586,6 @@
           "url": "https://www.fixmystreet.com/report/10148506",
           "date": "2026-09-24T21:27:14+00:00",
           "category": null
-        },
-        {
-          "title": "Street light stopped working, 1st September",
-          "url": "https://www.fixmystreet.com/report/10035349",
-          "date": "2026-09-01T21:26:48+00:00",
-          "category": null
-        },
-        {
-          "title": "Street light, 1st September",
-          "url": "https://www.fixmystreet.com/report/10035038",
-          "date": "2026-09-01T19:16:52+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -731,6 +719,12 @@
     },
     "South Croydon": {
       "fixmystreet": [
+        {
+          "title": "Someone block our driveway, 1st October",
+          "url": "https://www.fixmystreet.com/report/10181089",
+          "date": "2026-10-01T19:26:56+00:00",
+          "category": null
+        },
         {
           "title": "Parking within roadworks, 23rd September",
           "url": "https://www.fixmystreet.com/report/10138682",
