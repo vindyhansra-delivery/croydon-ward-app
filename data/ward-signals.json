@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-01T04:56:44.417728+00:00",
+    "generated_at": "2026-10-01T12:45:52.821886+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -39,7 +39,14 @@
       ]
     },
     "Addiscombe West": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Smelly dead fox, 1st October",
+          "url": "https://www.fixmystreet.com/report/10178414",
+          "date": "2026-10-01T10:49:28+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": [
         {
@@ -219,6 +226,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Family Haunted House Spook Fest, Crystal Palace, Oct 16-18",
+          "url": "https://insidecroydon.com/2026/10/01/family-haunted-house-spook-fest-crystal-palace-oct-16-18/",
+          "date": "2026-10-01T08:30:10+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Parish admits Palace don’t have funding for £200m new stand",
           "url": "https://insidecroydon.com/2026/09/28/parish-admits-palace-dont-have-funding-for-200m-new-stand/",
           "date": "2026-09-28T11:46:52+00:00",
@@ -266,7 +279,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Sing-a-long-a-Sheeran as Croydon choir stages open evening",
+          "url": "https://insidecroydon.com/2026/10/01/sing-a-long-a-sheeran-as-croydon-choir-stages-open-evening/",
+          "date": "2026-10-01T09:21:09+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Kenley": {
       "fixmystreet": [
@@ -366,6 +386,12 @@
     },
     "Old Coulsdon": {
       "fixmystreet": [
+        {
+          "title": "Beds and matresses., 1st October",
+          "url": "https://www.fixmystreet.com/report/10177860",
+          "date": "2026-10-01T09:31:58+00:00",
+          "category": null
+        },
         {
           "title": "Street rubbish dumped, 24th September",
           "url": "https://www.fixmystreet.com/report/10144358",
@@ -580,6 +606,30 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Pot holes and roads sinking, 1st October",
+          "url": "https://www.fixmystreet.com/report/10177097",
+          "date": "2026-10-01T07:38:13+00:00",
+          "category": null
+        },
+        {
+          "title": "Roads are sinking causing the cars and buses to have damage to the wheels and driver behaviour and on a blind bend, 1st October",
+          "url": "https://www.fixmystreet.com/report/10177045",
+          "date": "2026-10-01T07:31:55+00:00",
+          "category": null
+        },
+        {
+          "title": "Road sinking and causing damage to the car and buses, 1st October",
+          "url": "https://www.fixmystreet.com/report/10177000",
+          "date": "2026-10-01T07:24:55+00:00",
+          "category": null
+        },
+        {
+          "title": "Road sinking and severe potholes, 1st October",
+          "url": "https://www.fixmystreet.com/report/10176963",
+          "date": "2026-10-01T07:19:07+00:00",
+          "category": null
+        },
+        {
           "title": "Dumped abandoned car for over 1yr, 15th September",
           "url": "https://www.fixmystreet.com/report/10103940",
           "date": "2026-09-15T19:56:01+00:00",
@@ -615,6 +665,18 @@
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "Fridge freezer dumped at entrance to Temple Copse, 1st October",
+          "url": "https://www.fixmystreet.com/report/10177505",
+          "date": "2026-10-01T08:45:18+00:00",
+          "category": null
+        },
+        {
+          "title": "Temporary Traffic Lights are not working, 1st October",
+          "url": "https://www.fixmystreet.com/report/10177366",
+          "date": "2026-10-01T08:29:17+00:00",
+          "category": null
+        },
         {
           "title": "Fridge/freezer dumped, 30th September",
           "url": "https://www.fixmystreet.com/report/10174500",
@@ -662,18 +724,6 @@
           "url": "https://www.fixmystreet.com/report/10076664",
           "date": "2026-09-10T07:47:11+00:00",
           "category": "SMall hole causing major congestion issues"
-        },
-        {
-          "title": "Refuse collectors making and leaving a mess, 9th September",
-          "url": "https://www.fixmystreet.com/report/10072827",
-          "date": "2026-09-09T11:15:26+00:00",
-          "category": null
-        },
-        {
-          "title": "Pointless temporary traffic lights, 8th September",
-          "url": "https://www.fixmystreet.com/report/10069032",
-          "date": "2026-09-08T15:44:35+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -718,12 +768,6 @@
           "title": "Indoor boot sale, St Paul’s Church Hall, South Croydon, Oct 3",
           "url": "https://insidecroydon.com/2026/09/30/indoor-boot-sale-st-pauls-church-hall-south-croydon-oct-3-2/",
           "date": "2026-09-30T09:46:25+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Indoor boot sale, St Paul’s Church Hall, South Croydon, Oct 3",
-          "url": "https://insidecroydon.com/2026/09/20/indoor-boot-sale-st-pauls-church-hall-south-croydon-oct-3/",
-          "date": "2026-09-20T09:35:24+00:00",
           "publisher": "Inside Croydon"
         }
       ]
