@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-02T12:10:22.063457+00:00",
+    "generated_at": "2026-10-02T22:01:07.069546+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -232,6 +232,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Higher rents and rising costs force Paxton Centre to close",
+          "url": "https://insidecroydon.com/2026/10/02/higher-rents-and-rising-costs-force-paxton-centre-to-close/",
+          "date": "2026-10-02T14:18:29+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Family Haunted House Spook Fest, Crystal Palace, Oct 16-18",
           "url": "https://insidecroydon.com/2026/10/01/family-haunted-house-spook-fest-crystal-palace-oct-16-18/",
           "date": "2026-10-01T08:30:10+00:00",
@@ -386,7 +392,20 @@
       "news": []
     },
     "Norbury and Pollards Hill": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "A Fly-Tip Tylecroft Road, 2nd October",
+          "url": "https://www.fixmystreet.com/report/10185167",
+          "date": "2026-10-02T15:55:01+00:00",
+          "category": null
+        },
+        {
+          "title": "Litter bin overflowing, 2nd October",
+          "url": "https://www.fixmystreet.com/report/10184678",
+          "date": "2026-10-02T14:18:26+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
@@ -477,6 +496,12 @@
     },
     "Sanderstead": {
       "fixmystreet": [
+        {
+          "title": "Manhole cover is lose and making a noise every time a car goes over it, 2nd October",
+          "url": "https://www.fixmystreet.com/report/10185626",
+          "date": "2026-10-02T18:12:39+00:00",
+          "category": null
+        },
         {
           "title": "Difficult to deploy rump and buses, 24th September",
           "url": "https://www.fixmystreet.com/report/10148525",
