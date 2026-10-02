@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-02T04:47:31.203399+00:00",
+    "generated_at": "2026-10-02T12:10:22.063457+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -56,6 +56,18 @@
       "reddit": [],
       "news": [
         {
+          "title": "First phase of Altyre Road ‘aparthotel’ set to open by Christmas",
+          "url": "https://insidecroydon.com/2026/10/02/237978/",
+          "date": "2026-10-02T11:03:19+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Music at The Oval Tavern, Addiscombe, through Oct. Free entry",
+          "url": "https://insidecroydon.com/2026/10/02/music-at-the-oval-tavern-addiscombe-through-oct-free-entry-2/",
+          "date": "2026-10-02T08:46:40+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Music at The Oval Tavern, Addiscombe, for Nov. Free entry",
           "url": "https://insidecroydon.com/2026/09/30/music-at-the-oval-tavern-addiscombe-for-nov-free-entry/",
           "date": "2026-09-30T08:30:20+00:00",
@@ -71,18 +83,6 @@
           "title": "Music at The Oval Tavern, Addiscombe, through Oct. Free entry",
           "url": "https://insidecroydon.com/2026/09/23/music-at-the-oval-tavern-addiscombe-through-oct-free-entry-3/",
           "date": "2026-09-23T08:22:11+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Bricks, ghosts and the Northern line all in the Lit’s new season",
-          "url": "https://insidecroydon.com/2026/09/22/bricks-ghosts-and-the-northern-line-all-in-the-lits-new-season/",
-          "date": "2026-09-22T08:53:34+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Councillors in plea to Wetherspoons: Dear Tim, buy our pub!",
-          "url": "https://insidecroydon.com/2026/09/20/councillors-in-plea-to-wetherspoons-dear-tim-buy-our-pub/",
-          "date": "2026-09-20T12:45:08+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -169,6 +169,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Street cleaning, 2nd October",
+          "url": "https://www.fixmystreet.com/report/10181741",
+          "date": "2026-10-02T06:27:03+00:00",
+          "category": null
+        },
+        {
           "title": "Missing drain or hydrant cover, 29th September",
           "url": "https://www.fixmystreet.com/report/10170787",
           "date": "2026-09-29T20:54:05+00:00",
@@ -220,12 +226,6 @@
           "title": "Road sign in the road, 19th September",
           "url": "https://www.fixmystreet.com/report/10119886",
           "date": "2026-09-19T06:25:04+00:00",
-          "category": null
-        },
-        {
-          "title": "Broken glass, 16th September",
-          "url": "https://www.fixmystreet.com/report/10107259",
-          "date": "2026-09-16T12:53:37+00:00",
           "category": null
         }
       ],
@@ -639,12 +639,6 @@
           "title": "Street lighting is very dim in tge evening/ night, 6th September",
           "url": "https://www.fixmystreet.com/report/10055888",
           "date": "2026-09-06T07:37:19+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbbish, 2nd September",
-          "url": "https://www.fixmystreet.com/report/10038109",
-          "date": "2026-09-02T11:14:00+00:00",
           "category": null
         }
       ],
