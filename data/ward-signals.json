@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-03T04:30:10.291144+00:00",
+    "generated_at": "2026-10-03T11:21:57.083113+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -35,14 +35,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Bricks, ghosts and the Northern line all in the Lit’s new season",
-          "url": "https://insidecroydon.com/2026/09/22/bricks-ghosts-and-the-northern-line-all-in-the-lits-new-season/",
-          "date": "2026-09-22T08:53:34+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Addiscombe West": {
       "fixmystreet": [
@@ -254,12 +247,6 @@
           "url": "https://insidecroydon.com/2026/09/28/haunted-house-spook-fest-crystal-palace-nsc-oct-16-18/",
           "date": "2026-09-28T08:32:55+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Council’s all-clear for second 24/7 gambling addiction centre",
-          "url": "https://insidecroydon.com/2026/09/21/councils-all-clear-for-second-24-7-gambling-addiction-centre/",
-          "date": "2026-09-21T16:21:00+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -462,6 +449,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Walk and Talk Riddlesdown, weekly every Sunday from 9am",
+          "url": "https://insidecroydon.com/2026/10/03/walk-and-talk-riddlesdown-weekly-every-sunday-from-9am-3/",
+          "date": "2026-10-03T09:54:43+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Tories’ unlawful conduct putting Croydon on highway to hell",
           "url": "https://insidecroydon.com/2026/09/25/tories-unlawful-conduct-putting-croydon-on-highway-to-hell/",
@@ -803,6 +796,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Mezze Feast, South Norwood Community Kitchen, Oct 6",
+          "url": "https://insidecroydon.com/2026/10/03/mezze-feast-south-norwood-community-kitchen-oct-6-3/",
+          "date": "2026-10-03T08:53:52+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Norwood Junction’s garden offers sunflowers and sanctuary",
           "url": "https://insidecroydon.com/2026/09/23/norwood-junctions-garden-offers-sunflowers-and-sanctuary/",
           "date": "2026-09-23T08:59:19+00:00",
@@ -942,14 +941,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Bricks, ghosts and the Northern line all in the Lit’s new season",
-          "url": "https://insidecroydon.com/2026/09/22/bricks-ghosts-and-the-northern-line-all-in-the-lits-new-season/",
-          "date": "2026-09-22T08:53:34+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     }
   }
 }
