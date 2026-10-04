@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-04T12:01:25.376596+00:00",
+    "generated_at": "2026-10-04T16:50:50.139283+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -39,6 +39,12 @@
     },
     "Addiscombe West": {
       "fixmystreet": [
+        {
+          "title": "Dead animal in front of 48 and 50 Addiscombe Court Road., 4th October",
+          "url": "https://www.fixmystreet.com/report/10191491",
+          "date": "2026-10-04T16:31:58+00:00",
+          "category": null
+        },
         {
           "title": "Smelly dead fox, 1st October",
           "url": "https://www.fixmystreet.com/report/10178414",
@@ -381,6 +387,12 @@
     "Norbury and Pollards Hill": {
       "fixmystreet": [
         {
+          "title": "This vehicle CAP885k has been dumped here for so long it is decaying into the tarmac. It has been many years., 4th October",
+          "url": "https://www.fixmystreet.com/report/10191180",
+          "date": "2026-10-04T15:17:09+00:00",
+          "category": null
+        },
+        {
           "title": "A Fly-Tip Tylecroft Road, 2nd October",
           "url": "https://www.fixmystreet.com/report/10185167",
           "date": "2026-10-02T15:55:01+00:00",
@@ -438,12 +450,6 @@
           "title": "Low trees branches, 25th September",
           "url": "https://www.fixmystreet.com/report/10148782",
           "date": "2026-09-25T04:51:59+00:00",
-          "category": null
-        },
-        {
-          "title": "Greenery growing in drains, 4th September",
-          "url": "https://www.fixmystreet.com/report/10050929",
-          "date": "2026-09-04T15:01:34+00:00",
           "category": null
         }
       ],
@@ -642,6 +648,12 @@
     "Shirley South": {
       "fixmystreet": [
         {
+          "title": "Water trough has been displaced, 4th October",
+          "url": "https://www.fixmystreet.com/report/10191053",
+          "date": "2026-10-04T14:52:11+00:00",
+          "category": null
+        },
+        {
           "title": "Rubbish everywhere, 4th October",
           "url": "https://www.fixmystreet.com/report/10189796",
           "date": "2026-10-04T09:33:56+00:00",
@@ -693,12 +705,6 @@
           "title": "Broken up tarmac, 15th September",
           "url": "https://www.fixmystreet.com/report/10101221",
           "date": "2026-09-15T11:50:24+00:00",
-          "category": null
-        },
-        {
-          "title": "Street light not working, 11th September",
-          "url": "https://www.fixmystreet.com/report/10081526",
-          "date": "2026-09-11T05:25:46+00:00",
           "category": null
         }
       ],
