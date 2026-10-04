@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-04T05:00:48.501198+00:00",
+    "generated_at": "2026-10-04T12:01:25.376596+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -70,12 +70,6 @@
           "title": "Mystery after Grade II-listed Leslie Arms is pulled from auction",
           "url": "https://insidecroydon.com/2026/09/24/mystery-after-grade-ii-listed-leslie-arms-is-pulled-from-auction/",
           "date": "2026-09-24T11:12:09+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Music at The Oval Tavern, Addiscombe, through Oct. Free entry",
-          "url": "https://insidecroydon.com/2026/09/23/music-at-the-oval-tavern-addiscombe-through-oct-free-entry-3/",
-          "date": "2026-09-23T08:22:11+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -162,6 +156,18 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Traffic light and railings wiped out by a vehicle, 4th October",
+          "url": "https://www.fixmystreet.com/report/10190012",
+          "date": "2026-10-04T10:31:39+00:00",
+          "category": null
+        },
+        {
+          "title": "People dumping rubbish, 4th October",
+          "url": "https://www.fixmystreet.com/report/10189406",
+          "date": "2026-10-04T08:13:09+00:00",
+          "category": null
+        },
+        {
           "title": "Street cleaning, 2nd October",
           "url": "https://www.fixmystreet.com/report/10181741",
           "date": "2026-10-02T06:27:03+00:00",
@@ -207,18 +213,6 @@
           "title": "H Marking for a dropped kerb., 21st September",
           "url": "https://www.fixmystreet.com/report/10127477",
           "date": "2026-09-21T10:00:04+00:00",
-          "category": null
-        },
-        {
-          "title": "Pothole, appx. 50cm x 50cm x 10cm deep, 19th September",
-          "url": "https://www.fixmystreet.com/report/10121205",
-          "date": "2026-09-19T13:16:31+00:00",
-          "category": null
-        },
-        {
-          "title": "Road sign in the road, 19th September",
-          "url": "https://www.fixmystreet.com/report/10119886",
-          "date": "2026-09-19T06:25:04+00:00",
           "category": null
         }
       ],
@@ -279,6 +273,18 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "How Mary Care and Operation Crocus changed lives in Croydon",
+          "url": "https://insidecroydon.com/2026/10/04/how-mary-care-and-operation-crocus-changed-lives-in-croydon/",
+          "date": "2026-10-04T11:20:59+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Bingo! Plus live music, quiz nights, darts at Surrey Cricketers",
+          "url": "https://insidecroydon.com/2026/10/04/bingo-plus-live-music-quiz-nights-darts-at-surrey-cricketers-3/",
+          "date": "2026-10-04T09:49:02+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Sing-a-long-a-Sheeran as Croydon choir stages open evening",
           "url": "https://insidecroydon.com/2026/10/01/sing-a-long-a-sheeran-as-croydon-choir-stages-open-evening/",
@@ -509,18 +515,6 @@
           "url": "https://insidecroydon.com/2026/09/24/outsourcing-childrens-home-has-proved-costly-and-high-risk/",
           "date": "2026-09-24T12:59:40+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "‘Appalled’ Labour call for inquiry into children’s home contract",
-          "url": "https://insidecroydon.com/2026/09/22/appalled-labour-call-for-inquiry-into-childrens-home-contract/",
-          "date": "2026-09-22T15:43:51+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Charity ‘strongly disputes’ council report on children’s home",
-          "url": "https://insidecroydon.com/2026/09/22/charity-strongly-disputes-council-report-on-childrens-home/",
-          "date": "2026-09-22T15:42:08+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -530,12 +524,6 @@
           "title": "Over hanhmging trees at Bus stop Selhurst new rd., 14th September",
           "url": "https://www.fixmystreet.com/report/10096159",
           "date": "2026-09-14T13:54:20+00:00",
-          "category": null
-        },
-        {
-          "title": "Thames Water abandoned traffic signs/lights, 4th September",
-          "url": "https://www.fixmystreet.com/report/10048959",
-          "date": "2026-09-04T09:58:20+00:00",
           "category": null
         }
       ],
@@ -555,12 +543,6 @@
           "title": "Incorrect details on street signage, 26th September",
           "url": "https://www.fixmystreet.com/report/10156113",
           "date": "2026-09-26T17:26:45+00:00",
-          "category": null
-        },
-        {
-          "title": "2 firework cylinders, 4th September",
-          "url": "https://www.fixmystreet.com/report/10048794",
-          "date": "2026-09-04T09:36:43+00:00",
           "category": null
         }
       ],
@@ -660,6 +642,12 @@
     "Shirley South": {
       "fixmystreet": [
         {
+          "title": "Rubbish everywhere, 4th October",
+          "url": "https://www.fixmystreet.com/report/10189796",
+          "date": "2026-10-04T09:33:56+00:00",
+          "category": null
+        },
+        {
           "title": "Fridge freezer dumped at entrance to Temple Copse, 1st October",
           "url": "https://www.fixmystreet.com/report/10177505",
           "date": "2026-10-01T08:45:18+00:00",
@@ -712,12 +700,6 @@
           "url": "https://www.fixmystreet.com/report/10081526",
           "date": "2026-09-11T05:25:46+00:00",
           "category": null
-        },
-        {
-          "title": "SMall hole causing major congestion issues - no worj being done, 10th September",
-          "url": "https://www.fixmystreet.com/report/10076664",
-          "date": "2026-09-10T07:47:11+00:00",
-          "category": "SMall hole causing major congestion issues"
         }
       ],
       "reddit": [],
@@ -790,15 +772,15 @@
       "reddit": [],
       "news": [
         {
-          "title": "Mezze Feast, South Norwood Community Kitchen, Oct 6",
-          "url": "https://insidecroydon.com/2026/10/03/mezze-feast-south-norwood-community-kitchen-oct-6-3/",
-          "date": "2026-10-03T08:53:52+00:00",
+          "title": "Sensible Garden gets spruced up for 50th anniversary of punk",
+          "url": "https://insidecroydon.com/2026/10/04/sensible-garden-gets-spruced-up-for-50th-anniversary-of-punk/",
+          "date": "2026-10-04T10:35:21+00:00",
           "publisher": "Inside Croydon"
         },
         {
-          "title": "Norwood Junction’s garden offers sunflowers and sanctuary",
-          "url": "https://insidecroydon.com/2026/09/23/norwood-junctions-garden-offers-sunflowers-and-sanctuary/",
-          "date": "2026-09-23T08:59:19+00:00",
+          "title": "Mezze Feast, South Norwood Community Kitchen, Oct 6",
+          "url": "https://insidecroydon.com/2026/10/03/mezze-feast-south-norwood-community-kitchen-oct-6-3/",
+          "date": "2026-10-03T08:53:52+00:00",
           "publisher": "Inside Croydon"
         }
       ]
