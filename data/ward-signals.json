@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-05T04:47:51.115141+00:00",
+    "generated_at": "2026-10-05T14:02:27.692322+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -114,12 +114,6 @@
           "url": "https://insidecroydon.com/2026/09/26/foam-factory-job-cuts-will-have-significant-impact-on-croydon/",
           "date": "2026-09-26T15:42:24+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Nike’s super shoes foam factory looks to cut 100 Croydon jobs",
-          "url": "https://insidecroydon.com/2026/09/23/nikes-super-shoes-foam-factory-looks-to-cut-100-croydon-jobs/",
-          "date": "2026-09-23T16:13:25+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -225,6 +219,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Haunted House Extreme, at Crystal Palace NSC, Oct 30 and 31",
+          "url": "https://insidecroydon.com/2026/10/05/haunted-house-extreme-at-crystal-palace-nsc-oct-30-and-31/",
+          "date": "2026-10-05T08:39:38+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Higher rents and rising costs force Paxton Centre to close",
           "url": "https://insidecroydon.com/2026/10/02/higher-rents-and-rising-costs-force-paxton-centre-to-close/",
           "date": "2026-10-02T14:18:29+00:00",
@@ -252,6 +252,12 @@
     },
     "Fairfield": {
       "fixmystreet": [
+        {
+          "title": "Cigarette butt bin needs emptying and cleaning., 5th October",
+          "url": "https://www.fixmystreet.com/report/10192690",
+          "date": "2026-10-05T06:37:04+00:00",
+          "category": null
+        },
         {
           "title": "Shocking amount of rubbish dumped that Croydon Council has ignored and not ckeared up, 21st September",
           "url": "https://www.fixmystreet.com/report/10127864",
@@ -354,12 +360,6 @@
           "title": "Abandoned traffic lights and roadworks, 7th September",
           "url": "https://www.fixmystreet.com/report/10059573",
           "date": "2026-09-07T07:22:13+00:00",
-          "category": null
-        },
-        {
-          "title": "Temporary traffic lights, 5th September",
-          "url": "https://www.fixmystreet.com/report/10052572",
-          "date": "2026-09-05T06:32:51+00:00",
           "category": null
         }
       ],
@@ -753,6 +753,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Checkatrade names Croydon sparky London’s top electrician",
+          "url": "https://insidecroydon.com/2026/10/05/checkatrade-names-croydon-sparky-londons-top-electrician/",
+          "date": "2026-10-05T09:20:53+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Indoor boot sale, St Paul’s Church Hall, South Croydon, Oct 3",
           "url": "https://insidecroydon.com/2026/09/30/indoor-boot-sale-st-pauls-church-hall-south-croydon-oct-3-2/",
           "date": "2026-09-30T09:46:25+00:00",
@@ -801,14 +807,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Norbury Brook River Revive Saturday, Thornton Heath, Sep 26",
-          "url": "https://insidecroydon.com/2026/09/24/norbury-brook-river-revive-saturday-thornton-heath-sep-26/",
-          "date": "2026-09-24T08:48:48+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Waddon": {
       "fixmystreet": [
@@ -850,14 +849,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Nike’s super shoes foam factory looks to cut 100 Croydon jobs",
-          "url": "https://insidecroydon.com/2026/09/23/nikes-super-shoes-foam-factory-looks-to-cut-100-croydon-jobs/",
-          "date": "2026-09-23T16:13:25+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Woodside": {
       "fixmystreet": [
