@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-05T14:02:27.692322+00:00",
+    "generated_at": "2026-10-05T23:55:35.335558+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -71,12 +71,6 @@
           "url": "https://insidecroydon.com/2026/09/30/music-at-the-oval-tavern-addiscombe-for-nov-free-entry/",
           "date": "2026-09-30T08:30:20+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Mystery after Grade II-listed Leslie Arms is pulled from auction",
-          "url": "https://insidecroydon.com/2026/09/24/mystery-after-grade-ii-listed-leslie-arms-is-pulled-from-auction/",
-          "date": "2026-09-24T11:12:09+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -120,6 +114,12 @@
     "Coulsdon Town": {
       "fixmystreet": [
         {
+          "title": "12 inch pot hole, 5th October",
+          "url": "https://www.fixmystreet.com/report/10196205",
+          "date": "2026-10-05T14:17:23+00:00",
+          "category": null
+        },
+        {
           "title": "20/264 traffic light covered by foliage, 25th September",
           "url": "https://www.fixmystreet.com/report/10152306",
           "date": "2026-09-25T14:37:45+00:00",
@@ -142,12 +142,6 @@
           "url": "https://www.fixmystreet.com/report/10072580",
           "date": "2026-09-09T10:42:01+00:00",
           "category": null
-        },
-        {
-          "title": "Tree is huge with low branches hitting the property, 5th September",
-          "url": "https://www.fixmystreet.com/report/10054759",
-          "date": "2026-09-05T16:29:40+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -155,6 +149,18 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "Raw sewage run off from neighboring building, 5th October",
+          "url": "https://www.fixmystreet.com/report/10197930",
+          "date": "2026-10-05T20:14:21+00:00",
+          "category": null
+        },
+        {
+          "title": "Sewer pipe from Alto building discharging raw sewage, 5th October",
+          "url": "https://www.fixmystreet.com/report/10196645",
+          "date": "2026-10-05T15:19:18+00:00",
+          "category": null
+        },
         {
           "title": "Traffic light and railings wiped out by a vehicle, 4th October",
           "url": "https://www.fixmystreet.com/report/10190012",
@@ -201,18 +207,6 @@
           "title": "Camper van, 24th September",
           "url": "https://www.fixmystreet.com/report/10144191",
           "date": "2026-09-24T08:59:20+00:00",
-          "category": null
-        },
-        {
-          "title": "Bin not emptied, overflowing, 23rd September",
-          "url": "https://www.fixmystreet.com/report/10139190",
-          "date": "2026-09-23T10:09:28+00:00",
-          "category": null
-        },
-        {
-          "title": "H Marking for a dropped kerb., 21st September",
-          "url": "https://www.fixmystreet.com/report/10127477",
-          "date": "2026-09-21T10:00:04+00:00",
           "category": null
         }
       ],
@@ -333,6 +327,12 @@
     "New Addington North": {
       "fixmystreet": [
         {
+          "title": "No tax no MOT, 5th October",
+          "url": "https://www.fixmystreet.com/report/10197415",
+          "date": "2026-10-05T17:52:28+00:00",
+          "category": null
+        },
+        {
           "title": "Blocking my driveway, 14th September",
           "url": "https://www.fixmystreet.com/report/10097238",
           "date": "2026-09-14T16:40:56+00:00",
@@ -386,6 +386,12 @@
     },
     "Norbury and Pollards Hill": {
       "fixmystreet": [
+        {
+          "title": "Litter all over the green, 5th October",
+          "url": "https://www.fixmystreet.com/report/10196768",
+          "date": "2026-10-05T15:36:01+00:00",
+          "category": null
+        },
         {
           "title": "This vehicle CAP885k has been dumped here for so long it is decaying into the tarmac. It has been many years., 4th October",
           "url": "https://www.fixmystreet.com/report/10191180",
