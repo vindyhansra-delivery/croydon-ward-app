@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T05:34:41.745857+00:00",
+    "generated_at": "2026-10-06T13:03:17.115121+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -302,15 +302,15 @@
     "Kenley": {
       "fixmystreet": [
         {
-          "title": "Parking on pavement, 19th September",
-          "url": "https://www.fixmystreet.com/report/10119936",
-          "date": "2026-09-19T07:01:08+00:00",
+          "title": "10 inch pothole which is 4 inches deep, 6th October",
+          "url": "https://www.fixmystreet.com/report/10199801",
+          "date": "2026-10-06T09:40:13+00:00",
           "category": null
         },
         {
-          "title": "Disabled Parking Bay, 6th September",
-          "url": "https://www.fixmystreet.com/report/10055781",
-          "date": "2026-09-06T06:22:53+00:00",
+          "title": "Parking on pavement, 19th September",
+          "url": "https://www.fixmystreet.com/report/10119936",
+          "date": "2026-09-19T07:01:08+00:00",
           "category": null
         }
       ],
@@ -364,7 +364,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Half tram network shut down for another two weeks’ works",
+          "url": "https://insidecroydon.com/2026/10/06/half-tram-network-shut-down-for-another-two-weeks-works/",
+          "date": "2026-10-06T11:08:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Norbury Park": {
       "fixmystreet": [
@@ -502,6 +509,12 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Fly tipping, 6th October",
+          "url": "https://www.fixmystreet.com/report/10199463",
+          "date": "2026-10-06T08:58:58+00:00",
+          "category": null
+        },
+        {
           "title": "Manhole cover is lose and making a noise every time a car goes over it, 2nd October",
           "url": "https://www.fixmystreet.com/report/10185626",
           "date": "2026-10-02T18:12:39+00:00",
@@ -520,12 +533,6 @@
           "title": "Sanderstead Lit: Newhart and Trump, condors and postcards",
           "url": "https://insidecroydon.com/2026/09/27/sanderstead-lit-newhart-and-trump-condors-and-postcards/",
           "date": "2026-09-27T09:26:42+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Outsourcing children’s home has proved costly and high risk",
-          "url": "https://insidecroydon.com/2026/09/24/outsourcing-childrens-home-has-proved-costly-and-high-risk/",
-          "date": "2026-09-24T12:59:40+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -639,12 +646,6 @@
           "title": "Furniture and clothing left on pavement, 7th September",
           "url": "https://www.fixmystreet.com/report/10059986",
           "date": "2026-09-07T08:13:00+00:00",
-          "category": null
-        },
-        {
-          "title": "Street lighting is very dim in tge evening/ night, 6th September",
-          "url": "https://www.fixmystreet.com/report/10055888",
-          "date": "2026-09-06T07:37:19+00:00",
           "category": null
         }
       ],
@@ -790,6 +791,18 @@
       "reddit": [],
       "news": [
         {
+          "title": "Half tram network shut down for another two weeks’ works",
+          "url": "https://insidecroydon.com/2026/10/06/half-tram-network-shut-down-for-another-two-weeks-works/",
+          "date": "2026-10-06T11:08:36+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Dick’s Picks to lesbian slime wrestling: Croydonites has it all",
+          "url": "https://insidecroydon.com/2026/10/06/dicks-picks-to-lesbian-slime-wrestling-croydonites-has-it-all/",
+          "date": "2026-10-06T09:37:08+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Sensible Garden gets spruced up for 50th anniversary of punk",
           "url": "https://insidecroydon.com/2026/10/04/sensible-garden-gets-spruced-up-for-50th-anniversary-of-punk/",
           "date": "2026-10-04T10:35:21+00:00",
@@ -915,7 +928,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Half tram network shut down for another two weeks’ works",
+          "url": "https://insidecroydon.com/2026/10/06/half-tram-network-shut-down-for-another-two-weeks-works/",
+          "date": "2026-10-06T11:08:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     }
   }
 }
