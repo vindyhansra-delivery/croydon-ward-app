@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T13:03:17.115121+00:00",
+    "generated_at": "2026-10-06T22:32:53.422637+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -80,12 +80,6 @@
           "title": "Flytipping, 24th September",
           "url": "https://www.fixmystreet.com/report/10147463",
           "date": "2026-09-24T16:30:31+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned car, 6th September",
-          "url": "https://www.fixmystreet.com/report/10057891",
-          "date": "2026-09-06T16:07:08+00:00",
           "category": null
         }
       ],
@@ -280,6 +274,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Win a pair of tickets for The Stylistics’ Fairfield Halls concert",
+          "url": "https://insidecroydon.com/2026/10/06/win-a-pair-of-tickets-for-the-stylistics-fairfield-halls-concert/",
+          "date": "2026-10-06T13:32:18+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "How Mary Care and Operation Crocus changed lives in Croydon",
           "url": "https://insidecroydon.com/2026/10/04/how-mary-care-and-operation-crocus-changed-lives-in-croydon/",
           "date": "2026-10-04T11:20:59+00:00",
@@ -344,6 +344,12 @@
     },
     "New Addington South": {
       "fixmystreet": [
+        {
+          "title": "Possible hazardous wasn't, 6th October",
+          "url": "https://www.fixmystreet.com/report/10202577",
+          "date": "2026-10-06T16:08:47+00:00",
+          "category": null
+        },
         {
           "title": "Dumped rubbish with gas bottle and car fuel tank, 16th September",
           "url": "https://www.fixmystreet.com/report/10109470",
@@ -473,12 +479,6 @@
           "url": "https://insidecroydon.com/2026/10/03/walk-and-talk-riddlesdown-weekly-every-sunday-from-9am-3/",
           "date": "2026-10-03T09:54:43+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Tories’ unlawful conduct putting Croydon on highway to hell",
-          "url": "https://insidecroydon.com/2026/09/25/tories-unlawful-conduct-putting-croydon-on-highway-to-hell/",
-          "date": "2026-09-25T16:49:59+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -558,6 +558,12 @@
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
+        {
+          "title": "Defective gully, 6th October",
+          "url": "https://www.fixmystreet.com/report/10203612",
+          "date": "2026-10-06T21:08:51+00:00",
+          "category": null
+        },
         {
           "title": "Incorrect details on street signage, 26th September",
           "url": "https://www.fixmystreet.com/report/10156113",
@@ -721,6 +727,12 @@
     "South Croydon": {
       "fixmystreet": [
         {
+          "title": "Birds poo, 6th October",
+          "url": "https://www.fixmystreet.com/report/10202591",
+          "date": "2026-10-06T16:10:56+00:00",
+          "category": null
+        },
+        {
           "title": "Someone block our driveway, 1st October",
           "url": "https://www.fixmystreet.com/report/10181089",
           "date": "2026-10-01T19:26:56+00:00",
@@ -872,6 +884,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Glass in road, 6th October",
+          "url": "https://www.fixmystreet.com/report/10202759",
+          "date": "2026-10-06T16:44:35+00:00",
+          "category": null
+        },
         {
           "title": "Dead fox, 24th September",
           "url": "https://www.fixmystreet.com/report/10146720",
