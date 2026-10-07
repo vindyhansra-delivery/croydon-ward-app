@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-07T12:57:44.160087+00:00",
+    "generated_at": "2026-10-07T22:56:14.263658+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -77,6 +77,12 @@
     "Bensham Manor": {
       "fixmystreet": [
         {
+          "title": "Abandoned vehicle in front of my driveway, 7th October",
+          "url": "https://www.fixmystreet.com/report/10208573",
+          "date": "2026-10-07T21:35:40+00:00",
+          "category": null
+        },
+        {
           "title": "Flytipping, 24th September",
           "url": "https://www.fixmystreet.com/report/10147463",
           "date": "2026-09-24T16:30:31+00:00",
@@ -96,14 +102,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Foam factory job cuts will have ‘significant’ impact on Croydon",
-          "url": "https://insidecroydon.com/2026/09/26/foam-factory-job-cuts-will-have-significant-impact-on-croydon/",
-          "date": "2026-09-26T15:42:24+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Coulsdon Town": {
       "fixmystreet": [
@@ -332,6 +331,12 @@
     },
     "New Addington North": {
       "fixmystreet": [
+        {
+          "title": "Frimly close, 7th October",
+          "url": "https://www.fixmystreet.com/report/10208585",
+          "date": "2026-10-07T21:43:22+00:00",
+          "category": null
+        },
         {
           "title": "No tax no MOT, 5th October",
           "url": "https://www.fixmystreet.com/report/10197415",
@@ -761,12 +766,6 @@
           "url": "https://www.fixmystreet.com/report/10078890",
           "date": "2026-09-10T12:50:00+00:00",
           "category": null
-        },
-        {
-          "title": "Tree fallen blocking path, 7th September",
-          "url": "https://www.fixmystreet.com/report/10063818",
-          "date": "2026-09-07T16:12:11+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -791,12 +790,6 @@
           "title": "Foul sewer overflowing persistently from manhole, 21st September",
           "url": "https://www.fixmystreet.com/report/10129832",
           "date": "2026-09-21T15:34:50+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned vehicle, 7th September",
-          "url": "https://www.fixmystreet.com/report/10064493",
-          "date": "2026-09-07T18:14:05+00:00",
           "category": null
         }
       ],
@@ -890,6 +883,18 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Large crater. Loose gravel. High hump damaging vehicles., 7th October",
+          "url": "https://www.fixmystreet.com/report/10207814",
+          "date": "2026-10-07T16:56:29+00:00",
+          "category": null
+        },
+        {
+          "title": "Green pipe discharging bleach into South Norwood Stream, 7th October",
+          "url": "https://www.fixmystreet.com/report/10207076",
+          "date": "2026-10-07T14:22:10+00:00",
+          "category": null
+        },
         {
           "title": "Glass in road, 6th October",
           "url": "https://www.fixmystreet.com/report/10202759",
