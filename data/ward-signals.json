@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-08T05:15:08.506060+00:00",
+    "generated_at": "2026-10-08T13:06:09.213123+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -206,6 +206,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Family Haunted House Spook Fest, Crystal Palace, Oct 16-18",
+          "url": "https://insidecroydon.com/2026/10/08/family-haunted-house-spook-fest-crystal-palace-oct-16-18-2/",
+          "date": "2026-10-08T08:00:58+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Haunted House Extreme, at Crystal Palace NSC, Oct 30 and 31",
           "url": "https://insidecroydon.com/2026/10/05/haunted-house-extreme-at-crystal-palace-nsc-oct-30-and-31/",
           "date": "2026-10-05T08:39:38+00:00",
@@ -227,12 +233,6 @@
           "title": "Parish admits Palace don’t have funding for £200m new stand",
           "url": "https://insidecroydon.com/2026/09/28/parish-admits-palace-dont-have-funding-for-200m-new-stand/",
           "date": "2026-09-28T11:46:52+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Family Haunted House Spook Fest, Crystal Palace, Oct 16-18",
-          "url": "https://insidecroydon.com/2026/09/28/haunted-house-spook-fest-crystal-palace-nsc-oct-16-18/",
-          "date": "2026-09-28T08:32:55+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -356,6 +356,12 @@
     "New Addington South": {
       "fixmystreet": [
         {
+          "title": "Openly flytipping then burning it, 8th October",
+          "url": "https://www.fixmystreet.com/report/10209302",
+          "date": "2026-10-08T07:30:09+00:00",
+          "category": null
+        },
+        {
           "title": "Possible hazardous wasn't, 6th October",
           "url": "https://www.fixmystreet.com/report/10202577",
           "date": "2026-10-06T16:08:47+00:00",
@@ -365,12 +371,6 @@
           "title": "Dumped rubbish with gas bottle and car fuel tank, 16th September",
           "url": "https://www.fixmystreet.com/report/10109470",
           "date": "2026-09-16T20:24:23+00:00",
-          "category": null
-        },
-        {
-          "title": "Been here for over a month, 8th September",
-          "url": "https://www.fixmystreet.com/report/10067387",
-          "date": "2026-09-08T11:17:05+00:00",
           "category": null
         }
       ],
@@ -434,6 +434,12 @@
     },
     "Old Coulsdon": {
       "fixmystreet": [
+        {
+          "title": "Temporary traffic light, 8th October",
+          "url": "https://www.fixmystreet.com/report/10209358",
+          "date": "2026-10-08T07:42:06+00:00",
+          "category": null
+        },
         {
           "title": "Beds and matresses., 1st October",
           "url": "https://www.fixmystreet.com/report/10177860",
@@ -539,14 +545,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Sanderstead Lit: Newhart and Trump, condors and postcards",
-          "url": "https://insidecroydon.com/2026/09/27/sanderstead-lit-newhart-and-trump-condors-and-postcards/",
-          "date": "2026-09-27T09:26:42+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Selhurst": {
       "fixmystreet": [
@@ -559,6 +558,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Sarah Reynolds’ partner guilty of murder and coercive control",
+          "url": "https://insidecroydon.com/2026/10/08/sarah-reynolds-partner-guilty-of-murder-and-coercive-control/",
+          "date": "2026-10-08T09:51:10+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Parish admits Palace don’t have funding for £200m new stand",
           "url": "https://insidecroydon.com/2026/09/28/parish-admits-palace-dont-have-funding-for-200m-new-stand/",
@@ -796,6 +801,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Sarah Reynolds’ partner guilty of murder and coercive control",
+          "url": "https://insidecroydon.com/2026/10/08/sarah-reynolds-partner-guilty-of-murder-and-coercive-control/",
+          "date": "2026-10-08T09:51:10+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
           "url": "https://insidecroydon.com/2026/10/07/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21/",
           "date": "2026-10-07T08:44:19+00:00",
@@ -817,12 +828,6 @@
           "title": "Sensible Garden gets spruced up for 50th anniversary of punk",
           "url": "https://insidecroydon.com/2026/10/04/sensible-garden-gets-spruced-up-for-50th-anniversary-of-punk/",
           "date": "2026-10-04T10:35:21+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Mezze Feast, South Norwood Community Kitchen, Oct 6",
-          "url": "https://insidecroydon.com/2026/10/03/mezze-feast-south-norwood-community-kitchen-oct-6-3/",
-          "date": "2026-10-03T08:53:52+00:00",
           "publisher": "Inside Croydon"
         }
       ]
