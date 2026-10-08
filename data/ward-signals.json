@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-08T13:06:09.213123+00:00",
+    "generated_at": "2026-10-08T23:08:25.479026+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "Graffiti on on walls under Arch on both sides, 8th October",
+          "url": "https://www.fixmystreet.com/report/10211944",
+          "date": "2026-10-08T15:25:49+00:00",
+          "category": null
+        },
         {
           "title": "3 areas of flytipping, Outram rd, 1st October",
           "url": "https://www.fixmystreet.com/report/10181370",
@@ -228,12 +234,6 @@
           "url": "https://insidecroydon.com/2026/10/01/family-haunted-house-spook-fest-crystal-palace-oct-16-18/",
           "date": "2026-10-01T08:30:10+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Parish admits Palace don’t have funding for £200m new stand",
-          "url": "https://insidecroydon.com/2026/09/28/parish-admits-palace-dont-have-funding-for-200m-new-stand/",
-          "date": "2026-09-28T11:46:52+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -273,6 +273,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "‘Digital first’ council fails to achieve basic level of competence",
+          "url": "https://insidecroydon.com/2026/10/08/digital-first-council-fails-to-achieve-basic-level-of-competence/",
+          "date": "2026-10-08T13:58:08+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Muffin Break makes £300,000 move into Croydon’s North End",
           "url": "https://insidecroydon.com/2026/10/07/muffin-break-makes-300000-move-into-croydons-north-end/",
           "date": "2026-10-07T09:53:53+00:00",
@@ -294,12 +300,6 @@
           "title": "Bingo! Plus live music, quiz nights, darts at Surrey Cricketers",
           "url": "https://insidecroydon.com/2026/10/04/bingo-plus-live-music-quiz-nights-darts-at-surrey-cricketers-3/",
           "date": "2026-10-04T09:49:02+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Sing-a-long-a-Sheeran as Croydon choir stages open evening",
-          "url": "https://insidecroydon.com/2026/10/01/sing-a-long-a-sheeran-as-croydon-choir-stages-open-evening/",
-          "date": "2026-10-01T09:21:09+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -562,12 +562,6 @@
           "title": "Sarah Reynolds’ partner guilty of murder and coercive control",
           "url": "https://insidecroydon.com/2026/10/08/sarah-reynolds-partner-guilty-of-murder-and-coercive-control/",
           "date": "2026-10-08T09:51:10+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Parish admits Palace don’t have funding for £200m new stand",
-          "url": "https://insidecroydon.com/2026/09/28/parish-admits-palace-dont-have-funding-for-200m-new-stand/",
-          "date": "2026-09-28T11:46:52+00:00",
           "publisher": "Inside Croydon"
         }
       ]
