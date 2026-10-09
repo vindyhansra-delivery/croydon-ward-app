@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-09T12:52:25.615853+00:00",
+    "generated_at": "2026-10-09T22:28:56.502056+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -70,12 +70,6 @@
           "title": "Music at The Oval Tavern, Addiscombe, through Oct. Free entry",
           "url": "https://insidecroydon.com/2026/10/02/music-at-the-oval-tavern-addiscombe-through-oct-free-entry-2/",
           "date": "2026-10-02T08:46:40+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Music at The Oval Tavern, Addiscombe, for Nov. Free entry",
-          "url": "https://insidecroydon.com/2026/09/30/music-at-the-oval-tavern-addiscombe-for-nov-free-entry/",
-          "date": "2026-09-30T08:30:20+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -240,6 +234,12 @@
     "Fairfield": {
       "fixmystreet": [
         {
+          "title": "Wasp nest in grass verge, 9th October",
+          "url": "https://www.fixmystreet.com/report/10216826",
+          "date": "2026-10-09T14:08:23+00:00",
+          "category": null
+        },
+        {
           "title": "Cigarette butt bin needs emptying and cleaning., 5th October",
           "url": "https://www.fixmystreet.com/report/10192690",
           "date": "2026-10-05T06:37:04+00:00",
@@ -273,6 +273,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Greens call for audit investigation into possible fraud at council",
+          "url": "https://insidecroydon.com/2026/10/09/greens-call-for-audit-investigation-into-possible-fraud-at-council/",
+          "date": "2026-10-09T15:21:54+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Debt collectors, Met Police and DWP: a world of opportunities",
           "url": "https://insidecroydon.com/2026/10/09/debt-collectors-met-police-and-dwp-a-world-of-opportunities/",
           "date": "2026-10-09T10:58:16+00:00",
@@ -294,12 +300,6 @@
           "title": "Win a pair of tickets for The Stylistics’ Fairfield Halls concert",
           "url": "https://insidecroydon.com/2026/10/06/win-a-pair-of-tickets-for-the-stylistics-fairfield-halls-concert/",
           "date": "2026-10-06T13:32:18+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "How Mary Care and Operation Crocus changed lives in Croydon",
-          "url": "https://insidecroydon.com/2026/10/04/how-mary-care-and-operation-crocus-changed-lives-in-croydon/",
-          "date": "2026-10-04T11:20:59+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -744,6 +744,12 @@
     "South Croydon": {
       "fixmystreet": [
         {
+          "title": "Broken item in playground, 9th October",
+          "url": "https://www.fixmystreet.com/report/10216979",
+          "date": "2026-10-09T14:33:35+00:00",
+          "category": null
+        },
+        {
           "title": "Birds poo, 6th October",
           "url": "https://www.fixmystreet.com/report/10202591",
           "date": "2026-10-06T16:10:56+00:00",
@@ -858,16 +864,17 @@
           "url": "https://www.fixmystreet.com/report/10085398",
           "date": "2026-09-11T16:53:46+00:00",
           "category": null
-        },
-        {
-          "title": "Parked wrong on one way street, 9th September",
-          "url": "https://www.fixmystreet.com/report/10074793",
-          "date": "2026-09-09T16:41:22+00:00",
-          "category": null
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Owner makes emotional appeal for return of missing Milton",
+          "url": "https://insidecroydon.com/2026/10/09/owner-makes-emotional-appeal-for-return-of-missing-milton/",
+          "date": "2026-10-09T13:53:55+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "West Thornton": {
       "fixmystreet": [
@@ -895,6 +902,18 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Abandoned trailer, 9th October",
+          "url": "https://www.fixmystreet.com/report/10217729",
+          "date": "2026-10-09T17:06:49+00:00",
+          "category": null
+        },
+        {
+          "title": "Flooding, 9th October",
+          "url": "https://www.fixmystreet.com/report/10216851",
+          "date": "2026-10-09T14:12:21+00:00",
+          "category": null
+        },
         {
           "title": "Large crater. Loose gravel. High hump damaging vehicles., 7th October",
           "url": "https://www.fixmystreet.com/report/10207814",
@@ -941,18 +960,6 @@
           "title": "Hole in boundary fence between park and tram line, 14th September",
           "url": "https://www.fixmystreet.com/report/10095067",
           "date": "2026-09-14T11:30:50+00:00",
-          "category": null
-        },
-        {
-          "title": "Huge and deep pot hole, 11th September",
-          "url": "https://www.fixmystreet.com/report/10085609",
-          "date": "2026-09-11T17:49:21+00:00",
-          "category": null
-        },
-        {
-          "title": "Pothole, 11th September",
-          "url": "https://www.fixmystreet.com/report/10081687",
-          "date": "2026-09-11T06:41:56+00:00",
           "category": null
         }
       ],
