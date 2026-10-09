@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-09T05:17:40.515070+00:00",
+    "generated_at": "2026-10-09T12:52:25.615853+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -113,6 +113,12 @@
     "Coulsdon Town": {
       "fixmystreet": [
         {
+          "title": "Aldi supermarket, Brighton Road, Coulsdon, 9th October",
+          "url": "https://www.fixmystreet.com/report/10215756",
+          "date": "2026-10-09T11:24:52+00:00",
+          "category": null
+        },
+        {
           "title": "12 inch pot hole, 5th October",
           "url": "https://www.fixmystreet.com/report/10196205",
           "date": "2026-10-05T14:17:23+00:00",
@@ -134,12 +140,6 @@
           "title": "Car abandoned on the pavement, 10th September",
           "url": "https://www.fixmystreet.com/report/10077073",
           "date": "2026-09-10T08:39:55+00:00",
-          "category": null
-        },
-        {
-          "title": "O/S No 42 Woodmansterne Road, 9th September",
-          "url": "https://www.fixmystreet.com/report/10072580",
-          "date": "2026-09-09T10:42:01+00:00",
           "category": null
         }
       ],
@@ -273,6 +273,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Debt collectors, Met Police and DWP: a world of opportunities",
+          "url": "https://insidecroydon.com/2026/10/09/debt-collectors-met-police-and-dwp-a-world-of-opportunities/",
+          "date": "2026-10-09T10:58:16+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "‘Digital first’ council fails to achieve basic level of competence",
           "url": "https://insidecroydon.com/2026/10/08/digital-first-council-fails-to-achieve-basic-level-of-competence/",
           "date": "2026-10-08T13:58:08+00:00",
@@ -295,12 +301,6 @@
           "url": "https://insidecroydon.com/2026/10/04/how-mary-care-and-operation-crocus-changed-lives-in-croydon/",
           "date": "2026-10-04T11:20:59+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Bingo! Plus live music, quiz nights, darts at Surrey Cricketers",
-          "url": "https://insidecroydon.com/2026/10/04/bingo-plus-live-music-quiz-nights-darts-at-surrey-cricketers-3/",
-          "date": "2026-10-04T09:49:02+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -320,14 +320,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Rail crossing needed safety works 2 years before boy’s death",
-          "url": "https://insidecroydon.com/2026/09/28/rail-crossing-needed-safety-works-2-years-before-boys-death/",
-          "date": "2026-09-28T13:40:18+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "New Addington North": {
       "fixmystreet": [
@@ -376,6 +369,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "MP Irons wades in to row over New Addington tram closures",
+          "url": "https://insidecroydon.com/2026/10/09/mp-irons-wades-in-to-row-over-new-addington-tram-closures/",
+          "date": "2026-10-09T11:39:36+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Half tram network shut down for another two weeks’ works",
           "url": "https://insidecroydon.com/2026/10/06/half-tram-network-shut-down-for-another-two-weeks-works/",
@@ -512,12 +511,6 @@
           "url": "https://www.fixmystreet.com/report/10088893",
           "date": "2026-09-12T18:49:58+00:00",
           "category": null
-        },
-        {
-          "title": "Long deep indentation in tarmac., 9th September",
-          "url": "https://www.fixmystreet.com/report/10072851",
-          "date": "2026-09-09T11:17:55+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -549,6 +542,12 @@
     },
     "Selhurst": {
       "fixmystreet": [
+        {
+          "title": "Lots of rubbish, 9th October",
+          "url": "https://www.fixmystreet.com/report/10214706",
+          "date": "2026-10-09T09:07:05+00:00",
+          "category": null
+        },
         {
           "title": "Over hanhmging trees at Bus stop Selhurst new rd., 14th September",
           "url": "https://www.fixmystreet.com/report/10096159",
@@ -582,7 +581,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Selsdon book shop where customers decide what price to pay",
+          "url": "https://insidecroydon.com/2026/10/09/selsdon-book-shop-where-customers-decide-what-price-to-pay/",
+          "date": "2026-10-09T09:21:56+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
@@ -618,7 +624,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Selsdon book shop where customers decide what price to pay",
+          "url": "https://insidecroydon.com/2026/10/09/selsdon-book-shop-where-customers-decide-what-price-to-pay/",
+          "date": "2026-10-09T09:21:56+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Shirley North": {
       "fixmystreet": [
