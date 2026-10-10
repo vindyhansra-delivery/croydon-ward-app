@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T12:10:31.968821+00:00",
+    "generated_at": "2026-10-10T21:24:34.290289+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -200,6 +200,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Fashion shows and swap shops in Crystal Palace this week",
+          "url": "https://insidecroydon.com/2026/10/10/fashion-shows-and-swap-shops-in-crystal-palace-this-week/",
+          "date": "2026-10-10T13:39:29+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Family Haunted House Spook Fest, Crystal Palace, Oct 16-18",
           "url": "https://insidecroydon.com/2026/10/08/family-haunted-house-spook-fest-crystal-palace-oct-16-18-2/",
           "date": "2026-10-08T08:00:58+00:00",
@@ -215,12 +221,6 @@
           "title": "Higher rents and rising costs force Paxton Centre to close",
           "url": "https://insidecroydon.com/2026/10/02/higher-rents-and-rising-costs-force-paxton-centre-to-close/",
           "date": "2026-10-02T14:18:29+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Family Haunted House Spook Fest, Crystal Palace, Oct 16-18",
-          "url": "https://insidecroydon.com/2026/10/01/family-haunted-house-spook-fest-crystal-palace-oct-16-18/",
-          "date": "2026-10-01T08:30:10+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -772,18 +772,6 @@
           "url": "https://www.fixmystreet.com/report/10130021",
           "date": "2026-09-21T16:04:56+00:00",
           "category": null
-        },
-        {
-          "title": "Upper end of Footpath 605, behind Tirlemont Road, 10th September",
-          "url": "https://www.fixmystreet.com/report/10078909",
-          "date": "2026-09-10T12:53:21+00:00",
-          "category": null
-        },
-        {
-          "title": "Pavement needs attention outside No 57 St Augustine's Ave, South Croydon., 10th September",
-          "url": "https://www.fixmystreet.com/report/10078890",
-          "date": "2026-09-10T12:50:00+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -853,6 +841,12 @@
     },
     "Waddon": {
       "fixmystreet": [
+        {
+          "title": "Food waste collection missed, 10th October",
+          "url": "https://www.fixmystreet.com/report/10220252",
+          "date": "2026-10-10T15:12:41+00:00",
+          "category": null
+        },
         {
           "title": "Cars coming out of one way street to on coming traffic from Denning Avenue, 11th September",
           "url": "https://www.fixmystreet.com/report/10085398",
