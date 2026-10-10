@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T05:02:50.226343+00:00",
+    "generated_at": "2026-10-10T12:10:31.968821+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -128,12 +128,6 @@
           "title": "Sewage smell, 11th September",
           "url": "https://www.fixmystreet.com/report/10083285",
           "date": "2026-09-11T12:00:41+00:00",
-          "category": null
-        },
-        {
-          "title": "Car abandoned on the pavement, 10th September",
-          "url": "https://www.fixmystreet.com/report/10077073",
-          "date": "2026-09-10T08:39:55+00:00",
           "category": null
         }
       ],
@@ -273,6 +267,18 @@
       "reddit": [],
       "news": [
         {
+          "title": "Handel’s Messiah, Croydon Philharmonic Choir, Sat Dec 19",
+          "url": "https://insidecroydon.com/2026/10/10/handels-messiah-croydon-philharmonic-choir-sat-dec-19/",
+          "date": "2026-10-10T09:48:43+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "Bingo! Plus live music, quiz nights, darts at Surrey Cricketers",
+          "url": "https://insidecroydon.com/2026/10/10/bingo-plus-live-music-quiz-nights-darts-at-surrey-cricketers-5/",
+          "date": "2026-10-10T08:43:01+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Greens call for audit investigation into possible fraud at council",
           "url": "https://insidecroydon.com/2026/10/09/greens-call-for-audit-investigation-into-possible-fraud-at-council/",
           "date": "2026-10-09T15:21:54+00:00",
@@ -288,18 +294,6 @@
           "title": "‘Digital first’ council fails to achieve basic level of competence",
           "url": "https://insidecroydon.com/2026/10/08/digital-first-council-fails-to-achieve-basic-level-of-competence/",
           "date": "2026-10-08T13:58:08+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Muffin Break makes £300,000 move into Croydon’s North End",
-          "url": "https://insidecroydon.com/2026/10/07/muffin-break-makes-300000-move-into-croydons-north-end/",
-          "date": "2026-10-07T09:53:53+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Win a pair of tickets for The Stylistics’ Fairfield Halls concert",
-          "url": "https://insidecroydon.com/2026/10/06/win-a-pair-of-tickets-for-the-stylistics-fairfield-halls-concert/",
-          "date": "2026-10-06T13:32:18+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -403,6 +397,12 @@
     },
     "Norbury and Pollards Hill": {
       "fixmystreet": [
+        {
+          "title": "Two planks of wood, bricks and flower pots dumped on curb by the road, 10th October",
+          "url": "https://www.fixmystreet.com/report/10219533",
+          "date": "2026-10-10T11:57:26+00:00",
+          "category": null
+        },
         {
           "title": "Litter all over the green, 5th October",
           "url": "https://www.fixmystreet.com/report/10196768",
@@ -793,12 +793,6 @@
           "url": "https://insidecroydon.com/2026/10/05/checkatrade-names-croydon-sparky-londons-top-electrician/",
           "date": "2026-10-05T09:20:53+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Indoor boot sale, St Paul’s Church Hall, South Croydon, Oct 3",
-          "url": "https://insidecroydon.com/2026/09/30/indoor-boot-sale-st-pauls-church-hall-south-croydon-oct-3-2/",
-          "date": "2026-09-30T09:46:25+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -903,6 +897,24 @@
     "Woodside": {
       "fixmystreet": [
         {
+          "title": "Abandoned Trailer, 10th October",
+          "url": "https://www.fixmystreet.com/report/10219173",
+          "date": "2026-10-10T10:23:28+00:00",
+          "category": null
+        },
+        {
+          "title": "Council rubbish not collected, 10th October",
+          "url": "https://www.fixmystreet.com/report/10219149",
+          "date": "2026-10-10T10:17:17+00:00",
+          "category": null
+        },
+        {
+          "title": "Shopping trolley and more, 10th October",
+          "url": "https://www.fixmystreet.com/report/10219138",
+          "date": "2026-10-10T10:15:35+00:00",
+          "category": null
+        },
+        {
           "title": "Abandoned trailer, 9th October",
           "url": "https://www.fixmystreet.com/report/10217729",
           "date": "2026-10-09T17:06:49+00:00",
@@ -942,24 +954,6 @@
           "title": "Light not working, 22nd September",
           "url": "https://www.fixmystreet.com/report/10135025",
           "date": "2026-09-22T14:54:37+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead fox west pavement, 18th September",
-          "url": "https://www.fixmystreet.com/report/10118790",
-          "date": "2026-09-18T16:09:09+00:00",
-          "category": null
-        },
-        {
-          "title": "Full bins in South Norwood, 15th September",
-          "url": "https://www.fixmystreet.com/report/10099023",
-          "date": "2026-09-15T07:46:33+00:00",
-          "category": null
-        },
-        {
-          "title": "Hole in boundary fence between park and tram line, 14th September",
-          "url": "https://www.fixmystreet.com/report/10095067",
-          "date": "2026-09-14T11:30:50+00:00",
           "category": null
         }
       ],
