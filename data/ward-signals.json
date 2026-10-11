@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-11T04:50:51.498981+00:00",
+    "generated_at": "2026-10-11T12:24:33.965391+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -65,12 +65,6 @@
           "url": "https://insidecroydon.com/2026/10/02/237978/",
           "date": "2026-10-02T11:03:19+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Music at The Oval Tavern, Addiscombe, through Oct. Free entry",
-          "url": "https://insidecroydon.com/2026/10/02/music-at-the-oval-tavern-addiscombe-through-oct-free-entry-2/",
-          "date": "2026-10-02T08:46:40+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -122,12 +116,6 @@
           "title": "20/264 traffic light covered by foliage, 25th September",
           "url": "https://www.fixmystreet.com/report/10152306",
           "date": "2026-09-25T14:37:45+00:00",
-          "category": null
-        },
-        {
-          "title": "Sewage smell, 11th September",
-          "url": "https://www.fixmystreet.com/report/10083285",
-          "date": "2026-09-11T12:00:41+00:00",
           "category": null
         }
       ],
@@ -796,6 +784,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
+          "url": "https://insidecroydon.com/2026/10/11/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21-2/",
+          "date": "2026-10-11T09:01:24+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Sarah Reynolds’ partner guilty of murder and coercive control",
           "url": "https://insidecroydon.com/2026/10/08/sarah-reynolds-partner-guilty-of-murder-and-coercive-control/",
           "date": "2026-10-08T09:51:10+00:00",
@@ -818,12 +812,6 @@
           "url": "https://insidecroydon.com/2026/10/06/dicks-picks-to-lesbian-slime-wrestling-croydonites-has-it-all/",
           "date": "2026-10-06T09:37:08+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Sensible Garden gets spruced up for 50th anniversary of punk",
-          "url": "https://insidecroydon.com/2026/10/04/sensible-garden-gets-spruced-up-for-50th-anniversary-of-punk/",
-          "date": "2026-10-04T10:35:21+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -841,6 +829,12 @@
     },
     "Waddon": {
       "fixmystreet": [
+        {
+          "title": "Abandoned Van, 11th October",
+          "url": "https://www.fixmystreet.com/report/10221414",
+          "date": "2026-10-11T08:19:27+00:00",
+          "category": null
+        },
         {
           "title": "Food waste collection missed, 10th October",
           "url": "https://www.fixmystreet.com/report/10220252",
