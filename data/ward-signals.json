@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-13T13:52:22.288498+00:00",
+    "generated_at": "2026-10-13T22:30:34.665176+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -62,20 +62,7 @@
       "news": []
     },
     "Bensham Manor": {
-      "fixmystreet": [
-        {
-          "title": "Abandoned vehicle in front of my driveway, 7th October",
-          "url": "https://www.fixmystreet.com/report/10208573",
-          "date": "2026-10-07T21:35:40+00:00",
-          "category": null
-        },
-        {
-          "title": "Flytipping, 24th September",
-          "url": "https://www.fixmystreet.com/report/10147463",
-          "date": "2026-09-24T16:30:31+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
@@ -244,12 +231,6 @@
           "url": "https://www.fixmystreet.com/report/10100237",
           "date": "2026-09-15T09:42:03+00:00",
           "category": null
-        },
-        {
-          "title": "Sunken drain on pavement, 13th September",
-          "url": "https://www.fixmystreet.com/report/10091768",
-          "date": "2026-09-13T17:30:48+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -350,6 +331,12 @@
     },
     "New Addington South": {
       "fixmystreet": [
+        {
+          "title": "Abandoned cars in public parking spaces, 13th October",
+          "url": "https://www.fixmystreet.com/report/10233888",
+          "date": "2026-10-13T17:17:08+00:00",
+          "category": null
+        },
         {
           "title": "Dead fox in the middle of the road, 12th October",
           "url": "https://www.fixmystreet.com/report/10224987",
@@ -825,6 +812,12 @@
     "South Norwood": {
       "fixmystreet": [
         {
+          "title": "Top bar of barrier for bikes/scooters removed, 13th October",
+          "url": "https://www.fixmystreet.com/report/10233356",
+          "date": "2026-10-13T15:17:31+00:00",
+          "category": null
+        },
+        {
           "title": "Dead rat lying near park bench, 13th October",
           "url": "https://www.fixmystreet.com/report/10230370",
           "date": "2026-10-13T07:52:55+00:00",
@@ -873,6 +866,12 @@
     },
     "Thornton Heath": {
       "fixmystreet": [
+        {
+          "title": "Unable to enter and leave driveway safely car is parked to far over driveway, 13th October",
+          "url": "https://www.fixmystreet.com/report/10233321",
+          "date": "2026-10-13T15:10:30+00:00",
+          "category": null
+        },
         {
           "title": "Car infringing car parking unable to drive in and out of driveway safely, 13th October",
           "url": "https://www.fixmystreet.com/report/10230061",
