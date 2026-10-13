@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-13T00:22:18.655621+00:00",
+    "generated_at": "2026-10-13T13:52:22.288498+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -125,6 +125,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Rubbish in front of the cafe, 13th October",
+          "url": "https://www.fixmystreet.com/report/10230317",
+          "date": "2026-10-13T07:39:45+00:00",
+          "category": null
+        },
+        {
           "title": "Outgrown bushes, 12th October",
           "url": "https://www.fixmystreet.com/report/10224192",
           "date": "2026-10-12T04:49:38+00:00",
@@ -177,16 +183,16 @@
           "url": "https://www.fixmystreet.com/report/10165503",
           "date": "2026-09-28T22:14:22+00:00",
           "category": null
-        },
-        {
-          "title": "Bin not emptied contents overflowing, 24th September",
-          "url": "https://www.fixmystreet.com/report/10146274",
-          "date": "2026-09-24T13:24:32+00:00",
-          "category": null
         }
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Haunted House Extreme, at Crystal Palace NSC, Oct 30 and 31",
+          "url": "https://insidecroydon.com/2026/10/13/haunted-house-extreme-at-crystal-palace-nsc-oct-30-and-31-2/",
+          "date": "2026-10-13T08:42:52+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Fashion shows and swap shops in Crystal Palace this week",
           "url": "https://insidecroydon.com/2026/10/10/fashion-shows-and-swap-shops-in-crystal-palace-this-week/",
@@ -249,6 +255,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "‘Everything must go!’: TG Jones joins Whitgift Centre exodus",
+          "url": "https://insidecroydon.com/2026/10/13/everything-must-go-tg-jones-joins-whitgift-centre-exodus/",
+          "date": "2026-10-13T12:24:53+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Handel’s Messiah, Croydon Philharmonic Choir, Sat Dec 19",
           "url": "https://insidecroydon.com/2026/10/10/handels-messiah-croydon-philharmonic-choir-sat-dec-19/",
           "date": "2026-10-10T09:48:43+00:00",
@@ -270,12 +282,6 @@
           "title": "Debt collectors, Met Police and DWP: a world of opportunities",
           "url": "https://insidecroydon.com/2026/10/09/debt-collectors-met-police-and-dwp-a-world-of-opportunities/",
           "date": "2026-10-09T10:58:16+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "‘Digital first’ council fails to achieve basic level of competence",
-          "url": "https://insidecroydon.com/2026/10/08/digital-first-council-fails-to-achieve-basic-level-of-competence/",
-          "date": "2026-10-08T13:58:08+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -302,7 +308,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Croydon households on flood alert for impact of ‘Godzilla’",
+          "url": "https://insidecroydon.com/2026/10/13/croydon-households-on-flood-alert-for-impact-of-godzilla/",
+          "date": "2026-10-13T10:29:17+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "New Addington North": {
       "fixmystreet": [
@@ -504,15 +517,15 @@
       "reddit": [],
       "news": [
         {
-          "title": "‘Improvement’ programme of art, crime, history and geography",
-          "url": "https://insidecroydon.com/2026/10/07/improvement-programme-of-art-crime-history-and-geography/",
-          "date": "2026-10-07T11:09:10+00:00",
+          "title": "Croydon households on flood alert for impact of ‘Godzilla’",
+          "url": "https://insidecroydon.com/2026/10/13/croydon-households-on-flood-alert-for-impact-of-godzilla/",
+          "date": "2026-10-13T10:29:17+00:00",
           "publisher": "Inside Croydon"
         },
         {
-          "title": "Walk and Talk Riddlesdown, weekly every Sunday from 9am",
-          "url": "https://insidecroydon.com/2026/10/03/walk-and-talk-riddlesdown-weekly-every-sunday-from-9am-3/",
-          "date": "2026-10-03T09:54:43+00:00",
+          "title": "‘Improvement’ programme of art, crime, history and geography",
+          "url": "https://insidecroydon.com/2026/10/07/improvement-programme-of-art-crime-history-and-geography/",
+          "date": "2026-10-07T11:09:10+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -652,6 +665,12 @@
           "title": "Broken pavement, 12th October",
           "url": "https://www.fixmystreet.com/report/10229502",
           "date": "2026-10-12T21:15:57+00:00",
+          "category": null
+        },
+        {
+          "title": "Two tonne bags a fridge and broken down furniture has been dumped, 13th October",
+          "url": "https://www.fixmystreet.com/report/10228684",
+          "date": "2026-10-13T10:10:45+00:00",
           "category": null
         },
         {
@@ -806,6 +825,12 @@
     "South Norwood": {
       "fixmystreet": [
         {
+          "title": "Dead rat lying near park bench, 13th October",
+          "url": "https://www.fixmystreet.com/report/10230370",
+          "date": "2026-10-13T07:52:55+00:00",
+          "category": null
+        },
+        {
           "title": "Foul sewer overflowing persistently from manhole, 21st September",
           "url": "https://www.fixmystreet.com/report/10129832",
           "date": "2026-09-21T15:34:50+00:00",
@@ -848,6 +873,12 @@
     },
     "Thornton Heath": {
       "fixmystreet": [
+        {
+          "title": "Car infringing car parking unable to drive in and out of driveway safely, 13th October",
+          "url": "https://www.fixmystreet.com/report/10230061",
+          "date": "2026-10-13T06:53:30+00:00",
+          "category": null
+        },
         {
           "title": "Flytipping and toilet, 12th October",
           "url": "https://www.fixmystreet.com/report/10228486",
