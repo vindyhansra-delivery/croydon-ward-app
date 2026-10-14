@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-14T11:30:02.126606+00:00",
+    "generated_at": "2026-10-14T16:50:40.628243+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -204,12 +204,6 @@
           "url": "https://insidecroydon.com/2026/10/08/family-haunted-house-spook-fest-crystal-palace-oct-16-18-2/",
           "date": "2026-10-08T08:00:58+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Haunted House Extreme, at Crystal Palace NSC, Oct 30 and 31",
-          "url": "https://insidecroydon.com/2026/10/05/haunted-house-extreme-at-crystal-palace-nsc-oct-30-and-31/",
-          "date": "2026-10-05T08:39:38+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -324,12 +318,6 @@
           "url": "https://www.fixmystreet.com/report/10197415",
           "date": "2026-10-05T17:52:28+00:00",
           "category": null
-        },
-        {
-          "title": "Blocking my driveway, 14th September",
-          "url": "https://www.fixmystreet.com/report/10097238",
-          "date": "2026-09-14T16:40:56+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -344,6 +332,12 @@
     },
     "New Addington South": {
       "fixmystreet": [
+        {
+          "title": "Large old road repair nearly the width of the road, 14th October",
+          "url": "https://www.fixmystreet.com/report/10237139",
+          "date": "2026-10-14T11:48:26+00:00",
+          "category": null
+        },
         {
           "title": "Abandoned cars in public parking spaces, 13th October",
           "url": "https://www.fixmystreet.com/report/10233888",
@@ -573,12 +567,6 @@
           "url": "https://www.fixmystreet.com/report/10214706",
           "date": "2026-10-09T09:07:05+00:00",
           "category": null
-        },
-        {
-          "title": "Over hanhmging trees at Bus stop Selhurst new rd., 14th September",
-          "url": "https://www.fixmystreet.com/report/10096159",
-          "date": "2026-09-14T13:54:20+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -661,6 +649,12 @@
     },
     "Shirley North": {
       "fixmystreet": [
+        {
+          "title": "Gas canisters and number plates dumped, 14th October",
+          "url": "https://www.fixmystreet.com/report/10238716",
+          "date": "2026-10-14T16:09:55+00:00",
+          "category": null
+        },
         {
           "title": "Broken pavement, 12th October",
           "url": "https://www.fixmystreet.com/report/10229502",
