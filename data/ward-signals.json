@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-13T22:30:34.665176+00:00",
+    "generated_at": "2026-10-14T04:13:06.510423+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -62,7 +62,20 @@
       "news": []
     },
     "Bensham Manor": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Abandoned vehicle in front of my driveway, 7th October",
+          "url": "https://www.fixmystreet.com/report/10208573",
+          "date": "2026-10-07T21:35:40+00:00",
+          "category": null
+        },
+        {
+          "title": "Flytipping, 24th September",
+          "url": "https://www.fixmystreet.com/report/10147463",
+          "date": "2026-09-24T16:30:31+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
