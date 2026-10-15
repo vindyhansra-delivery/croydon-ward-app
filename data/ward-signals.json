@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T11:06:16.496645+00:00",
+    "generated_at": "2026-10-15T16:37:08.007586+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -131,6 +131,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Bed and mattress dumped on triangle, 15th October",
+          "url": "https://www.fixmystreet.com/report/10243685",
+          "date": "2026-10-15T15:43:20+00:00",
+          "category": null
+        },
+        {
           "title": "Dumped fridge freezer, 14th October",
           "url": "https://www.fixmystreet.com/report/10236927",
           "date": "2026-10-14T11:18:25+00:00",
@@ -183,12 +189,6 @@
           "url": "https://www.fixmystreet.com/report/10170787",
           "date": "2026-09-29T20:54:05+00:00",
           "category": null
-        },
-        {
-          "title": "Flytipped mattress on street, 29th September",
-          "url": "https://www.fixmystreet.com/report/10168988",
-          "date": "2026-09-29T13:54:36+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -215,6 +215,12 @@
     },
     "Fairfield": {
       "fixmystreet": [
+        {
+          "title": "PLEASE open this road. No one working here again, 15th October",
+          "url": "https://www.fixmystreet.com/report/10243101",
+          "date": "2026-10-15T14:02:49+00:00",
+          "category": null
+        },
         {
           "title": "Wasp nest in grass verge, 9th October",
           "url": "https://www.fixmystreet.com/report/10216826",
@@ -839,6 +845,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "After five years, council finally acts to clean up country park",
+          "url": "https://insidecroydon.com/2026/10/15/after-five-years-council-finally-acts-to-clean-up-country-park/",
+          "date": "2026-10-15T11:44:24+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Another shutdown of New Addington trams from Oct 17 to 18",
           "url": "https://insidecroydon.com/2026/10/12/another-shutdown-of-new-addington-trams-from-oct-17-to-18/",
           "date": "2026-10-12T10:33:57+00:00",
@@ -860,12 +872,6 @@
           "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
           "url": "https://insidecroydon.com/2026/10/07/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21/",
           "date": "2026-10-07T08:44:19+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Half tram network shut down for another two weeks’ works",
-          "url": "https://insidecroydon.com/2026/10/06/half-tram-network-shut-down-for-another-two-weeks-works/",
-          "date": "2026-10-06T11:08:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -1026,6 +1032,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "After five years, council finally acts to clean up country park",
+          "url": "https://insidecroydon.com/2026/10/15/after-five-years-council-finally-acts-to-clean-up-country-park/",
+          "date": "2026-10-15T11:44:24+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Half tram network shut down for another two weeks’ works",
           "url": "https://insidecroydon.com/2026/10/06/half-tram-network-shut-down-for-another-two-weeks-works/",
