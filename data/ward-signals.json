@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T03:51:40.176956+00:00",
+    "generated_at": "2026-10-15T11:06:16.496645+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -237,12 +237,6 @@
           "title": "Central Library lights left on throughout weekend, 21st September",
           "url": "https://www.fixmystreet.com/report/10125734",
           "date": "2026-09-21T11:27:12+00:00",
-          "category": null
-        },
-        {
-          "title": "Potholes, 15th September",
-          "url": "https://www.fixmystreet.com/report/10100237",
-          "date": "2026-09-15T09:42:03+00:00",
           "category": null
         }
       ],
@@ -819,14 +813,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Checkatrade names Croydon sparky London’s top electrician",
-          "url": "https://insidecroydon.com/2026/10/05/checkatrade-names-croydon-sparky-londons-top-electrician/",
-          "date": "2026-10-05T09:20:53+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "South Norwood": {
       "fixmystreet": [
@@ -977,6 +964,12 @@
     "Woodside": {
       "fixmystreet": [
         {
+          "title": "Massive pothole, 15th October",
+          "url": "https://www.fixmystreet.com/report/10241936",
+          "date": "2026-10-15T10:39:31+00:00",
+          "category": null
+        },
+        {
           "title": "Abandoned Trailer, 10th October",
           "url": "https://www.fixmystreet.com/report/10219173",
           "date": "2026-10-10T10:23:28+00:00",
@@ -1028,12 +1021,6 @@
           "title": "Dead fox, 24th September",
           "url": "https://www.fixmystreet.com/report/10146720",
           "date": "2026-09-24T14:25:40+00:00",
-          "category": null
-        },
-        {
-          "title": "Light not working, 22nd September",
-          "url": "https://www.fixmystreet.com/report/10135025",
-          "date": "2026-09-22T14:54:37+00:00",
           "category": null
         }
       ],
