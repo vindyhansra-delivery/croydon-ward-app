@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T16:37:08.007586+00:00",
+    "generated_at": "2026-10-15T21:08:37.520552+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -384,6 +384,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Passengers suffering as tram closures up by 68% in a year",
+          "url": "https://insidecroydon.com/2026/10/15/passengers-suffering-as-tram-closures-up-by-68-in-a-year/",
+          "date": "2026-10-15T16:43:23+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Another shutdown of New Addington trams from Oct 17 to 18",
           "url": "https://insidecroydon.com/2026/10/12/another-shutdown-of-new-addington-trams-from-oct-17-to-18/",
           "date": "2026-10-12T10:33:57+00:00",
@@ -702,18 +708,6 @@
           "url": "https://www.fixmystreet.com/report/10176963",
           "date": "2026-10-01T07:19:07+00:00",
           "category": null
-        },
-        {
-          "title": "Dumped abandoned car for over 1yr, 15th September",
-          "url": "https://www.fixmystreet.com/report/10103940",
-          "date": "2026-09-15T19:56:01+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped abandoned car for over 1yr, 15th September",
-          "url": "https://www.fixmystreet.com/report/10103939",
-          "date": "2026-09-15T19:55:13+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -845,6 +839,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Passengers suffering as tram closures up by 68% in a year",
+          "url": "https://insidecroydon.com/2026/10/15/passengers-suffering-as-tram-closures-up-by-68-in-a-year/",
+          "date": "2026-10-15T16:43:23+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "After five years, council finally acts to clean up country park",
           "url": "https://insidecroydon.com/2026/10/15/after-five-years-council-finally-acts-to-clean-up-country-park/",
           "date": "2026-10-15T11:44:24+00:00",
@@ -866,12 +866,6 @@
           "title": "Sarah Reynolds’ partner guilty of murder and coercive control",
           "url": "https://insidecroydon.com/2026/10/08/sarah-reynolds-partner-guilty-of-murder-and-coercive-control/",
           "date": "2026-10-08T09:51:10+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
-          "url": "https://insidecroydon.com/2026/10/07/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21/",
-          "date": "2026-10-07T08:44:19+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -1032,6 +1026,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Passengers suffering as tram closures up by 68% in a year",
+          "url": "https://insidecroydon.com/2026/10/15/passengers-suffering-as-tram-closures-up-by-68-in-a-year/",
+          "date": "2026-10-15T16:43:23+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "After five years, council finally acts to clean up country park",
           "url": "https://insidecroydon.com/2026/10/15/after-five-years-council-finally-acts-to-clean-up-country-park/",
