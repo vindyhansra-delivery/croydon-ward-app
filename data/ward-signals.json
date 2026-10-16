@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T03:47:38.357037+00:00",
+    "generated_at": "2026-10-16T11:02:25.207796+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -216,6 +216,12 @@
     "Fairfield": {
       "fixmystreet": [
         {
+          "title": "Pothole, 16th October",
+          "url": "https://www.fixmystreet.com/report/10245647",
+          "date": "2026-10-16T08:24:57+00:00",
+          "category": null
+        },
+        {
           "title": "PLEASE open this road. No one working here again, 15th October",
           "url": "https://www.fixmystreet.com/report/10243101",
           "date": "2026-10-15T14:02:49+00:00",
@@ -399,12 +405,6 @@
           "title": "MP Irons wades in to row over New Addington tram closures",
           "url": "https://insidecroydon.com/2026/10/09/mp-irons-wades-in-to-row-over-new-addington-tram-closures/",
           "date": "2026-10-09T11:39:36+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Half tram network shut down for another two weeks’ works",
-          "url": "https://insidecroydon.com/2026/10/06/half-tram-network-shut-down-for-another-two-weeks-works/",
-          "date": "2026-10-06T11:08:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -813,7 +813,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "In crust we trust: try great new menu at Raggio di Sole pizzas",
+          "url": "https://insidecroydon.com/2026/10/16/in-crust-we-trust-try-great-new-menu-at-raggio-di-sole-pizzas/",
+          "date": "2026-10-16T08:38:37+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "South Norwood": {
       "fixmystreet": [
@@ -1036,12 +1043,6 @@
           "title": "After five years, council finally acts to clean up country park",
           "url": "https://insidecroydon.com/2026/10/15/after-five-years-council-finally-acts-to-clean-up-country-park/",
           "date": "2026-10-15T11:44:24+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Half tram network shut down for another two weeks’ works",
-          "url": "https://insidecroydon.com/2026/10/06/half-tram-network-shut-down-for-another-two-weeks-works/",
-          "date": "2026-10-06T11:08:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
