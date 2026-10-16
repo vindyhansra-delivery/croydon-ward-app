@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T16:22:14.721477+00:00",
+    "generated_at": "2026-10-16T20:44:31.784125+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -372,12 +372,6 @@
           "title": "Possible hazardous wasn't, 6th October",
           "url": "https://www.fixmystreet.com/report/10202577",
           "date": "2026-10-06T16:08:47+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped rubbish with gas bottle and car fuel tank, 16th September",
-          "url": "https://www.fixmystreet.com/report/10109470",
-          "date": "2026-09-16T20:24:23+00:00",
           "category": null
         }
       ],
