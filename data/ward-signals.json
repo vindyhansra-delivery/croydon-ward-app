@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T11:02:25.207796+00:00",
+    "generated_at": "2026-10-16T16:22:14.721477+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -31,12 +31,6 @@
           "title": "Dead FOX, 26th September",
           "url": "https://www.fixmystreet.com/report/10155788",
           "date": "2026-09-26T15:48:40+00:00",
-          "category": null
-        },
-        {
-          "title": "Vehicle apparently abandoned., 16th September",
-          "url": "https://www.fixmystreet.com/report/10108475",
-          "date": "2026-09-16T16:07:44+00:00",
           "category": null
         }
       ],
@@ -781,6 +775,12 @@
     },
     "South Croydon": {
       "fixmystreet": [
+        {
+          "title": "Temp lights just not needed. Causing gridlock, 16th October",
+          "url": "https://www.fixmystreet.com/report/10247606",
+          "date": "2026-10-16T14:00:56+00:00",
+          "category": null
+        },
         {
           "title": "Broken item in playground, 9th October",
           "url": "https://www.fixmystreet.com/report/10216979",
