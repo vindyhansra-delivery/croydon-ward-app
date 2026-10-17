@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-17T15:16:21.769291+00:00",
+    "generated_at": "2026-10-17T20:21:56.485883+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "Multiple bags of rubbish flytipped, on corner of Ashburton Ave and Compton Rd, 17th October",
+          "url": "https://www.fixmystreet.com/report/10250858",
+          "date": "2026-10-17T15:54:03+00:00",
+          "category": null
+        },
         {
           "title": "Graffiti on on walls under Arch on both sides, 8th October",
           "url": "https://www.fixmystreet.com/report/10211944",
@@ -654,6 +660,12 @@
     },
     "Shirley North": {
       "fixmystreet": [
+        {
+          "title": "Purple bin bags left., 17th October",
+          "url": "https://www.fixmystreet.com/report/10251024",
+          "date": "2026-10-17T16:45:46+00:00",
+          "category": null
+        },
         {
           "title": "Dumped vehicles, 17th October",
           "url": "https://www.fixmystreet.com/report/10250531",
