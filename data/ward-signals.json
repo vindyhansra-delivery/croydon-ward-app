@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T12:22:51.273186+00:00",
+    "generated_at": "2026-10-18T18:18:55.726623+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -766,12 +766,6 @@
           "url": "https://www.fixmystreet.com/report/10143237",
           "date": "2026-09-24T05:39:40+00:00",
           "category": null
-        },
-        {
-          "title": "Missing 30mph sign, 18th September",
-          "url": "https://www.fixmystreet.com/report/10118731",
-          "date": "2026-09-18T15:56:36+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -884,6 +878,12 @@
     "Thornton Heath": {
       "fixmystreet": [
         {
+          "title": "Rubbish, 18th October",
+          "url": "https://www.fixmystreet.com/report/10252881",
+          "date": "2026-10-18T13:06:19+00:00",
+          "category": null
+        },
+        {
           "title": "Flytipping, 18th October",
           "url": "https://www.fixmystreet.com/report/10252319",
           "date": "2026-10-18T10:40:58+00:00",
@@ -975,6 +975,12 @@
     "Woodside": {
       "fixmystreet": [
         {
+          "title": "Dangerous Pavement Deep Holq, 18th October",
+          "url": "https://www.fixmystreet.com/report/10253920",
+          "date": "2026-10-18T18:09:35+00:00",
+          "category": null
+        },
+        {
           "title": "Massive pothole, 15th October",
           "url": "https://www.fixmystreet.com/report/10241936",
           "date": "2026-10-15T10:39:31+00:00",
@@ -1026,12 +1032,6 @@
           "title": "Glass in road, 6th October",
           "url": "https://www.fixmystreet.com/report/10202759",
           "date": "2026-10-06T16:44:35+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead fox, 24th September",
-          "url": "https://www.fixmystreet.com/report/10146720",
-          "date": "2026-09-24T14:25:40+00:00",
           "category": null
         }
       ],
