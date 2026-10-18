@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T06:26:29.961911+00:00",
+    "generated_at": "2026-10-18T12:22:51.273186+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -203,12 +203,6 @@
           "title": "Fashion shows and swap shops in Crystal Palace this week",
           "url": "https://insidecroydon.com/2026/10/10/fashion-shows-and-swap-shops-in-crystal-palace-this-week/",
           "date": "2026-10-10T13:39:29+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Family Haunted House Spook Fest, Crystal Palace, Oct 16-18",
-          "url": "https://insidecroydon.com/2026/10/08/family-haunted-house-spook-fest-crystal-palace-oct-16-18-2/",
-          "date": "2026-10-08T08:00:58+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -488,12 +482,6 @@
           "url": "https://www.fixmystreet.com/report/10144358",
           "date": "2026-09-24T09:19:06+00:00",
           "category": null
-        },
-        {
-          "title": "15, Bradmore Way Greater London, England CR5 1PF, 18th September",
-          "url": "https://www.fixmystreet.com/report/10116936",
-          "date": "2026-09-18T10:40:15+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -581,17 +569,16 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Sarah Reynolds’ partner guilty of murder and coercive control",
-          "url": "https://insidecroydon.com/2026/10/08/sarah-reynolds-partner-guilty-of-murder-and-coercive-control/",
-          "date": "2026-10-08T09:51:10+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
+        {
+          "title": "Abandoned vehicle, 18th October",
+          "url": "https://www.fixmystreet.com/report/10251757",
+          "date": "2026-10-18T07:37:37+00:00",
+          "category": null
+        },
         {
           "title": "Defective gully, 6th October",
           "url": "https://www.fixmystreet.com/report/10203612",
@@ -896,6 +883,12 @@
     },
     "Thornton Heath": {
       "fixmystreet": [
+        {
+          "title": "Flytipping, 18th October",
+          "url": "https://www.fixmystreet.com/report/10252319",
+          "date": "2026-10-18T10:40:58+00:00",
+          "category": null
+        },
         {
           "title": "Unable to enter and leave driveway safely car is parked to far over driveway, 13th October",
           "url": "https://www.fixmystreet.com/report/10233321",
