@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-19T06:37:17.616356+00:00",
+    "generated_at": "2026-10-19T12:27:46.656461+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -292,12 +292,6 @@
           "title": "10 inch pothole which is 4 inches deep, 6th October",
           "url": "https://www.fixmystreet.com/report/10199801",
           "date": "2026-10-06T09:40:13+00:00",
-          "category": null
-        },
-        {
-          "title": "Parking on pavement, 19th September",
-          "url": "https://www.fixmystreet.com/report/10119936",
-          "date": "2026-09-19T07:01:08+00:00",
           "category": null
         }
       ],
