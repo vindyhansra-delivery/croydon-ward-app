@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-19T12:27:46.656461+00:00",
+    "generated_at": "2026-10-19T18:23:12.830047+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -15,6 +15,12 @@
   "wards": {
     "Addiscombe East": {
       "fixmystreet": [
+        {
+          "title": "Fly Tipping, 19th October",
+          "url": "https://www.fixmystreet.com/report/10258728",
+          "date": "2026-10-19T17:36:41+00:00",
+          "category": null
+        },
         {
           "title": "Multiple bags of rubbish flytipped, on corner of Ashburton Ave and Compton Rd, 17th October",
           "url": "https://www.fixmystreet.com/report/10250858",
@@ -210,6 +216,12 @@
     "Fairfield": {
       "fixmystreet": [
         {
+          "title": "Lamp post on during the day, 19th October",
+          "url": "https://www.fixmystreet.com/report/10256860",
+          "date": "2026-10-19T13:34:20+00:00",
+          "category": null
+        },
+        {
           "title": "Pothole, 16th October",
           "url": "https://www.fixmystreet.com/report/10245647",
           "date": "2026-10-16T08:24:57+00:00",
@@ -249,6 +261,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Site supporter wins tickets for The Stylistics at Fairfield Halls",
+          "url": "https://insidecroydon.com/2026/10/19/site-supporter-wins-tickets-for-the-stylistics-at-fairfield-halls/",
+          "date": "2026-10-19T13:48:22+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "‘Everything must go!’: TG Jones joins Whitgift Centre exodus",
           "url": "https://insidecroydon.com/2026/10/13/everything-must-go-tg-jones-joins-whitgift-centre-exodus/",
           "date": "2026-10-13T12:24:53+00:00",
@@ -270,12 +288,6 @@
           "title": "Greens call for audit investigation into possible fraud at council",
           "url": "https://insidecroydon.com/2026/10/09/greens-call-for-audit-investigation-into-possible-fraud-at-council/",
           "date": "2026-10-09T15:21:54+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Debt collectors, Met Police and DWP: a world of opportunities",
-          "url": "https://insidecroydon.com/2026/10/09/debt-collectors-met-police-and-dwp-a-world-of-opportunities/",
-          "date": "2026-10-09T10:58:16+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -587,14 +599,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Selsdon book shop where customers decide what price to pay",
-          "url": "https://insidecroydon.com/2026/10/09/selsdon-book-shop-where-customers-decide-what-price-to-pay/",
-          "date": "2026-10-09T09:21:56+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
@@ -630,14 +635,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Selsdon book shop where customers decide what price to pay",
-          "url": "https://insidecroydon.com/2026/10/09/selsdon-book-shop-where-customers-decide-what-price-to-pay/",
-          "date": "2026-10-09T09:21:56+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Shirley North": {
       "fixmystreet": [
@@ -1031,6 +1029,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Site supporter wins tickets for The Stylistics at Fairfield Halls",
+          "url": "https://insidecroydon.com/2026/10/19/site-supporter-wins-tickets-for-the-stylistics-at-fairfield-halls/",
+          "date": "2026-10-19T13:48:22+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Passengers suffering as tram closures up by 68% in a year",
           "url": "https://insidecroydon.com/2026/10/15/passengers-suffering-as-tram-closures-up-by-68-in-a-year/",
