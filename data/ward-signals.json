@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-19T18:23:12.830047+00:00",
+    "generated_at": "2026-10-20T00:42:32.187160+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -350,6 +350,12 @@
     },
     "New Addington South": {
       "fixmystreet": [
+        {
+          "title": "Crossing pavement without dropped kerb, 19th October",
+          "url": "https://www.fixmystreet.com/report/10259035",
+          "date": "2026-10-19T19:30:56+00:00",
+          "category": null
+        },
         {
           "title": "Large old road repair nearly the width of the road, 14th October",
           "url": "https://www.fixmystreet.com/report/10237139",
