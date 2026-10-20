@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-20T06:28:13.444669+00:00",
+    "generated_at": "2026-10-20T12:26:05.561600+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -137,6 +137,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Digarded stinking bin, 20th October",
+          "url": "https://www.fixmystreet.com/report/10261637",
+          "date": "2026-10-20T12:02:26+00:00",
+          "category": null
+        },
+        {
           "title": "Bed and mattress dumped on triangle, 15th October",
           "url": "https://www.fixmystreet.com/report/10243685",
           "date": "2026-10-15T15:43:20+00:00",
@@ -189,16 +195,16 @@
           "url": "https://www.fixmystreet.com/report/10181741",
           "date": "2026-10-02T06:27:03+00:00",
           "category": null
-        },
-        {
-          "title": "Missing drain or hydrant cover, 29th September",
-          "url": "https://www.fixmystreet.com/report/10170787",
-          "date": "2026-09-29T20:54:05+00:00",
-          "category": null
         }
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Haunted House Extreme, at Crystal Palace NSC, Oct 30 and 31",
+          "url": "https://insidecroydon.com/2026/10/20/haunted-house-extreme-at-crystal-palace-nsc-oct-30-and-31-3/",
+          "date": "2026-10-20T08:43:50+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Haunted House Extreme, at Crystal Palace NSC, Oct 30 and 31",
           "url": "https://insidecroydon.com/2026/10/13/haunted-house-extreme-at-crystal-palace-nsc-oct-30-and-31-2/",
@@ -283,12 +289,6 @@
           "url": "https://insidecroydon.com/2026/10/10/bingo-plus-live-music-quiz-nights-darts-at-surrey-cricketers-5/",
           "date": "2026-10-10T08:43:01+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Greens call for audit investigation into possible fraud at council",
-          "url": "https://insidecroydon.com/2026/10/09/greens-call-for-audit-investigation-into-possible-fraud-at-council/",
-          "date": "2026-10-09T15:21:54+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -351,6 +351,12 @@
     "New Addington South": {
       "fixmystreet": [
         {
+          "title": "Pothole in bus stand, 20th October",
+          "url": "https://www.fixmystreet.com/report/10261683",
+          "date": "2026-10-20T12:05:38+00:00",
+          "category": null
+        },
+        {
           "title": "Crossing pavement without dropped kerb, 19th October",
           "url": "https://www.fixmystreet.com/report/10259035",
           "date": "2026-10-19T19:30:56+00:00",
@@ -405,12 +411,6 @@
           "title": "Another shutdown of New Addington trams from Oct 17 to 18",
           "url": "https://insidecroydon.com/2026/10/12/another-shutdown-of-new-addington-trams-from-oct-17-to-18/",
           "date": "2026-10-12T10:33:57+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "MP Irons wades in to row over New Addington tram closures",
-          "url": "https://insidecroydon.com/2026/10/09/mp-irons-wades-in-to-row-over-new-addington-tram-closures/",
-          "date": "2026-10-09T11:39:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -936,12 +936,6 @@
           "title": "Purley sheltered housing acquired by Croydon’s oldest charity",
           "url": "https://insidecroydon.com/2026/10/14/purley-sheltered-housing-acquired-by-croydons-oldest-charity/",
           "date": "2026-10-14T10:55:50+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Owner makes emotional appeal for return of missing Milton",
-          "url": "https://insidecroydon.com/2026/10/09/owner-makes-emotional-appeal-for-return-of-missing-milton/",
-          "date": "2026-10-09T13:53:55+00:00",
           "publisher": "Inside Croydon"
         }
       ]
