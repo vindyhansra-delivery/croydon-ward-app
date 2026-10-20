@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-20T12:26:05.561600+00:00",
+    "generated_at": "2026-10-20T18:22:14.480211+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -530,12 +530,6 @@
           "url": "https://www.fixmystreet.com/report/10250084",
           "date": "2026-10-17T11:47:44+00:00",
           "category": null
-        },
-        {
-          "title": "Fly tipping, 20th September",
-          "url": "https://www.fixmystreet.com/report/10124849",
-          "date": "2026-09-20T16:35:47+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -772,6 +766,12 @@
     "South Croydon": {
       "fixmystreet": [
         {
+          "title": "Uneven surface or pothole at main junction, 20th October",
+          "url": "https://www.fixmystreet.com/report/10262858",
+          "date": "2026-10-20T15:30:33+00:00",
+          "category": null
+        },
+        {
           "title": "Temp lights just not needed. Causing gridlock, 16th October",
           "url": "https://www.fixmystreet.com/report/10247606",
           "date": "2026-10-16T14:00:56+00:00",
@@ -967,6 +967,18 @@
     "Woodside": {
       "fixmystreet": [
         {
+          "title": "Damage to Council Pavement Furniture, 20th October",
+          "url": "https://www.fixmystreet.com/report/10263023",
+          "date": "2026-10-20T16:06:26+00:00",
+          "category": null
+        },
+        {
+          "title": "Fly Tip, 20th October",
+          "url": "https://www.fixmystreet.com/report/10263008",
+          "date": "2026-10-20T16:04:03+00:00",
+          "category": null
+        },
+        {
           "title": "Dangerous Pavement Deep Holq, 18th October",
           "url": "https://www.fixmystreet.com/report/10253920",
           "date": "2026-10-18T18:09:35+00:00",
@@ -1012,18 +1024,6 @@
           "title": "Large crater. Loose gravel. High hump damaging vehicles., 7th October",
           "url": "https://www.fixmystreet.com/report/10207814",
           "date": "2026-10-07T16:56:29+00:00",
-          "category": null
-        },
-        {
-          "title": "Green pipe discharging bleach into South Norwood Stream, 7th October",
-          "url": "https://www.fixmystreet.com/report/10207076",
-          "date": "2026-10-07T14:22:10+00:00",
-          "category": null
-        },
-        {
-          "title": "Glass in road, 6th October",
-          "url": "https://www.fixmystreet.com/report/10202759",
-          "date": "2026-10-06T16:44:35+00:00",
           "category": null
         }
       ],
