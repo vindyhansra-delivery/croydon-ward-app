@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T06:29:17.041236+00:00",
+    "generated_at": "2026-10-21T12:25:58.342165+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -137,6 +137,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Pothole on Westow street (opposite tofu), 21st October",
+          "url": "https://www.fixmystreet.com/report/10265801",
+          "date": "2026-10-21T11:16:07+00:00",
+          "category": null
+        },
+        {
           "title": "Digarded stinking bin, 20th October",
           "url": "https://www.fixmystreet.com/report/10261637",
           "date": "2026-10-20T12:02:26+00:00",
@@ -189,12 +195,6 @@
           "url": "https://www.fixmystreet.com/report/10189406",
           "date": "2026-10-04T08:13:09+00:00",
           "category": null
-        },
-        {
-          "title": "Street cleaning, 2nd October",
-          "url": "https://www.fixmystreet.com/report/10181741",
-          "date": "2026-10-02T06:27:03+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -209,12 +209,6 @@
           "title": "Haunted House Extreme, at Crystal Palace NSC, Oct 30 and 31",
           "url": "https://insidecroydon.com/2026/10/13/haunted-house-extreme-at-crystal-palace-nsc-oct-30-and-31-2/",
           "date": "2026-10-13T08:42:52+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Fashion shows and swap shops in Crystal Palace this week",
-          "url": "https://insidecroydon.com/2026/10/10/fashion-shows-and-swap-shops-in-crystal-palace-this-week/",
-          "date": "2026-10-10T13:39:29+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -250,18 +244,6 @@
           "url": "https://www.fixmystreet.com/report/10192690",
           "date": "2026-10-05T06:37:04+00:00",
           "category": null
-        },
-        {
-          "title": "Shocking amount of rubbish dumped that Croydon Council has ignored and not ckeared up, 21st September",
-          "url": "https://www.fixmystreet.com/report/10127864",
-          "date": "2026-09-21T10:37:48+00:00",
-          "category": null
-        },
-        {
-          "title": "Central Library lights left on throughout weekend, 21st September",
-          "url": "https://www.fixmystreet.com/report/10125734",
-          "date": "2026-09-21T11:27:12+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -276,18 +258,6 @@
           "title": "‘Everything must go!’: TG Jones joins Whitgift Centre exodus",
           "url": "https://insidecroydon.com/2026/10/13/everything-must-go-tg-jones-joins-whitgift-centre-exodus/",
           "date": "2026-10-13T12:24:53+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Handel’s Messiah, Croydon Philharmonic Choir, Sat Dec 19",
-          "url": "https://insidecroydon.com/2026/10/10/handels-messiah-croydon-philharmonic-choir-sat-dec-19/",
-          "date": "2026-10-10T09:48:43+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Bingo! Plus live music, quiz nights, darts at Surrey Cricketers",
-          "url": "https://insidecroydon.com/2026/10/10/bingo-plus-live-music-quiz-nights-darts-at-surrey-cricketers-5/",
-          "date": "2026-10-10T08:43:01+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -842,6 +812,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
+          "url": "https://insidecroydon.com/2026/10/21/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21-3/",
+          "date": "2026-10-21T08:55:05+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Day Of The Dead Supper Club, South Norwood, Tue Nov 3",
           "url": "https://insidecroydon.com/2026/10/17/day-of-the-dead-supper-club-south-norwood-tue-nov-3/",
           "date": "2026-10-17T09:45:06+00:00",
@@ -863,12 +839,6 @@
           "title": "Another shutdown of New Addington trams from Oct 17 to 18",
           "url": "https://insidecroydon.com/2026/10/12/another-shutdown-of-new-addington-trams-from-oct-17-to-18/",
           "date": "2026-10-12T10:33:57+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
-          "url": "https://insidecroydon.com/2026/10/11/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21-2/",
-          "date": "2026-10-11T09:01:24+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -967,6 +937,12 @@
     "Woodside": {
       "fixmystreet": [
         {
+          "title": "Trees and vegetation covering streetlight at footpath, 21st October",
+          "url": "https://www.fixmystreet.com/report/10265737",
+          "date": "2026-10-21T10:37:10+00:00",
+          "category": null
+        },
+        {
           "title": "Damage to Council Pavement Furniture, 20th October",
           "url": "https://www.fixmystreet.com/report/10263023",
           "date": "2026-10-20T16:06:26+00:00",
@@ -1018,12 +994,6 @@
           "title": "Flooding, 9th October",
           "url": "https://www.fixmystreet.com/report/10216851",
           "date": "2026-10-09T14:12:21+00:00",
-          "category": null
-        },
-        {
-          "title": "Large crater. Loose gravel. High hump damaging vehicles., 7th October",
-          "url": "https://www.fixmystreet.com/report/10207814",
-          "date": "2026-10-07T16:56:29+00:00",
           "category": null
         }
       ],
