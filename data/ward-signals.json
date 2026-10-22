@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-22T06:29:19.052301+00:00",
+    "generated_at": "2026-10-22T12:26:32.595456+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -65,7 +65,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Trams disrupted this week as Lebanon Road stop is closed",
+          "url": "https://insidecroydon.com/2026/10/22/trams-disrupted-this-week-as-lebanon-road-stop-is-closed/",
+          "date": "2026-10-22T09:11:02+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Bensham Manor": {
       "fixmystreet": [
@@ -215,6 +222,12 @@
     },
     "Fairfield": {
       "fixmystreet": [
+        {
+          "title": "Part of the tram track is loose, 22nd October",
+          "url": "https://www.fixmystreet.com/report/10270447",
+          "date": "2026-10-22T10:31:08+00:00",
+          "category": null
+        },
         {
           "title": "Lamp post on during the day, 19th October",
           "url": "https://www.fixmystreet.com/report/10256860",
@@ -391,12 +404,6 @@
           "title": "Cavendish Gardens pavement is fulll of rubbish., 24th September",
           "url": "https://www.fixmystreet.com/report/10147844",
           "date": "2026-09-24T17:55:34+00:00",
-          "category": null
-        },
-        {
-          "title": "Logs used by drug users, 22nd September",
-          "url": "https://www.fixmystreet.com/report/10132628",
-          "date": "2026-09-22T08:32:37+00:00",
           "category": null
         }
       ],
@@ -776,6 +783,12 @@
       "news": [
         {
           "title": "In crust we trust: try great new menu at Raggio di Sole pizzas",
+          "url": "https://insidecroydon.com/2026/10/22/in-crust-we-trust-try-great-new-menu-at-raggio-di-sole-pizzas-2/",
+          "date": "2026-10-22T08:20:59+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "In crust we trust: try great new menu at Raggio di Sole pizzas",
           "url": "https://insidecroydon.com/2026/10/16/in-crust-we-trust-try-great-new-menu-at-raggio-di-sole-pizzas/",
           "date": "2026-10-16T08:38:37+00:00",
           "publisher": "Inside Croydon"
@@ -800,6 +813,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Perry’s consultation is outsourced to AI spyware company",
+          "url": "https://insidecroydon.com/2026/10/22/perrys-consultation-is-outsourced-to-ai-spyware-company/",
+          "date": "2026-10-22T11:16:58+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Perry looks to inflict pain for his failures on Croydon’s poor",
           "url": "https://insidecroydon.com/2026/10/21/perry-looks-to-spread-the-pain-of-his-failure-to-croydons-poor/",
           "date": "2026-10-21T13:17:13+00:00",
@@ -821,12 +840,6 @@
           "title": "Day Of The Dead Supper Club, South Norwood, Tue Nov 3",
           "url": "https://insidecroydon.com/2026/10/17/day-of-the-dead-supper-club-south-norwood-tue-nov-3/",
           "date": "2026-10-17T09:45:06+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Passengers suffering as tram closures up by 68% in a year",
-          "url": "https://insidecroydon.com/2026/10/15/passengers-suffering-as-tram-closures-up-by-68-in-a-year/",
-          "date": "2026-10-15T16:43:23+00:00",
           "publisher": "Inside Croydon"
         }
       ]
