@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T12:24:34.571485+00:00",
+    "generated_at": "2026-10-23T18:21:33.626880+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -105,12 +105,6 @@
           "url": "https://www.fixmystreet.com/report/10239092",
           "date": "2026-10-14T17:40:48+00:00",
           "category": null
-        },
-        {
-          "title": "Abandoned car., 23rd September",
-          "url": "https://www.fixmystreet.com/report/10141499",
-          "date": "2026-09-23T15:34:10+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -209,12 +203,6 @@
           "title": "Haunted House Extreme, at Crystal Palace NSC, Oct 30 and 31",
           "url": "https://insidecroydon.com/2026/10/20/haunted-house-extreme-at-crystal-palace-nsc-oct-30-and-31-3/",
           "date": "2026-10-20T08:43:50+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Haunted House Extreme, at Crystal Palace NSC, Oct 30 and 31",
-          "url": "https://insidecroydon.com/2026/10/13/haunted-house-extreme-at-crystal-palace-nsc-oct-30-and-31-2/",
-          "date": "2026-10-13T08:42:52+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -686,6 +674,12 @@
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "Helium balloon canister on grass verge, 23rd October",
+          "url": "https://www.fixmystreet.com/report/10276198",
+          "date": "2026-10-23T13:46:56+00:00",
+          "category": null
+        },
         {
           "title": "Water leak for nearly three months, 12th October",
           "url": "https://www.fixmystreet.com/report/10228911",
