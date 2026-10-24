@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T06:26:39.690840+00:00",
+    "generated_at": "2026-10-24T12:26:17.782537+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -14,56 +14,12 @@
   },
   "wards": {
     "Addiscombe East": {
-      "fixmystreet": [
-        {
-          "title": "Fly Tipping, 19th October",
-          "url": "https://www.fixmystreet.com/report/10258728",
-          "date": "2026-10-19T17:36:41+00:00",
-          "category": null
-        },
-        {
-          "title": "Multiple bags of rubbish flytipped, on corner of Ashburton Ave and Compton Rd, 17th October",
-          "url": "https://www.fixmystreet.com/report/10250858",
-          "date": "2026-10-17T15:54:03+00:00",
-          "category": null
-        },
-        {
-          "title": "Graffiti on on walls under Arch on both sides, 8th October",
-          "url": "https://www.fixmystreet.com/report/10211944",
-          "date": "2026-10-08T15:25:49+00:00",
-          "category": null
-        },
-        {
-          "title": "3 areas of flytipping, Outram rd, 1st October",
-          "url": "https://www.fixmystreet.com/report/10181370",
-          "date": "2026-10-01T21:21:48+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead FOX, 26th September",
-          "url": "https://www.fixmystreet.com/report/10155788",
-          "date": "2026-09-26T15:48:40+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
     "Addiscombe West": {
-      "fixmystreet": [
-        {
-          "title": "Dead animal in front of 48 and 50 Addiscombe Court Road., 4th October",
-          "url": "https://www.fixmystreet.com/report/10191491",
-          "date": "2026-10-04T16:31:58+00:00",
-          "category": null
-        },
-        {
-          "title": "Smelly dead fox, 1st October",
-          "url": "https://www.fixmystreet.com/report/10178414",
-          "date": "2026-10-01T10:49:28+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": [
         {
@@ -137,6 +93,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Dead fox, 24th October",
+          "url": "https://www.fixmystreet.com/report/10279036",
+          "date": "2026-10-24T11:05:50+00:00",
+          "category": null
+        },
+        {
           "title": "Parking issues for residents due to commerce, 23rd October",
           "url": "https://www.fixmystreet.com/report/10275039",
           "date": "2026-10-23T10:52:29+00:00",
@@ -189,16 +151,16 @@
           "url": "https://www.fixmystreet.com/report/10196645",
           "date": "2026-10-05T15:19:18+00:00",
           "category": null
-        },
-        {
-          "title": "Traffic light and railings wiped out by a vehicle, 4th October",
-          "url": "https://www.fixmystreet.com/report/10190012",
-          "date": "2026-10-04T10:31:39+00:00",
-          "category": null
         }
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Haunted House Extreme, at Crystal Palace NSC, Oct 30 and 31",
+          "url": "https://insidecroydon.com/2026/10/24/haunted-house-extreme-at-crystal-palace-nsc-oct-30-and-31-4/",
+          "date": "2026-10-24T10:02:22+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Haunted House Extreme, at Crystal Palace NSC, Oct 30 and 31",
           "url": "https://insidecroydon.com/2026/10/20/haunted-house-extreme-at-crystal-palace-nsc-oct-30-and-31-3/",
@@ -259,12 +221,6 @@
           "url": "https://insidecroydon.com/2026/10/19/site-supporter-wins-tickets-for-the-stylistics-at-fairfield-halls/",
           "date": "2026-10-19T13:48:22+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "‘Everything must go!’: TG Jones joins Whitgift Centre exodus",
-          "url": "https://insidecroydon.com/2026/10/13/everything-must-go-tg-jones-joins-whitgift-centre-exodus/",
-          "date": "2026-10-13T12:24:53+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -284,14 +240,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Croydon households on flood alert for impact of ‘Godzilla’",
-          "url": "https://insidecroydon.com/2026/10/13/croydon-households-on-flood-alert-for-impact-of-godzilla/",
-          "date": "2026-10-13T10:29:17+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "New Addington North": {
       "fixmystreet": [
@@ -451,12 +400,6 @@
           "url": "https://www.fixmystreet.com/report/10177860",
           "date": "2026-10-01T09:31:58+00:00",
           "category": null
-        },
-        {
-          "title": "Street rubbish dumped, 24th September",
-          "url": "https://www.fixmystreet.com/report/10144358",
-          "date": "2026-09-24T09:19:06+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -483,14 +426,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Croydon households on flood alert for impact of ‘Godzilla’",
-          "url": "https://insidecroydon.com/2026/10/13/croydon-households-on-flood-alert-for-impact-of-godzilla/",
-          "date": "2026-10-13T10:29:17+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Purley and Woodcote": {
       "fixmystreet": [
@@ -613,133 +549,23 @@
       "news": []
     },
     "Shirley North": {
-      "fixmystreet": [
-        {
-          "title": "Purple bin bags left., 17th October",
-          "url": "https://www.fixmystreet.com/report/10251024",
-          "date": "2026-10-17T16:45:46+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped vehicles, 17th October",
-          "url": "https://www.fixmystreet.com/report/10250531",
-          "date": "2026-10-17T14:02:36+00:00",
-          "category": null
-        },
-        {
-          "title": "Tree knocked down, 17th October",
-          "url": "https://www.fixmystreet.com/report/10249858",
-          "date": "2026-10-17T10:43:27+00:00",
-          "category": null
-        },
-        {
-          "title": "Gas canisters and number plates dumped, 14th October",
-          "url": "https://www.fixmystreet.com/report/10238716",
-          "date": "2026-10-14T16:09:55+00:00",
-          "category": null
-        },
-        {
-          "title": "Broken pavement, 12th October",
-          "url": "https://www.fixmystreet.com/report/10229502",
-          "date": "2026-10-12T21:15:57+00:00",
-          "category": null
-        },
-        {
-          "title": "Two tonne bags a fridge and broken down furniture has been dumped, 13th October",
-          "url": "https://www.fixmystreet.com/report/10228684",
-          "date": "2026-10-13T10:10:45+00:00",
-          "category": null
-        },
-        {
-          "title": "Pot holes and roads sinking, 1st October",
-          "url": "https://www.fixmystreet.com/report/10177097",
-          "date": "2026-10-01T07:38:13+00:00",
-          "category": null
-        },
-        {
-          "title": "Roads are sinking causing the cars and buses to have damage to the wheels and driver behaviour and on a blind bend, 1st October",
-          "url": "https://www.fixmystreet.com/report/10177045",
-          "date": "2026-10-01T07:31:55+00:00",
-          "category": null
-        },
-        {
-          "title": "Road sinking and causing damage to the car and buses, 1st October",
-          "url": "https://www.fixmystreet.com/report/10177000",
-          "date": "2026-10-01T07:24:55+00:00",
-          "category": null
-        },
-        {
-          "title": "Road sinking and severe potholes, 1st October",
-          "url": "https://www.fixmystreet.com/report/10176963",
-          "date": "2026-10-01T07:19:07+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
     "Shirley South": {
-      "fixmystreet": [
-        {
-          "title": "Helium balloon canister on grass verge, 23rd October",
-          "url": "https://www.fixmystreet.com/report/10276198",
-          "date": "2026-10-23T13:46:56+00:00",
-          "category": null
-        },
-        {
-          "title": "Water leak for nearly three months, 12th October",
-          "url": "https://www.fixmystreet.com/report/10228911",
-          "date": "2026-10-12T17:54:43+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped car and fly tipping, 12th October",
-          "url": "https://www.fixmystreet.com/report/10227525",
-          "date": "2026-10-12T13:32:21+00:00",
-          "category": null
-        },
-        {
-          "title": "Water trough has been displaced, 4th October",
-          "url": "https://www.fixmystreet.com/report/10191053",
-          "date": "2026-10-04T14:52:11+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish everywhere, 4th October",
-          "url": "https://www.fixmystreet.com/report/10189796",
-          "date": "2026-10-04T09:33:56+00:00",
-          "category": null
-        },
-        {
-          "title": "Fridge freezer dumped at entrance to Temple Copse, 1st October",
-          "url": "https://www.fixmystreet.com/report/10177505",
-          "date": "2026-10-01T08:45:18+00:00",
-          "category": null
-        },
-        {
-          "title": "Temporary Traffic Lights are not working, 1st October",
-          "url": "https://www.fixmystreet.com/report/10177366",
-          "date": "2026-10-01T08:29:17+00:00",
-          "category": null
-        },
-        {
-          "title": "Fridge/freezer dumped, 30th September",
-          "url": "https://www.fixmystreet.com/report/10174500",
-          "date": "2026-09-30T14:05:39+00:00",
-          "category": null
-        },
-        {
-          "title": "Fly tipping, 24th September",
-          "url": "https://www.fixmystreet.com/report/10143447",
-          "date": "2026-09-24T06:59:46+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
     "South Croydon": {
       "fixmystreet": [
+        {
+          "title": "Temporary Roadworks Barricades, 24th October",
+          "url": "https://www.fixmystreet.com/report/10278442",
+          "date": "2026-10-24T08:25:42+00:00",
+          "category": null
+        },
         {
           "title": "Uneven surface or pothole at main junction, 20th October",
           "url": "https://www.fixmystreet.com/report/10262858",
