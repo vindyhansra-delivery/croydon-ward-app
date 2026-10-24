@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T18:21:33.626880+00:00",
+    "generated_at": "2026-10-24T00:40:36.472487+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -494,6 +494,12 @@
     },
     "Purley and Woodcote": {
       "fixmystreet": [
+        {
+          "title": "Brighton Road ,Purley, 23rd October",
+          "url": "https://www.fixmystreet.com/report/10277383",
+          "date": "2026-10-23T21:47:49+00:00",
+          "category": null
+        },
         {
           "title": "Temporary Traffic lights SGN, 17th October",
           "url": "https://www.fixmystreet.com/report/10250084",
