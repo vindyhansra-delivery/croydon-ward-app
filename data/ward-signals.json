@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-25T06:26:46.057588+00:00",
+    "generated_at": "2026-10-25T12:22:47.633410+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -745,6 +745,18 @@
     "South Norwood": {
       "fixmystreet": [
         {
+          "title": "Fly tipping, 25th October",
+          "url": "https://www.fixmystreet.com/report/10281651",
+          "date": "2026-10-25T11:52:54+00:00",
+          "category": null
+        },
+        {
+          "title": "Rubbish in the road and blocked pathway., 25th October",
+          "url": "https://www.fixmystreet.com/report/10280755",
+          "date": "2026-10-25T07:49:43+00:00",
+          "category": null
+        },
+        {
           "title": "Top bar of barrier for bikes/scooters removed, 13th October",
           "url": "https://www.fixmystreet.com/report/10233356",
           "date": "2026-10-13T15:17:31+00:00",
@@ -759,6 +771,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Day Of The Dead Supper Club, South Norwood, Tue Nov 3",
+          "url": "https://insidecroydon.com/2026/10/25/day-of-the-dead-supper-club-south-norwood-tue-nov-3-2/",
+          "date": "2026-10-25T09:35:25+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Perry’s consultation is outsourced to AI spyware company",
           "url": "https://insidecroydon.com/2026/10/22/perrys-consultation-is-outsourced-to-ai-spyware-company/",
@@ -781,12 +799,6 @@
           "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
           "url": "https://insidecroydon.com/2026/10/21/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21-3/",
           "date": "2026-10-21T08:55:05+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Day Of The Dead Supper Club, South Norwood, Tue Nov 3",
-          "url": "https://insidecroydon.com/2026/10/17/day-of-the-dead-supper-club-south-norwood-tue-nov-3/",
-          "date": "2026-10-17T09:45:06+00:00",
           "publisher": "Inside Croydon"
         }
       ]
