@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-25T12:22:47.633410+00:00",
+    "generated_at": "2026-10-25T18:19:37.565025+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -117,12 +117,6 @@
           "url": "https://www.fixmystreet.com/report/10196205",
           "date": "2026-10-05T14:17:23+00:00",
           "category": null
-        },
-        {
-          "title": "20/264 traffic light covered by foliage, 25th September",
-          "url": "https://www.fixmystreet.com/report/10152306",
-          "date": "2026-09-25T14:37:45+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -130,6 +124,12 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "Fallen tree, 25th October",
+          "url": "https://www.fixmystreet.com/report/10282565",
+          "date": "2026-10-25T14:32:22+00:00",
+          "category": null
+        },
         {
           "title": "Manhole has broken and people can have an accident, 24th October",
           "url": "https://www.fixmystreet.com/report/10280288",
@@ -182,12 +182,6 @@
           "title": "Outgrown bushes, 12th October",
           "url": "https://www.fixmystreet.com/report/10224192",
           "date": "2026-10-12T04:49:38+00:00",
-          "category": null
-        },
-        {
-          "title": "Raw sewage run off from neighboring building, 5th October",
-          "url": "https://www.fixmystreet.com/report/10197930",
-          "date": "2026-10-05T20:14:21+00:00",
           "category": null
         }
       ],
@@ -861,14 +855,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Purley sheltered housing acquired by Croydon’s oldest charity",
-          "url": "https://insidecroydon.com/2026/10/14/purley-sheltered-housing-acquired-by-croydons-oldest-charity/",
-          "date": "2026-10-14T10:55:50+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "West Thornton": {
       "fixmystreet": [
