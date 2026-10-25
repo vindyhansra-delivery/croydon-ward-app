@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T18:19:22.354996+00:00",
+    "generated_at": "2026-10-25T00:44:38.547155+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -131,6 +131,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Manhole has broken and people can have an accident, 24th October",
+          "url": "https://www.fixmystreet.com/report/10280288",
+          "date": "2026-10-24T20:05:26+00:00",
+          "category": null
+        },
+        {
           "title": "Dead fox, 24th October",
           "url": "https://www.fixmystreet.com/report/10279036",
           "date": "2026-10-24T11:05:50+00:00",
@@ -182,12 +188,6 @@
           "title": "Raw sewage run off from neighboring building, 5th October",
           "url": "https://www.fixmystreet.com/report/10197930",
           "date": "2026-10-05T20:14:21+00:00",
-          "category": null
-        },
-        {
-          "title": "Sewer pipe from Alto building discharging raw sewage, 5th October",
-          "url": "https://www.fixmystreet.com/report/10196645",
-          "date": "2026-10-05T15:19:18+00:00",
           "category": null
         }
       ],
@@ -490,12 +490,6 @@
           "url": "https://www.fixmystreet.com/report/10185626",
           "date": "2026-10-02T18:12:39+00:00",
           "category": null
-        },
-        {
-          "title": "Difficult to deploy rump and buses, 24th September",
-          "url": "https://www.fixmystreet.com/report/10148525",
-          "date": "2026-09-24T21:35:42+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -573,12 +567,6 @@
           "title": "Pavement parking, 28th September",
           "url": "https://www.fixmystreet.com/report/10160461",
           "date": "2026-09-28T08:10:01+00:00",
-          "category": null
-        },
-        {
-          "title": "Low trees branches, 24th September",
-          "url": "https://www.fixmystreet.com/report/10148506",
-          "date": "2026-09-24T21:27:14+00:00",
           "category": null
         }
       ],
