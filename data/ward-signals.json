@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-25T00:44:38.547155+00:00",
+    "generated_at": "2026-10-25T06:26:46.057588+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -447,12 +447,6 @@
           "title": "Blocked footpaths and overgrown trees, 22nd October",
           "url": "https://www.fixmystreet.com/report/10272653",
           "date": "2026-10-22T17:39:45+00:00",
-          "category": null
-        },
-        {
-          "title": "Low trees branches, 25th September",
-          "url": "https://www.fixmystreet.com/report/10148782",
-          "date": "2026-09-25T04:51:59+00:00",
           "category": null
         }
       ],
