@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T06:37:05.557688+00:00",
+    "generated_at": "2026-10-26T13:48:32.882129+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -125,6 +125,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Pavement blocked with unkempt hedges, 26th October",
+          "url": "https://www.fixmystreet.com/report/10284537",
+          "date": "2026-10-26T08:53:18+00:00",
+          "category": null
+        },
+        {
           "title": "Fallen tree, 25th October",
           "url": "https://www.fixmystreet.com/report/10282565",
           "date": "2026-10-25T14:32:22+00:00",
@@ -176,12 +182,6 @@
           "title": "Rubbish in front of the cafe, 13th October",
           "url": "https://www.fixmystreet.com/report/10230317",
           "date": "2026-10-13T07:39:45+00:00",
-          "category": null
-        },
-        {
-          "title": "Outgrown bushes, 12th October",
-          "url": "https://www.fixmystreet.com/report/10224192",
-          "date": "2026-10-12T04:49:38+00:00",
           "category": null
         }
       ],
@@ -243,6 +243,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Steeleye Span’s Prior arrangements still sounding evergreen",
+          "url": "https://insidecroydon.com/2026/10/26/steeleye-spans-prior-arrangements-still-sounding-evergreen/",
+          "date": "2026-10-26T13:13:15+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Win tickets for classical ballet The Nutcracker at Fairfield Halls",
           "url": "https://insidecroydon.com/2026/10/23/win-tickets-for-classical-ballet-the-nutcracker-at-fairfield-halls/",
           "date": "2026-10-23T10:19:45+00:00",
@@ -300,6 +306,12 @@
     },
     "New Addington South": {
       "fixmystreet": [
+        {
+          "title": "Continual Flytyping, 26th October",
+          "url": "https://www.fixmystreet.com/report/10286025",
+          "date": "2026-10-26T12:03:32+00:00",
+          "category": null
+        },
         {
           "title": "Pothole in bus stand, 20th October",
           "url": "https://www.fixmystreet.com/report/10261683",
@@ -402,6 +414,12 @@
     },
     "Old Coulsdon": {
       "fixmystreet": [
+        {
+          "title": "Fallen tree, 26th October",
+          "url": "https://www.fixmystreet.com/report/10284647",
+          "date": "2026-10-26T09:13:19+00:00",
+          "category": null
+        },
         {
           "title": "Parked on the curb, 23rd October",
           "url": "https://www.fixmystreet.com/report/10275283",
@@ -935,6 +953,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Artisan Craft Market, Glenthorne Ave, Shirley, Sat Nov 14",
+          "url": "https://insidecroydon.com/2026/10/26/artisan-craft-market-glenthorne-ave-shirley-sat-nov-14/",
+          "date": "2026-10-26T11:23:30+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Site supporter wins tickets for The Stylistics at Fairfield Halls",
           "url": "https://insidecroydon.com/2026/10/19/site-supporter-wins-tickets-for-the-stylistics-at-fairfield-halls/",
           "date": "2026-10-19T13:48:22+00:00",
@@ -944,12 +968,6 @@
           "title": "Passengers suffering as tram closures up by 68% in a year",
           "url": "https://insidecroydon.com/2026/10/15/passengers-suffering-as-tram-closures-up-by-68-in-a-year/",
           "date": "2026-10-15T16:43:23+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "After five years, council finally acts to clean up country park",
-          "url": "https://insidecroydon.com/2026/10/15/after-five-years-council-finally-acts-to-clean-up-country-park/",
-          "date": "2026-10-15T11:44:24+00:00",
           "publisher": "Inside Croydon"
         }
       ]
