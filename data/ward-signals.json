@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T13:48:32.882129+00:00",
+    "generated_at": "2026-10-26T18:27:02.004335+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -37,12 +37,6 @@
           "title": "3 areas of flytipping, Outram rd, 1st October",
           "url": "https://www.fixmystreet.com/report/10181370",
           "date": "2026-10-01T21:21:48+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead FOX, 26th September",
-          "url": "https://www.fixmystreet.com/report/10155788",
-          "date": "2026-09-26T15:48:40+00:00",
           "category": null
         }
       ],
@@ -538,12 +532,6 @@
           "url": "https://www.fixmystreet.com/report/10203612",
           "date": "2026-10-06T21:08:51+00:00",
           "category": null
-        },
-        {
-          "title": "Incorrect details on street signage, 26th September",
-          "url": "https://www.fixmystreet.com/report/10156113",
-          "date": "2026-09-26T17:26:45+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -784,6 +772,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Have your voice heard at South Norwood Council Tax meeting",
+          "url": "https://insidecroydon.com/2026/10/26/have-your-voice-heard-at-south-norwood-council-tax-meeting/",
+          "date": "2026-10-26T17:04:02+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Day Of The Dead Supper Club, South Norwood, Tue Nov 3",
           "url": "https://insidecroydon.com/2026/10/25/day-of-the-dead-supper-club-south-norwood-tue-nov-3-2/",
           "date": "2026-10-25T09:35:25+00:00",
@@ -805,12 +799,6 @@
           "title": "Here’s suggested (polite) responses to Perry’s consultation",
           "url": "https://insidecroydon.com/2026/10/21/heres-suggested-polite-responses-to-perrys-consultation/",
           "date": "2026-10-21T13:16:26+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
-          "url": "https://insidecroydon.com/2026/10/21/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21-3/",
-          "date": "2026-10-21T08:55:05+00:00",
           "publisher": "Inside Croydon"
         }
       ]
