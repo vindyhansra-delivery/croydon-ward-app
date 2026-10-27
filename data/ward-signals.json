@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-27T12:26:21.577585+00:00",
+    "generated_at": "2026-10-27T18:16:36.541898+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -236,6 +236,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "WIN!!! Pair of tickets to see Steeleye Span at Ashcroft Theatre",
+          "url": "https://insidecroydon.com/2026/10/27/win-pair-of-tickets-to-see-steeleye-span-at-ashcroft-theatre/",
+          "date": "2026-10-27T17:45:36+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Steeleye Span’s Prior arrangements still sounding evergreen",
           "url": "https://insidecroydon.com/2026/10/26/steeleye-spans-prior-arrangements-still-sounding-evergreen/",
@@ -725,12 +731,6 @@
           "title": "In crust we trust: try great new menu at Raggio di Sole pizzas",
           "url": "https://insidecroydon.com/2026/10/22/in-crust-we-trust-try-great-new-menu-at-raggio-di-sole-pizzas-2/",
           "date": "2026-10-22T08:20:59+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "In crust we trust: try great new menu at Raggio di Sole pizzas",
-          "url": "https://insidecroydon.com/2026/10/16/in-crust-we-trust-try-great-new-menu-at-raggio-di-sole-pizzas/",
-          "date": "2026-10-16T08:38:37+00:00",
           "publisher": "Inside Croydon"
         }
       ]
