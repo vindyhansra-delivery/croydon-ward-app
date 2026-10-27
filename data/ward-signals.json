@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-27T06:29:19.658734+00:00",
+    "generated_at": "2026-10-27T12:26:21.577585+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -356,14 +356,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Passengers suffering as tram closures up by 68% in a year",
-          "url": "https://insidecroydon.com/2026/10/15/passengers-suffering-as-tram-closures-up-by-68-in-a-year/",
-          "date": "2026-10-15T16:43:23+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Norbury Park": {
       "fixmystreet": [],
@@ -866,6 +859,12 @@
     "West Thornton": {
       "fixmystreet": [
         {
+          "title": "10 to 20 dog turds in alleyway, 27th October",
+          "url": "https://www.fixmystreet.com/report/10289823",
+          "date": "2026-10-27T07:43:59+00:00",
+          "category": null
+        },
+        {
           "title": "Fly tipping, 28th September",
           "url": "https://www.fixmystreet.com/report/10161992",
           "date": "2026-09-28T10:59:42+00:00",
@@ -950,12 +949,6 @@
           "title": "Site supporter wins tickets for The Stylistics at Fairfield Halls",
           "url": "https://insidecroydon.com/2026/10/19/site-supporter-wins-tickets-for-the-stylistics-at-fairfield-halls/",
           "date": "2026-10-19T13:48:22+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Passengers suffering as tram closures up by 68% in a year",
-          "url": "https://insidecroydon.com/2026/10/15/passengers-suffering-as-tram-closures-up-by-68-in-a-year/",
-          "date": "2026-10-15T16:43:23+00:00",
           "publisher": "Inside Croydon"
         }
       ]
