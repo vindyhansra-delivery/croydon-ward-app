@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-28T12:20:01.455008+00:00",
+    "generated_at": "2026-10-28T18:17:50.347803+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -572,6 +572,12 @@
     "Selsdon and Addington Village": {
       "fixmystreet": [
         {
+          "title": "Road sign frame broken - needs metal frame to secure the street name plate, 28th October",
+          "url": "https://www.fixmystreet.com/report/10297537",
+          "date": "2026-10-28T12:42:25+00:00",
+          "category": "Road sign frame broken"
+        },
+        {
           "title": "Someone has driven into this alley way entrance, near the posts, 30th September",
           "url": "https://www.fixmystreet.com/report/10174210",
           "date": "2026-09-30T13:20:29+00:00",
@@ -761,6 +767,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "You’ll very much like the rice, jerk chicken and divine lamb",
+          "url": "https://insidecroydon.com/2026/10/28/youll-very-much-like-the-rice-jerk-chicken-and-divine-lamb/",
+          "date": "2026-10-28T16:21:13+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "In crust we trust: try great new menu at Raggio di Sole pizzas",
           "url": "https://insidecroydon.com/2026/10/22/in-crust-we-trust-try-great-new-menu-at-raggio-di-sole-pizzas-2/",
