@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-28T06:22:42.100376+00:00",
+    "generated_at": "2026-10-28T12:20:01.455008+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -60,6 +60,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Kent Gateway and Selsdon roadworks compound tram misery",
+          "url": "https://insidecroydon.com/2026/10/28/kent-gateway-and-selsdon-roadworks-compound-tram-misery/",
+          "date": "2026-10-28T11:25:04+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Trams disrupted this week as Lebanon Road stop is closed",
           "url": "https://insidecroydon.com/2026/10/22/trams-disrupted-this-week-as-lebanon-road-stop-is-closed/",
@@ -302,7 +308,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Kent Gateway and Selsdon roadworks compound tram misery",
+          "url": "https://insidecroydon.com/2026/10/28/kent-gateway-and-selsdon-roadworks-compound-tram-misery/",
+          "date": "2026-10-28T11:25:04+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "New Addington South": {
       "fixmystreet": [
@@ -362,7 +375,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Kent Gateway and Selsdon roadworks compound tram misery",
+          "url": "https://insidecroydon.com/2026/10/28/kent-gateway-and-selsdon-roadworks-compound-tram-misery/",
+          "date": "2026-10-28T11:25:04+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Norbury Park": {
       "fixmystreet": [],
@@ -479,6 +499,12 @@
     "Sanderstead": {
       "fixmystreet": [
         {
+          "title": "Roadworks abandoned, 28th October",
+          "url": "https://www.fixmystreet.com/report/10296431",
+          "date": "2026-10-28T10:27:46+00:00",
+          "category": null
+        },
+        {
           "title": "Fly tipping, 6th October",
           "url": "https://www.fixmystreet.com/report/10199463",
           "date": "2026-10-06T08:58:58+00:00",
@@ -534,7 +560,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "CODA presents Spitfire Girls, at Selsdon Hall, Nov 26-29",
+          "url": "https://insidecroydon.com/2026/10/28/coda-presents-spitfire-girls-at-selsdon-hall-nov-26-29/",
+          "date": "2026-10-28T09:28:55+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
@@ -555,16 +588,17 @@
           "url": "https://www.fixmystreet.com/report/10166108",
           "date": "2026-09-29T07:31:24+00:00",
           "category": null
-        },
-        {
-          "title": "Pavement parking, 28th September",
-          "url": "https://www.fixmystreet.com/report/10160461",
-          "date": "2026-09-28T08:10:01+00:00",
-          "category": null
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "CODA presents Spitfire Girls, at Selsdon Hall, Nov 26-29",
+          "url": "https://insidecroydon.com/2026/10/28/coda-presents-spitfire-girls-at-selsdon-hall-nov-26-29/",
+          "date": "2026-10-28T09:28:55+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Shirley North": {
       "fixmystreet": [
@@ -862,12 +896,6 @@
           "title": "10 to 20 dog turds in alleyway, 27th October",
           "url": "https://www.fixmystreet.com/report/10289823",
           "date": "2026-10-27T07:43:59+00:00",
-          "category": null
-        },
-        {
-          "title": "Fly tipping, 28th September",
-          "url": "https://www.fixmystreet.com/report/10161992",
-          "date": "2026-09-28T10:59:42+00:00",
           "category": null
         }
       ],
