@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T06:22:49.324568+00:00",
+    "generated_at": "2026-10-29T12:20:25.137097+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -310,6 +310,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Council issues details of tram crash 10th anniversary service",
+          "url": "https://insidecroydon.com/2026/10/29/council-issues-details-of-tram-crash-10th-anniversary-service/",
+          "date": "2026-10-29T11:08:25+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Kent Gateway and Selsdon roadworks compound tram misery",
           "url": "https://insidecroydon.com/2026/10/28/kent-gateway-and-selsdon-roadworks-compound-tram-misery/",
           "date": "2026-10-28T11:25:04+00:00",
@@ -376,6 +382,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Council issues details of tram crash 10th anniversary service",
+          "url": "https://insidecroydon.com/2026/10/29/council-issues-details-of-tram-crash-10th-anniversary-service/",
+          "date": "2026-10-29T11:08:25+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Kent Gateway and Selsdon roadworks compound tram misery",
           "url": "https://insidecroydon.com/2026/10/28/kent-gateway-and-selsdon-roadworks-compound-tram-misery/",
@@ -588,12 +600,6 @@
           "url": "https://www.fixmystreet.com/report/10174153",
           "date": "2026-09-30T13:10:30+00:00",
           "category": null
-        },
-        {
-          "title": "Fox in the road injured, 29th September",
-          "url": "https://www.fixmystreet.com/report/10166108",
-          "date": "2026-09-29T07:31:24+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -608,6 +614,12 @@
     },
     "Shirley North": {
       "fixmystreet": [
+        {
+          "title": "Holes in road, 29th October",
+          "url": "https://www.fixmystreet.com/report/10301042",
+          "date": "2026-10-29T08:19:11+00:00",
+          "category": null
+        },
         {
           "title": "Purple bin bags left., 17th October",
           "url": "https://www.fixmystreet.com/report/10251024",
@@ -660,12 +672,6 @@
           "title": "Road sinking and causing damage to the car and buses, 1st October",
           "url": "https://www.fixmystreet.com/report/10177000",
           "date": "2026-10-01T07:24:55+00:00",
-          "category": null
-        },
-        {
-          "title": "Road sinking and severe potholes, 1st October",
-          "url": "https://www.fixmystreet.com/report/10176963",
-          "date": "2026-10-01T07:19:07+00:00",
           "category": null
         }
       ],
@@ -728,6 +734,12 @@
     },
     "South Croydon": {
       "fixmystreet": [
+        {
+          "title": "Gcm743 remains on the road in a delapidated condition, 29th October",
+          "url": "https://www.fixmystreet.com/report/10302570",
+          "date": "2026-10-29T11:35:39+00:00",
+          "category": null
+        },
         {
           "title": "Temporary Roadworks Barricades, 24th October",
           "url": "https://www.fixmystreet.com/report/10278442",
@@ -811,6 +823,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Car crash on Portland Road: man charged after police chase",
+          "url": "https://insidecroydon.com/2026/10/29/car-crash-on-portland-road-man-charged-after-police-chase/",
+          "date": "2026-10-29T10:41:16+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Have your voice heard at South Norwood Council Tax meeting",
           "url": "https://insidecroydon.com/2026/10/26/have-your-voice-heard-at-south-norwood-council-tax-meeting/",
           "date": "2026-10-26T17:04:02+00:00",
@@ -833,17 +851,17 @@
           "url": "https://insidecroydon.com/2026/10/21/perry-looks-to-spread-the-pain-of-his-failure-to-croydons-poor/",
           "date": "2026-10-21T13:17:13+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Here’s suggested (polite) responses to Perry’s consultation",
-          "url": "https://insidecroydon.com/2026/10/21/heres-suggested-polite-responses-to-perrys-consultation/",
-          "date": "2026-10-21T13:16:26+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
     "Thornton Heath": {
       "fixmystreet": [
+        {
+          "title": "Road floods when raining, 29th October",
+          "url": "https://www.fixmystreet.com/report/10301319",
+          "date": "2026-10-29T09:05:33+00:00",
+          "category": null
+        },
         {
           "title": "Rubbish, 18th October",
           "url": "https://www.fixmystreet.com/report/10252881",
