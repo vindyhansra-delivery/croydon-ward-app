@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T12:20:25.137097+00:00",
+    "generated_at": "2026-10-29T18:17:42.985076+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -397,7 +397,14 @@
       ]
     },
     "Norbury Park": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Massive tags, 29th October",
+          "url": "https://www.fixmystreet.com/report/10303175",
+          "date": "2026-10-29T13:04:48+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
@@ -480,6 +487,12 @@
     },
     "Purley Oaks and Riddlesdown": {
       "fixmystreet": [
+        {
+          "title": "Dumped Barnard Marcus For Sale Banner in Rosemont Court Flats Car Park, CR8 2QG, 29th October",
+          "url": "https://www.fixmystreet.com/report/10304433",
+          "date": "2026-10-29T16:41:47+00:00",
+          "category": null
+        },
         {
           "title": "Blocked footpaths and overgrown trees, 22nd October",
           "url": "https://www.fixmystreet.com/report/10272653",
