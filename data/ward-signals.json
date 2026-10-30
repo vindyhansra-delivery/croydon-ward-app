@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-30T06:22:30.469498+00:00",
+    "generated_at": "2026-10-30T12:20:26.327836+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -258,12 +258,6 @@
           "title": "Win tickets for classical ballet The Nutcracker at Fairfield Halls",
           "url": "https://insidecroydon.com/2026/10/23/win-tickets-for-classical-ballet-the-nutcracker-at-fairfield-halls/",
           "date": "2026-10-23T10:19:45+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Site supporter wins tickets for The Stylistics at Fairfield Halls",
-          "url": "https://insidecroydon.com/2026/10/19/site-supporter-wins-tickets-for-the-stylistics-at-fairfield-halls/",
-          "date": "2026-10-19T13:48:22+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -628,6 +622,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Tripping hazard, 30th October",
+          "url": "https://www.fixmystreet.com/report/10306642",
+          "date": "2026-10-30T09:57:00+00:00",
+          "category": null
+        },
+        {
           "title": "Holes in road, 29th October",
           "url": "https://www.fixmystreet.com/report/10301042",
           "date": "2026-10-29T08:19:11+00:00",
@@ -679,12 +679,6 @@
           "title": "Roads are sinking causing the cars and buses to have damage to the wheels and driver behaviour and on a blind bend, 1st October",
           "url": "https://www.fixmystreet.com/report/10177045",
           "date": "2026-10-01T07:31:55+00:00",
-          "category": null
-        },
-        {
-          "title": "Road sinking and causing damage to the car and buses, 1st October",
-          "url": "https://www.fixmystreet.com/report/10177000",
-          "date": "2026-10-01T07:24:55+00:00",
           "category": null
         }
       ],
@@ -1014,12 +1008,6 @@
           "title": "Artisan Craft Market, Glenthorne Ave, Shirley, Sat Nov 14",
           "url": "https://insidecroydon.com/2026/10/26/artisan-craft-market-glenthorne-ave-shirley-sat-nov-14/",
           "date": "2026-10-26T11:23:30+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Site supporter wins tickets for The Stylistics at Fairfield Halls",
-          "url": "https://insidecroydon.com/2026/10/19/site-supporter-wins-tickets-for-the-stylistics-at-fairfield-halls/",
-          "date": "2026-10-19T13:48:22+00:00",
           "publisher": "Inside Croydon"
         }
       ]
