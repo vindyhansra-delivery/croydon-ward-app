@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-30T12:20:26.327836+00:00",
+    "generated_at": "2026-10-30T18:14:56.929568+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -192,12 +192,6 @@
           "url": "https://insidecroydon.com/2026/10/24/haunted-house-extreme-at-crystal-palace-nsc-oct-30-and-31-4/",
           "date": "2026-10-24T10:02:22+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Haunted House Extreme, at Crystal Palace NSC, Oct 30 and 31",
-          "url": "https://insidecroydon.com/2026/10/20/haunted-house-extreme-at-crystal-palace-nsc-oct-30-and-31-3/",
-          "date": "2026-10-20T08:43:50+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -242,6 +236,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "iC subscribers win Nutcracker and Steeleye Span ticket prizes",
+          "url": "https://insidecroydon.com/2026/10/30/ic-subscribers-win-nutcracker-and-steeleye-span-ticket-prizes/",
+          "date": "2026-10-30T12:46:27+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "WIN!!! Pair of tickets to see Steeleye Span at Ashcroft Theatre",
           "url": "https://insidecroydon.com/2026/10/27/win-pair-of-tickets-to-see-steeleye-span-at-ashcroft-theatre/",
@@ -560,6 +560,12 @@
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
         {
+          "title": "Fallen tree blocking public footpath (Vanguard Way + London Loop, 30th October",
+          "url": "https://www.fixmystreet.com/report/10309470",
+          "date": "2026-10-30T17:53:29+00:00",
+          "category": null
+        },
+        {
           "title": "Tree blocking road, 24th October",
           "url": "https://www.fixmystreet.com/report/10280091",
           "date": "2026-10-24T18:07:46+00:00",
@@ -595,18 +601,6 @@
           "url": "https://www.fixmystreet.com/report/10297537",
           "date": "2026-10-28T12:42:25+00:00",
           "category": "Road sign frame broken"
-        },
-        {
-          "title": "Someone has driven into this alley way entrance, near the posts, 30th September",
-          "url": "https://www.fixmystreet.com/report/10174210",
-          "date": "2026-09-30T13:20:29+00:00",
-          "category": null
-        },
-        {
-          "title": "Broken post on spout hill and ran into the ally way that leads to boundary way , next to the other posts, 30th September",
-          "url": "https://www.fixmystreet.com/report/10174153",
-          "date": "2026-09-30T13:10:30+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -728,12 +722,6 @@
           "url": "https://www.fixmystreet.com/report/10177366",
           "date": "2026-10-01T08:29:17+00:00",
           "category": null
-        },
-        {
-          "title": "Fridge/freezer dumped, 30th September",
-          "url": "https://www.fixmystreet.com/report/10174500",
-          "date": "2026-09-30T14:05:39+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -786,6 +774,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Proud cavalcade of motoring history is on the road to Croydon",
+          "url": "https://insidecroydon.com/2026/10/30/proud-cavalcade-of-motoring-history-is-on-the-road-to-croydon/",
+          "date": "2026-10-30T16:10:48+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "You’ll very much like the rice, jerk chicken and divine lamb",
           "url": "https://insidecroydon.com/2026/10/28/youll-very-much-like-the-rice-jerk-chicken-and-divine-lamb/",
@@ -907,7 +901,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Proud cavalcade of motoring history is on the road to Croydon",
+          "url": "https://insidecroydon.com/2026/10/30/proud-cavalcade-of-motoring-history-is-on-the-road-to-croydon/",
+          "date": "2026-10-30T16:10:48+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Waddon": {
       "fixmystreet": [
