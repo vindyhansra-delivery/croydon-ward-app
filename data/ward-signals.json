@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T06:17:37.281777+00:00",
+    "generated_at": "2026-10-31T12:15:51.866935+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -49,12 +49,6 @@
           "title": "Dead animal in front of 48 and 50 Addiscombe Court Road., 4th October",
           "url": "https://www.fixmystreet.com/report/10191491",
           "date": "2026-10-04T16:31:58+00:00",
-          "category": null
-        },
-        {
-          "title": "Smelly dead fox, 1st October",
-          "url": "https://www.fixmystreet.com/report/10178414",
-          "date": "2026-10-01T10:49:28+00:00",
           "category": null
         }
       ],
@@ -236,6 +230,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Handel’s Messiah, Croydon Philharmonic Choir, Sat Dec 19",
+          "url": "https://insidecroydon.com/2026/10/31/handels-messiah-croydon-philharmonic-choir-sat-dec-19-2/",
+          "date": "2026-10-31T10:50:36+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "iC subscribers win Nutcracker and Steeleye Span ticket prizes",
           "url": "https://insidecroydon.com/2026/10/30/ic-subscribers-win-nutcracker-and-steeleye-span-ticket-prizes/",
@@ -463,12 +463,6 @@
           "url": "https://www.fixmystreet.com/report/10209358",
           "date": "2026-10-08T07:42:06+00:00",
           "category": null
-        },
-        {
-          "title": "Beds and matresses., 1st October",
-          "url": "https://www.fixmystreet.com/report/10177860",
-          "date": "2026-10-01T09:31:58+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -662,18 +656,6 @@
           "url": "https://www.fixmystreet.com/report/10228684",
           "date": "2026-10-13T10:10:45+00:00",
           "category": null
-        },
-        {
-          "title": "Pot holes and roads sinking, 1st October",
-          "url": "https://www.fixmystreet.com/report/10177097",
-          "date": "2026-10-01T07:38:13+00:00",
-          "category": null
-        },
-        {
-          "title": "Roads are sinking causing the cars and buses to have damage to the wheels and driver behaviour and on a blind bend, 1st October",
-          "url": "https://www.fixmystreet.com/report/10177045",
-          "date": "2026-10-01T07:31:55+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -709,18 +691,6 @@
           "title": "Rubbish everywhere, 4th October",
           "url": "https://www.fixmystreet.com/report/10189796",
           "date": "2026-10-04T09:33:56+00:00",
-          "category": null
-        },
-        {
-          "title": "Fridge freezer dumped at entrance to Temple Copse, 1st October",
-          "url": "https://www.fixmystreet.com/report/10177505",
-          "date": "2026-10-01T08:45:18+00:00",
-          "category": null
-        },
-        {
-          "title": "Temporary Traffic Lights are not working, 1st October",
-          "url": "https://www.fixmystreet.com/report/10177366",
-          "date": "2026-10-01T08:29:17+00:00",
           "category": null
         }
       ],
@@ -775,6 +745,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Lloyd’s bequest to the people faces up to challenge of drought",
+          "url": "https://insidecroydon.com/2026/10/31/lloyds-bequest-to-the-people-faces-up-to-challenge-of-drought/",
+          "date": "2026-10-31T11:49:16+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Proud cavalcade of motoring history is on the road to Croydon",
           "url": "https://insidecroydon.com/2026/10/30/proud-cavalcade-of-motoring-history-is-on-the-road-to-croydon/",
           "date": "2026-10-30T16:10:48+00:00",
@@ -824,6 +800,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
+          "url": "https://insidecroydon.com/2026/10/31/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21-4/",
+          "date": "2026-10-31T09:55:53+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Car crash on Portland Road: man charged after police chase",
           "url": "https://insidecroydon.com/2026/10/29/car-crash-on-portland-road-man-charged-after-police-chase/",
           "date": "2026-10-29T10:41:16+00:00",
@@ -845,12 +827,6 @@
           "title": "Perry’s consultation is outsourced to AI spyware company",
           "url": "https://insidecroydon.com/2026/10/22/perrys-consultation-is-outsourced-to-ai-spyware-company/",
           "date": "2026-10-22T11:16:58+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Perry looks to inflict pain for his failures on Croydon’s poor",
-          "url": "https://insidecroydon.com/2026/10/21/perry-looks-to-spread-the-pain-of-his-failure-to-croydons-poor/",
-          "date": "2026-10-21T13:17:13+00:00",
           "publisher": "Inside Croydon"
         }
       ]
