@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T12:15:51.866935+00:00",
+    "generated_at": "2026-10-31T18:13:53.278287+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -919,6 +919,12 @@
     "Woodside": {
       "fixmystreet": [
         {
+          "title": "Pot hole before speed bump causing cars to scrape pavement, 31st October",
+          "url": "https://www.fixmystreet.com/report/10311876",
+          "date": "2026-10-31T14:51:37+00:00",
+          "category": null
+        },
+        {
           "title": "Trees and vegetation covering streetlight at footpath, 21st October",
           "url": "https://www.fixmystreet.com/report/10265737",
           "date": "2026-10-21T10:37:10+00:00",
@@ -970,12 +976,6 @@
           "title": "Abandoned trailer, 9th October",
           "url": "https://www.fixmystreet.com/report/10217729",
           "date": "2026-10-09T17:06:49+00:00",
-          "category": null
-        },
-        {
-          "title": "Flooding, 9th October",
-          "url": "https://www.fixmystreet.com/report/10216851",
-          "date": "2026-10-09T14:12:21+00:00",
           "category": null
         }
       ],
