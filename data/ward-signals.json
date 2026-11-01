@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-01T12:16:08.115367+00:00",
+    "generated_at": "2026-11-01T18:13:33.056934+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -420,18 +420,6 @@
           "title": "This vehicle CAP885k has been dumped here for so long it is decaying into the tarmac. It has been many years., 4th October",
           "url": "https://www.fixmystreet.com/report/10191180",
           "date": "2026-10-04T15:17:09+00:00",
-          "category": null
-        },
-        {
-          "title": "A Fly-Tip Tylecroft Road, 2nd October",
-          "url": "https://www.fixmystreet.com/report/10185167",
-          "date": "2026-10-02T15:55:01+00:00",
-          "category": null
-        },
-        {
-          "title": "Litter bin overflowing, 2nd October",
-          "url": "https://www.fixmystreet.com/report/10184678",
-          "date": "2026-10-02T14:18:26+00:00",
           "category": null
         }
       ],
@@ -931,6 +919,12 @@
     "Woodside": {
       "fixmystreet": [
         {
+          "title": "Lorry load size fly tip, 1st November",
+          "url": "https://www.fixmystreet.com/report/10315060",
+          "date": "2026-11-01T16:14:29+00:00",
+          "category": null
+        },
+        {
           "title": "Pot hole before speed bump causing cars to scrape pavement, 31st October",
           "url": "https://www.fixmystreet.com/report/10311876",
           "date": "2026-10-31T14:51:37+00:00",
@@ -982,12 +976,6 @@
           "title": "Shopping trolley and more, 10th October",
           "url": "https://www.fixmystreet.com/report/10219138",
           "date": "2026-10-10T10:15:35+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned trailer, 9th October",
-          "url": "https://www.fixmystreet.com/report/10217729",
-          "date": "2026-10-09T17:06:49+00:00",
           "category": null
         }
       ],
