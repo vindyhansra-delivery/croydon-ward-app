@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T18:13:53.278287+00:00",
+    "generated_at": "2026-11-01T00:33:53.450599+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -31,12 +31,6 @@
           "title": "Graffiti on on walls under Arch on both sides, 8th October",
           "url": "https://www.fixmystreet.com/report/10211944",
           "date": "2026-10-08T15:25:49+00:00",
-          "category": null
-        },
-        {
-          "title": "3 areas of flytipping, Outram rd, 1st October",
-          "url": "https://www.fixmystreet.com/report/10181370",
-          "date": "2026-10-01T21:21:48+00:00",
           "category": null
         }
       ],
@@ -554,6 +548,12 @@
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
         {
+          "title": "Not working, 31st October",
+          "url": "https://www.fixmystreet.com/report/10312844",
+          "date": "2026-10-31T21:28:24+00:00",
+          "category": null
+        },
+        {
           "title": "Fallen tree blocking public footpath (Vanguard Way + London Loop, 30th October",
           "url": "https://www.fixmystreet.com/report/10309470",
           "date": "2026-10-30T17:53:29+00:00",
@@ -733,12 +733,6 @@
           "title": "Birds poo, 6th October",
           "url": "https://www.fixmystreet.com/report/10202591",
           "date": "2026-10-06T16:10:56+00:00",
-          "category": null
-        },
-        {
-          "title": "Someone block our driveway, 1st October",
-          "url": "https://www.fixmystreet.com/report/10181089",
-          "date": "2026-10-01T19:26:56+00:00",
           "category": null
         }
       ],
