@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-01T06:18:29.971610+00:00",
+    "generated_at": "2026-11-01T12:16:08.115367+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -313,6 +313,12 @@
     },
     "New Addington South": {
       "fixmystreet": [
+        {
+          "title": "Noise pollution, large crowds, 1st November",
+          "url": "https://www.fixmystreet.com/report/10313116",
+          "date": "2026-11-01T06:59:00+00:00",
+          "category": null
+        },
         {
           "title": "Continual Flytyping, 26th October",
           "url": "https://www.fixmystreet.com/report/10286025",
@@ -739,6 +745,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "CAR-NAGE in South Croydon as veteran run sent on diversion",
+          "url": "https://insidecroydon.com/2026/11/01/car-nage-in-south-croydon-as-veteran-run-sent-on-diversion/",
+          "date": "2026-11-01T10:39:16+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Lloyd’s bequest to the people faces up to challenge of drought",
           "url": "https://insidecroydon.com/2026/10/31/lloyds-bequest-to-the-people-faces-up-to-challenge-of-drought/",
           "date": "2026-10-31T11:49:16+00:00",
@@ -872,6 +884,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "CAR-NAGE in South Croydon as veteran run sent on diversion",
+          "url": "https://insidecroydon.com/2026/11/01/car-nage-in-south-croydon-as-veteran-run-sent-on-diversion/",
+          "date": "2026-11-01T10:39:16+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Proud cavalcade of motoring history is on the road to Croydon",
           "url": "https://insidecroydon.com/2026/10/30/proud-cavalcade-of-motoring-history-is-on-the-road-to-croydon/",
