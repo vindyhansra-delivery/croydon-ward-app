@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-02T12:19:18.099761+00:00",
+    "generated_at": "2026-11-02T18:15:27.677862+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -107,6 +107,18 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Flytipping, 2nd November",
+          "url": "https://www.fixmystreet.com/report/10319272",
+          "date": "2026-11-02T14:48:52+00:00",
+          "category": null
+        },
+        {
+          "title": "Missing man hole cover, 2nd November",
+          "url": "https://www.fixmystreet.com/report/10318865",
+          "date": "2026-11-02T13:51:17+00:00",
+          "category": null
+        },
+        {
           "title": "Overflowing rubbish, 2nd November",
           "url": "https://www.fixmystreet.com/report/10317737",
           "date": "2026-11-02T11:11:06+00:00",
@@ -152,18 +164,6 @@
           "title": "Digarded stinking bin, 20th October",
           "url": "https://www.fixmystreet.com/report/10261637",
           "date": "2026-10-20T12:02:26+00:00",
-          "category": null
-        },
-        {
-          "title": "Bed and mattress dumped on triangle, 15th October",
-          "url": "https://www.fixmystreet.com/report/10243685",
-          "date": "2026-10-15T15:43:20+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped fridge freezer, 14th October",
-          "url": "https://www.fixmystreet.com/report/10236927",
-          "date": "2026-10-14T11:18:25+00:00",
           "category": null
         }
       ],
@@ -422,6 +422,12 @@
     },
     "Old Coulsdon": {
       "fixmystreet": [
+        {
+          "title": "Large Metal Traffic DIVERSION sign, 2nd November",
+          "url": "https://www.fixmystreet.com/report/10318283",
+          "date": "2026-11-02T12:20:21+00:00",
+          "category": null
+        },
         {
           "title": "Fallen tree, 26th October",
           "url": "https://www.fixmystreet.com/report/10284647",
