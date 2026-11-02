@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-02T06:25:44.391961+00:00",
+    "generated_at": "2026-11-02T12:19:18.099761+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -52,12 +52,6 @@
           "title": "Kent Gateway and Selsdon roadworks compound tram misery",
           "url": "https://insidecroydon.com/2026/10/28/kent-gateway-and-selsdon-roadworks-compound-tram-misery/",
           "date": "2026-10-28T11:25:04+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Trams disrupted this week as Lebanon Road stop is closed",
-          "url": "https://insidecroydon.com/2026/10/22/trams-disrupted-this-week-as-lebanon-road-stop-is-closed/",
-          "date": "2026-10-22T09:11:02+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -113,6 +107,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Overflowing rubbish, 2nd November",
+          "url": "https://www.fixmystreet.com/report/10317737",
+          "date": "2026-11-02T11:11:06+00:00",
+          "category": null
+        },
+        {
           "title": "Pavement blocked with unkempt hedges, 26th October",
           "url": "https://www.fixmystreet.com/report/10284537",
           "date": "2026-10-26T08:53:18+00:00",
@@ -164,12 +164,6 @@
           "title": "Dumped fridge freezer, 14th October",
           "url": "https://www.fixmystreet.com/report/10236927",
           "date": "2026-10-14T11:18:25+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish in front of the cafe, 13th October",
-          "url": "https://www.fixmystreet.com/report/10230317",
-          "date": "2026-10-13T07:39:45+00:00",
           "category": null
         }
       ],
@@ -569,6 +563,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "CODA’s Christmas Cabaret at Selsdon Hall, Dec 18 and 19",
+          "url": "https://insidecroydon.com/2026/11/02/codas-christmas-cabaret-at-selsdon-hall-dec-18-and-19/",
+          "date": "2026-11-02T09:18:38+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "CODA presents Spitfire Girls, at Selsdon Hall, Nov 26-29",
           "url": "https://insidecroydon.com/2026/10/28/coda-presents-spitfire-girls-at-selsdon-hall-nov-26-29/",
           "date": "2026-10-28T09:28:55+00:00",
@@ -593,6 +593,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "CODA’s Christmas Cabaret at Selsdon Hall, Dec 18 and 19",
+          "url": "https://insidecroydon.com/2026/11/02/codas-christmas-cabaret-at-selsdon-hall-dec-18-and-19/",
+          "date": "2026-11-02T09:18:38+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "CODA presents Spitfire Girls, at Selsdon Hall, Nov 26-29",
           "url": "https://insidecroydon.com/2026/10/28/coda-presents-spitfire-girls-at-selsdon-hall-nov-26-29/",
@@ -755,12 +761,6 @@
           "url": "https://insidecroydon.com/2026/10/28/youll-very-much-like-the-rice-jerk-chicken-and-divine-lamb/",
           "date": "2026-10-28T16:21:13+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "In crust we trust: try great new menu at Raggio di Sole pizzas",
-          "url": "https://insidecroydon.com/2026/10/22/in-crust-we-trust-try-great-new-menu-at-raggio-di-sole-pizzas-2/",
-          "date": "2026-10-22T08:20:59+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -815,12 +815,6 @@
           "title": "Day Of The Dead Supper Club, South Norwood, Tue Nov 3",
           "url": "https://insidecroydon.com/2026/10/25/day-of-the-dead-supper-club-south-norwood-tue-nov-3-2/",
           "date": "2026-10-25T09:35:25+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Perry’s consultation is outsourced to AI spyware company",
-          "url": "https://insidecroydon.com/2026/10/22/perrys-consultation-is-outsourced-to-ai-spyware-company/",
-          "date": "2026-10-22T11:16:58+00:00",
           "publisher": "Inside Croydon"
         }
       ]
