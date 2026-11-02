@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-01T18:13:33.056934+00:00",
+    "generated_at": "2026-11-02T00:30:41.043284+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -510,12 +510,6 @@
           "url": "https://www.fixmystreet.com/report/10199463",
           "date": "2026-10-06T08:58:58+00:00",
           "category": null
-        },
-        {
-          "title": "Manhole cover is lose and making a noise every time a car goes over it, 2nd October",
-          "url": "https://www.fixmystreet.com/report/10185626",
-          "date": "2026-10-02T18:12:39+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -584,6 +578,12 @@
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
+        {
+          "title": "Feint road markings, 1st November",
+          "url": "https://www.fixmystreet.com/report/10316075",
+          "date": "2026-11-01T22:05:07+00:00",
+          "category": null
+        },
         {
           "title": "Road sign frame broken - needs metal frame to secure the street name plate, 28th October",
           "url": "https://www.fixmystreet.com/report/10297537",
