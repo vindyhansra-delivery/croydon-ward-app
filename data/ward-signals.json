@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-03T12:17:12.585335+00:00",
+    "generated_at": "2026-11-03T18:14:47.017382+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -38,14 +38,7 @@
       "news": []
     },
     "Addiscombe West": {
-      "fixmystreet": [
-        {
-          "title": "Dead animal in front of 48 and 50 Addiscombe Court Road., 4th October",
-          "url": "https://www.fixmystreet.com/report/10191491",
-          "date": "2026-10-04T16:31:58+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": [
         {
@@ -180,14 +173,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Haunted House Extreme, at Crystal Palace NSC, Oct 30 and 31",
-          "url": "https://insidecroydon.com/2026/10/24/haunted-house-extreme-at-crystal-palace-nsc-oct-30-and-31-4/",
-          "date": "2026-10-24T10:02:22+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Fairfield": {
       "fixmystreet": [
@@ -231,6 +217,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Labour’s Hall returns as a town councillor in County Durham",
+          "url": "https://insidecroydon.com/2026/11/03/labours-hall-returns-as-a-town-councillor-in-county-durham/",
+          "date": "2026-11-03T17:56:47+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "North End’s Muffin Break café opens one week ahead of plan",
           "url": "https://insidecroydon.com/2026/11/03/north-ends-muffin-break-cafe-opens-one-week-ahead-of-plan/",
           "date": "2026-11-03T10:43:25+00:00",
@@ -252,12 +244,6 @@
           "title": "WIN!!! Pair of tickets to see Steeleye Span at Ashcroft Theatre",
           "url": "https://insidecroydon.com/2026/10/27/win-pair-of-tickets-to-see-steeleye-span-at-ashcroft-theatre/",
           "date": "2026-10-27T17:45:36+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Steeleye Span’s Prior arrangements still sounding evergreen",
-          "url": "https://insidecroydon.com/2026/10/26/steeleye-spans-prior-arrangements-still-sounding-evergreen/",
-          "date": "2026-10-26T13:13:15+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -303,6 +289,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Labour’s Hall returns as a town councillor in County Durham",
+          "url": "https://insidecroydon.com/2026/11/03/labours-hall-returns-as-a-town-councillor-in-county-durham/",
+          "date": "2026-11-03T17:56:47+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Council issues details of tram crash 10th anniversary service",
           "url": "https://insidecroydon.com/2026/10/29/council-issues-details-of-tram-crash-10th-anniversary-service/",
@@ -420,12 +412,6 @@
           "title": "Litter all over the green, 5th October",
           "url": "https://www.fixmystreet.com/report/10196768",
           "date": "2026-10-05T15:36:01+00:00",
-          "category": null
-        },
-        {
-          "title": "This vehicle CAP885k has been dumped here for so long it is decaying into the tarmac. It has been many years., 4th October",
-          "url": "https://www.fixmystreet.com/report/10191180",
-          "date": "2026-10-04T15:17:09+00:00",
           "category": null
         }
       ],
@@ -549,7 +535,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Month-long closure of Selhurst Road for bridge replacement",
+          "url": "https://insidecroydon.com/2026/11/03/month-long-closure-of-selhurst-road-for-bridge-replacement/",
+          "date": "2026-11-03T15:12:58+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selsdon Vale and Forestdale": {
       "fixmystreet": [
@@ -634,6 +627,12 @@
     "Shirley North": {
       "fixmystreet": [
         {
+          "title": "Dead bird on pathway, 3rd November",
+          "url": "https://www.fixmystreet.com/report/10323541",
+          "date": "2026-11-03T12:20:43+00:00",
+          "category": null
+        },
+        {
           "title": "Tripping hazard, 30th October",
           "url": "https://www.fixmystreet.com/report/10306642",
           "date": "2026-10-30T09:57:00+00:00",
@@ -703,12 +702,6 @@
           "title": "Dumped car and fly tipping, 12th October",
           "url": "https://www.fixmystreet.com/report/10227525",
           "date": "2026-10-12T13:32:21+00:00",
-          "category": null
-        },
-        {
-          "title": "Water trough has been displaced, 4th October",
-          "url": "https://www.fixmystreet.com/report/10191053",
-          "date": "2026-10-04T14:52:11+00:00",
           "category": null
         }
       ],
@@ -812,6 +805,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Month-long closure of Selhurst Road for bridge replacement",
+          "url": "https://insidecroydon.com/2026/11/03/month-long-closure-of-selhurst-road-for-bridge-replacement/",
+          "date": "2026-11-03T15:12:58+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
           "url": "https://insidecroydon.com/2026/11/03/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21-5/",
           "date": "2026-11-03T09:26:44+00:00",
@@ -833,12 +832,6 @@
           "title": "Have your voice heard at South Norwood Council Tax meeting",
           "url": "https://insidecroydon.com/2026/10/26/have-your-voice-heard-at-south-norwood-council-tax-meeting/",
           "date": "2026-10-26T17:04:02+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Day Of The Dead Supper Club, South Norwood, Tue Nov 3",
-          "url": "https://insidecroydon.com/2026/10/25/day-of-the-dead-supper-club-south-norwood-tue-nov-3-2/",
-          "date": "2026-10-25T09:35:25+00:00",
           "publisher": "Inside Croydon"
         }
       ]
