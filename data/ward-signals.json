@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-03T06:20:25.806177+00:00",
+    "generated_at": "2026-11-03T12:17:12.585335+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -88,6 +88,18 @@
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "No bin bags for new collections for properties above shops, 3rd November",
+          "url": "https://www.fixmystreet.com/report/10322801",
+          "date": "2026-11-03T10:33:19+00:00",
+          "category": null
+        },
+        {
+          "title": "Mattress and furniture dumped, 3rd November",
+          "url": "https://www.fixmystreet.com/report/10322734",
+          "date": "2026-11-03T10:28:18+00:00",
+          "category": null
+        },
         {
           "title": "Aldi supermarket, Brighton Road, Coulsdon, 9th October",
           "url": "https://www.fixmystreet.com/report/10215756",
@@ -219,6 +231,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "North End’s Muffin Break café opens one week ahead of plan",
+          "url": "https://insidecroydon.com/2026/11/03/north-ends-muffin-break-cafe-opens-one-week-ahead-of-plan/",
+          "date": "2026-11-03T10:43:25+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Handel’s Messiah, Croydon Philharmonic Choir, Sat Dec 19",
           "url": "https://insidecroydon.com/2026/10/31/handels-messiah-croydon-philharmonic-choir-sat-dec-19-2/",
           "date": "2026-10-31T10:50:36+00:00",
@@ -240,12 +258,6 @@
           "title": "Steeleye Span’s Prior arrangements still sounding evergreen",
           "url": "https://insidecroydon.com/2026/10/26/steeleye-spans-prior-arrangements-still-sounding-evergreen/",
           "date": "2026-10-26T13:13:15+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Win tickets for classical ballet The Nutcracker at Fairfield Halls",
-          "url": "https://insidecroydon.com/2026/10/23/win-tickets-for-classical-ballet-the-nutcracker-at-fairfield-halls/",
-          "date": "2026-10-23T10:19:45+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -422,6 +434,12 @@
     },
     "Old Coulsdon": {
       "fixmystreet": [
+        {
+          "title": "Bags of bread thrown into Bradmore Green Pond, 3rd November",
+          "url": "https://www.fixmystreet.com/report/10322257",
+          "date": "2026-11-03T09:29:07+00:00",
+          "category": null
+        },
         {
           "title": "Large Metal Traffic DIVERSION sign, 2nd November",
           "url": "https://www.fixmystreet.com/report/10318283",
@@ -692,12 +710,6 @@
           "url": "https://www.fixmystreet.com/report/10191053",
           "date": "2026-10-04T14:52:11+00:00",
           "category": null
-        },
-        {
-          "title": "Rubbish everywhere, 4th October",
-          "url": "https://www.fixmystreet.com/report/10189796",
-          "date": "2026-10-04T09:33:56+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -799,6 +811,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
+          "url": "https://insidecroydon.com/2026/11/03/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21-5/",
+          "date": "2026-11-03T09:26:44+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
           "url": "https://insidecroydon.com/2026/10/31/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21-4/",
