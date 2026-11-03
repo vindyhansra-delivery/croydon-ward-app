@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-02T18:15:27.677862+00:00",
+    "generated_at": "2026-11-03T00:28:22.169467+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -906,6 +906,12 @@
     },
     "West Thornton": {
       "fixmystreet": [
+        {
+          "title": "A pothole after width restriction, 2nd November",
+          "url": "https://www.fixmystreet.com/report/10320761",
+          "date": "2026-11-02T19:42:30+00:00",
+          "category": null
+        },
         {
           "title": "10 to 20 dog turds in alleyway, 27th October",
           "url": "https://www.fixmystreet.com/report/10289823",
