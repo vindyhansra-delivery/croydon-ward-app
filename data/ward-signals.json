@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-04T12:17:49.069412+00:00",
+    "generated_at": "2026-11-04T18:14:44.825332+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -97,12 +97,6 @@
           "title": "Aldi supermarket, Brighton Road, Coulsdon, 9th October",
           "url": "https://www.fixmystreet.com/report/10215756",
           "date": "2026-10-09T11:24:52+00:00",
-          "category": null
-        },
-        {
-          "title": "12 inch pot hole, 5th October",
-          "url": "https://www.fixmystreet.com/report/10196205",
-          "date": "2026-10-05T14:17:23+00:00",
           "category": null
         }
       ],
@@ -279,16 +273,16 @@
           "url": "https://www.fixmystreet.com/report/10208585",
           "date": "2026-10-07T21:43:22+00:00",
           "category": null
-        },
-        {
-          "title": "No tax no MOT, 5th October",
-          "url": "https://www.fixmystreet.com/report/10197415",
-          "date": "2026-10-05T17:52:28+00:00",
-          "category": null
         }
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "November 9 2016: Croydon’s Mayor remembers the tram crash",
+          "url": "https://insidecroydon.com/2026/11/04/november-9-2016-croydons-mayor-remembers-the-tram-crash/",
+          "date": "2026-11-04T15:55:34+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Labour’s Hall returns as a town councillor in County Durham",
           "url": "https://insidecroydon.com/2026/11/03/labours-hall-returns-as-a-town-councillor-in-county-durham/",
@@ -375,6 +369,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "November 9 2016: Croydon’s Mayor remembers the tram crash",
+          "url": "https://insidecroydon.com/2026/11/04/november-9-2016-croydons-mayor-remembers-the-tram-crash/",
+          "date": "2026-11-04T15:55:34+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Council issues details of tram crash 10th anniversary service",
           "url": "https://insidecroydon.com/2026/10/29/council-issues-details-of-tram-crash-10th-anniversary-service/",
           "date": "2026-10-29T11:08:25+00:00",
@@ -406,12 +406,6 @@
           "title": "Two planks of wood, bricks and flower pots dumped on curb by the road, 10th October",
           "url": "https://www.fixmystreet.com/report/10219533",
           "date": "2026-10-10T11:57:26+00:00",
-          "category": null
-        },
-        {
-          "title": "Litter all over the green, 5th October",
-          "url": "https://www.fixmystreet.com/report/10196768",
-          "date": "2026-10-05T15:36:01+00:00",
           "category": null
         }
       ],
@@ -817,6 +811,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "November 9 2016: Croydon’s Mayor remembers the tram crash",
+          "url": "https://insidecroydon.com/2026/11/04/november-9-2016-croydons-mayor-remembers-the-tram-crash/",
+          "date": "2026-11-04T15:55:34+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Month-long closure of Selhurst Road for bridge replacement",
           "url": "https://insidecroydon.com/2026/11/03/month-long-closure-of-selhurst-road-for-bridge-replacement/",
           "date": "2026-11-03T15:12:58+00:00",
@@ -838,12 +838,6 @@
           "title": "Car crash on Portland Road: man charged after police chase",
           "url": "https://insidecroydon.com/2026/10/29/car-crash-on-portland-road-man-charged-after-police-chase/",
           "date": "2026-10-29T10:41:16+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Have your voice heard at South Norwood Council Tax meeting",
-          "url": "https://insidecroydon.com/2026/10/26/have-your-voice-heard-at-south-norwood-council-tax-meeting/",
-          "date": "2026-10-26T17:04:02+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -929,6 +923,12 @@
     },
     "West Thornton": {
       "fixmystreet": [
+        {
+          "title": "Nr bus stop mayday hospital, 4th November",
+          "url": "https://www.fixmystreet.com/report/10328949",
+          "date": "2026-11-04T14:07:25+00:00",
+          "category": null
+        },
         {
           "title": "A pothole after width restriction, 2nd November",
           "url": "https://www.fixmystreet.com/report/10320761",
