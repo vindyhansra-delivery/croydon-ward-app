@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-04T06:20:12.404469+00:00",
+    "generated_at": "2026-11-04T12:17:49.069412+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -112,6 +112,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Large amount of fly tipped rubbish, 4th November",
+          "url": "https://www.fixmystreet.com/report/10326668",
+          "date": "2026-11-04T08:24:28+00:00",
+          "category": null
+        },
+        {
           "title": "Flytipping, 2nd November",
           "url": "https://www.fixmystreet.com/report/10319272",
           "date": "2026-11-02T14:48:52+00:00",
@@ -164,12 +170,6 @@
           "url": "https://www.fixmystreet.com/report/10265801",
           "date": "2026-10-21T11:16:07+00:00",
           "category": null
-        },
-        {
-          "title": "Digarded stinking bin, 20th October",
-          "url": "https://www.fixmystreet.com/report/10261637",
-          "date": "2026-10-20T12:02:26+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -177,6 +177,12 @@
     },
     "Fairfield": {
       "fixmystreet": [
+        {
+          "title": "Mattress etc flytipped outside 57 Clarendon Road, 4th November",
+          "url": "https://www.fixmystreet.com/report/10327538",
+          "date": "2026-11-04T10:41:16+00:00",
+          "category": null
+        },
         {
           "title": "Part of the tram track is loose, 22nd October",
           "url": "https://www.fixmystreet.com/report/10270447",
@@ -205,12 +211,6 @@
           "title": "Wasp nest in grass verge, 9th October",
           "url": "https://www.fixmystreet.com/report/10216826",
           "date": "2026-10-09T14:08:23+00:00",
-          "category": null
-        },
-        {
-          "title": "Cigarette butt bin needs emptying and cleaning., 5th October",
-          "url": "https://www.fixmystreet.com/report/10192690",
-          "date": "2026-10-05T06:37:04+00:00",
           "category": null
         }
       ],
@@ -421,6 +421,12 @@
     "Old Coulsdon": {
       "fixmystreet": [
         {
+          "title": "Faulty manhole cover, 4th November",
+          "url": "https://www.fixmystreet.com/report/10327598",
+          "date": "2026-11-04T10:53:14+00:00",
+          "category": null
+        },
+        {
           "title": "Bags of bread thrown into Bradmore Green Pond, 3rd November",
           "url": "https://www.fixmystreet.com/report/10322257",
           "date": "2026-11-03T09:29:07+00:00",
@@ -626,6 +632,12 @@
     },
     "Shirley North": {
       "fixmystreet": [
+        {
+          "title": "Parking causing issues at a narrow junction., 4th November",
+          "url": "https://www.fixmystreet.com/report/10327292",
+          "date": "2026-11-04T10:02:47+00:00",
+          "category": null
+        },
         {
           "title": "Dead bird on pathway, 3rd November",
           "url": "https://www.fixmystreet.com/report/10323541",
