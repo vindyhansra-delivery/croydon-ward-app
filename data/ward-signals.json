@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-05T06:20:34.427393+00:00",
+    "generated_at": "2026-11-05T12:18:58.133301+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -172,6 +172,18 @@
     "Fairfield": {
       "fixmystreet": [
         {
+          "title": "Collapsing Road Surface, 5th November",
+          "url": "https://www.fixmystreet.com/report/10331449",
+          "date": "2026-11-05T07:32:06+00:00",
+          "category": null
+        },
+        {
+          "title": "Dangerous Road Surface, 5th November",
+          "url": "https://www.fixmystreet.com/report/10331418",
+          "date": "2026-11-05T07:26:15+00:00",
+          "category": null
+        },
+        {
           "title": "Mattress etc flytipped outside 57 Clarendon Road, 4th November",
           "url": "https://www.fixmystreet.com/report/10327538",
           "date": "2026-11-04T10:41:16+00:00",
@@ -248,12 +260,6 @@
           "title": "P25YNG No Tax, 12th October",
           "url": "https://www.fixmystreet.com/report/10226921",
           "date": "2026-10-12T12:12:58+00:00",
-          "category": null
-        },
-        {
-          "title": "10 inch pothole which is 4 inches deep, 6th October",
-          "url": "https://www.fixmystreet.com/report/10199801",
-          "date": "2026-10-06T09:40:13+00:00",
           "category": null
         }
       ],
@@ -504,15 +510,15 @@
     "Sanderstead": {
       "fixmystreet": [
         {
-          "title": "Roadworks abandoned, 28th October",
-          "url": "https://www.fixmystreet.com/report/10296431",
-          "date": "2026-10-28T10:27:46+00:00",
+          "title": "Extremely Dangerous Low Trees, 5th November",
+          "url": "https://www.fixmystreet.com/report/10331353",
+          "date": "2026-11-05T07:06:51+00:00",
           "category": null
         },
         {
-          "title": "Fly tipping, 6th October",
-          "url": "https://www.fixmystreet.com/report/10199463",
-          "date": "2026-10-06T08:58:58+00:00",
+          "title": "Roadworks abandoned, 28th October",
+          "url": "https://www.fixmystreet.com/report/10296431",
+          "date": "2026-10-28T10:27:46+00:00",
           "category": null
         }
       ],
@@ -692,6 +698,12 @@
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "Rat Outbreak due to Food, 5th November",
+          "url": "https://www.fixmystreet.com/report/10331594",
+          "date": "2026-11-05T08:13:29+00:00",
+          "category": null
+        },
         {
           "title": "Helium balloon canister on grass verge, 23rd October",
           "url": "https://www.fixmystreet.com/report/10276198",
@@ -1009,14 +1021,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Artisan Craft Market, Glenthorne Ave, Shirley, Sat Nov 14",
-          "url": "https://insidecroydon.com/2026/10/26/artisan-craft-market-glenthorne-ave-shirley-sat-nov-14/",
-          "date": "2026-10-26T11:23:30+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     }
   }
 }
