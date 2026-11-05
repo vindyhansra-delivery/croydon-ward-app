@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-05T12:18:58.133301+00:00",
+    "generated_at": "2026-11-05T18:15:52.799256+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -223,6 +223,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Council-owned almshouses placed on Heritage at Risk register",
+          "url": "https://insidecroydon.com/2026/11/05/council-owned-almshouses-placed-on-heritage-at-risk-register/",
+          "date": "2026-11-05T15:29:56+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Labour’s Hall returns as a town councillor in County Durham",
           "url": "https://insidecroydon.com/2026/11/03/labours-hall-returns-as-a-town-councillor-in-county-durham/",
           "date": "2026-11-03T17:56:47+00:00",
@@ -245,12 +251,6 @@
           "url": "https://insidecroydon.com/2026/10/30/ic-subscribers-win-nutcracker-and-steeleye-span-ticket-prizes/",
           "date": "2026-10-30T12:46:27+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "WIN!!! Pair of tickets to see Steeleye Span at Ashcroft Theatre",
-          "url": "https://insidecroydon.com/2026/10/27/win-pair-of-tickets-to-see-steeleye-span-at-ashcroft-theatre/",
-          "date": "2026-10-27T17:45:36+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -264,7 +264,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Council-owned almshouses placed on Heritage at Risk register",
+          "url": "https://insidecroydon.com/2026/11/05/council-owned-almshouses-placed-on-heritage-at-risk-register/",
+          "date": "2026-11-05T15:29:56+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "New Addington North": {
       "fixmystreet": [
@@ -363,12 +370,6 @@
           "title": "Openly flytipping then burning it, 8th October",
           "url": "https://www.fixmystreet.com/report/10209302",
           "date": "2026-10-08T07:30:09+00:00",
-          "category": null
-        },
-        {
-          "title": "Possible hazardous wasn't, 6th October",
-          "url": "https://www.fixmystreet.com/report/10202577",
-          "date": "2026-10-06T16:08:47+00:00",
           "category": null
         }
       ],
@@ -757,12 +758,6 @@
           "url": "https://www.fixmystreet.com/report/10216979",
           "date": "2026-10-09T14:33:35+00:00",
           "category": null
-        },
-        {
-          "title": "Birds poo, 6th October",
-          "url": "https://www.fixmystreet.com/report/10202591",
-          "date": "2026-10-06T16:10:56+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -823,6 +818,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Council-owned almshouses placed on Heritage at Risk register",
+          "url": "https://insidecroydon.com/2026/11/05/council-owned-almshouses-placed-on-heritage-at-risk-register/",
+          "date": "2026-11-05T15:29:56+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "November 9 2016: Croydon’s Mayor remembers the tram crash",
           "url": "https://insidecroydon.com/2026/11/04/november-9-2016-croydons-mayor-remembers-the-tram-crash/",
           "date": "2026-11-04T15:55:34+00:00",
@@ -844,12 +845,6 @@
           "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
           "url": "https://insidecroydon.com/2026/10/31/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21-4/",
           "date": "2026-10-31T09:55:53+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Car crash on Portland Road: man charged after police chase",
-          "url": "https://insidecroydon.com/2026/10/29/car-crash-on-portland-road-man-charged-after-police-chase/",
-          "date": "2026-10-29T10:41:16+00:00",
           "publisher": "Inside Croydon"
         }
       ]
