@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-06T12:18:15.999591+00:00",
+    "generated_at": "2026-11-06T18:16:15.225028+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -229,6 +229,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Westfield keeping schtum about their Croydon data centre",
+          "url": "https://insidecroydon.com/2026/11/06/westfield-keeping-schtum-about-their-croydon-data-centre/",
+          "date": "2026-11-06T18:03:24+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Council-owned almshouses placed on Heritage at Risk register",
           "url": "https://insidecroydon.com/2026/11/05/council-owned-almshouses-placed-on-heritage-at-risk-register/",
           "date": "2026-11-05T15:29:56+00:00",
@@ -250,12 +256,6 @@
           "title": "Handel’s Messiah, Croydon Philharmonic Choir, Sat Dec 19",
           "url": "https://insidecroydon.com/2026/10/31/handels-messiah-croydon-philharmonic-choir-sat-dec-19-2/",
           "date": "2026-10-31T10:50:36+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "iC subscribers win Nutcracker and Steeleye Span ticket prizes",
-          "url": "https://insidecroydon.com/2026/10/30/ic-subscribers-win-nutcracker-and-steeleye-span-ticket-prizes/",
-          "date": "2026-10-30T12:46:27+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -427,6 +427,12 @@
     },
     "Old Coulsdon": {
       "fixmystreet": [
+        {
+          "title": "Blocked footpath by multiple fallen trees, 6th November",
+          "url": "https://www.fixmystreet.com/report/10338387",
+          "date": "2026-11-06T14:52:45+00:00",
+          "category": null
+        },
         {
           "title": "Faulty manhole cover, 4th November",
           "url": "https://www.fixmystreet.com/report/10327598",
@@ -762,6 +768,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "South Croydon bar set to be restored after year-long closure",
+          "url": "https://insidecroydon.com/2026/11/06/south-croydon-bar-set-to-be-restored-after-year-long-closure/",
+          "date": "2026-11-06T12:37:42+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "CAR-NAGE in South Croydon as veteran run sent on diversion",
           "url": "https://insidecroydon.com/2026/11/01/car-nage-in-south-croydon-as-veteran-run-sent-on-diversion/",
