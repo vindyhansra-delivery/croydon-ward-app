@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-06T06:21:09.751361+00:00",
+    "generated_at": "2026-11-06T12:18:15.999591+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -171,6 +171,12 @@
     },
     "Fairfield": {
       "fixmystreet": [
+        {
+          "title": "15 in pot on St George's walk near bus stops Town Hall, 6th November",
+          "url": "https://www.fixmystreet.com/report/10335721",
+          "date": "2026-11-06T09:02:46+00:00",
+          "category": null
+        },
         {
           "title": "Collapsing Road Surface, 5th November",
           "url": "https://www.fixmystreet.com/report/10331449",
@@ -812,6 +818,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Marshall is placed in charge of £750,000 Arts Council project",
+          "url": "https://insidecroydon.com/2026/11/06/marshall-is-placed-in-charge-of-750000-arts-council-project/",
+          "date": "2026-11-06T11:07:48+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Council-owned almshouses placed on Heritage at Risk register",
           "url": "https://insidecroydon.com/2026/11/05/council-owned-almshouses-placed-on-heritage-at-risk-register/",
           "date": "2026-11-05T15:29:56+00:00",
@@ -833,12 +845,6 @@
           "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
           "url": "https://insidecroydon.com/2026/11/03/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21-5/",
           "date": "2026-11-03T09:26:44+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
-          "url": "https://insidecroydon.com/2026/10/31/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21-4/",
-          "date": "2026-10-31T09:55:53+00:00",
           "publisher": "Inside Croydon"
         }
       ]
