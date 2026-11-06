@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-05T18:15:52.799256+00:00",
+    "generated_at": "2026-11-06T00:30:20.788667+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -575,12 +575,6 @@
           "title": "Abandoned vehicle, 18th October",
           "url": "https://www.fixmystreet.com/report/10251757",
           "date": "2026-10-18T07:37:37+00:00",
-          "category": null
-        },
-        {
-          "title": "Defective gully, 6th October",
-          "url": "https://www.fixmystreet.com/report/10203612",
-          "date": "2026-10-06T21:08:51+00:00",
           "category": null
         }
       ],
