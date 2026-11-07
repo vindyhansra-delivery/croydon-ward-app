@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-07T06:17:41.589570+00:00",
+    "generated_at": "2026-11-07T12:16:09.648553+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -40,17 +40,17 @@
     "Addiscombe West": {
       "fixmystreet": [],
       "reddit": [],
-      "news": [
-        {
-          "title": "Kent Gateway and Selsdon roadworks compound tram misery",
-          "url": "https://insidecroydon.com/2026/10/28/kent-gateway-and-selsdon-roadworks-compound-tram-misery/",
-          "date": "2026-10-28T11:25:04+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Bensham Manor": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Bus Stop Damaged, Oil or Grease on pavement, 7th November",
+          "url": "https://www.fixmystreet.com/report/10340177",
+          "date": "2026-11-07T09:20:12+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
@@ -300,12 +300,6 @@
           "url": "https://insidecroydon.com/2026/10/29/council-issues-details-of-tram-crash-10th-anniversary-service/",
           "date": "2026-10-29T11:08:25+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Kent Gateway and Selsdon roadworks compound tram misery",
-          "url": "https://insidecroydon.com/2026/10/28/kent-gateway-and-selsdon-roadworks-compound-tram-misery/",
-          "date": "2026-10-28T11:25:04+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -358,12 +352,6 @@
           "url": "https://www.fixmystreet.com/report/10224270",
           "date": "2026-10-12T06:06:21+00:00",
           "category": null
-        },
-        {
-          "title": "Openly flytipping then burning it, 8th October",
-          "url": "https://www.fixmystreet.com/report/10209302",
-          "date": "2026-10-08T07:30:09+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -378,12 +366,6 @@
           "title": "Council issues details of tram crash 10th anniversary service",
           "url": "https://insidecroydon.com/2026/10/29/council-issues-details-of-tram-crash-10th-anniversary-service/",
           "date": "2026-10-29T11:08:25+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Kent Gateway and Selsdon roadworks compound tram misery",
-          "url": "https://insidecroydon.com/2026/10/28/kent-gateway-and-selsdon-roadworks-compound-tram-misery/",
-          "date": "2026-10-28T11:25:04+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -454,12 +436,6 @@
           "title": "Rotten tree stump, 12th October",
           "url": "https://www.fixmystreet.com/report/10226093",
           "date": "2026-10-12T10:27:13+00:00",
-          "category": null
-        },
-        {
-          "title": "Temporary traffic light, 8th October",
-          "url": "https://www.fixmystreet.com/report/10209358",
-          "date": "2026-10-08T07:42:06+00:00",
           "category": null
         }
       ],
@@ -584,12 +560,6 @@
           "url": "https://insidecroydon.com/2026/11/02/codas-christmas-cabaret-at-selsdon-hall-dec-18-and-19/",
           "date": "2026-11-02T09:18:38+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "CODA presents Spitfire Girls, at Selsdon Hall, Nov 26-29",
-          "url": "https://insidecroydon.com/2026/10/28/coda-presents-spitfire-girls-at-selsdon-hall-nov-26-29/",
-          "date": "2026-10-28T09:28:55+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -614,12 +584,6 @@
           "title": "CODA’s Christmas Cabaret at Selsdon Hall, Dec 18 and 19",
           "url": "https://insidecroydon.com/2026/11/02/codas-christmas-cabaret-at-selsdon-hall-dec-18-and-19/",
           "date": "2026-11-02T09:18:38+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "CODA presents Spitfire Girls, at Selsdon Hall, Nov 26-29",
-          "url": "https://insidecroydon.com/2026/10/28/coda-presents-spitfire-girls-at-selsdon-hall-nov-26-29/",
-          "date": "2026-10-28T09:28:55+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -1015,7 +979,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Artisan Craft Market, Glenthorne Ave, Shirley, Sat Nov 14",
+          "url": "https://insidecroydon.com/2026/11/07/artisan-craft-market-glenthorne-ave-shirley-sat-nov-14-2/",
+          "date": "2026-11-07T09:31:15+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     }
   }
 }
