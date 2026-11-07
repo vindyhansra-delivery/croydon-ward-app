@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-06T18:16:15.225028+00:00",
+    "generated_at": "2026-11-07T00:27:15.947329+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -50,14 +50,7 @@
       ]
     },
     "Bensham Manor": {
-      "fixmystreet": [
-        {
-          "title": "Abandoned vehicle in front of my driveway, 7th October",
-          "url": "https://www.fixmystreet.com/report/10208573",
-          "date": "2026-10-07T21:35:40+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
@@ -285,12 +278,6 @@
           "title": "Blocking my driveway, 17th October",
           "url": "https://www.fixmystreet.com/report/10249305",
           "date": "2026-10-17T07:53:55+00:00",
-          "category": null
-        },
-        {
-          "title": "Frimly close, 7th October",
-          "url": "https://www.fixmystreet.com/report/10208585",
-          "date": "2026-10-07T21:43:22+00:00",
           "category": null
         }
       ],
