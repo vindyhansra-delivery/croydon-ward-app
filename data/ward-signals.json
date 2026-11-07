@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-07T12:16:09.648553+00:00",
+    "generated_at": "2026-11-07T18:13:33.992668+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -25,12 +25,6 @@
           "title": "Multiple bags of rubbish flytipped, on corner of Ashburton Ave and Compton Rd, 17th October",
           "url": "https://www.fixmystreet.com/report/10250858",
           "date": "2026-10-17T15:54:03+00:00",
-          "category": null
-        },
-        {
-          "title": "Graffiti on on walls under Arch on both sides, 8th October",
-          "url": "https://www.fixmystreet.com/report/10211944",
-          "date": "2026-10-08T15:25:49+00:00",
           "category": null
         }
       ],
@@ -741,12 +735,6 @@
           "title": "Proud cavalcade of motoring history is on the road to Croydon",
           "url": "https://insidecroydon.com/2026/10/30/proud-cavalcade-of-motoring-history-is-on-the-road-to-croydon/",
           "date": "2026-10-30T16:10:48+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "You’ll very much like the rice, jerk chicken and divine lamb",
-          "url": "https://insidecroydon.com/2026/10/28/youll-very-much-like-the-rice-jerk-chicken-and-divine-lamb/",
-          "date": "2026-10-28T16:21:13+00:00",
           "publisher": "Inside Croydon"
         }
       ]
