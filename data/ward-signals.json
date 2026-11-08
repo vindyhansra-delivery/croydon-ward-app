@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-08T06:18:02.166213+00:00",
+    "generated_at": "2026-11-08T12:15:37.105937+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -29,12 +29,26 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "The croissants in Janes are good, the arguments not so much",
+          "url": "https://insidecroydon.com/2026/11/08/the-croissants-in-janes-are-good-the-arguments-not-so-much/",
+          "date": "2026-11-08T09:40:11+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Addiscombe West": {
       "fixmystreet": [],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "The croissants in Janes are good, the arguments not so much",
+          "url": "https://insidecroydon.com/2026/11/08/the-croissants-in-janes-are-good-the-arguments-not-so-much/",
+          "date": "2026-11-08T09:40:11+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Bensham Manor": {
       "fixmystreet": [
@@ -78,12 +92,6 @@
           "title": "Mattress and furniture dumped, 3rd November",
           "url": "https://www.fixmystreet.com/report/10322734",
           "date": "2026-11-03T10:28:18+00:00",
-          "category": null
-        },
-        {
-          "title": "Aldi supermarket, Brighton Road, Coulsdon, 9th October",
-          "url": "https://www.fixmystreet.com/report/10215756",
-          "date": "2026-10-09T11:24:52+00:00",
           "category": null
         }
       ],
@@ -259,6 +267,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "To the Manor borne: Croydon’s evacuees and the millionaire",
+          "url": "https://insidecroydon.com/2026/11/08/to-the-manor-borne-croydons-evacuees-and-the-millionaire/",
+          "date": "2026-11-08T10:25:53+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Council-owned almshouses placed on Heritage at Risk register",
           "url": "https://insidecroydon.com/2026/11/05/council-owned-almshouses-placed-on-heritage-at-risk-register/",
           "date": "2026-11-05T15:29:56+00:00",
@@ -287,12 +301,6 @@
           "title": "Labour’s Hall returns as a town councillor in County Durham",
           "url": "https://insidecroydon.com/2026/11/03/labours-hall-returns-as-a-town-councillor-in-county-durham/",
           "date": "2026-11-03T17:56:47+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Council issues details of tram crash 10th anniversary service",
-          "url": "https://insidecroydon.com/2026/10/29/council-issues-details-of-tram-crash-10th-anniversary-service/",
-          "date": "2026-10-29T11:08:25+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -354,12 +362,6 @@
           "title": "November 9 2016: Croydon’s Mayor remembers the tram crash",
           "url": "https://insidecroydon.com/2026/11/04/november-9-2016-croydons-mayor-remembers-the-tram-crash/",
           "date": "2026-11-04T15:55:34+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Council issues details of tram crash 10th anniversary service",
-          "url": "https://insidecroydon.com/2026/10/29/council-issues-details-of-tram-crash-10th-anniversary-service/",
-          "date": "2026-10-29T11:08:25+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -501,12 +503,6 @@
           "title": "No sign of work all afternoon, 14th October",
           "url": "https://www.fixmystreet.com/report/10239020",
           "date": "2026-10-14T17:24:31+00:00",
-          "category": null
-        },
-        {
-          "title": "Lots of rubbish, 9th October",
-          "url": "https://www.fixmystreet.com/report/10214706",
-          "date": "2026-10-09T09:07:05+00:00",
           "category": null
         }
       ],
