@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-09T06:26:31.498254+00:00",
+    "generated_at": "2026-11-09T12:18:29.436341+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -101,6 +101,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Big pothole by traffic light, 9th November",
+          "url": "https://www.fixmystreet.com/report/10347196",
+          "date": "2026-11-09T11:12:09+00:00",
+          "category": null
+        },
+        {
           "title": "Large amount of fly tipped rubbish, 4th November",
           "url": "https://www.fixmystreet.com/report/10326668",
           "date": "2026-11-04T08:24:28+00:00",
@@ -152,12 +158,6 @@
           "title": "Parking issues for residents due to commerce, 23rd October",
           "url": "https://www.fixmystreet.com/report/10275039",
           "date": "2026-10-23T10:52:29+00:00",
-          "category": null
-        },
-        {
-          "title": "Pothole on Westow street (opposite tofu), 21st October",
-          "url": "https://www.fixmystreet.com/report/10265801",
-          "date": "2026-10-21T11:16:07+00:00",
           "category": null
         }
       ],
@@ -302,6 +302,12 @@
     "New Addington South": {
       "fixmystreet": [
         {
+          "title": "Pavemtn breaking up, 9th November",
+          "url": "https://www.fixmystreet.com/report/10346660",
+          "date": "2026-11-09T10:03:41+00:00",
+          "category": null
+        },
+        {
           "title": "Noise pollution, large crowds, 1st November",
           "url": "https://www.fixmystreet.com/report/10313116",
           "date": "2026-11-01T06:59:00+00:00",
@@ -373,14 +379,7 @@
       "news": []
     },
     "Norbury and Pollards Hill": {
-      "fixmystreet": [
-        {
-          "title": "Two planks of wood, bricks and flower pots dumped on curb by the road, 10th October",
-          "url": "https://www.fixmystreet.com/report/10219533",
-          "date": "2026-10-10T11:57:26+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
@@ -546,6 +545,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "CODA presents Spitfire Girls, at Selsdon Hall, Nov 26-29",
+          "url": "https://insidecroydon.com/2026/11/09/coda-presents-spitfire-girls-at-selsdon-hall-nov-26-29-2/",
+          "date": "2026-11-09T09:45:45+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "CODA’s Christmas Cabaret at Selsdon Hall, Dec 18 and 19",
           "url": "https://insidecroydon.com/2026/11/02/codas-christmas-cabaret-at-selsdon-hall-dec-18-and-19/",
           "date": "2026-11-02T09:18:38+00:00",
@@ -570,6 +575,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "CODA presents Spitfire Girls, at Selsdon Hall, Nov 26-29",
+          "url": "https://insidecroydon.com/2026/11/09/coda-presents-spitfire-girls-at-selsdon-hall-nov-26-29-2/",
+          "date": "2026-11-09T09:45:45+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "CODA’s Christmas Cabaret at Selsdon Hall, Dec 18 and 19",
           "url": "https://insidecroydon.com/2026/11/02/codas-christmas-cabaret-at-selsdon-hall-dec-18-and-19/",
@@ -872,6 +883,12 @@
     "West Thornton": {
       "fixmystreet": [
         {
+          "title": "Deep potholes after width restriction, 9th November",
+          "url": "https://www.fixmystreet.com/report/10347218",
+          "date": "2026-11-09T11:15:46+00:00",
+          "category": null
+        },
+        {
           "title": "Nr bus stop mayday hospital, 4th November",
           "url": "https://www.fixmystreet.com/report/10328949",
           "date": "2026-11-04T14:07:25+00:00",
@@ -935,24 +952,6 @@
           "title": "Massive pothole, 15th October",
           "url": "https://www.fixmystreet.com/report/10241936",
           "date": "2026-10-15T10:39:31+00:00",
-          "category": null
-        },
-        {
-          "title": "Abandoned Trailer, 10th October",
-          "url": "https://www.fixmystreet.com/report/10219173",
-          "date": "2026-10-10T10:23:28+00:00",
-          "category": null
-        },
-        {
-          "title": "Council rubbish not collected, 10th October",
-          "url": "https://www.fixmystreet.com/report/10219149",
-          "date": "2026-10-10T10:17:17+00:00",
-          "category": null
-        },
-        {
-          "title": "Shopping trolley and more, 10th October",
-          "url": "https://www.fixmystreet.com/report/10219138",
-          "date": "2026-10-10T10:15:35+00:00",
           "category": null
         }
       ],
