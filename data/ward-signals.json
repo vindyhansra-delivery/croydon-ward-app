@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-10T06:19:36.538232+00:00",
+    "generated_at": "2026-11-10T12:17:40.441645+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -404,6 +404,24 @@
     "Old Coulsdon": {
       "fixmystreet": [
         {
+          "title": "100s leaking Paint pots dumped on Ditches Lane, 10th November",
+          "url": "https://www.fixmystreet.com/report/10351284",
+          "date": "2026-11-10T09:17:05+00:00",
+          "category": null
+        },
+        {
+          "title": "Paint cans fly tipping, 10th November",
+          "url": "https://www.fixmystreet.com/report/10351143",
+          "date": "2026-11-10T10:15:27+00:00",
+          "category": null
+        },
+        {
+          "title": "Large quantity of paint tins dumped on the road, 10th November",
+          "url": "https://www.fixmystreet.com/report/10351126",
+          "date": "2026-11-10T08:54:13+00:00",
+          "category": null
+        },
+        {
           "title": "Dangerous unsuitable Diversion in Place on Lacey Avenue Old Coulsdon, 9th November",
           "url": "https://www.fixmystreet.com/report/10349265",
           "date": "2026-11-09T16:33:10+00:00",
@@ -443,12 +461,6 @@
           "title": "Parked on the curb, 23rd October",
           "url": "https://www.fixmystreet.com/report/10275283",
           "date": "2026-10-23T11:27:41+00:00",
-          "category": null
-        },
-        {
-          "title": "Rotten tree stump, 12th October",
-          "url": "https://www.fixmystreet.com/report/10226093",
-          "date": "2026-10-12T10:27:13+00:00",
           "category": null
         }
       ],
@@ -518,7 +530,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Ridgway Primary helps dial up the memories for Sanderstead",
+          "url": "https://insidecroydon.com/2026/11/10/ridgway-primary-helps-dial-up-the-memories-for-sanderstead/",
+          "date": "2026-11-10T11:32:15+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selhurst": {
       "fixmystreet": [
@@ -749,12 +768,6 @@
           "url": "https://insidecroydon.com/2026/11/01/car-nage-in-south-croydon-as-veteran-run-sent-on-diversion/",
           "date": "2026-11-01T10:39:16+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Lloyd’s bequest to the people faces up to challenge of drought",
-          "url": "https://insidecroydon.com/2026/10/31/lloyds-bequest-to-the-people-faces-up-to-challenge-of-drought/",
-          "date": "2026-10-31T11:49:16+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -822,6 +835,12 @@
     "Thornton Heath": {
       "fixmystreet": [
         {
+          "title": "Tight turn four buses, 10th November",
+          "url": "https://www.fixmystreet.com/report/10351832",
+          "date": "2026-11-10T10:33:06+00:00",
+          "category": null
+        },
+        {
           "title": "Road floods when raining, 29th October",
           "url": "https://www.fixmystreet.com/report/10301319",
           "date": "2026-10-29T09:05:33+00:00",
@@ -875,14 +894,7 @@
       ]
     },
     "Waddon": {
-      "fixmystreet": [
-        {
-          "title": "Abandoned Van, 11th October",
-          "url": "https://www.fixmystreet.com/report/10221414",
-          "date": "2026-10-11T08:19:27+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
