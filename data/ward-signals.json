@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-10T12:17:40.441645+00:00",
+    "generated_at": "2026-11-10T18:13:34.295676+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -101,6 +101,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Dangerously large pothole - over 1 metre long - on a steep hill., 10th November",
+          "url": "https://www.fixmystreet.com/report/10353296",
+          "date": "2026-11-10T13:56:12+00:00",
+          "category": "Dangerously large pothole"
+        },
+        {
           "title": "Sinkhole in road, 9th November",
           "url": "https://www.fixmystreet.com/report/10348474",
           "date": "2026-11-09T14:17:05+00:00",
@@ -152,12 +158,6 @@
           "title": "Manhole has broken and people can have an accident, 24th October",
           "url": "https://www.fixmystreet.com/report/10280288",
           "date": "2026-10-24T20:05:26+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead fox, 24th October",
-          "url": "https://www.fixmystreet.com/report/10279036",
-          "date": "2026-10-24T11:05:50+00:00",
           "category": null
         }
       ],
@@ -762,12 +762,6 @@
           "url": "https://insidecroydon.com/2026/11/06/south-croydon-bar-set-to-be-restored-after-year-long-closure/",
           "date": "2026-11-06T12:37:42+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "CAR-NAGE in South Croydon as veteran run sent on diversion",
-          "url": "https://insidecroydon.com/2026/11/01/car-nage-in-south-croydon-as-veteran-run-sent-on-diversion/",
-          "date": "2026-11-01T10:39:16+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -884,14 +878,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "CAR-NAGE in South Croydon as veteran run sent on diversion",
-          "url": "https://insidecroydon.com/2026/11/01/car-nage-in-south-croydon-as-veteran-run-sent-on-diversion/",
-          "date": "2026-11-01T10:39:16+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Waddon": {
       "fixmystreet": [],
