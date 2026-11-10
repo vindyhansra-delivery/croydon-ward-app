@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-09T12:18:29.436341+00:00",
+    "generated_at": "2026-11-10T00:27:53.893951+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -101,6 +101,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Sinkhole in road, 9th November",
+          "url": "https://www.fixmystreet.com/report/10348474",
+          "date": "2026-11-09T14:17:05+00:00",
+          "category": null
+        },
+        {
           "title": "Big pothole by traffic light, 9th November",
           "url": "https://www.fixmystreet.com/report/10347196",
           "date": "2026-11-09T11:12:09+00:00",
@@ -152,12 +158,6 @@
           "title": "Dead fox, 24th October",
           "url": "https://www.fixmystreet.com/report/10279036",
           "date": "2026-10-24T11:05:50+00:00",
-          "category": null
-        },
-        {
-          "title": "Parking issues for residents due to commerce, 23rd October",
-          "url": "https://www.fixmystreet.com/report/10275039",
-          "date": "2026-10-23T10:52:29+00:00",
           "category": null
         }
       ],
@@ -218,6 +218,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Free tickets available for BBC concert at the Fairfield Halls",
+          "url": "https://insidecroydon.com/2026/11/09/free-tickets-available-for-bbc-concert-at-the-fairfield-halls/",
+          "date": "2026-11-09T12:24:15+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Westfield keeping schtum about their Croydon data centre",
           "url": "https://insidecroydon.com/2026/11/06/westfield-keeping-schtum-about-their-croydon-data-centre/",
           "date": "2026-11-06T18:03:24+00:00",
@@ -239,12 +245,6 @@
           "title": "North End’s Muffin Break café opens one week ahead of plan",
           "url": "https://insidecroydon.com/2026/11/03/north-ends-muffin-break-cafe-opens-one-week-ahead-of-plan/",
           "date": "2026-11-03T10:43:25+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Handel’s Messiah, Croydon Philharmonic Choir, Sat Dec 19",
-          "url": "https://insidecroydon.com/2026/10/31/handels-messiah-croydon-philharmonic-choir-sat-dec-19-2/",
-          "date": "2026-10-31T10:50:36+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -285,6 +285,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Hundreds attend New Addington service for ‘forgotten tragedy’",
+          "url": "https://insidecroydon.com/2026/11/09/hundreds-attend-new-addington-service-for-forgotten-tragedy/",
+          "date": "2026-11-09T16:14:08+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "November 9 2016: Croydon’s Mayor remembers the tram crash",
           "url": "https://insidecroydon.com/2026/11/04/november-9-2016-croydons-mayor-remembers-the-tram-crash/",
@@ -359,6 +365,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Hundreds attend New Addington service for ‘forgotten tragedy’",
+          "url": "https://insidecroydon.com/2026/11/09/hundreds-attend-new-addington-service-for-forgotten-tragedy/",
+          "date": "2026-11-09T16:14:08+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "November 9 2016: Croydon’s Mayor remembers the tram crash",
           "url": "https://insidecroydon.com/2026/11/04/november-9-2016-croydons-mayor-remembers-the-tram-crash/",
           "date": "2026-11-04T15:55:34+00:00",
@@ -368,6 +380,12 @@
     },
     "Norbury Park": {
       "fixmystreet": [
+        {
+          "title": "Cars are regularly parked on the corner of acacia Road on double yellows and pavement, 9th November",
+          "url": "https://www.fixmystreet.com/report/10348607",
+          "date": "2026-11-09T14:40:00+00:00",
+          "category": null
+        },
         {
           "title": "Massive tags, 29th October",
           "url": "https://www.fixmystreet.com/report/10303175",
@@ -385,6 +403,12 @@
     },
     "Old Coulsdon": {
       "fixmystreet": [
+        {
+          "title": "Dangerous unsuitable Diversion in Place on Lacey Avenue Old Coulsdon, 9th November",
+          "url": "https://www.fixmystreet.com/report/10349265",
+          "date": "2026-11-09T16:33:10+00:00",
+          "category": null
+        },
         {
           "title": "Blocked footpath by multiple fallen trees, 6th November",
           "url": "https://www.fixmystreet.com/report/10338387",
@@ -731,12 +755,6 @@
           "url": "https://insidecroydon.com/2026/10/31/lloyds-bequest-to-the-people-faces-up-to-challenge-of-drought/",
           "date": "2026-10-31T11:49:16+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Proud cavalcade of motoring history is on the road to Croydon",
-          "url": "https://insidecroydon.com/2026/10/30/proud-cavalcade-of-motoring-history-is-on-the-road-to-croydon/",
-          "date": "2026-10-30T16:10:48+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -770,6 +788,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Hundreds attend New Addington service for ‘forgotten tragedy’",
+          "url": "https://insidecroydon.com/2026/11/09/hundreds-attend-new-addington-service-for-forgotten-tragedy/",
+          "date": "2026-11-09T16:14:08+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Marshall is placed in charge of £750,000 Arts Council project",
           "url": "https://insidecroydon.com/2026/11/06/marshall-is-placed-in-charge-of-750000-arts-council-project/",
           "date": "2026-11-06T11:07:48+00:00",
@@ -791,12 +815,6 @@
           "title": "Month-long closure of Selhurst Road for bridge replacement",
           "url": "https://insidecroydon.com/2026/11/03/month-long-closure-of-selhurst-road-for-bridge-replacement/",
           "date": "2026-11-03T15:12:58+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "The 2026 Croydonites Festival, from Wed Nov 4 to Sat Nov 21",
-          "url": "https://insidecroydon.com/2026/11/03/the-2026-croydonites-festival-from-wed-nov-4-to-sat-nov-21-5/",
-          "date": "2026-11-03T09:26:44+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -853,12 +871,6 @@
           "url": "https://insidecroydon.com/2026/11/01/car-nage-in-south-croydon-as-veteran-run-sent-on-diversion/",
           "date": "2026-11-01T10:39:16+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Proud cavalcade of motoring history is on the road to Croydon",
-          "url": "https://insidecroydon.com/2026/10/30/proud-cavalcade-of-motoring-history-is-on-the-road-to-croydon/",
-          "date": "2026-10-30T16:10:48+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -868,12 +880,6 @@
           "title": "Abandoned Van, 11th October",
           "url": "https://www.fixmystreet.com/report/10221414",
           "date": "2026-10-11T08:19:27+00:00",
-          "category": null
-        },
-        {
-          "title": "Food waste collection missed, 10th October",
-          "url": "https://www.fixmystreet.com/report/10220252",
-          "date": "2026-10-10T15:12:41+00:00",
           "category": null
         }
       ],
@@ -912,6 +918,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Flooding on footpath, 9th November",
+          "url": "https://www.fixmystreet.com/report/10348156",
+          "date": "2026-11-09T13:28:25+00:00",
+          "category": null
+        },
         {
           "title": "Lorry load size fly tip, 1st November",
           "url": "https://www.fixmystreet.com/report/10315060",
