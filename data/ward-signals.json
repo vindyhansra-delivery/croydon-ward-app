@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-11T06:19:56.951470+00:00",
+    "generated_at": "2026-11-11T12:18:07.486297+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -250,14 +250,7 @@
       ]
     },
     "Kenley": {
-      "fixmystreet": [
-        {
-          "title": "P25YNG No Tax, 12th October",
-          "url": "https://www.fixmystreet.com/report/10226921",
-          "date": "2026-10-12T12:12:58+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": [
         {
@@ -348,12 +341,6 @@
           "url": "https://www.fixmystreet.com/report/10233888",
           "date": "2026-10-13T17:17:08+00:00",
           "category": null
-        },
-        {
-          "title": "Dead fox in the middle of the road, 12th October",
-          "url": "https://www.fixmystreet.com/report/10224987",
-          "date": "2026-10-12T08:18:31+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -391,7 +378,20 @@
       "news": []
     },
     "Norbury and Pollards Hill": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Community litter picking bags require collection, 11th November",
+          "url": "https://www.fixmystreet.com/report/10357373",
+          "date": "2026-11-11T11:26:30+00:00",
+          "category": null
+        },
+        {
+          "title": "Big Potholes outside 131, 11th November",
+          "url": "https://www.fixmystreet.com/report/10356255",
+          "date": "2026-11-11T09:00:18+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
@@ -586,12 +586,6 @@
           "url": "https://insidecroydon.com/2026/11/09/coda-presents-spitfire-girls-at-selsdon-hall-nov-26-29-2/",
           "date": "2026-11-09T09:45:45+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "CODA’s Christmas Cabaret at Selsdon Hall, Dec 18 and 19",
-          "url": "https://insidecroydon.com/2026/11/02/codas-christmas-cabaret-at-selsdon-hall-dec-18-and-19/",
-          "date": "2026-11-02T09:18:38+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -616,12 +610,6 @@
           "title": "CODA presents Spitfire Girls, at Selsdon Hall, Nov 26-29",
           "url": "https://insidecroydon.com/2026/11/09/coda-presents-spitfire-girls-at-selsdon-hall-nov-26-29-2/",
           "date": "2026-11-09T09:45:45+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "CODA’s Christmas Cabaret at Selsdon Hall, Dec 18 and 19",
-          "url": "https://insidecroydon.com/2026/11/02/codas-christmas-cabaret-at-selsdon-hall-dec-18-and-19/",
-          "date": "2026-11-02T09:18:38+00:00",
           "publisher": "Inside Croydon"
         }
       ]
