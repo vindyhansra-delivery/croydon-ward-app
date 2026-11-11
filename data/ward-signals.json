@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-10T18:13:34.295676+00:00",
+    "generated_at": "2026-11-11T00:29:09.753385+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -868,12 +868,6 @@
           "title": "Flytipping and toilet, 12th October",
           "url": "https://www.fixmystreet.com/report/10228486",
           "date": "2026-10-12T16:10:01+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish left in the road, 11th October",
-          "url": "https://www.fixmystreet.com/report/10223838",
-          "date": "2026-10-11T19:58:29+00:00",
           "category": null
         }
       ],
