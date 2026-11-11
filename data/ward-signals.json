@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-11T00:29:09.753385+00:00",
+    "generated_at": "2026-11-11T06:19:56.951470+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -353,12 +353,6 @@
           "title": "Dead fox in the middle of the road, 12th October",
           "url": "https://www.fixmystreet.com/report/10224987",
           "date": "2026-10-12T08:18:31+00:00",
-          "category": null
-        },
-        {
-          "title": "Is this a legal waste management site?, 12th October",
-          "url": "https://www.fixmystreet.com/report/10224270",
-          "date": "2026-10-12T06:06:21+00:00",
           "category": null
         }
       ],
