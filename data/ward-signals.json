@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-11T12:18:07.486297+00:00",
+    "generated_at": "2026-11-11T18:13:44.231557+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -545,6 +545,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "MP Irons backs latest calls to unblock the ‘Selhurst Bottleneck’",
+          "url": "https://insidecroydon.com/2026/11/11/mp-irons-backs-latest-calls-to-unblock-the-selhurst-bottleneck/",
+          "date": "2026-11-11T13:04:47+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Month-long closure of Selhurst Road for bridge replacement",
           "url": "https://insidecroydon.com/2026/11/03/month-long-closure-of-selhurst-road-for-bridge-replacement/",
           "date": "2026-11-03T15:12:58+00:00",
@@ -693,18 +699,6 @@
           "url": "https://www.fixmystreet.com/report/10276198",
           "date": "2026-10-23T13:46:56+00:00",
           "category": null
-        },
-        {
-          "title": "Water leak for nearly three months, 12th October",
-          "url": "https://www.fixmystreet.com/report/10228911",
-          "date": "2026-10-12T17:54:43+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped car and fly tipping, 12th October",
-          "url": "https://www.fixmystreet.com/report/10227525",
-          "date": "2026-10-12T13:32:21+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -844,12 +838,6 @@
           "title": "Car infringing car parking unable to drive in and out of driveway safely, 13th October",
           "url": "https://www.fixmystreet.com/report/10230061",
           "date": "2026-10-13T06:53:30+00:00",
-          "category": null
-        },
-        {
-          "title": "Flytipping and toilet, 12th October",
-          "url": "https://www.fixmystreet.com/report/10228486",
-          "date": "2026-10-12T16:10:01+00:00",
           "category": null
         }
       ],
