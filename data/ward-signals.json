@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-12T06:20:20.631114+00:00",
+    "generated_at": "2026-11-12T12:18:23.725305+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -240,12 +240,6 @@
           "url": "https://insidecroydon.com/2026/11/03/labours-hall-returns-as-a-town-councillor-in-county-durham/",
           "date": "2026-11-03T17:56:47+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "North End’s Muffin Break café opens one week ahead of plan",
-          "url": "https://insidecroydon.com/2026/11/03/north-ends-muffin-break-cafe-opens-one-week-ahead-of-plan/",
-          "date": "2026-11-03T10:43:25+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -462,7 +456,14 @@
       "news": []
     },
     "Park Hill and Whitgift": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Broken manhole with abandoned stool on top, 12th November",
+          "url": "https://www.fixmystreet.com/report/10362142",
+          "date": "2026-11-12T11:13:57+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
@@ -675,12 +676,6 @@
           "url": "https://www.fixmystreet.com/report/10238716",
           "date": "2026-10-14T16:09:55+00:00",
           "category": null
-        },
-        {
-          "title": "Two tonne bags a fridge and broken down furniture has been dumped, 13th October",
-          "url": "https://www.fixmystreet.com/report/10228684",
-          "date": "2026-10-13T10:10:45+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -734,6 +729,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Croydon teens hit high notes and England cricket call-ups",
+          "url": "https://insidecroydon.com/2026/11/12/croydon-teens-hit-high-notes-and-england-cricket-call-ups/",
+          "date": "2026-11-12T11:15:57+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "South Croydon bar set to be restored after year-long closure",
           "url": "https://insidecroydon.com/2026/11/06/south-croydon-bar-set-to-be-restored-after-year-long-closure/",
           "date": "2026-11-06T12:37:42+00:00",
@@ -759,12 +760,6 @@
           "title": "Top bar of barrier for bikes/scooters removed, 13th October",
           "url": "https://www.fixmystreet.com/report/10233356",
           "date": "2026-10-13T15:17:31+00:00",
-          "category": null
-        },
-        {
-          "title": "Dead rat lying near park bench, 13th October",
-          "url": "https://www.fixmystreet.com/report/10230370",
-          "date": "2026-10-13T07:52:55+00:00",
           "category": null
         }
       ],
@@ -833,16 +828,17 @@
           "url": "https://www.fixmystreet.com/report/10233321",
           "date": "2026-10-13T15:10:30+00:00",
           "category": null
-        },
-        {
-          "title": "Car infringing car parking unable to drive in and out of driveway safely, 13th October",
-          "url": "https://www.fixmystreet.com/report/10230061",
-          "date": "2026-10-13T06:53:30+00:00",
-          "category": null
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Corbyn makes return to Ruskin House for Your Party meeting",
+          "url": "https://insidecroydon.com/2026/11/12/corbyn-makes-return-to-ruskin-house-for-your-party-meeting/",
+          "date": "2026-11-12T10:13:31+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Waddon": {
       "fixmystreet": [],
