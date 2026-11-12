@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-11T18:13:44.231557+00:00",
+    "generated_at": "2026-11-12T00:30:21.155447+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -677,9 +677,9 @@
           "category": null
         },
         {
-          "title": "Broken pavement, 12th October",
-          "url": "https://www.fixmystreet.com/report/10229502",
-          "date": "2026-10-12T21:15:57+00:00",
+          "title": "Two tonne bags a fridge and broken down furniture has been dumped, 13th October",
+          "url": "https://www.fixmystreet.com/report/10228684",
+          "date": "2026-10-13T10:10:45+00:00",
           "category": null
         }
       ],
