@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-12T12:18:23.725305+00:00",
+    "generated_at": "2026-11-12T18:15:15.981211+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -329,12 +329,6 @@
           "url": "https://www.fixmystreet.com/report/10237139",
           "date": "2026-10-14T11:48:26+00:00",
           "category": null
-        },
-        {
-          "title": "Abandoned cars in public parking spaces, 13th October",
-          "url": "https://www.fixmystreet.com/report/10233888",
-          "date": "2026-10-13T17:17:08+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -550,12 +544,6 @@
           "url": "https://insidecroydon.com/2026/11/11/mp-irons-backs-latest-calls-to-unblock-the-selhurst-bottleneck/",
           "date": "2026-11-11T13:04:47+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Month-long closure of Selhurst Road for bridge replacement",
-          "url": "https://insidecroydon.com/2026/11/03/month-long-closure-of-selhurst-road-for-bridge-replacement/",
-          "date": "2026-11-03T15:12:58+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -755,12 +743,6 @@
           "url": "https://www.fixmystreet.com/report/10280755",
           "date": "2026-10-25T07:49:43+00:00",
           "category": null
-        },
-        {
-          "title": "Top bar of barrier for bikes/scooters removed, 13th October",
-          "url": "https://www.fixmystreet.com/report/10233356",
-          "date": "2026-10-13T15:17:31+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -787,12 +769,6 @@
           "title": "November 9 2016: Croydon’s Mayor remembers the tram crash",
           "url": "https://insidecroydon.com/2026/11/04/november-9-2016-croydons-mayor-remembers-the-tram-crash/",
           "date": "2026-11-04T15:55:34+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Month-long closure of Selhurst Road for bridge replacement",
-          "url": "https://insidecroydon.com/2026/11/03/month-long-closure-of-selhurst-road-for-bridge-replacement/",
-          "date": "2026-11-03T15:12:58+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -822,12 +798,6 @@
           "url": "https://www.fixmystreet.com/report/10252319",
           "date": "2026-10-18T10:40:58+00:00",
           "category": null
-        },
-        {
-          "title": "Unable to enter and leave driveway safely car is parked to far over driveway, 13th October",
-          "url": "https://www.fixmystreet.com/report/10233321",
-          "date": "2026-10-13T15:10:30+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -847,6 +817,12 @@
     },
     "West Thornton": {
       "fixmystreet": [
+        {
+          "title": "Huge deep 1 foot pothole, 12th November",
+          "url": "https://www.fixmystreet.com/report/10364233",
+          "date": "2026-11-12T17:45:47+00:00",
+          "category": null
+        },
         {
           "title": "Deep potholes after width restriction, 9th November",
           "url": "https://www.fixmystreet.com/report/10347218",
