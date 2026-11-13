@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-13T12:17:38.572890+00:00",
+    "generated_at": "2026-11-13T18:14:00.413839+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -65,16 +65,16 @@
     "Broad Green": {
       "fixmystreet": [
         {
+          "title": "Pothole, 13th November",
+          "url": "https://www.fixmystreet.com/report/10368503",
+          "date": "2026-11-13T17:30:14+00:00",
+          "category": null
+        },
+        {
           "title": "Business refuse not collected - URGENT, 23rd October",
           "url": "https://www.fixmystreet.com/report/10273952",
           "date": "2026-10-23T08:12:45+00:00",
           "category": "Business refuse not collected"
-        },
-        {
-          "title": "Blocked lane no works, 14th October",
-          "url": "https://www.fixmystreet.com/report/10239092",
-          "date": "2026-10-14T17:40:48+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -511,14 +511,7 @@
       ]
     },
     "Selhurst": {
-      "fixmystreet": [
-        {
-          "title": "No sign of work all afternoon, 14th October",
-          "url": "https://www.fixmystreet.com/report/10239020",
-          "date": "2026-10-14T17:24:31+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": [
         {
@@ -568,6 +561,12 @@
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
+        {
+          "title": "Road surface has crumbled away and leaving cracking and pot holes, 13th November",
+          "url": "https://www.fixmystreet.com/report/10367561",
+          "date": "2026-11-13T14:24:18+00:00",
+          "category": null
+        },
         {
           "title": "Feint road markings, 1st November",
           "url": "https://www.fixmystreet.com/report/10316075",
@@ -640,12 +639,6 @@
           "url": "https://www.fixmystreet.com/report/10249858",
           "date": "2026-10-17T10:43:27+00:00",
           "category": null
-        },
-        {
-          "title": "Gas canisters and number plates dumped, 14th October",
-          "url": "https://www.fixmystreet.com/report/10238716",
-          "date": "2026-10-14T16:09:55+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -653,6 +646,12 @@
     },
     "Shirley South": {
       "fixmystreet": [
+        {
+          "title": "Clothing bank needs empting, 13th November",
+          "url": "https://www.fixmystreet.com/report/10366855",
+          "date": "2026-11-13T13:01:23+00:00",
+          "category": null
+        },
         {
           "title": "Rat Outbreak due to Food, 5th November",
           "url": "https://www.fixmystreet.com/report/10331594",
