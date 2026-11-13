@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-13T06:19:49.632366+00:00",
+    "generated_at": "2026-11-13T12:17:38.572890+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -234,12 +234,6 @@
           "url": "https://insidecroydon.com/2026/11/05/council-owned-almshouses-placed-on-heritage-at-risk-register/",
           "date": "2026-11-05T15:29:56+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Labour’s Hall returns as a town councillor in County Durham",
-          "url": "https://insidecroydon.com/2026/11/03/labours-hall-returns-as-a-town-councillor-in-county-durham/",
-          "date": "2026-11-03T17:56:47+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -283,12 +277,6 @@
           "url": "https://insidecroydon.com/2026/11/04/november-9-2016-croydons-mayor-remembers-the-tram-crash/",
           "date": "2026-11-04T15:55:34+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Labour’s Hall returns as a town councillor in County Durham",
-          "url": "https://insidecroydon.com/2026/11/03/labours-hall-returns-as-a-town-councillor-in-county-durham/",
-          "date": "2026-11-03T17:56:47+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -322,12 +310,6 @@
           "title": "Crossing pavement without dropped kerb, 19th October",
           "url": "https://www.fixmystreet.com/report/10259035",
           "date": "2026-10-19T19:30:56+00:00",
-          "category": null
-        },
-        {
-          "title": "Large old road repair nearly the width of the road, 14th October",
-          "url": "https://www.fixmystreet.com/report/10237139",
-          "date": "2026-10-14T11:48:26+00:00",
           "category": null
         }
       ],
@@ -747,6 +729,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Big Winter Glow Up at Croydon Arena, Sat Nov 14 from 2pm",
+          "url": "https://insidecroydon.com/2026/11/13/big-winter-glow-up-at-croydon-arena-sat-nov-14-from-2pm/",
+          "date": "2026-11-13T09:10:58+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Hundreds attend New Addington service for ‘forgotten tragedy’",
           "url": "https://insidecroydon.com/2026/11/09/hundreds-attend-new-addington-service-for-forgotten-tragedy/",
