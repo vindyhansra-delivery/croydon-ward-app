@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-14T00:28:02.301898+00:00",
+    "generated_at": "2026-11-14T06:17:43.155523+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -762,6 +762,12 @@
     },
     "Thornton Heath": {
       "fixmystreet": [
+        {
+          "title": "Street light doesn't work, 14th November",
+          "url": "https://www.fixmystreet.com/report/10369319",
+          "date": "2026-11-14T04:52:07+00:00",
+          "category": null
+        },
         {
           "title": "Tight turn four buses, 10th November",
           "url": "https://www.fixmystreet.com/report/10351832",
