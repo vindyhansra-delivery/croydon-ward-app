@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-14T06:17:43.155523+00:00",
+    "generated_at": "2026-11-14T12:15:28.212151+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -271,12 +271,6 @@
           "url": "https://insidecroydon.com/2026/11/09/hundreds-attend-new-addington-service-for-forgotten-tragedy/",
           "date": "2026-11-09T16:14:08+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "November 9 2016: Croydon’s Mayor remembers the tram crash",
-          "url": "https://insidecroydon.com/2026/11/04/november-9-2016-croydons-mayor-remembers-the-tram-crash/",
-          "date": "2026-11-04T15:55:34+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -319,12 +313,6 @@
           "title": "Hundreds attend New Addington service for ‘forgotten tragedy’",
           "url": "https://insidecroydon.com/2026/11/09/hundreds-attend-new-addington-service-for-forgotten-tragedy/",
           "date": "2026-11-09T16:14:08+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "November 9 2016: Croydon’s Mayor remembers the tram crash",
-          "url": "https://insidecroydon.com/2026/11/04/november-9-2016-croydons-mayor-remembers-the-tram-crash/",
-          "date": "2026-11-04T15:55:34+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -464,6 +452,12 @@
     "Purley and Woodcote": {
       "fixmystreet": [
         {
+          "title": "Road Safety Concerns and Request for Traffic Restrictions and Pedestrian Crossing Facilities – Foxley Lane, 14th November",
+          "url": "https://www.fixmystreet.com/report/10369734",
+          "date": "2026-11-14T10:13:39+00:00",
+          "category": null
+        },
+        {
           "title": "Brighton Road ,Purley, 23rd October",
           "url": "https://www.fixmystreet.com/report/10277383",
           "date": "2026-10-23T21:47:49+00:00",
@@ -561,6 +555,12 @@
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
+        {
+          "title": "Road surface cracking in several places causing banging when vehicles go over it., 14th November",
+          "url": "https://www.fixmystreet.com/report/10369600",
+          "date": "2026-11-14T09:29:17+00:00",
+          "category": null
+        },
         {
           "title": "Road surface has crumbled away and leaving cracking and pot holes, 13th November",
           "url": "https://www.fixmystreet.com/report/10367561",
@@ -751,12 +751,6 @@
           "url": "https://insidecroydon.com/2026/11/05/council-owned-almshouses-placed-on-heritage-at-risk-register/",
           "date": "2026-11-05T15:29:56+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "November 9 2016: Croydon’s Mayor remembers the tram crash",
-          "url": "https://insidecroydon.com/2026/11/04/november-9-2016-croydons-mayor-remembers-the-tram-crash/",
-          "date": "2026-11-04T15:55:34+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -886,12 +880,6 @@
           "title": "Dangerous Pavement Deep Holq, 18th October",
           "url": "https://www.fixmystreet.com/report/10253920",
           "date": "2026-10-18T18:09:35+00:00",
-          "category": null
-        },
-        {
-          "title": "Massive pothole, 15th October",
-          "url": "https://www.fixmystreet.com/report/10241936",
-          "date": "2026-10-15T10:39:31+00:00",
           "category": null
         }
       ],
