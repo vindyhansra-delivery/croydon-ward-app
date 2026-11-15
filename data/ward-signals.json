@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-15T06:19:01.009266+00:00",
+    "generated_at": "2026-11-15T12:15:43.335034+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -96,7 +96,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Coulsdon Yuletide Magic, Brighton Road, Sat Dec 5",
+          "url": "https://insidecroydon.com/2026/11/15/coulsdon-yuletide-magic-brighton-road-sat-dec-5/",
+          "date": "2026-11-15T09:30:11+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
@@ -201,12 +208,6 @@
           "url": "https://www.fixmystreet.com/report/10256860",
           "date": "2026-10-19T13:34:20+00:00",
           "category": null
-        },
-        {
-          "title": "Pothole, 16th October",
-          "url": "https://www.fixmystreet.com/report/10245647",
-          "date": "2026-10-16T08:24:57+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -234,12 +235,6 @@
           "url": "https://insidecroydon.com/2026/11/06/westfield-keeping-schtum-about-their-croydon-data-centre/",
           "date": "2026-11-06T18:03:24+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Council-owned almshouses placed on Heritage at Risk register",
-          "url": "https://insidecroydon.com/2026/11/05/council-owned-almshouses-placed-on-heritage-at-risk-register/",
-          "date": "2026-11-05T15:29:56+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -251,12 +246,6 @@
           "title": "To the Manor borne: Croydon’s evacuees and the millionaire",
           "url": "https://insidecroydon.com/2026/11/08/to-the-manor-borne-croydons-evacuees-and-the-millionaire/",
           "date": "2026-11-08T10:25:53+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Council-owned almshouses placed on Heritage at Risk register",
-          "url": "https://insidecroydon.com/2026/11/05/council-owned-almshouses-placed-on-heritage-at-risk-register/",
-          "date": "2026-11-05T15:29:56+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -750,12 +739,6 @@
           "title": "Marshall is placed in charge of £750,000 Arts Council project",
           "url": "https://insidecroydon.com/2026/11/06/marshall-is-placed-in-charge-of-750000-arts-council-project/",
           "date": "2026-11-06T11:07:48+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Council-owned almshouses placed on Heritage at Risk register",
-          "url": "https://insidecroydon.com/2026/11/05/council-owned-almshouses-placed-on-heritage-at-risk-register/",
-          "date": "2026-11-05T15:29:56+00:00",
           "publisher": "Inside Croydon"
         }
       ]
