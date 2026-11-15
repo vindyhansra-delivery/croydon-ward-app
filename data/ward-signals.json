@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-15T12:15:43.335034+00:00",
+    "generated_at": "2026-11-15T18:13:44.428851+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -174,6 +174,12 @@
     "Fairfield": {
       "fixmystreet": [
         {
+          "title": "Cars parked on zigzag lines, 15th November",
+          "url": "https://www.fixmystreet.com/report/10373204",
+          "date": "2026-11-15T15:33:34+00:00",
+          "category": null
+        },
+        {
           "title": "15 in pot on St George's walk near bus stops Town Hall, 6th November",
           "url": "https://www.fixmystreet.com/report/10335721",
           "date": "2026-11-06T09:02:46+00:00",
@@ -212,6 +218,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Behind façade of king’s visit things are grim for Surrey Street",
+          "url": "https://insidecroydon.com/2026/11/15/behind-facade-of-kings-visit-things-are-grim-for-surrey-street/",
+          "date": "2026-11-15T15:05:19+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Questions over how Perry is spending £4m Surrey Street fund",
           "url": "https://insidecroydon.com/2026/11/14/questions-over-how-perry-is-spending-4m-surrey-street-fund/",
@@ -682,12 +694,6 @@
           "url": "https://www.fixmystreet.com/report/10262858",
           "date": "2026-10-20T15:30:33+00:00",
           "category": null
-        },
-        {
-          "title": "Temp lights just not needed. Causing gridlock, 16th October",
-          "url": "https://www.fixmystreet.com/report/10247606",
-          "date": "2026-10-16T14:00:56+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -733,12 +739,6 @@
           "title": "Hundreds attend New Addington service for ‘forgotten tragedy’",
           "url": "https://insidecroydon.com/2026/11/09/hundreds-attend-new-addington-service-for-forgotten-tragedy/",
           "date": "2026-11-09T16:14:08+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Marshall is placed in charge of £750,000 Arts Council project",
-          "url": "https://insidecroydon.com/2026/11/06/marshall-is-placed-in-charge-of-750000-arts-council-project/",
-          "date": "2026-11-06T11:07:48+00:00",
           "publisher": "Inside Croydon"
         }
       ]
