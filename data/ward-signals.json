@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-14T18:13:30.473456+00:00",
+    "generated_at": "2026-11-15T00:31:17.618889+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -101,6 +101,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Blocked drain, 14th November",
+          "url": "https://www.fixmystreet.com/report/10371335",
+          "date": "2026-11-14T19:22:20+00:00",
+          "category": null
+        },
+        {
           "title": "Dangerously large pothole - over 1 metre long - on a steep hill., 10th November",
           "url": "https://www.fixmystreet.com/report/10353296",
           "date": "2026-11-10T13:56:12+00:00",
@@ -152,12 +158,6 @@
           "title": "Fallen tree, 25th October",
           "url": "https://www.fixmystreet.com/report/10282565",
           "date": "2026-10-25T14:32:22+00:00",
-          "category": null
-        },
-        {
-          "title": "Manhole has broken and people can have an accident, 24th October",
-          "url": "https://www.fixmystreet.com/report/10280288",
-          "date": "2026-10-24T20:05:26+00:00",
           "category": null
         }
       ],
