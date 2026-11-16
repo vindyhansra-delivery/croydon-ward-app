@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-16T12:22:27.147529+00:00",
+    "generated_at": "2026-11-16T18:15:55.097192+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -19,12 +19,6 @@
           "title": "Fly Tipping, 19th October",
           "url": "https://www.fixmystreet.com/report/10258728",
           "date": "2026-10-19T17:36:41+00:00",
-          "category": null
-        },
-        {
-          "title": "Multiple bags of rubbish flytipped, on corner of Ashburton Ave and Compton Rd, 17th October",
-          "url": "https://www.fixmystreet.com/report/10250858",
-          "date": "2026-10-17T15:54:03+00:00",
           "category": null
         }
       ],
@@ -332,6 +326,12 @@
     "Norbury and Pollards Hill": {
       "fixmystreet": [
         {
+          "title": "Huge pothole on Stanford Road, 16th November",
+          "url": "https://www.fixmystreet.com/report/10377344",
+          "date": "2026-11-16T15:07:57+00:00",
+          "category": null
+        },
+        {
           "title": "Community litter picking bags require collection, 11th November",
           "url": "https://www.fixmystreet.com/report/10357373",
           "date": "2026-11-11T11:26:30+00:00",
@@ -497,6 +497,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "MP Philp backs Gatwick levy to pay for Selhurst Bottleneck",
+          "url": "https://insidecroydon.com/2026/11/16/mp-philp-backs-gatwick-levy-to-pay-for-selhurst-bottleneck/",
+          "date": "2026-11-16T14:48:57+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "MP Irons backs latest calls to unblock the ‘Selhurst Bottleneck’",
           "url": "https://insidecroydon.com/2026/11/11/mp-irons-backs-latest-calls-to-unblock-the-selhurst-bottleneck/",
           "date": "2026-11-11T13:04:47+00:00",
@@ -608,18 +614,6 @@
           "title": "Holes in road, 29th October",
           "url": "https://www.fixmystreet.com/report/10301042",
           "date": "2026-10-29T08:19:11+00:00",
-          "category": null
-        },
-        {
-          "title": "Purple bin bags left., 17th October",
-          "url": "https://www.fixmystreet.com/report/10251024",
-          "date": "2026-10-17T16:45:46+00:00",
-          "category": null
-        },
-        {
-          "title": "Dumped vehicles, 17th October",
-          "url": "https://www.fixmystreet.com/report/10250531",
-          "date": "2026-10-17T14:02:36+00:00",
           "category": null
         }
       ],
@@ -848,14 +842,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Artisan Craft Market, Glenthorne Ave, Shirley, Sat Nov 14",
-          "url": "https://insidecroydon.com/2026/11/07/artisan-craft-market-glenthorne-ave-shirley-sat-nov-14-2/",
-          "date": "2026-11-07T09:31:15+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     }
   }
 }
