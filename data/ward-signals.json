@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-16T06:29:03.790683+00:00",
+    "generated_at": "2026-11-16T12:22:27.147529+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -241,12 +241,6 @@
           "url": "https://insidecroydon.com/2026/11/09/free-tickets-available-for-bbc-concert-at-the-fairfield-halls/",
           "date": "2026-11-09T12:24:15+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Westfield keeping schtum about their Croydon data centre",
-          "url": "https://insidecroydon.com/2026/11/06/westfield-keeping-schtum-about-their-croydon-data-centre/",
-          "date": "2026-11-06T18:03:24+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -263,14 +257,7 @@
       ]
     },
     "New Addington North": {
-      "fixmystreet": [
-        {
-          "title": "Blocking my driveway, 17th October",
-          "url": "https://www.fixmystreet.com/report/10249305",
-          "date": "2026-10-17T07:53:55+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": [
         {
@@ -469,12 +456,6 @@
           "url": "https://www.fixmystreet.com/report/10277383",
           "date": "2026-10-23T21:47:49+00:00",
           "category": null
-        },
-        {
-          "title": "Temporary Traffic lights SGN, 17th October",
-          "url": "https://www.fixmystreet.com/report/10250084",
-          "date": "2026-10-17T11:47:44+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -640,12 +621,6 @@
           "url": "https://www.fixmystreet.com/report/10250531",
           "date": "2026-10-17T14:02:36+00:00",
           "category": null
-        },
-        {
-          "title": "Tree knocked down, 17th October",
-          "url": "https://www.fixmystreet.com/report/10249858",
-          "date": "2026-10-17T10:43:27+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -678,6 +653,12 @@
     "South Croydon": {
       "fixmystreet": [
         {
+          "title": "Box of used gas canisters left in gutter, 16th November",
+          "url": "https://www.fixmystreet.com/report/10375156",
+          "date": "2026-11-16T09:42:26+00:00",
+          "category": null
+        },
+        {
           "title": "Gcm743 remains on the road in a delapidated condition, 29th October",
           "url": "https://www.fixmystreet.com/report/10302570",
           "date": "2026-10-29T11:35:39+00:00",
@@ -702,12 +683,6 @@
           "title": "Croydon teens hit high notes and England cricket call-ups",
           "url": "https://insidecroydon.com/2026/11/12/croydon-teens-hit-high-notes-and-england-cricket-call-ups/",
           "date": "2026-11-12T11:15:57+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "South Croydon bar set to be restored after year-long closure",
-          "url": "https://insidecroydon.com/2026/11/06/south-croydon-bar-set-to-be-restored-after-year-long-closure/",
-          "date": "2026-11-06T12:37:42+00:00",
           "publisher": "Inside Croydon"
         }
       ]
