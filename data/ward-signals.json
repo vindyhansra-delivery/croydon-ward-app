@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-15T18:13:44.428851+00:00",
+    "generated_at": "2026-11-16T00:35:00.866753+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -108,6 +108,12 @@
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
         {
+          "title": "Car crash debris, 15th November",
+          "url": "https://www.fixmystreet.com/report/10374078",
+          "date": "2026-11-15T21:17:14+00:00",
+          "category": null
+        },
+        {
           "title": "Blocked drain, 14th November",
           "url": "https://www.fixmystreet.com/report/10371335",
           "date": "2026-11-14T19:22:20+00:00",
@@ -159,12 +165,6 @@
           "title": "Pavement blocked with unkempt hedges, 26th October",
           "url": "https://www.fixmystreet.com/report/10284537",
           "date": "2026-10-26T08:53:18+00:00",
-          "category": null
-        },
-        {
-          "title": "Fallen tree, 25th October",
-          "url": "https://www.fixmystreet.com/report/10282565",
-          "date": "2026-10-25T14:32:22+00:00",
           "category": null
         }
       ],
