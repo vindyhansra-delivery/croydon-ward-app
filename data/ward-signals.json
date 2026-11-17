@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-16T18:15:55.097192+00:00",
+    "generated_at": "2026-11-17T00:29:37.291744+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -350,6 +350,12 @@
     "Old Coulsdon": {
       "fixmystreet": [
         {
+          "title": "Debris from road traffic collision on carriageway between numbers 31 and 33 Marlpit Lane CR5, 16th November",
+          "url": "https://www.fixmystreet.com/report/10379037",
+          "date": "2026-11-16T21:52:48+00:00",
+          "category": null
+        },
+        {
           "title": "100s leaking Paint pots dumped on Ditches Lane, 10th November",
           "url": "https://www.fixmystreet.com/report/10351284",
           "date": "2026-11-10T09:17:05+00:00",
@@ -401,12 +407,6 @@
           "title": "Fallen tree, 26th October",
           "url": "https://www.fixmystreet.com/report/10284647",
           "date": "2026-10-26T09:13:19+00:00",
-          "category": null
-        },
-        {
-          "title": "Parked on the curb, 23rd October",
-          "url": "https://www.fixmystreet.com/report/10275283",
-          "date": "2026-10-23T11:27:41+00:00",
           "category": null
         }
       ],
@@ -714,6 +714,12 @@
     },
     "Thornton Heath": {
       "fixmystreet": [
+        {
+          "title": "Fox, 16th November",
+          "url": "https://www.fixmystreet.com/report/10378324",
+          "date": "2026-11-16T18:16:06+00:00",
+          "category": null
+        },
         {
           "title": "Street light doesn't work, 14th November",
           "url": "https://www.fixmystreet.com/report/10369319",
