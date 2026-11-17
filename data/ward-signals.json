@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T06:20:10.463822+00:00",
+    "generated_at": "2026-11-17T12:17:59.740618+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -529,12 +529,6 @@
           "url": "https://www.fixmystreet.com/report/10280091",
           "date": "2026-10-24T18:07:46+00:00",
           "category": null
-        },
-        {
-          "title": "Abandoned vehicle, 18th October",
-          "url": "https://www.fixmystreet.com/report/10251757",
-          "date": "2026-10-18T07:37:37+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -742,12 +736,6 @@
           "title": "Rubbish, 18th October",
           "url": "https://www.fixmystreet.com/report/10252881",
           "date": "2026-10-18T13:06:19+00:00",
-          "category": null
-        },
-        {
-          "title": "Flytipping, 18th October",
-          "url": "https://www.fixmystreet.com/report/10252319",
-          "date": "2026-10-18T10:40:58+00:00",
           "category": null
         }
       ],
