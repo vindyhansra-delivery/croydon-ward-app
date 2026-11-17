@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T12:17:59.740618+00:00",
+    "generated_at": "2026-11-17T18:15:51.235187+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -213,6 +213,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "WIN!! Two tickets for Handel’s Messiah at the Fairfield Halls",
+          "url": "https://insidecroydon.com/2026/11/17/win-two-tickets-for-handels-messiah-at-the-fairfield-halls/",
+          "date": "2026-11-17T12:46:08+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Behind façade of king’s visit things are grim for Surrey Street",
           "url": "https://insidecroydon.com/2026/11/15/behind-facade-of-kings-visit-things-are-grim-for-surrey-street/",
           "date": "2026-11-15T15:05:19+00:00",
@@ -325,6 +331,12 @@
     },
     "Norbury and Pollards Hill": {
       "fixmystreet": [
+        {
+          "title": "Mattress and broken swivel chair dumped on pavement, 17th November",
+          "url": "https://www.fixmystreet.com/report/10383885",
+          "date": "2026-11-17T17:42:45+00:00",
+          "category": null
+        },
         {
           "title": "Huge pothole on Stanford Road, 16th November",
           "url": "https://www.fixmystreet.com/report/10377344",
@@ -693,6 +705,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "‘No Access Croydon’ sees Perry’s council dragged into court",
+          "url": "https://insidecroydon.com/2026/11/17/no-access-croydon-sees-perrys-council-dragged-into-court/",
+          "date": "2026-11-17T15:43:24+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Big Winter Glow Up at Croydon Arena, Sat Nov 14 from 2pm",
           "url": "https://insidecroydon.com/2026/11/13/big-winter-glow-up-at-croydon-arena-sat-nov-14-from-2pm/",
           "date": "2026-11-13T09:10:58+00:00",
@@ -730,12 +748,6 @@
           "title": "Road floods when raining, 29th October",
           "url": "https://www.fixmystreet.com/report/10301319",
           "date": "2026-10-29T09:05:33+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish, 18th October",
-          "url": "https://www.fixmystreet.com/report/10252881",
-          "date": "2026-10-18T13:06:19+00:00",
           "category": null
         }
       ],
@@ -826,12 +838,6 @@
           "title": "Fly Tip, 20th October",
           "url": "https://www.fixmystreet.com/report/10263008",
           "date": "2026-10-20T16:04:03+00:00",
-          "category": null
-        },
-        {
-          "title": "Dangerous Pavement Deep Holq, 18th October",
-          "url": "https://www.fixmystreet.com/report/10253920",
-          "date": "2026-10-18T18:09:35+00:00",
           "category": null
         }
       ],
