@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-18T12:17:34.437919+00:00",
+    "generated_at": "2026-11-18T18:14:15.083875+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -14,14 +14,7 @@
   },
   "wards": {
     "Addiscombe East": {
-      "fixmystreet": [
-        {
-          "title": "Fly Tipping, 19th October",
-          "url": "https://www.fixmystreet.com/report/10258728",
-          "date": "2026-10-19T17:36:41+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": []
     },
@@ -194,16 +187,16 @@
           "url": "https://www.fixmystreet.com/report/10270447",
           "date": "2026-10-22T10:31:08+00:00",
           "category": null
-        },
-        {
-          "title": "Lamp post on during the day, 19th October",
-          "url": "https://www.fixmystreet.com/report/10256860",
-          "date": "2026-10-19T13:34:20+00:00",
-          "category": null
         }
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Police apologise to Surrey Street trader over royal visit arrest",
+          "url": "https://insidecroydon.com/2026/11/18/police-apologise-to-surrey-street-trader-over-royal-visit-arrest/",
+          "date": "2026-11-18T12:36:03+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "WIN!! Two tickets for Handel’s Messiah at the Fairfield Halls",
           "url": "https://insidecroydon.com/2026/11/17/win-two-tickets-for-handels-messiah-at-the-fairfield-halls/",
@@ -227,12 +220,6 @@
           "url": "https://insidecroydon.com/2026/11/14/hallelujah-croydon-choir-performing-handel-at-fairfield-halls/",
           "date": "2026-11-14T13:08:50+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Free tickets available for BBC concert at the Fairfield Halls",
-          "url": "https://insidecroydon.com/2026/11/09/free-tickets-available-for-bbc-concert-at-the-fairfield-halls/",
-          "date": "2026-11-09T12:24:15+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -255,6 +242,12 @@
     },
     "New Addington South": {
       "fixmystreet": [
+        {
+          "title": "Junction box knocked over, 18th November",
+          "url": "https://www.fixmystreet.com/report/10388935",
+          "date": "2026-11-18T17:18:53+00:00",
+          "category": null
+        },
         {
           "title": "Pavemtn breaking up, 9th November",
           "url": "https://www.fixmystreet.com/report/10346660",
@@ -529,14 +522,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "CODA presents Spitfire Girls, at Selsdon Hall, Nov 26-29",
-          "url": "https://insidecroydon.com/2026/11/09/coda-presents-spitfire-girls-at-selsdon-hall-nov-26-29-2/",
-          "date": "2026-11-09T09:45:45+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
@@ -566,14 +552,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "CODA presents Spitfire Girls, at Selsdon Hall, Nov 26-29",
-          "url": "https://insidecroydon.com/2026/11/09/coda-presents-spitfire-girls-at-selsdon-hall-nov-26-29-2/",
-          "date": "2026-11-09T09:45:45+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Shirley North": {
       "fixmystreet": [
