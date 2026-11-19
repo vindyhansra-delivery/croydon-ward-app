@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-19T12:17:29.190448+00:00",
+    "generated_at": "2026-11-19T18:15:23.887252+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -55,6 +55,12 @@
     },
     "Coulsdon Town": {
       "fixmystreet": [
+        {
+          "title": "\"low bridge\" sign hidden behind tree, 19th November",
+          "url": "https://www.fixmystreet.com/report/10393444",
+          "date": "2026-11-19T15:36:13+00:00",
+          "category": null
+        },
         {
           "title": "No bin bags for new collections for properties above shops, 3rd November",
           "url": "https://www.fixmystreet.com/report/10322801",
@@ -626,12 +632,6 @@
           "url": "https://www.fixmystreet.com/report/10278442",
           "date": "2026-10-24T08:25:42+00:00",
           "category": null
-        },
-        {
-          "title": "Uneven surface or pothole at main junction, 20th October",
-          "url": "https://www.fixmystreet.com/report/10262858",
-          "date": "2026-10-20T15:30:33+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -789,18 +789,6 @@
           "title": "Trees and vegetation covering streetlight at footpath, 21st October",
           "url": "https://www.fixmystreet.com/report/10265737",
           "date": "2026-10-21T10:37:10+00:00",
-          "category": null
-        },
-        {
-          "title": "Damage to Council Pavement Furniture, 20th October",
-          "url": "https://www.fixmystreet.com/report/10263023",
-          "date": "2026-10-20T16:06:26+00:00",
-          "category": null
-        },
-        {
-          "title": "Fly Tip, 20th October",
-          "url": "https://www.fixmystreet.com/report/10263008",
-          "date": "2026-10-20T16:04:03+00:00",
           "category": null
         }
       ],
