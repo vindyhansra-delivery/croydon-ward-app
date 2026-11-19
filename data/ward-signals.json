@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-18T18:14:15.083875+00:00",
+    "generated_at": "2026-11-19T00:29:44.450843+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -270,12 +270,6 @@
           "title": "Pothole in bus stand, 20th October",
           "url": "https://www.fixmystreet.com/report/10261683",
           "date": "2026-10-20T12:05:38+00:00",
-          "category": null
-        },
-        {
-          "title": "Crossing pavement without dropped kerb, 19th October",
-          "url": "https://www.fixmystreet.com/report/10259035",
-          "date": "2026-10-19T19:30:56+00:00",
           "category": null
         }
       ],
