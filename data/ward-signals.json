@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-20T06:20:05.686688+00:00",
+    "generated_at": "2026-11-20T12:17:32.908496+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -460,19 +460,18 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Ridgway Primary helps dial up the memories for Sanderstead",
-          "url": "https://insidecroydon.com/2026/11/10/ridgway-primary-helps-dial-up-the-memories-for-sanderstead/",
-          "date": "2026-11-10T11:32:15+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Selhurst": {
       "fixmystreet": [],
       "reddit": [],
       "news": [
+        {
+          "title": "Minister commits to step-free access at Norwood Junction",
+          "url": "https://insidecroydon.com/2026/11/20/minister-commits-to-step-free-access-at-norwood-junction/",
+          "date": "2026-11-20T11:17:12+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "MP Philp says Gatwick should pay towards Selhurst Bottleneck",
           "url": "https://insidecroydon.com/2026/11/16/mp-philp-backs-gatwick-levy-to-pay-for-selhurst-bottleneck/",
@@ -732,6 +731,12 @@
     "West Thornton": {
       "fixmystreet": [
         {
+          "title": "Loose curbstone protruding into carriageway, 20th November",
+          "url": "https://www.fixmystreet.com/report/10396478",
+          "date": "2026-11-20T11:30:36+00:00",
+          "category": null
+        },
+        {
           "title": "Huge deep 1 foot pothole, 12th November",
           "url": "https://www.fixmystreet.com/report/10364233",
           "date": "2026-11-12T17:45:47+00:00",
@@ -783,12 +788,6 @@
           "title": "Pot hole before speed bump causing cars to scrape pavement, 31st October",
           "url": "https://www.fixmystreet.com/report/10311876",
           "date": "2026-10-31T14:51:37+00:00",
-          "category": null
-        },
-        {
-          "title": "Trees and vegetation covering streetlight at footpath, 21st October",
-          "url": "https://www.fixmystreet.com/report/10265737",
-          "date": "2026-10-21T10:37:10+00:00",
           "category": null
         }
       ],
