@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-20T12:17:32.908496+00:00",
+    "generated_at": "2026-11-20T18:15:17.658166+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -198,6 +198,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Dublin up! Strutt and White win prize tickets for the Messiah",
+          "url": "https://insidecroydon.com/2026/11/20/dublin-up-strutt-and-white-win-prize-tickets-for-the-messiah/",
+          "date": "2026-11-20T14:54:59+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Police apologise to Surrey Street trader over royal visit arrest",
           "url": "https://insidecroydon.com/2026/11/18/police-apologise-to-surrey-street-trader-over-royal-visit-arrest/",
           "date": "2026-11-18T12:36:03+00:00",
@@ -219,12 +225,6 @@
           "title": "Questions over how Perry is spending £4m Surrey Street fund",
           "url": "https://insidecroydon.com/2026/11/14/questions-over-how-perry-is-spending-4m-surrey-street-fund/",
           "date": "2026-11-14T17:07:32+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Hallelujah! Croydon choir performing Handel at Fairfield Halls",
-          "url": "https://insidecroydon.com/2026/11/14/hallelujah-croydon-choir-performing-handel-at-fairfield-halls/",
-          "date": "2026-11-14T13:08:50+00:00",
           "publisher": "Inside Croydon"
         }
       ]
