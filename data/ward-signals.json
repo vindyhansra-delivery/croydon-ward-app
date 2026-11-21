@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-21T00:28:33.301470+00:00",
+    "generated_at": "2026-11-21T06:18:28.482306+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -730,6 +730,12 @@
     },
     "West Thornton": {
       "fixmystreet": [
+        {
+          "title": "Bus hitting tree branches, 21st November",
+          "url": "https://www.fixmystreet.com/report/10399349",
+          "date": "2026-11-21T05:26:07+00:00",
+          "category": null
+        },
         {
           "title": "Loose curbstone protruding into carriageway, 20th November",
           "url": "https://www.fixmystreet.com/report/10396478",
