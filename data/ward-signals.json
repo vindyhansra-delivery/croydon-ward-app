@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-21T06:18:28.482306+00:00",
+    "generated_at": "2026-11-21T12:15:48.056619+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -186,12 +186,6 @@
           "title": "Mattress etc flytipped outside 57 Clarendon Road, 4th November",
           "url": "https://www.fixmystreet.com/report/10327538",
           "date": "2026-11-04T10:41:16+00:00",
-          "category": null
-        },
-        {
-          "title": "Part of the tram track is loose, 22nd October",
-          "url": "https://www.fixmystreet.com/report/10270447",
-          "date": "2026-10-22T10:31:08+00:00",
           "category": null
         }
       ],
@@ -418,7 +412,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Walk and Talk Riddlesdown, weekly every Sunday from 9am",
+          "url": "https://insidecroydon.com/2026/11/21/walk-and-talk-riddlesdown-weekly-every-sunday-from-9am-4/",
+          "date": "2026-11-21T09:40:50+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Purley and Woodcote": {
       "fixmystreet": [
@@ -477,12 +478,6 @@
           "url": "https://insidecroydon.com/2026/11/16/mp-philp-backs-gatwick-levy-to-pay-for-selhurst-bottleneck/",
           "date": "2026-11-16T14:48:57+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "MP Irons backs latest calls to unblock the ‘Selhurst Bottleneck’",
-          "url": "https://insidecroydon.com/2026/11/11/mp-irons-backs-latest-calls-to-unblock-the-selhurst-bottleneck/",
-          "date": "2026-11-11T13:04:47+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -508,7 +503,20 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Christmas Market at St John the Divine, Selsdon, Sat Nov 28",
+          "url": "https://insidecroydon.com/2026/11/21/christmas-market-at-st-john-the-divine-selsdon-sat-nov-28/",
+          "date": "2026-11-21T11:50:09+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "CODA presents Spitfire Girls, at Selsdon Hall, Nov 26-29",
+          "url": "https://insidecroydon.com/2026/11/21/coda-presents-spitfire-girls-at-selsdon-hall-nov-26-29-3/",
+          "date": "2026-11-21T10:30:25+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Selsdon and Addington Village": {
       "fixmystreet": [
@@ -538,7 +546,20 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Christmas Market at St John the Divine, Selsdon, Sat Nov 28",
+          "url": "https://insidecroydon.com/2026/11/21/christmas-market-at-st-john-the-divine-selsdon-sat-nov-28/",
+          "date": "2026-11-21T11:50:09+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
+          "title": "CODA presents Spitfire Girls, at Selsdon Hall, Nov 26-29",
+          "url": "https://insidecroydon.com/2026/11/21/coda-presents-spitfire-girls-at-selsdon-hall-nov-26-29-3/",
+          "date": "2026-11-21T10:30:25+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Shirley North": {
       "fixmystreet": [
@@ -778,6 +799,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Abandoned, 21st November",
+          "url": "https://www.fixmystreet.com/report/10400207",
+          "date": "2026-11-21T11:49:45+00:00",
+          "category": null
+        },
         {
           "title": "Flooding on footpath, 9th November",
           "url": "https://www.fixmystreet.com/report/10348156",
