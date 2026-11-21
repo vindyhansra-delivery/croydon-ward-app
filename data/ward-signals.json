@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-21T12:15:48.056619+00:00",
+    "generated_at": "2026-11-21T18:14:00.331617+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -192,6 +192,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Perry subject to formal complaint over his illegal parking",
+          "url": "https://insidecroydon.com/2026/11/21/perry-subject-to-formal-complaint-over-his-illegal-parking/",
+          "date": "2026-11-21T15:07:49+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Dublin up! Strutt and White win prize tickets for the Messiah",
           "url": "https://insidecroydon.com/2026/11/20/dublin-up-strutt-and-white-win-prize-tickets-for-the-messiah/",
           "date": "2026-11-20T14:54:59+00:00",
@@ -214,19 +220,20 @@
           "url": "https://insidecroydon.com/2026/11/15/behind-facade-of-kings-visit-things-are-grim-for-surrey-street/",
           "date": "2026-11-15T15:05:19+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Questions over how Perry is spending £4m Surrey Street fund",
-          "url": "https://insidecroydon.com/2026/11/14/questions-over-how-perry-is-spending-4m-surrey-street-fund/",
-          "date": "2026-11-14T17:07:32+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
     "Kenley": {
       "fixmystreet": [],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "10% money-off Christmas offer for iC readers at Cocoa Jones",
+          "url": "https://insidecroydon.com/2026/11/21/10-money-off-christmas-offer-for-ic-readers-at-cocoa-jones/",
+          "date": "2026-11-21T14:26:26+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "New Addington North": {
       "fixmystreet": [],
@@ -402,12 +409,6 @@
           "title": "Dumped Barnard Marcus For Sale Banner in Rosemont Court Flats Car Park, CR8 2QG, 29th October",
           "url": "https://www.fixmystreet.com/report/10304433",
           "date": "2026-10-29T16:41:47+00:00",
-          "category": null
-        },
-        {
-          "title": "Blocked footpaths and overgrown trees, 22nd October",
-          "url": "https://www.fixmystreet.com/report/10272653",
-          "date": "2026-10-22T17:39:45+00:00",
           "category": null
         }
       ],
@@ -667,12 +668,6 @@
           "url": "https://insidecroydon.com/2026/11/18/st-augustines-church-christmas-fair-this-saturday-nov-21/",
           "date": "2026-11-18T10:59:42+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Croydon teens hit high notes and England cricket call-ups",
-          "url": "https://insidecroydon.com/2026/11/12/croydon-teens-hit-high-notes-and-england-cricket-call-ups/",
-          "date": "2026-11-12T11:15:57+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -735,14 +730,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Corbyn makes return to Ruskin House for Your Party meeting",
-          "url": "https://insidecroydon.com/2026/11/12/corbyn-makes-return-to-ruskin-house-for-your-party-meeting/",
-          "date": "2026-11-12T10:13:31+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Waddon": {
       "fixmystreet": [],
