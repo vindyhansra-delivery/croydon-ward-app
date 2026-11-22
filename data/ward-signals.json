@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-21T18:14:00.331617+00:00",
+    "generated_at": "2026-11-22T00:30:59.247862+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -19,7 +19,14 @@
       "news": []
     },
     "Addiscombe West": {
-      "fixmystreet": [],
+      "fixmystreet": [
+        {
+          "title": "Uneven pavement, 21st November",
+          "url": "https://www.fixmystreet.com/report/10401938",
+          "date": "2026-11-21T23:24:00+00:00",
+          "category": null
+        }
+      ],
       "reddit": [],
       "news": []
     },
