@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-22T06:19:10.745742+00:00",
+    "generated_at": "2026-11-22T12:16:00.357984+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -49,12 +49,6 @@
           "url": "https://www.fixmystreet.com/report/10368503",
           "date": "2026-11-13T17:30:14+00:00",
           "category": null
-        },
-        {
-          "title": "Business refuse not collected - URGENT, 23rd October",
-          "url": "https://www.fixmystreet.com/report/10273952",
-          "date": "2026-10-23T08:12:45+00:00",
-          "category": "Business refuse not collected"
         }
       ],
       "reddit": [],
@@ -93,6 +87,12 @@
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
+        {
+          "title": "Water leak, 22nd November",
+          "url": "https://www.fixmystreet.com/report/10402788",
+          "date": "2026-11-22T11:50:27+00:00",
+          "category": null
+        },
         {
           "title": "Car crash debris, 15th November",
           "url": "https://www.fixmystreet.com/report/10374078",
@@ -145,12 +145,6 @@
           "title": "Overflowing rubbish, 2nd November",
           "url": "https://www.fixmystreet.com/report/10317737",
           "date": "2026-11-02T11:11:06+00:00",
-          "category": null
-        },
-        {
-          "title": "Pavement blocked with unkempt hedges, 26th October",
-          "url": "https://www.fixmystreet.com/report/10284537",
-          "date": "2026-10-26T08:53:18+00:00",
           "category": null
         }
       ],
