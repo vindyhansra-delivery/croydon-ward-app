@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-23T06:26:48.554365+00:00",
+    "generated_at": "2026-11-23T12:18:15.434847+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -507,6 +507,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Christmas lights switch-on, Selsdon Village Club, Fri Nov 27",
+          "url": "https://insidecroydon.com/2026/11/23/christmas-lights-switch-on-selsdon-village-club-fri-nov-27/",
+          "date": "2026-11-23T09:15:29+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Christmas Market at St John the Divine, Selsdon, Sat Nov 28",
           "url": "https://insidecroydon.com/2026/11/21/christmas-market-at-st-john-the-divine-selsdon-sat-nov-28/",
           "date": "2026-11-21T11:50:09+00:00",
@@ -549,6 +555,12 @@
       ],
       "reddit": [],
       "news": [
+        {
+          "title": "Christmas lights switch-on, Selsdon Village Club, Fri Nov 27",
+          "url": "https://insidecroydon.com/2026/11/23/christmas-lights-switch-on-selsdon-village-club-fri-nov-27/",
+          "date": "2026-11-23T09:15:29+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "Christmas Market at St John the Divine, Selsdon, Sat Nov 28",
           "url": "https://insidecroydon.com/2026/11/21/christmas-market-at-st-john-the-divine-selsdon-sat-nov-28/",
@@ -641,12 +653,6 @@
           "title": "Gcm743 remains on the road in a delapidated condition, 29th October",
           "url": "https://www.fixmystreet.com/report/10302570",
           "date": "2026-10-29T11:35:39+00:00",
-          "category": null
-        },
-        {
-          "title": "Temporary Roadworks Barricades, 24th October",
-          "url": "https://www.fixmystreet.com/report/10278442",
-          "date": "2026-10-24T08:25:42+00:00",
           "category": null
         }
       ],
