@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-23T12:18:15.434847+00:00",
+    "generated_at": "2026-11-23T18:15:07.825271+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -149,7 +149,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Croydon ‘wins’ the World Cup with Selhurst a 2035 venue",
+          "url": "https://insidecroydon.com/2026/11/23/croydon-wins-the-world-cup-with-selhurst-a-2035-venue/",
+          "date": "2026-11-23T16:45:46+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Fairfield": {
       "fixmystreet": [
@@ -470,6 +477,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Croydon ‘wins’ the World Cup with Selhurst a 2035 venue",
+          "url": "https://insidecroydon.com/2026/11/23/croydon-wins-the-world-cup-with-selhurst-a-2035-venue/",
+          "date": "2026-11-23T16:45:46+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Minister commits to step-free access at Norwood Junction",
           "url": "https://insidecroydon.com/2026/11/20/minister-commits-to-step-free-access-at-norwood-junction/",
           "date": "2026-11-20T11:17:12+00:00",
@@ -495,12 +508,6 @@
           "title": "Fallen tree blocking public footpath (Vanguard Way + London Loop, 30th October",
           "url": "https://www.fixmystreet.com/report/10309470",
           "date": "2026-10-30T17:53:29+00:00",
-          "category": null
-        },
-        {
-          "title": "Tree blocking road, 24th October",
-          "url": "https://www.fixmystreet.com/report/10280091",
-          "date": "2026-10-24T18:07:46+00:00",
           "category": null
         }
       ],
