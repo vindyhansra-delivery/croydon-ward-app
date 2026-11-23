@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-22T18:14:17.123862+00:00",
+    "generated_at": "2026-11-23T00:31:33.446411+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -436,12 +436,6 @@
           "url": "https://www.fixmystreet.com/report/10369734",
           "date": "2026-11-14T10:13:39+00:00",
           "category": null
-        },
-        {
-          "title": "Brighton Road ,Purley, 23rd October",
-          "url": "https://www.fixmystreet.com/report/10277383",
-          "date": "2026-10-23T21:47:49+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -782,6 +776,12 @@
     },
     "Woodside": {
       "fixmystreet": [
+        {
+          "title": "Car has been abandoned on the street, 22nd November",
+          "url": "https://www.fixmystreet.com/report/10404754",
+          "date": "2026-11-22T21:12:02+00:00",
+          "category": null
+        },
         {
           "title": "Abandoned, 21st November",
           "url": "https://www.fixmystreet.com/report/10400207",
