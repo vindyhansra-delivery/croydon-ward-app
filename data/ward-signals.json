@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-24T06:20:10.377193+00:00",
+    "generated_at": "2026-11-24T12:18:38.395557+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -76,14 +76,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "Coulsdon Yuletide Magic, Brighton Road, Sat Dec 5",
-          "url": "https://insidecroydon.com/2026/11/15/coulsdon-yuletide-magic-brighton-road-sat-dec-5/",
-          "date": "2026-11-15T09:30:11+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "Crystal Palace and Upper Norwood": {
       "fixmystreet": [
@@ -236,6 +229,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Kenley community Carol Concert, Wattenden Arms, Tue Dec 22",
+          "url": "https://insidecroydon.com/2026/11/24/kenley-community-carol-concert-wattenden-arms-tue-dec-22/",
+          "date": "2026-11-24T10:02:55+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "10% money-off Christmas offer for iC readers at Cocoa Jones",
           "url": "https://insidecroydon.com/2026/11/21/10-money-off-christmas-offer-for-ic-readers-at-cocoa-jones/",
           "date": "2026-11-21T14:26:26+00:00",
@@ -247,6 +246,12 @@
       "fixmystreet": [],
       "reddit": [],
       "news": [
+        {
+          "title": "New Addington launches crowdfunder to save their Carnival",
+          "url": "https://insidecroydon.com/2026/11/24/new-addington-launches-crowdfunder-to-save-their-carnival/",
+          "date": "2026-11-24T12:11:36+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "New Addington food charity gets £20,000 National Grid grant",
           "url": "https://insidecroydon.com/2026/11/19/new-addington-food-charity-gets-20000-national-grid-grant/",
@@ -289,7 +294,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "New Addington launches crowdfunder to save their Carnival",
+          "url": "https://insidecroydon.com/2026/11/24/new-addington-launches-crowdfunder-to-save-their-carnival/",
+          "date": "2026-11-24T12:11:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Norbury Park": {
       "fixmystreet": [
@@ -680,22 +692,15 @@
       ]
     },
     "South Norwood": {
-      "fixmystreet": [
-        {
-          "title": "Fly tipping, 25th October",
-          "url": "https://www.fixmystreet.com/report/10281651",
-          "date": "2026-10-25T11:52:54+00:00",
-          "category": null
-        },
-        {
-          "title": "Rubbish in the road and blocked pathway., 25th October",
-          "url": "https://www.fixmystreet.com/report/10280755",
-          "date": "2026-10-25T07:49:43+00:00",
-          "category": null
-        }
-      ],
+      "fixmystreet": [],
       "reddit": [],
       "news": [
+        {
+          "title": "New Addington launches crowdfunder to save their Carnival",
+          "url": "https://insidecroydon.com/2026/11/24/new-addington-launches-crowdfunder-to-save-their-carnival/",
+          "date": "2026-11-24T12:11:36+00:00",
+          "publisher": "Inside Croydon"
+        },
         {
           "title": "‘No Access Croydon’ sees Perry’s council dragged into court",
           "url": "https://insidecroydon.com/2026/11/17/no-access-croydon-sees-perrys-council-dragged-into-court/",
@@ -732,7 +737,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "New Addington launches crowdfunder to save their Carnival",
+          "url": "https://insidecroydon.com/2026/11/24/new-addington-launches-crowdfunder-to-save-their-carnival/",
+          "date": "2026-11-24T12:11:36+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Waddon": {
       "fixmystreet": [],
