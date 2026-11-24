@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-24T12:18:38.395557+00:00",
+    "generated_at": "2026-11-24T18:15:16.995430+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -154,6 +154,12 @@
     "Fairfield": {
       "fixmystreet": [
         {
+          "title": "Street lamp on during the day, 24th November",
+          "url": "https://www.fixmystreet.com/report/10411542",
+          "date": "2026-11-24T14:47:34+00:00",
+          "category": null
+        },
+        {
           "title": "Give way sign in wrong direction, 18th November",
           "url": "https://www.fixmystreet.com/report/10386693",
           "date": "2026-11-18T11:42:35+00:00",
@@ -193,6 +199,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Superdrug switch pharmacy from Whitgift Centre to Centrale",
+          "url": "https://insidecroydon.com/2026/11/24/superdrug-switch-pharmacy-from-whitgift-centre-to-centrale/",
+          "date": "2026-11-24T13:41:16+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Perry subject to formal complaint over his illegal parking",
           "url": "https://insidecroydon.com/2026/11/21/perry-subject-to-formal-complaint-over-his-illegal-parking/",
           "date": "2026-11-21T15:07:49+00:00",
@@ -214,12 +226,6 @@
           "title": "WIN!! Two tickets for Handel’s Messiah at the Fairfield Halls",
           "url": "https://insidecroydon.com/2026/11/17/win-two-tickets-for-handels-messiah-at-the-fairfield-halls/",
           "date": "2026-11-17T12:46:08+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Behind façade of king’s visit things are grim for Surrey Street",
-          "url": "https://insidecroydon.com/2026/11/15/behind-facade-of-kings-visit-things-are-grim-for-surrey-street/",
-          "date": "2026-11-15T15:05:19+00:00",
           "publisher": "Inside Croydon"
         }
       ]
