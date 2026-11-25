@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-25T06:20:36.416636+00:00",
+    "generated_at": "2026-11-25T12:18:21.948546+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -291,12 +291,6 @@
           "url": "https://www.fixmystreet.com/report/10313116",
           "date": "2026-11-01T06:59:00+00:00",
           "category": null
-        },
-        {
-          "title": "Continual Flytyping, 26th October",
-          "url": "https://www.fixmystreet.com/report/10286025",
-          "date": "2026-10-26T12:03:32+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -360,6 +354,12 @@
     "Old Coulsdon": {
       "fixmystreet": [
         {
+          "title": "Kerb ramp unattended and bins on the road, 25th November",
+          "url": "https://www.fixmystreet.com/report/10415155",
+          "date": "2026-11-25T08:40:06+00:00",
+          "category": null
+        },
+        {
           "title": "Debris from road traffic collision on carriageway between numbers 31 and 33 Marlpit Lane CR5, 16th November",
           "url": "https://www.fixmystreet.com/report/10379037",
           "date": "2026-11-16T21:52:48+00:00",
@@ -411,12 +411,6 @@
           "title": "Large Metal Traffic DIVERSION sign, 2nd November",
           "url": "https://www.fixmystreet.com/report/10318283",
           "date": "2026-11-02T12:20:21+00:00",
-          "category": null
-        },
-        {
-          "title": "Fallen tree, 26th October",
-          "url": "https://www.fixmystreet.com/report/10284647",
-          "date": "2026-10-26T09:13:19+00:00",
           "category": null
         }
       ],
