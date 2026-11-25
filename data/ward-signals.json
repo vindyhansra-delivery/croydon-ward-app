@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-25T12:18:21.948546+00:00",
+    "generated_at": "2026-11-25T18:14:36.147938+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -144,6 +144,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Crystal Palace conservation area is all lit up for Christmas",
+          "url": "https://insidecroydon.com/2026/11/25/crystal-palace-conservation-area-is-all-lit-up-for-christmas/",
+          "date": "2026-11-25T14:01:13+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Croydon ‘wins’ the World Cup with Selhurst a 2035 venue",
           "url": "https://insidecroydon.com/2026/11/23/croydon-wins-the-world-cup-with-selhurst-a-2035-venue/",
           "date": "2026-11-23T16:45:46+00:00",
@@ -220,12 +226,6 @@
           "title": "Police apologise to Surrey Street trader over royal visit arrest",
           "url": "https://insidecroydon.com/2026/11/18/police-apologise-to-surrey-street-trader-over-royal-visit-arrest/",
           "date": "2026-11-18T12:36:03+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "WIN!! Two tickets for Handel’s Messiah at the Fairfield Halls",
-          "url": "https://insidecroydon.com/2026/11/17/win-two-tickets-for-handels-messiah-at-the-fairfield-halls/",
-          "date": "2026-11-17T12:46:08+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -432,6 +432,12 @@
     "Purley Oaks and Riddlesdown": {
       "fixmystreet": [
         {
+          "title": "The junction is dangerous and causes a lot of accidents., 25th November",
+          "url": "https://www.fixmystreet.com/report/10417093",
+          "date": "2026-11-25T13:30:47+00:00",
+          "category": null
+        },
+        {
           "title": "Dumped Barnard Marcus For Sale Banner in Rosemont Court Flats Car Park, CR8 2QG, 29th October",
           "url": "https://www.fixmystreet.com/report/10304433",
           "date": "2026-10-29T16:41:47+00:00",
@@ -498,12 +504,6 @@
           "title": "Minister commits to step-free access at Norwood Junction",
           "url": "https://insidecroydon.com/2026/11/20/minister-commits-to-step-free-access-at-norwood-junction/",
           "date": "2026-11-20T11:17:12+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "MP Philp says Gatwick should pay towards Selhurst Bottleneck",
-          "url": "https://insidecroydon.com/2026/11/16/mp-philp-backs-gatwick-levy-to-pay-for-selhurst-bottleneck/",
-          "date": "2026-11-16T14:48:57+00:00",
           "publisher": "Inside Croydon"
         }
       ]
