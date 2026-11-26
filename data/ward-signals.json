@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-26T12:17:56.999444+00:00",
+    "generated_at": "2026-11-26T18:15:15.683098+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -32,6 +32,12 @@
     },
     "Bensham Manor": {
       "fixmystreet": [
+        {
+          "title": "Lots of litter dumped in the communist garden of this estate nobody cares to fix it, 26th November",
+          "url": "https://www.fixmystreet.com/report/10422449",
+          "date": "2026-11-26T15:30:01+00:00",
+          "category": null
+        },
         {
           "title": "Bus Stop Damaged, Oil or Grease on pavement, 7th November",
           "url": "https://www.fixmystreet.com/report/10340177",
@@ -227,12 +233,6 @@
           "title": "Dublin up! Strutt and White win prize tickets for the Messiah",
           "url": "https://insidecroydon.com/2026/11/20/dublin-up-strutt-and-white-win-prize-tickets-for-the-messiah/",
           "date": "2026-11-20T14:54:59+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "Police apologise to Surrey Street trader over royal visit arrest",
-          "url": "https://insidecroydon.com/2026/11/18/police-apologise-to-surrey-street-trader-over-royal-visit-arrest/",
-          "date": "2026-11-18T12:36:03+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -669,6 +669,12 @@
     },
     "South Croydon": {
       "fixmystreet": [
+        {
+          "title": "School pick up time, 26th November",
+          "url": "https://www.fixmystreet.com/report/10421930",
+          "date": "2026-11-26T13:57:56+00:00",
+          "category": null
+        },
         {
           "title": "Box of used gas canisters left in gutter, 16th November",
           "url": "https://www.fixmystreet.com/report/10375156",
