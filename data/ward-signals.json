@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-26T06:20:25.075724+00:00",
+    "generated_at": "2026-11-26T12:17:56.999444+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -52,7 +52,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Masonic Lodge donates life-saving defibrillator to Broad Green",
+          "url": "https://insidecroydon.com/2026/11/26/masonic-lodge-donates-life-saving-defibrillator-to-broad-green/",
+          "date": "2026-11-26T12:01:43+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Coulsdon Town": {
       "fixmystreet": [
@@ -682,12 +689,6 @@
           "url": "https://insidecroydon.com/2026/11/19/in-crust-we-trust-try-great-new-menu-at-raggio-di-sole-pizzas-3/",
           "date": "2026-11-19T09:25:10+00:00",
           "publisher": "Inside Croydon"
-        },
-        {
-          "title": "St Augustine’s Church Christmas Fair, this Saturday, Nov 21",
-          "url": "https://insidecroydon.com/2026/11/18/st-augustines-church-christmas-fair-this-saturday-nov-21/",
-          "date": "2026-11-18T10:59:42+00:00",
-          "publisher": "Inside Croydon"
         }
       ]
     },
@@ -699,12 +700,6 @@
           "title": "New Addington launches crowdfunder to save their Carnival",
           "url": "https://insidecroydon.com/2026/11/24/new-addington-launches-crowdfunder-to-save-their-carnival/",
           "date": "2026-11-24T12:11:36+00:00",
-          "publisher": "Inside Croydon"
-        },
-        {
-          "title": "‘No Access Croydon’ sees Perry’s council dragged into court",
-          "url": "https://insidecroydon.com/2026/11/17/no-access-croydon-sees-perrys-council-dragged-into-court/",
-          "date": "2026-11-17T15:43:24+00:00",
           "publisher": "Inside Croydon"
         }
       ]
@@ -787,12 +782,6 @@
           "title": "A pothole after width restriction, 2nd November",
           "url": "https://www.fixmystreet.com/report/10320761",
           "date": "2026-11-02T19:42:30+00:00",
-          "category": null
-        },
-        {
-          "title": "10 to 20 dog turds in alleyway, 27th October",
-          "url": "https://www.fixmystreet.com/report/10289823",
-          "date": "2026-10-27T07:43:59+00:00",
           "category": null
         }
       ],
