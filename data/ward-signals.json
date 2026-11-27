@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-27T06:20:31.154741+00:00",
+    "generated_at": "2026-11-27T12:18:34.177301+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -242,6 +242,12 @@
       "reddit": [],
       "news": [
         {
+          "title": "Residents’ association close to closing for lack of volunteers",
+          "url": "https://insidecroydon.com/2026/11/27/residents-association-close-to-closing-for-lack-of-volunteers/",
+          "date": "2026-11-27T11:22:03+00:00",
+          "publisher": "Inside Croydon"
+        },
+        {
           "title": "Kenley community Carol Concert, Wattenden Arms, Tue Dec 22",
           "url": "https://insidecroydon.com/2026/11/24/kenley-community-carol-concert-wattenden-arms-tue-dec-22/",
           "date": "2026-11-24T10:02:55+00:00",
@@ -422,7 +428,14 @@
         }
       ],
       "reddit": [],
-      "news": []
+      "news": [
+        {
+          "title": "Residents’ association close to closing for lack of volunteers",
+          "url": "https://insidecroydon.com/2026/11/27/residents-association-close-to-closing-for-lack-of-volunteers/",
+          "date": "2026-11-27T11:22:03+00:00",
+          "publisher": "Inside Croydon"
+        }
+      ]
     },
     "Park Hill and Whitgift": {
       "fixmystreet": [
@@ -485,12 +498,6 @@
           "title": "Extremely Dangerous Low Trees, 5th November",
           "url": "https://www.fixmystreet.com/report/10331353",
           "date": "2026-11-05T07:06:51+00:00",
-          "category": null
-        },
-        {
-          "title": "Roadworks abandoned, 28th October",
-          "url": "https://www.fixmystreet.com/report/10296431",
-          "date": "2026-10-28T10:27:46+00:00",
           "category": null
         }
       ],
@@ -689,14 +696,7 @@
         }
       ],
       "reddit": [],
-      "news": [
-        {
-          "title": "In crust we trust: try great new menu at Raggio di Sole pizzas",
-          "url": "https://insidecroydon.com/2026/11/19/in-crust-we-trust-try-great-new-menu-at-raggio-di-sole-pizzas-3/",
-          "date": "2026-11-19T09:25:10+00:00",
-          "publisher": "Inside Croydon"
-        }
-      ]
+      "news": []
     },
     "South Norwood": {
       "fixmystreet": [],
