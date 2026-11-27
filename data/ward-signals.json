@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-26T18:15:15.683098+00:00",
+    "generated_at": "2026-11-27T00:29:18.105395+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -712,6 +712,12 @@
     },
     "Thornton Heath": {
       "fixmystreet": [
+        {
+          "title": "Old fridge dumped on footpath, 26th November",
+          "url": "https://www.fixmystreet.com/report/10423724",
+          "date": "2026-11-26T22:21:17+00:00",
+          "category": null
+        },
         {
           "title": "Fox, 16th November",
           "url": "https://www.fixmystreet.com/report/10378324",
