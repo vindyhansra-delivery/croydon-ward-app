@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-28T06:19:08.966753+00:00",
+    "generated_at": "2026-11-28T12:16:03.830519+00:00",
     "version": 1,
     "schema": "ward-signals-v1",
     "sources": [
@@ -633,12 +633,6 @@
           "url": "https://www.fixmystreet.com/report/10306642",
           "date": "2026-10-30T09:57:00+00:00",
           "category": null
-        },
-        {
-          "title": "Holes in road, 29th October",
-          "url": "https://www.fixmystreet.com/report/10301042",
-          "date": "2026-10-29T08:19:11+00:00",
-          "category": null
         }
       ],
       "reddit": [],
@@ -674,12 +668,6 @@
           "title": "Box of used gas canisters left in gutter, 16th November",
           "url": "https://www.fixmystreet.com/report/10375156",
           "date": "2026-11-16T09:42:26+00:00",
-          "category": null
-        },
-        {
-          "title": "Gcm743 remains on the road in a delapidated condition, 29th October",
-          "url": "https://www.fixmystreet.com/report/10302570",
-          "date": "2026-10-29T11:35:39+00:00",
           "category": null
         }
       ],
@@ -728,12 +716,6 @@
           "title": "Tight turn four buses, 10th November",
           "url": "https://www.fixmystreet.com/report/10351832",
           "date": "2026-11-10T10:33:06+00:00",
-          "category": null
-        },
-        {
-          "title": "Road floods when raining, 29th October",
-          "url": "https://www.fixmystreet.com/report/10301319",
-          "date": "2026-10-29T09:05:33+00:00",
           "category": null
         }
       ],
